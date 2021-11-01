@@ -8,7 +8,7 @@ __all__ = [
     'MIN_VERSION',
     'FORMATTED_FILEPATH',
     'TEMPLATE_FILEPATH',
-    'BLOCKLIST'
+    'BLOCKLIST',
 ]
 
 
