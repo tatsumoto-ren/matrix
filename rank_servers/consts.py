@@ -28,6 +28,9 @@ JSON_FILEPATH = os.path.join(__d, 'servers.json')
 RESULT_FILEPATH = os.path.join(__d, 'result.tsv')
 FORMATTED_FILEPATH = os.path.join(__d, 'formatted.html')
 TEMPLATE_FILEPATH = os.path.join(__d, 'template.html')
-MIN_VERSION = 40
+try:
+    MIN_VERSION = int(os.getenv('LATEST_SYNAPSE')) - 1
+except TypeError:
+    MIN_VERSION = 45
 with open(os.path.join(__d, 'blocklist.json')) as f:
     BLOCKLIST = [server['name'] for server in json.load(f)]
