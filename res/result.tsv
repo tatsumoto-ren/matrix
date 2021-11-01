@@ -1,4 +1,5 @@
 neko.dev	1.46.0rc1	neko.dev		
+matrix.cfx.re	1.46.0rc1	matrix.cfx.re	United States of America	🇺🇸
 matrix.neko.dev	1.46.0rc1	matrix.neko.dev	Finland	🇫🇮
 52k.de	1.45.1	52k.de	Germany	🇩🇪
 stop.pe	1.45.1	stop.pe	Germany	🇩🇪
@@ -14,12 +15,14 @@ envs.net	1.45.1	envs.net	Germany	🇩🇪
 causa.li	1.45.1	causa.li	Canada	🇨🇦
 sgstbr.de	1.45.1	sgstbr.de	Germany	🇩🇪
 mephis.to	1.45.1	mephis.to	Germany	🇩🇪
+m.wfr.moe	1.45.1	m.wfr.moe	Austria	🇦🇹
 im.f3l.de	1.45.1	im.f3l.de	Germany	🇩🇪
 bau-ha.us	1.45.0	bau-ha.us		
 3000.chat	1.45.1	3000.chat	Finland	🇫🇮
 nitro.chat	1.45.1	nitro.chat	Germany	🇩🇪
 lostpod.me	1.45.1	lostpod.me	France	🇫🇷
 lomnik.net	1.45.1	lomnik.net	Germany	🇩🇪
+dalek.zone	1.45.1	dalek.zone	Germany	🇩🇪
 tpurist.com	1.45.1	tpurist.com	United States of America	🇺🇸
 spodeli.org	1.45.1	spodeli.org	United States of America	🇺🇸
 piscaer.com	1.45.1	piscaer.com	Germany	🇩🇪
@@ -39,7 +42,6 @@ matrix.lrn.fm	1.45.1	matrix.lrn.fm	Canada	🇨🇦
 m.deadcrab.de	1.45.1	m.deadcrab.de	Germany	🇩🇪
 juniorjpdj.pl	1.45.1	juniorjpdj.pl	Poland	🇵🇱
 hope.ems.host	1.45.1	hope.ems.host	United States of America	🇺🇸
-das-labor.org	1.45.0	das-labor.org	Germany	🇩🇪
 chat.filik.eu	1.45.1	chat.filik.eu	Czechia	🇨🇿
 therealblue.de	1.45.0	therealblue.de	Germany	🇩🇪
 matrix.phcn.de	1.45.1	matrix.phcn.de	Netherlands	🇳🇱
@@ -102,7 +104,7 @@ matrix.netcavy.net	1.45.1	matrix.netcavy.net	Australia	🇦🇺
 matrix.ibsgaard.io	1.45.1	matrix.ibsgaard.io	United States of America	🇺🇸
 matrix.epactive.de	1.45.1	matrix.epactive.de	Germany	🇩🇪
 matrix.dabbill.com	1.45.1	matrix.dabbill.com	United States of America	🇺🇸
-matrix.cybre.space	1.45.1	matrix.cybre.space	Germany	🇩🇪
+matrix.cybre.space	1.45.1	matrix.cybre.space		
 chat.joinpoint.org	1.45.1	chat.joinpoint.org	Germany	🇩🇪
 the-apothecary.club	1.45.0	the-apothecary.club	Germany	🇩🇪
 synapse.malooma.bzh	1.45.1	synapse.malooma.bzh	France	🇫🇷
@@ -145,7 +147,7 @@ matrix.pancrypticon.net	1.45.1	matrix.pancrypticon.net	United States of America	
 matrix.mycloudservice.eu	1.45.1	matrix.mycloudservice.eu	Germany	🇩🇪
 matrix.livforthebaud.net	1.45.1	matrix.livforthebaud.net	United States of America	🇺🇸
 matrix.gears-gadgets.com	1.45.1	matrix.gears-gadgets.com	United States of America	🇺🇸
-matrix.banfieldzanin.com	1.45.1	matrix.banfieldzanin.com	United Kingdom	🇬🇧
+matrix.banfieldzanin.com	1.45.1	matrix.banfieldzanin.com		
 matrix.zahlenlabyrinth.de	1.45.1	matrix.zahlenlabyrinth.de	Germany	🇩🇪
 matrix.neuland.technology	1.45.1	matrix.neuland.technology	Germany	🇩🇪
 synapse.oblivioncoding.pro	1.45.1	synapse.oblivioncoding.pro	United States of America	🇺🇸
@@ -165,13 +167,13 @@ priv8.chat	1.44.0	priv8.chat	France	🇫🇷
 mx.aire.ml	1.44.0	mx.aire.ml	Netherlands	🇳🇱
 skylar.tech	1.44.0	skylar.tech	United States of America	🇺🇸
 im.tnode.eu	1.44.0	im.tnode.eu	Canada	🇨🇦
+geese.party	1.44.0	geese.party	Denmark	🇩🇰
 boritsch.de	1.44.0	boritsch.de	Germany	🇩🇪
 converser.eu	1.44.0	converser.eu	France	🇫🇷
 zettabomb.com	1.44.0	zettabomb.com		
 tricuties.com	1.44.0	tricuties.com	United States of America	🇺🇸
 rickelobe.com	1.44.0	rickelobe.com	United States of America	🇺🇸
 qubesos.rocks	1.44.0	qubesos.rocks	Australia	🇦🇺
-matrix.cfx.re	1.44.0	matrix.cfx.re	United States of America	🇺🇸
 im.su.cvut.cz	1.44.0	im.su.cvut.cz	Czechia	🇨🇿
 pirateriot.net	1.44.0	pirateriot.net	Germany	🇩🇪
 matrix.kjoe.ml	1.44.0	matrix.kjoe.ml	Germany	🇩🇪
@@ -197,6 +199,7 @@ matrix.opencloud.lu	1.44.0	matrix.opencloud.lu	Luxembourg	🇱🇺
 matrix.foxears.life	1.44.0	matrix.foxears.life	Germany	🇩🇪
 chat.geekforbes.com	1.44.0	chat.geekforbes.com	Canada	🇨🇦
 matrix.sealbaker.com	1.44.0	matrix.sealbaker.com		
+matrix.michaelpj.com	1.44.0	matrix.michaelpj.com	United Kingdom	🇬🇧
 matrix.lemarchand.io	1.44.0	matrix.lemarchand.io	France	🇫🇷
 matrix.kitzberger.at	1.44.0	matrix.kitzberger.at	Austria	🇦🇹
 matrix.greensteps.cn	1.44.0	matrix.greensteps.cn	Czechia	🇨🇿
