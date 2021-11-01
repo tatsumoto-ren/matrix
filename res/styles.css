@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    color: #222;
+    background-color: #e1e1e1;
+}
+
+header {
+    color: white;
+    background-color: #333;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header p {
+    margin: 0 1rem;
+    font-weight: bold;
+    line-height: 1;
+    overflow-x: hidden;
+}
+@media screen and (min-width: 420px) {
+    header p {
+        font-size: 24px;
+    }
+}
+
+header a,
+header a:visited {
+    display: block;
+    padding: 0 1rem;
+    line-height: 52px;
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.1s background-color ease;
+}
+header a:hover,
+header a:active {
+    background-color: #71bb47;
+}
+
+img {
+    max-width: calc(100% - 10px);
+    height: auto;
+}
+
+.container {
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column wrap;
+    align-content: stretch;
+    padding: 10px;
+    gap: 10px;
+    max-width: 1000px;
+}
+article {
+    border-radius: 5px;
+    color: black;
+    max-width: 100%;
+    padding: 1rem;
+    background-color: white;
+}
+
+article h1 {
+    margin: 0;
+}
+
+img.screenshot {
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px #999;
+}
+
+article,
+details,
+header {
+    box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4);
+}
+
+details {
+    min-width: 50%;
+    max-width: 100%;
+    margin: 0 auto;
+    margin-bottom: 0.5rem;
+    border-radius: 5px;
+    color: white;
+    overflow: hidden;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+details > .info {
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    display: grid;
+    grid-template-columns: minmax(max-content, 33%) 1fr;
+    gap: 1rem;
+}
+
+summary {
+    padding: 1rem;
+    display: block;
+    background: #333;
+    padding-left: 2.2rem;
+    position: relative;
+    cursor: pointer;
+}
+
+summary:before {
+    display: block;
+    content: "";
+    border-width: 0.4rem;
+    border-style: solid;
+    border-color: transparent transparent transparent #fff;
+    position: absolute;
+    top: 1.4rem;
+    left: 1rem;
+    transform: rotate(0);
+    transform-origin: 0.2rem 50%;
+    transition: 0.25s transform ease;
+}
+
+details[open] > summary:before {
+    transform: rotate(90deg);
+}
+
+details summary::-webkit-details-marker {
+    display: none;
+}
