@@ -16,8 +16,8 @@ sgstbr.de	1.45.1	sgstbr.de	Germany	🇩🇪
 mephis.to	1.45.1	mephis.to	Germany	🇩🇪
 m.wfr.moe	1.45.1	m.wfr.moe	Austria	🇦🇹
 im.f3l.de	1.45.1	im.f3l.de	Germany	🇩🇪
-bau-ha.us	1.45.0	bau-ha.us:8448		
 bau-ha.us	1.45.0	bau-ha.us	Germany	🇩🇪
+bau-ha.us	1.45.0	bau-ha.us:8448		
 3000.chat	1.45.1	3000.chat	Finland	🇫🇮
 nitro.chat	1.45.1	nitro.chat	Germany	🇩🇪
 lostpod.me	1.45.1	lostpod.me	France	🇫🇷
@@ -83,8 +83,8 @@ matrix.wvffle.net	1.45.1	matrix.wvffle.net	Poland	🇵🇱
 matrix.vasbud.fun	1.45.1	matrix.vasbud.fun	Canada	🇨🇦
 matrix.utwente.io	1.45.1	matrix.utwente.io	Netherlands	🇳🇱
 matrix.troplo.com	1.45.1	matrix.troplo.com	Australia	🇦🇺
-matrix.tomesh.net	1.45.1	matrix.tomesh.net	United States of America	🇺🇸
 matrix.tomesh.net	1.45.1	matrix.tomesh.net:8448		
+matrix.tomesh.net	1.45.1	matrix.tomesh.net	United States of America	🇺🇸
 matrix.thiesyy.de	1.45.1	matrix.thiesyy.de	Austria	🇦🇹
 matrix.sibnsk.net	1.45.1	matrix.sibnsk.net:8448		
 matrix.sibnsk.net	1.45.1	matrix.sibnsk.net	Germany	🇩🇪
@@ -97,6 +97,7 @@ spiff.plootarg.net	1.45.1	spiff.plootarg.net	France	🇫🇷
 panthermoderns.org	1.45.1	panthermoderns.org	Germany	🇩🇪
 matrix.tpurist.com	1.45.1	matrix.tpurist.com	United States of America	🇺🇸
 matrix.tmiland.com	1.45.1	matrix.tmiland.com	Netherlands	🇳🇱
+matrix.st0rm.cloud	1.45.1	matrix.st0rm.cloud	Germany	🇩🇪
 matrix.sp-codes.de	1.45.1	matrix.sp-codes.de	Germany	🇩🇪
 matrix.riotcat.org	1.45.1	matrix.riotcat.org	Germany	🇩🇪
 matrix.piscaer.com	1.45.1	matrix.piscaer.com	Germany	🇩🇪
@@ -200,8 +201,8 @@ matrix.boritsch.de	1.44.0	matrix.boritsch.de	Germany	🇩🇪
 chat.mailbucket.eu	1.44.0	chat.mailbucket.eu	Germany	🇩🇪
 synapse.vpzom.click	1.44.0	synapse.vpzom.click	Finland	🇫🇮
 synapse.dst.fjit.no	1.44.0	synapse.dst.fjit.no	Norway	🇳🇴
-matrix.taskname.com	1.44.0	matrix.taskname.com:8448		
 matrix.taskname.com	1.44.0	matrix.taskname.com	United States of America	🇺🇸
+matrix.taskname.com	1.44.0	matrix.taskname.com:8448		
 matrix.schleiser.de	1.44.0	matrix.schleiser.de	France	🇫🇷
 matrix.opencloud.lu	1.44.0	matrix.opencloud.lu	Luxembourg	🇱🇺
 matrix.foxears.life	1.44.0	matrix.foxears.life	Germany	🇩🇪
@@ -218,7 +219,6 @@ matrix.ombreport.info	1.44.0	matrix.ombreport.info	France	🇫🇷
 matrix.lesbian.energy	1.44.0	matrix.lesbian.energy	United States of America	🇺🇸
 synapse.duncanturk.com	1.44.0	synapse.duncanturk.com	Germany	🇩🇪
 matrix.web3.foundation	1.44.0	matrix.web3.foundation	Germany	🇩🇪
-matrix.planetdecred.org	1.44.0	matrix.planetdecred.org	United States of America	🇺🇸
 matrix.planetdecred.org	1.44.0	matrix.planetdecred.org:8448		
 matrix.arya.dogcraft.de	1.44.0	matrix.arya.dogcraft.de	Germany	🇩🇪
 matrix.arya.dogcraft.de	1.44.0	matrix.arya.dogcraft.de:8448		

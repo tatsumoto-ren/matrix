@@ -46,4 +46,18 @@
     </div>
 </body>
 
+<script>
+    function select_text(element) {
+        element.focus();
+        element.select();
+    }
+    window.addEventListener('DOMContentLoaded', (event) => {
+        for (const input of document.querySelectorAll('input[type="text"]')) {
+            input.onclick = () => {
+                select_text(input)
+            }
+        }
+    });
+</script>
+
 </html>

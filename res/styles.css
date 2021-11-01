@@ -108,8 +108,13 @@ details > .info {
     color: black;
     padding: 1rem;
     display: grid;
+    align-items: center;
     grid-template-columns: minmax(max-content, 33%) 1fr;
-    gap: 1rem;
+    gap: 0.5rem;
+}
+
+details > .info > * {
+    line-height: 33px;
 }
 
 summary {
@@ -141,4 +146,23 @@ details[open] > summary:before {
 
 details summary::-webkit-details-marker {
     display: none;
+}
+
+input[type="text"] {
+    position: relative;
+    left: -5px;
+    font-size: inherit;
+    width: 100%;
+    padding: 4px;
+    margin: 0;
+    box-sizing: border-box;
+    border: 1px solid #222;
+    color: #222;
+    border-radius: 2px;
+    background-color: #f1f1f1;
+}
+
+input[type="text"]:focus {
+    border: 1px solid #48772d;
+    outline: none;
 }
