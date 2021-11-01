@@ -1,6 +1,15 @@
+import json
 import os
 
-__all__ = ['URL', 'JSON_FILEPATH', 'RESULT_FILEPATH', 'MIN_VERSION', 'FORMATTED_FILEPATH', 'TEMPLATE_FILEPATH']
+__all__ = [
+    'URL',
+    'JSON_FILEPATH',
+    'RESULT_FILEPATH',
+    'MIN_VERSION',
+    'FORMATTED_FILEPATH',
+    'TEMPLATE_FILEPATH',
+    'BLOCKLIST'
+]
 
 
 def data_dir() -> str:
@@ -20,3 +29,5 @@ RESULT_FILEPATH = os.path.join(__d, 'result.tsv')
 FORMATTED_FILEPATH = os.path.join(__d, 'formatted.html')
 TEMPLATE_FILEPATH = os.path.join(__d, 'template.html')
 MIN_VERSION = 40
+with open(os.path.join(__d, 'blocklist.json')) as f:
+    BLOCKLIST = [server['name'] for server in json.load(f)]

@@ -20,6 +20,7 @@ def filter_node(node: Node) -> bool:
         node['version'].startswith('1.'),
         node['openSignups'] is True,
         node['norm_version'] >= MIN_VERSION,
+        node['name'] not in BLOCKLIST,
     ))
 
 
