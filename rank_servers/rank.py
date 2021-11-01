@@ -15,12 +15,19 @@ except ImportError:
 Node = NewType('Node', dict[str, Any])
 
 
+def blocklisted(node_name: str) -> bool:
+    for pattern in BLOCKLIST:
+        if re.match(pattern, node_name):
+            return True
+    return False
+
+
 def filter_node(node: Node) -> bool:
     return all((
         node['version'].startswith('1.'),
         node['openSignups'] is True,
         node['norm_version'] >= MIN_VERSION,
-        node['name'] not in BLOCKLIST,
+        not blocklisted(node['name']),
     ))
 
 

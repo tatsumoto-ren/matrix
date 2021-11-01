@@ -6,5 +6,9 @@
   {
     "name": "tchncs.de",
     "reason": "absurdly strict moderation"
+  },
+  {
+    "name": "*modular.im",
+    "reason": "affiliated with matrix.org"
   }
 ]

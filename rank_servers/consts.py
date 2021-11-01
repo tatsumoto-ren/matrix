@@ -33,4 +33,4 @@ try:
 except TypeError:
     MIN_VERSION = 45
 with open(os.path.join(__d, 'blocklist.json')) as f:
-    BLOCKLIST = [server['name'] for server in json.load(f)]
+    BLOCKLIST = [server['name'].replace('.', r'\.').replace('*', '.*') for server in json.load(f)]
