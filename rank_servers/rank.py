@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+import functools
 import json
 import os
 import re
@@ -13,6 +13,7 @@ except ImportError:
     from consts import *
 
 Node = NewType('Node', dict[str, Any])
+rm_port = functools.partial(re.sub, r':\d+$', '', )
 
 
 def blocklisted(node_name: str) -> bool:
@@ -39,17 +40,20 @@ def sorting_tuple(node: Node) -> tuple[int, int, str]:
     )
 
 
-def fix_format(nodes):
+def fix_format(nodes: list[Node]) -> dict[str, Node]:
+    reformatted = {}
     for node in nodes:
-        node['name'] = re.sub(r':\d+$', '', node['name'])
+        node['name'] = rm_port(node['name'])
+        node['host'] = rm_port(node['host'])
         try:
             node['norm_version'] = float(re.match(r"^\d+\.(\d+)\.", node['version']).group(1))
         except AttributeError:
             node['norm_version'] = 0
+        reformatted[node['name']] = node
+    return reformatted
 
 
 def sort_servers(nodes: list[Node]):
-    fix_format(nodes)
     nodes = sorted(
         filter(filter_node, nodes),
         key=lambda node: sorting_tuple(node),
@@ -77,7 +81,9 @@ def rank_servers():
         with open(JSON_FILEPATH, 'w') as of:
             json.dump(json.loads(result.content), of, indent=4)
     with open(JSON_FILEPATH, 'r') as f:
-        nodes: list[Node] = json.load(f)['data']['nodes']
+        nodes = json.load(f)['data']['nodes']
+
+    nodes = list(fix_format(nodes).values())
 
     sort_servers(nodes)
 
