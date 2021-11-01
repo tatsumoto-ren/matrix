@@ -46,7 +46,8 @@ def fix_format(nodes: list[Node]) -> dict[str, Node]:
         node['name'] = rm_port(node['name'])
         node['host'] = rm_port(node['host'])
         try:
-            node['norm_version'] = float(re.match(r"^\d+\.(\d+)\.", node['version']).group(1))
+            node['version'] = re.match(r'^\d+\.\d+\.[\d\w]*', node['version']).group()
+            node['norm_version'] = float(re.match(r'^\d+\.(\d+)\.', node['version']).group(1))
         except AttributeError:
             node['norm_version'] = 0
         reformatted[node['name']] = node
@@ -63,7 +64,7 @@ def sort_servers(nodes: list[Node]):
         for item in nodes:
             print(
                 item['name'],
-                re.match(r'\d+\.\d+\.[\d\w]*', item['version']).group(),
+                item['version'],
                 item['host'],
                 item['countryName'],
                 item['countryFlag'],
