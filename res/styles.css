@@ -22,26 +22,32 @@ header {
     height: 52px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: start;
 }
-header p {
-    margin: 0 1rem;
+header > h1 {
+    font-size: 1rem;
+    margin: 0 0.5rem;
     font-weight: bold;
     line-height: 1;
-    overflow-x: hidden;
+    overflow: hidden;
+    flex: 1 1 auto;
 }
-@media screen and (min-width: 420px) {
-    header p {
-        font-size: 24px;
+header > img[alt="Element"] {
+    height: calc(100% - 4px);
+    margin: 0 0 0 2px;
+    filter: grayscale(100%) contrast(1000%);
+}
+@media screen and (min-width: 480px) {
+    header > h1 {
+        font-size: 1.5rem;
     }
 }
 
 header a,
 header a:visited {
     display: block;
-    padding: 0 1rem;
+    padding: 0 0.5rem;
     line-height: 52px;
-    background-color: #4caf50;
     border: none;
     color: white;
     text-align: center;
@@ -51,7 +57,16 @@ header a:visited {
 }
 header a:hover,
 header a:active {
+    background-color: #555;
+}
+header a.return,
+header a.return:visited {
+    background-color: #4caf50;
+}
+header a.return:hover,
+header a.return:active {
     background-color: #71bb47;
+    color: white;
 }
 
 img {

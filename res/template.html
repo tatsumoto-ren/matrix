@@ -10,8 +10,9 @@
 
 <body>
     <header>
-        <p>Ranked matrix servers</p>
-        <a href="../">Return</a>
+        <img alt="Element" src="https://swiso.org/use/matrix/icon.svg">
+        <h1>Ranked Matrix servers</h1>
+        <a class="return" href="../">Return</a>
     </header>
     <div class="container">
         <article>
@@ -51,12 +52,28 @@
         element.focus();
         element.select();
     }
+
+    function toggle_expand_all() {
+        for (const details of document.querySelectorAll('.servers > details.entry')) {
+            details.toggleAttribute('open');
+        }
+    }
+
+    function create_expand_all_link() {
+        const a = document.createElement("a")
+        a.href = "javascript:toggle_expand_all();"
+        a.innerText = "Expand"
+        return a
+    }
+
     window.addEventListener('DOMContentLoaded', (event) => {
         for (const input of document.querySelectorAll('input[type="text"]')) {
             input.onclick = () => {
                 select_text(input)
             }
         }
+        const home_link = document.querySelector('header > a.return')
+        home_link.parentNode.insertBefore(create_expand_all_link(), home_link);
     });
 </script>
 
