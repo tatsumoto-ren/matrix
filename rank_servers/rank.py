@@ -31,10 +31,11 @@ def filter_node(node: Node) -> bool:
     ))
 
 
-def sorting_tuple(node: Node) -> tuple[int, int]:
+def sorting_tuple(node: Node) -> tuple[int, int, str]:
     return (
-        -node['norm_version'],
-        len(node['name']),
+        node['norm_version'],
+        -len(node['name']),
+        node['name'],
     )
 
 
@@ -52,6 +53,7 @@ def sort_servers(nodes: list[Node]):
     nodes = sorted(
         filter(filter_node, nodes),
         key=lambda node: sorting_tuple(node),
+        reverse=True
     )
     with open(RESULT_FILEPATH, 'w') as of:
         for item in nodes:
