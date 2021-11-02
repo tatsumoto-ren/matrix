@@ -50,7 +50,13 @@ def fix_format(nodes: list[Node]) -> dict[str, Node]:
             node['norm_version'] = float(re.match(r'^\d+\.(\d+)\.', node['version']).group(1))
         except AttributeError:
             node['norm_version'] = 0
-        reformatted[node['name']] = node
+
+        try:
+            for key, value in reformatted[node['name']].items():
+                reformatted[node['name']][key] = node[key] or value
+        except KeyError:
+            reformatted[node['name']] = node
+
     return reformatted
 
 
