@@ -9,11 +9,22 @@ body {
 
 body {
     font-size: 16px;
-    font-family: sans-serif;
+    font-family: "Noto Sans", "Droid Sans", Roboto, Cantarell, "Segoe UI", Arial, Meiryo, Oxygen, Ubuntu,
+        "Helvetica Neue", Helvetica, "Noto Color Emoji", sans-serif;
     line-height: 1.5;
     letter-spacing: 1px;
     color: #222;
     background-color: #e1e1e1;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+    color: #3d9141;
+}
+a:hover,
+a:active {
+    text-decoration: underline;
 }
 
 header {
@@ -31,15 +42,16 @@ header > h1 {
     line-height: 1;
     overflow: hidden;
     flex: 1 1 auto;
+    text-align: center;
 }
 header > img[alt="Element"] {
     height: calc(100% - 4px);
     margin: 0 0 0 2px;
     filter: grayscale(100%) contrast(1000%);
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 520px) {
     header > h1 {
-        font-size: 1.5rem;
+        text-align: left;
     }
 }
 
@@ -57,6 +69,7 @@ header a:visited {
 }
 header a:hover,
 header a:active {
+    text-decoration: none;
     background-color: #555;
 }
 header a.return,
@@ -76,17 +89,12 @@ img {
 
 .container {
     margin: 0 auto;
-    display: flex;
-    flex-flow: column wrap;
-    align-content: stretch;
     padding: 10px;
-    gap: 10px;
     max-width: 1000px;
 }
+
 article {
-    border-radius: 5px;
     color: black;
-    max-width: 100%;
     padding: 1rem;
     background-color: white;
 }
@@ -100,17 +108,14 @@ img.screenshot {
     box-shadow: 2px 2px 3px #999;
 }
 
-article,
 details,
 header {
     box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4);
 }
 
 details {
-    min-width: 50%;
-    max-width: 100%;
-    margin: 0 auto;
-    margin-bottom: 0.5rem;
+    display: block;
+    margin: 0 auto 0.5rem;
     border-radius: 5px;
     color: white;
     overflow: hidden;
@@ -139,6 +144,11 @@ summary {
     padding-left: 2.2rem;
     position: relative;
     cursor: pointer;
+    transition: 0.1s background-color ease;
+}
+
+summary:hover {
+    background-color: #444;
 }
 
 summary:before {
@@ -161,6 +171,15 @@ details[open] > summary:before {
 
 details summary::-webkit-details-marker {
     display: none;
+}
+details.howto {
+    word-break: normal;
+}
+details.howto > summary {
+    background-color: #4caf50;
+}
+details.howto > summary:hover {
+    background-color: #71bb47;
 }
 
 input[type="text"] {
