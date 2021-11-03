@@ -10,5 +10,9 @@
   {
     "name": "*modular.im",
     "reason": "affiliated with matrix.org"
+  },
+  {
+    "name": "*asra.gr",
+    "reason": "has a history of account purges"
   }
 ]
