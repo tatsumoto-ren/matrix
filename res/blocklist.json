@@ -8,11 +8,15 @@
     "reason": "absurdly strict moderation"
   },
   {
-    "name": "*modular.im",
+    "name": "*.modular.im",
     "reason": "affiliated with matrix.org"
   },
   {
-    "name": "*asra.gr",
+    "name": "*.asra.gr",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.envs.net",
+    "reason": "totalitarian terms of service"
   }
 ]
