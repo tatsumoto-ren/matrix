@@ -103,6 +103,11 @@ article h1 {
     margin: 0;
 }
 
+article ul,
+article ol {
+    padding-left: 2em;
+}
+
 img.screenshot {
     border-radius: 5px;
     box-shadow: 2px 2px 3px #999;
@@ -199,4 +204,10 @@ input[type="text"] {
 input[type="text"]:focus {
     border: 1px solid #48772d;
     outline: none;
+}
+
+footer {
+    background-color: #fefefe;
+    text-align: center;
+    padding: 14px 0;
 }
