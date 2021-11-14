@@ -47,5 +47,5 @@ BLOCKLIST = construct_blocklist()
 
 try:
     MIN_VERSION = int(os.getenv('LATEST_SYNAPSE')) - 1
-except TypeError:
+except (TypeError, ValueError):
     MIN_VERSION = 45
