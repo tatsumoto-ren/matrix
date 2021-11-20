@@ -18,5 +18,9 @@
   {
     "name": "*.envs.net",
     "reason": "totalitarian terms of service"
+  },
+  {
+    "name": "x0.chat",
+    "reason": "admin prevents users from publishing their rooms. this is bizzare."
   }
 ]
