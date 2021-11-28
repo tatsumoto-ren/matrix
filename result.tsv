@@ -9,11 +9,11 @@ zinz.dev	1.47.1	zinz.dev	France	🇫🇷
 toldi.eu	1.47.1	toldi.eu	Hungary	🇭🇺
 synod.im	1.47.1	synod.im	Germany	🇩🇪
 neko.dev	1.47.1	neko.dev		
+midov.pl	1.47.0	midov.pl	Poland	🇵🇱
 causa.li	1.47.0	causa.li	Canada	🇨🇦
 sgstbr.de	1.47.1	sgstbr.de	Germany	🇩🇪
 saytar.me	1.47.0	saytar.me	United States of America	🇺🇸
 okaris.de	1.47.1	okaris.de	Germany	🇩🇪
-mgp.ax.lt	1.47.0	mgp.ax.lt	Germany	🇩🇪
 mephis.to	1.47.1	mephis.to	Germany	🇩🇪
 im.f3l.de	1.47.1	im.f3l.de	Germany	🇩🇪
 faelix.im	1.47.1	faelix.im	Switzerland	🇨🇭
@@ -42,6 +42,7 @@ settgast.org	1.47.1	settgast.org	Germany	🇩🇪
 halogen.city	1.47.1	halogen.city	United States of America	🇺🇸
 guy.ems.host	1.47.1	guy.ems.host	Germany	🇩🇪
 foobar.style	1.47.1	foobar.style	United States of America	🇺🇸
+converser.eu	1.47.1	converser.eu	France	🇫🇷
 calcuode.com	1.47.1	calcuode.com		
 aria-net.org	1.47.1	aria-net.org	Italy	🇮🇹
 yuuko.smar.fi	1.47.1	yuuko.smar.fi	Finland	🇫🇮
@@ -67,7 +68,6 @@ matrix.kjoe.ml	1.47.0	matrix.kjoe.ml	Germany	🇩🇪
 matrix.dhp.com	1.47.1	matrix.dhp.com	United States of America	🇺🇸
 matrix.comm.cx	1.47.1	matrix.comm.cx	United States of America	🇺🇸
 matrix.bits.at	1.47.1	matrix.bits.at	Germany	🇩🇪
-mailstation.de	1.47.1	mailstation.de	Germany	🇩🇪
 ggc-project.de	1.47.1	ggc-project.de	Germany	🇩🇪
 riot.ramrod.top	1.47.1	riot.ramrod.top	United States of America	🇺🇸
 matrix.tele2.ee	1.47.1	matrix.tele2.ee		
@@ -94,6 +94,7 @@ matrix.dapor.net	1.47.1	matrix.dapor.net	Germany	🇩🇪
 matrix.complb.de	1.47.1	matrix.complb.de	Germany	🇩🇪
 matrix.bda.space	1.47.1	matrix.bda.space	United States of America	🇺🇸
 matrix.base8.org	1.47.0	matrix.base8.org	United States of America	🇺🇸
+matrix.asger.xyz	1.47.1	matrix.asger.xyz	Australia	🇦🇺
 chat.twomoons.de	1.47.1	chat.twomoons.de	Germany	🇩🇪
 synapse.matoro.tk	1.47.1	synapse.matoro.tk	United States of America	🇺🇸
 synapse.chefst.de	1.47.1	synapse.chefst.de	Germany	🇩🇪
@@ -108,6 +109,7 @@ matrix.thiesyy.de	1.47.0	matrix.thiesyy.de	Austria	🇦🇹
 matrix.talos.chat	1.47.1	matrix.talos.chat	Czechia	🇨🇿
 matrix.sibnsk.net	1.47.1	matrix.sibnsk.net	Germany	🇩🇪
 matrix.psytux.com	1.47.0	matrix.psytux.com	Switzerland	🇨🇭
+matrix.ideaweb.hu	1.47.1	matrix.ideaweb.hu	Germany	🇩🇪
 matrix.decred.org	1.47.1	matrix.decred.org	Netherlands	🇳🇱
 matrix.1312.media	1.47.1	matrix.1312.media	Netherlands	🇳🇱
 hive-mind.network	1.47.1	hive-mind.network	Seychelles	🇸🇨
@@ -122,7 +124,7 @@ matrix.riotcat.org	1.47.1	matrix.riotcat.org	Germany	🇩🇪
 matrix.piscaer.com	1.47.1	matrix.piscaer.com	Germany	🇩🇪
 matrix.nobelium.no	1.47.0	matrix.nobelium.no	Norway	🇳🇴
 matrix.ibsgaard.io	1.47.1	matrix.ibsgaard.io	United States of America	🇺🇸
-matrix.epactive.de	1.47.0	matrix.epactive.de	Germany	🇩🇪
+matrix.epactive.de	1.47.1	matrix.epactive.de	Germany	🇩🇪
 matrix.dabbill.com	1.47.1	matrix.dabbill.com	United States of America	🇺🇸
 the-apothecary.club	1.47.1	the-apothecary.club	Germany	🇩🇪
 synapse.dst.fjit.no	1.47.1	synapse.dst.fjit.no	Norway	🇳🇴
@@ -188,7 +190,6 @@ subak.club	1.46.0	subak.club	France	🇫🇷
 nexunity.org	1.46.0	nexunity.org	France	🇫🇷
 franssen.xyz	1.46.0	franssen.xyz	Finland	🇫🇮
 englersch.de	1.46.0	englersch.de	Germany	🇩🇪
-converser.eu	1.46.0	converser.eu	France	🇫🇷
 zettabomb.com	1.46.0	zettabomb.com		
 minasidor.com	1.46.0	minasidor.com		
 matrix.g24.at	1.46.0	matrix.g24.at	Austria	🇦🇹
@@ -209,7 +210,6 @@ matrix.jibby.org	1.46.0	matrix.jibby.org	United States of America	🇺🇸
 matrix.jhell.org	1.46.0	matrix.jhell.org	Germany	🇩🇪
 matrix.data.haus	1.46.0	matrix.data.haus	Germany	🇩🇪
 matrix.rice.id.au	1.46.0	matrix.rice.id.au		
-matrix.ideaweb.hu	1.46.0	matrix.ideaweb.hu	Germany	🇩🇪
 matrix.entr0py.de	1.46.0	matrix.entr0py.de	Germany	🇩🇪
 nuclearlimes.co.uk	1.46.0	nuclearlimes.co.uk	Germany	🇩🇪
 matrix.refchat.net	1.46.0	matrix.refchat.net	United States of America	🇺🇸
@@ -218,6 +218,7 @@ matrix.niklasfi.de	1.46.0	matrix.niklasfi.de	Germany	🇩🇪
 matrix.liberium.fr	1.46.0	matrix.liberium.fr	France	🇫🇷
 matrix.fjolstad.no	1.46.0	matrix.fjolstad.no	Norway	🇳🇴
 matrix.antopie.org	1.46.0	matrix.antopie.org	France	🇫🇷
+matrix.antonok.com	1.46.0	matrix.antonok.com		
 chat.mailbucket.eu	1.46.0	chat.mailbucket.eu	Germany	🇩🇪
 talk.mbit.ddnss.org	1.46.0	talk.mbit.ddnss.org	Germany	🇩🇪
 matrix.tschorne.net	1.46.0	matrix.tschorne.net	Germany	🇩🇪
