@@ -22,5 +22,13 @@
   {
     "name": "x0.chat",
     "reason": "admin prevents users from publishing their rooms. this is bizzare."
+  },
+  {
+    "name": "kuvio.de",
+    "reason": "has a history of account purges"
+  },
+  {
+    "name": "awau.uk",
+    "reason": "cloudflare"
   }
 ]
