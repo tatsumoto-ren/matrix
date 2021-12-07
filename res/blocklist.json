@@ -30,5 +30,9 @@
   {
     "name": "awau.uk",
     "reason": "cloudflare"
+  },
+  {
+    "name": "*.neko.dev",
+    "reason": "registration is closed"
   }
 ]
