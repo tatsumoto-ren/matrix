@@ -21,7 +21,7 @@
   },
   {
     "name": "x0.chat",
-    "reason": "admin prevents users from publishing their rooms. this is bizzare."
+    "reason": "admin prevents users from publishing their rooms"
   },
   {
     "name": "kuvio.de",
@@ -34,5 +34,13 @@
   {
     "name": "*.neko.dev",
     "reason": "registration is closed"
+  },
+  {
+    "name": "tusooa.xyz",
+    "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.msqu.de",
+    "reason": "has a history of room blocks"
   }
 ]
