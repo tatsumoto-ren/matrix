@@ -42,5 +42,9 @@
   {
     "name": "*.msqu.de",
     "reason": "has a history of room blocks"
+  },
+  {
+    "name": "*.stop.pe",
+    "reason": "internal server error when trying to register"
   }
 ]
