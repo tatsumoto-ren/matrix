@@ -1,5 +1,4 @@
 vgd.me	1.49.0	vgd.me	United States of America	🇺🇸
-poa.st	1.49.0	poa.st	United States of America	🇺🇸
 mtrx.nz	1.49.0	mtrx.nz	New Zealand	🇳🇿
 synod.im	1.49.0	synod.im	Germany	🇩🇪
 dermm.io	1.49.0	dermm.io	Germany	🇩🇪
@@ -31,6 +30,7 @@ chat.lutsi.fi	1.49.0	chat.lutsi.fi	Finland	🇫🇮
 chat.filik.eu	1.49.0	chat.filik.eu	Czechia	🇨🇿
 matrix.phcn.de	1.49.0	matrix.phcn.de	Netherlands	🇳🇱
 matrix.ohai.su	1.49.0	matrix.ohai.su	Germany	🇩🇪
+matrix.mvd.org	1.49.0	matrix.mvd.org	Austria	🇦🇹
 matrix.lion.fm	1.49.0	matrix.lion.fm	United States of America	🇺🇸
 matrix.dhp.com	1.49.0	matrix.dhp.com	United States of America	🇺🇸
 matrix.comm.cx	1.49.0	matrix.comm.cx	United States of America	🇺🇸
@@ -39,6 +39,7 @@ mailstation.de	1.49.0	mailstation.de	Germany	🇩🇪
 matrix.ohea.xyz	1.49.0	matrix.ohea.xyz	Canada	🇨🇦
 matrix.daspr.io	1.49.0	matrix.daspr.io	United States of America	🇺🇸
 chat.home55.net	1.49.0	chat.home55.net	Germany	🇩🇪
+plus-sensible.me	1.49.0	plus-sensible.me	France	🇫🇷
 matrix.sensin.eu	1.49.0	matrix.sensin.eu	Germany	🇩🇪
 matrix.nx-pod.de	1.49.0	matrix.nx-pod.de	Germany	🇩🇪
 matrix.nesven.eu	1.49.0	matrix.nesven.eu	Ireland	🇮🇪
@@ -75,6 +76,7 @@ matrix.underworld.fr	1.49.0	matrix.underworld.fr	France	🇫🇷
 matrix.kiwifarms.net	1.49.0	matrix.kiwifarms.net	Australia	🇦🇺
 matrix.kellnerweg.de	1.49.0	matrix.kellnerweg.de	Germany	🇩🇪
 matrix.fff.community	1.49.0	matrix.fff.community	Germany	🇩🇪
+matrix.danyocean.com	1.49.0	matrix.danyocean.com	France	🇫🇷
 matrix.chatcloud.net	1.49.0	matrix.chatcloud.net	Germany	🇩🇪
 chat.pforzelona.club	1.49.0	chat.pforzelona.club	Germany	🇩🇪
 synapse.schefczyk.net	1.49.0	synapse.schefczyk.net	Germany	🇩🇪
@@ -88,11 +90,13 @@ matrix.nrp-nautilus.io	1.49.0	matrix.nrp-nautilus.io	United States of America	�
 matrix.magnumchaos.org	1.49.0	matrix.magnumchaos.org	Germany	🇩🇪
 matrix.hiddenasian.dev	1.49.0	matrix.hiddenasian.dev	Germany	🇩🇪
 matrix.gemeinsam.jetzt	1.49.0	matrix.gemeinsam.jetzt	Austria	🇦🇹
+matrix.dubronetwork.fr	1.49.0	matrix.dubronetwork.fr		
 matrix.davidberthel.de	1.49.0	matrix.davidberthel.de	Germany	🇩🇪
 matrix.pancrypticon.net	1.49.0	matrix.pancrypticon.net	United States of America	🇺🇸
 matrix.arya.dogcraft.de	1.49.0	matrix.arya.dogcraft.de	Germany	🇩🇪
 matrix.banfieldzanin.com	1.49.0	matrix.banfieldzanin.com	United Kingdom	🇬🇧
 matrix.neuland.technology	1.49.0	matrix.neuland.technology	Germany	🇩🇪
+matrix.divided-by-zero.eu	1.49.0	matrix.divided-by-zero.eu	Germany	🇩🇪
 mux.re	1.48.0	mux.re	France	🇫🇷
 causa.li	1.48.0	causa.li	Canada	🇨🇦
 mgp.ax.lt	1.48.0	mgp.ax.lt	Germany	🇩🇪
@@ -148,7 +152,6 @@ matrix.peek-a-boo.at	1.48.0	matrix.peek-a-boo.at	Austria	🇦🇹
 matrix.nerd2nerd.org	1.48.0	matrix.nerd2nerd.org	Germany	🇩🇪
 matrix.greensteps.cn	1.48.0	matrix.greensteps.cn	Czechia	🇨🇿
 matrix.get-racing.de	1.48.0	matrix.get-racing.de	Germany	🇩🇪
-matrix.danyocean.com	1.48.0	matrix.danyocean.com	France	🇫🇷
 matrix.ombreport.info	1.48.0	matrix.ombreport.info	France	🇫🇷
 matrix.linuxbrujo.net	1.48.0	matrix.linuxbrujo.net	Netherlands	🇳🇱
 matrix.cambsac.org.uk	1.48.0	matrix.cambsac.org.uk	Germany	🇩🇪
@@ -156,8 +159,8 @@ matrix.bodensee.space	1.48.0	matrix.bodensee.space	Germany	🇩🇪
 synapse.duncanturk.com	1.48.0	synapse.duncanturk.com	Germany	🇩🇪
 matrix.web3.foundation	1.48.0	matrix.web3.foundation	Germany	🇩🇪
 matrix.tetaneutral.net	1.48.0	matrix.tetaneutral.net	France	🇫🇷
-matrix.dubronetwork.fr	1.48.0	matrix.dubronetwork.fr		
 matrix.techsaviours.org	1.48.0	matrix.techsaviours.org	Germany	🇩🇪
+synapse.travnewmatic.com	1.48.0	synapse.travnewmatic.com	Taiwan	🇹🇼
 matrix.tfcconnection.org	1.48.0	matrix.tfcconnection.org	United States of America	🇺🇸
 matrix.mycloudservice.eu	1.48.0	matrix.mycloudservice.eu	Germany	🇩🇪
 matrix.lorenzo12floxy.ga	1.48.0	matrix.lorenzo12floxy.ga	Netherlands	🇳🇱
@@ -239,6 +242,6 @@ matrix.planetdecred.org	1.47.1	matrix.planetdecred.org	United States of America	
 matrix.strahlungsfrei.de	1.47.1	matrix.strahlungsfrei.de	Germany	🇩🇪
 matrix.kevinronceray.com	1.47.1	matrix.kevinronceray.com	France	🇫🇷
 synapse.internet-portal.cz	1.47.1	synapse.internet-portal.cz	Czechia	🇨🇿
-matrix.cloud.codelutin.com	1.47.1	matrix.cloud.codelutin.com	Germany	🇩🇪
+matrix.cloud.codelutin.com	1.47.1	matrix.cloud.codelutin.com	France	🇫🇷
 matrix-server.schaffarzik.net	1.47.1	matrix-server.schaffarzik.net	Germany	🇩🇪
 colony.jupiterbroadcasting.com	1.47.1	colony.jupiterbroadcasting.com	United States of America	🇺🇸

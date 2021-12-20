@@ -50,5 +50,9 @@
   {
     "name": "*.zinz.dev",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.poa.st",
+    "reason": "slow server, strict moderation, cloudflare"
   }
 ]
