@@ -19,7 +19,7 @@ boritsch.de	1.49.0	boritsch.de	Germany	🇩🇪
 xentonix.net	1.49.0	xentonix.net	Germany	🇩🇪
 settgast.org	1.49.0	settgast.org	Germany	🇩🇪
 halogen.city	1.49.0	halogen.city	United States of America	🇺🇸
-aria-net.org	1.49.0	aria-net.org	Italy	🇮🇹
+aria-net.org	1.49.0	aria-net.org	Netherlands	🇳🇱
 yuuko.smar.fi	1.49.0	yuuko.smar.fi	Finland	🇫🇮
 matrix.lrn.fm	1.49.0	matrix.lrn.fm	Canada	🇨🇦
 matrix.g24.at	1.49.0	matrix.g24.at	Austria	🇦🇹
@@ -28,6 +28,7 @@ m.deadcrab.de	1.49.0	m.deadcrab.de	Germany	🇩🇪
 illspirit.net	1.49.0	illspirit.net	United States of America	🇺🇸
 chat.lutsi.fi	1.49.0	chat.lutsi.fi	Finland	🇫🇮
 chat.filik.eu	1.49.0	chat.filik.eu	Czechia	🇨🇿
+therealblue.de	1.49.0	therealblue.de	Germany	🇩🇪
 matrix.phcn.de	1.49.0	matrix.phcn.de	Netherlands	🇳🇱
 matrix.ohai.su	1.49.0	matrix.ohai.su	Germany	🇩🇪
 matrix.mvd.org	1.49.0	matrix.mvd.org	Austria	🇦🇹
@@ -50,6 +51,7 @@ matrix.bda.space	1.49.0	matrix.bda.space	United States of America	🇺🇸
 chat.twomoons.de	1.49.0	chat.twomoons.de	Germany	🇩🇪
 synapse.matoro.tk	1.49.0	synapse.matoro.tk	United States of America	🇺🇸
 matrix.vasbud.fun	1.49.0	matrix.vasbud.fun	Canada	🇨🇦
+matrix.troplo.com	1.49.0	matrix.troplo.com	Australia	🇦🇺
 matrix.tomesh.net	1.49.0	matrix.tomesh.net	United States of America	🇺🇸
 matrix.thiesyy.de	1.49.0	matrix.thiesyy.de	Austria	🇦🇹
 matrix.sibnsk.net	1.49.0	matrix.sibnsk.net	Germany	🇩🇪
@@ -71,6 +73,7 @@ matrix.simonetti.nl	1.49.0	matrix.simonetti.nl	United States of America	🇺🇸
 matrix.rustysoft.de	1.49.0	matrix.rustysoft.de	France	🇫🇷
 matrix.paglusch.com	1.49.0	matrix.paglusch.com	United States of America	🇺🇸
 matrix.beachcom.org	1.49.0	matrix.beachcom.org	Germany	🇩🇪
+matrix.altertek.org	1.49.0	matrix.altertek.org	Switzerland	🇨🇭
 inferiorlattice.com	1.49.0	inferiorlattice.com	United States of America	🇺🇸
 matrix.underworld.fr	1.49.0	matrix.underworld.fr	France	🇫🇷
 matrix.kiwifarms.net	1.49.0	matrix.kiwifarms.net	Australia	🇦🇺
@@ -99,7 +102,6 @@ matrix.neuland.technology	1.49.0	matrix.neuland.technology	Germany	🇩🇪
 matrix.divided-by-zero.eu	1.49.0	matrix.divided-by-zero.eu	Germany	🇩🇪
 mux.re	1.48.0	mux.re	France	🇫🇷
 causa.li	1.48.0	causa.li	Canada	🇨🇦
-mgp.ax.lt	1.48.0	mgp.ax.lt	Germany	🇩🇪
 lodere.es	1.48.0	lodere.es	Germany	🇩🇪
 zelchat.de	1.48.0	zelchat.de	Germany	🇩🇪
 ramrod.top	1.48.0	ramrod.top	United States of America	🇺🇸
@@ -116,7 +118,6 @@ rickelobe.com	1.48.0	rickelobe.com	United States of America	🇺🇸
 juniorjpdj.pl	1.48.0	juniorjpdj.pl	Poland	🇵🇱
 io.proxion.de	1.48.0	io.proxion.de	Germany	🇩🇪
 darksiders.me	1.48.0	darksiders.me	United States of America	🇺🇸
-therealblue.de	1.48.0	therealblue.de	Germany	🇩🇪
 matrix.tryp.io	1.48.0	matrix.tryp.io	France	🇫🇷
 ggc-project.de	1.48.0	ggc-project.de	Germany	🇩🇪
 chat.thorko.de	1.48.0	chat.thorko.de	Germany	🇩🇪
@@ -132,7 +133,6 @@ matrix.asger.xyz	1.48.0	matrix.asger.xyz	Australia	🇦🇺
 synapse.chefst.de	1.48.0	synapse.chefst.de	Germany	🇩🇪
 metalgearsonic.de	1.48.0	metalgearsonic.de	Netherlands	🇳🇱
 matrix.wvffle.net	1.48.0	matrix.wvffle.net	Poland	🇵🇱
-matrix.troplo.com	1.48.0	matrix.troplo.com	Australia	🇦🇺
 matrix.entr0py.de	1.48.0	matrix.entr0py.de	Germany	🇩🇪
 matrix.decred.org	1.48.0	matrix.decred.org	Netherlands	🇳🇱
 matrix.st0rm.cloud	1.48.0	matrix.st0rm.cloud	Germany	🇩🇪
@@ -242,6 +242,6 @@ matrix.planetdecred.org	1.47.1	matrix.planetdecred.org	United States of America	
 matrix.strahlungsfrei.de	1.47.1	matrix.strahlungsfrei.de	Germany	🇩🇪
 matrix.kevinronceray.com	1.47.1	matrix.kevinronceray.com	France	🇫🇷
 synapse.internet-portal.cz	1.47.1	synapse.internet-portal.cz	Czechia	🇨🇿
-matrix.cloud.codelutin.com	1.47.1	matrix.cloud.codelutin.com	France	🇫🇷
+matrix.cloud.codelutin.com	1.47.1	matrix.cloud.codelutin.com	Germany	🇩🇪
 matrix-server.schaffarzik.net	1.47.1	matrix-server.schaffarzik.net	Germany	🇩🇪
 colony.jupiterbroadcasting.com	1.47.1	colony.jupiterbroadcasting.com	United States of America	🇺🇸
