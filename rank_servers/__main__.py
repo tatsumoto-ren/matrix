@@ -1,4 +1,9 @@
+import requests
+
 from . import rank, format
 
-rank.rank_servers()
-format.format_entries()
+try:
+    rank.rank_servers()
+    format.format_entries()
+except requests.ConnectionError:
+    print("No internet?")
