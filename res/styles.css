@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+
 html,
 body {
     padding: 0;
@@ -22,6 +23,7 @@ a:visited {
     text-decoration: none;
     color: #3d9141;
 }
+
 a:hover,
 a:active {
     text-decoration: underline;
@@ -35,23 +37,35 @@ header {
     align-items: center;
     justify-content: start;
 }
-header > h1 {
+
+header>a:first-of-type {
+    margin-left: auto;
+}
+
+header>h1 {
     font-size: 1rem;
     margin: 0 0.5rem;
     font-weight: bold;
     line-height: 1;
     overflow: hidden;
-    flex: 1 1 auto;
     text-align: center;
 }
-header > img[alt="Element"] {
+
+header>img[alt="Element"] {
     height: calc(100% - 4px);
     margin: 0 0 0 2px;
     filter: grayscale(100%) contrast(1000%);
 }
+
 @media screen and (min-width: 520px) {
-    header > h1 {
+    header>h1 {
         text-align: left;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    header>h1 {
+        display: none;
     }
 }
 
@@ -67,15 +81,18 @@ header a:visited {
     cursor: pointer;
     transition: 0.1s background-color ease;
 }
+
 header a:hover,
 header a:active {
     text-decoration: none;
     background-color: #555;
 }
+
 header a.return,
 header a.return:visited {
     background-color: #4caf50;
 }
+
 header a.return:hover,
 header a.return:active {
     background-color: #71bb47;
@@ -128,7 +145,7 @@ details {
     word-break: break-all;
 }
 
-details > .info {
+details>.info {
     background-color: white;
     color: black;
     padding: 1rem;
@@ -138,7 +155,7 @@ details > .info {
     gap: 0.5rem;
 }
 
-details > .info > * {
+details>.info>* {
     line-height: 33px;
 }
 
@@ -170,20 +187,23 @@ summary:before {
     transition: 0.25s transform ease;
 }
 
-details[open] > summary:before {
+details[open]>summary:before {
     transform: rotate(90deg);
 }
 
 details summary::-webkit-details-marker {
     display: none;
 }
+
 details.howto {
     word-break: normal;
 }
-details.howto > summary {
+
+details.howto>summary {
     background-color: #4caf50;
 }
-details.howto > summary:hover {
+
+details.howto>summary:hover {
     background-color: #71bb47;
 }
 
