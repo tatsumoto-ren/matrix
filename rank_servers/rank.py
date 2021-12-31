@@ -110,8 +110,10 @@ def rank_servers():
     if not os.path.isfile(JSON_FILEPATH):
         with requests.Session() as s:
             result = s.get(URL)
+        if result.status_code != 200:
+            raise RuntimeError("Failed to fetch server list.")
         with open(JSON_FILEPATH, 'w') as of:
-            json.dump(json.loads(result.content), of, indent=4)
+            json.dump(json.loads(result.content), of, indent=4, ensure_ascii=False)
     with open(JSON_FILEPATH, 'r') as f:
         nodes = json.load(f)['data']['nodes']
 

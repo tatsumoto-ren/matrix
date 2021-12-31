@@ -2,12 +2,18 @@ name: Scheduled List Update
 
 on:
   schedule: [{cron: "0 12 * * *"}]
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   health_check_job:
     runs-on: ubuntu-latest
-    name: Check all sites
+    name: Update matrix homeservers
     steps:
       - uses: actions/checkout@v2
       - name: Run Shell Script
