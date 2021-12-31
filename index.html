@@ -10,6 +10,7 @@
 <header>
 <img alt="Element" src="https://swiso.org/use/matrix/icon.svg">
 <h1>Ranked Matrix servers</h1>
+<a href="/blog/donating-to-tatsumoto.html">Support</a>
 <a class="return" href="/">Return</a>
 </header>
 <div class="container">
@@ -957,6 +958,15 @@ Press "Register" and follow the instructions.
 </div>
 </details>
 <details class="entry">
+<summary>matrix.danyocean.com</summary>
+<div class="info">
+<b>URL</b><span class="name"><a target="_blank" href="https://matrix.danyocean.com">matrix.danyocean.com</a></span>
+<b>Version</b><code class="version">1.49.2</code>
+<b>Host</b><input class="host" readonly type="text" value="matrix.danyocean.com">
+<b>Country</b><span class="country">France</span>
+</div>
+</details>
+<details class="entry">
 <summary>chat.pforzelona.club</summary>
 <div class="info">
 <b>URL</b><span class="name"><a target="_blank" href="https://chat.pforzelona.club">chat.pforzelona.club</a></span>
@@ -1452,15 +1462,6 @@ Press "Register" and follow the instructions.
 </div>
 </details>
 <details class="entry">
-<summary>matrix.danyocean.com</summary>
-<div class="info">
-<b>URL</b><span class="name"><a target="_blank" href="https://matrix.danyocean.com">matrix.danyocean.com</a></span>
-<b>Version</b><code class="version">1.49.0</code>
-<b>Host</b><input class="host" readonly type="text" value="matrix.danyocean.com">
-<b>Country</b><span class="country">France</span>
-</div>
-</details>
-<details class="entry">
 <summary>matrix.chatcloud.net</summary>
 <div class="info">
 <b>URL</b><span class="name"><a target="_blank" href="https://matrix.chatcloud.net">matrix.chatcloud.net</a></span>
@@ -1931,8 +1932,8 @@ input.onclick = () => {
 select_text(input)
 }
 }
-const home_link = document.querySelector('header > a.return')
-home_link.parentNode.insertBefore(create_expand_all_link(), home_link);
+const first_link = document.querySelector('header > a:first-of-type')
+first_link.parentNode.insertBefore(create_expand_all_link(), first_link);
 });
 </script>
 </html>
