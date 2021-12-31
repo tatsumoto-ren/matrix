@@ -85,8 +85,8 @@
                 select_text(input)
             }
         }
-        const home_link = document.querySelector('header > a.return')
-        home_link.parentNode.insertBefore(create_expand_all_link(), home_link);
+        const first_link = document.querySelector('header > a:first-of-type')
+        first_link.parentNode.insertBefore(create_expand_all_link(), first_link);
     });
 </script>
 
