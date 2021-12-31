@@ -1,7 +1,8 @@
 #!/bin/bash -e
 
 latest_synapse() {
-	pacman -Si matrix-synapse | grep '^Version' | grep -Po '(?<=1\.)\d+'
+	local -r synapse_pkgbuld='https://raw.githubusercontent.com/archlinux/svntogit-community/packages/matrix-synapse/trunk/PKGBUILD'
+	curl -s "$synapse_pkgbuld" | grep -Po '(?<=pkgver=1\.)\d+'
 }
 
 # shellcheck disable=SC2155
