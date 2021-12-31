@@ -2,7 +2,7 @@
 
 latest_synapse() {
 	local -r synapse_pkgbuld='https://raw.githubusercontent.com/archlinux/svntogit-community/packages/matrix-synapse/trunk/PKGBUILD'
-	curl -s "$synapse_pkgbuld" | grep -Po '(?<=pkgver=1\.)\d+'
+	curl -s "$synapse_pkgbuld" | grep -Po '(?<=pkgver=).+$'
 }
 
 # shellcheck disable=SC2155
@@ -20,7 +20,7 @@ echo "Latest synapse version: $LATEST_SYNAPSE"
 
 export MATRIX_DATA_DIR LATEST_SYNAPSE
 
-rm -- "$MATRIX_DATA_DIR/servers.json" || true
+[[ $1 == debug ]] || rm -- "$MATRIX_DATA_DIR/servers.json" || true
 python3 -m rank_servers
 mv -- "$MATRIX_DATA_DIR/formatted.html" "$dir/index.html"
 mv -- "$MATRIX_DATA_DIR/result.tsv" "$dir/result.tsv"
