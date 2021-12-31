@@ -1,5 +1,6 @@
 import json
 import os
+from typing import List
 
 __all__ = [
     'URL',
@@ -23,7 +24,7 @@ def blocklist_escape(s: str) -> str:
     return s.replace('.', r'\.').replace('*', '.*')
 
 
-def construct_blocklist() -> list[str]:
+def construct_blocklist() -> List[str]:
     blocklist = []
     with open(os.path.join(data_dir, 'blocklist.json')) as f:
         for server in json.load(f):

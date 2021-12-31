@@ -1,9 +1,8 @@
-#!/usr/bin/python3
 import functools
 import json
 import os
 import re
-from typing import Any, NewType
+from typing import Any, NewType, Dict, List, Tuple
 
 import requests
 
@@ -12,7 +11,7 @@ try:
 except ImportError:
     from consts import *
 
-Node = NewType('Node', dict[str, Any])
+Node = NewType('Node', Dict[str, Any])
 rm_port = functools.partial(re.sub, r':\d+$', '', )
 
 
@@ -32,7 +31,7 @@ def filter_node(node: Node) -> bool:
     ))
 
 
-def sorting_tuple(node: Node) -> tuple[int, int, str]:
+def sorting_tuple(node: Node) -> Tuple[int, int, str]:
     return (
         node['norm_version'],
         -len(node['name']),
@@ -40,7 +39,7 @@ def sorting_tuple(node: Node) -> tuple[int, int, str]:
     )
 
 
-def fix_format(nodes: list[Node]) -> dict[str, Node]:
+def fix_format(nodes: List[Node]) -> Dict[str, Node]:
     reformatted = {}
     for node in nodes:
         node['name'] = rm_port(node['name'])
@@ -60,7 +59,7 @@ def fix_format(nodes: list[Node]) -> dict[str, Node]:
     return reformatted
 
 
-def sort_servers(nodes: list[Node]):
+def sort_servers(nodes: List[Node]):
     nodes = sorted(
         filter(filter_node, nodes),
         key=lambda node: sorting_tuple(node),
