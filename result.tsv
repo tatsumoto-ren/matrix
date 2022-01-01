@@ -10,6 +10,7 @@ maeli.net	1.49.2	maeli.net	Switzerland	🇨🇭
 madzel.de	1.49.2	madzel.de	Germany	🇩🇪
 hellug.gr	1.49.2	hellug.gr	Greece	🇬🇷
 faelix.im	1.49.2	faelix.im	Switzerland	🇨🇭
+bau-ha.us	1.49.2	bau-ha.us	Germany	🇩🇪
 nitro.chat	1.49.2	nitro.chat	Germany	🇩🇪
 lomnik.net	1.49.2	lomnik.net	Germany	🇩🇪
 dalek.zone	1.49.2	dalek.zone	Germany	🇩🇪
@@ -87,13 +88,16 @@ synapse.malooma.bzh	1.49.2	synapse.malooma.bzh	France	🇫🇷
 matrix.taskname.com	1.49.2	matrix.taskname.com	United States of America	🇺🇸
 matrix.simonetti.nl	1.49.2	matrix.simonetti.nl	United States of America	🇺🇸
 matrix.rustysoft.de	1.49.2	matrix.rustysoft.de	France	🇫🇷
+matrix.rauhala.info	1.49.2	matrix.rauhala.info	France	🇫🇷
 matrix.petabyte.dev	1.49.2	matrix.petabyte.dev	Germany	🇩🇪
 matrix.paglusch.com	1.49.2	matrix.paglusch.com	United States of America	🇺🇸
 matrix.govanify.com	1.49.2	matrix.govanify.com	France	🇫🇷
+matrix.ericmesa.com	1.49.2	matrix.ericmesa.com	United States of America	🇺🇸
 matrix.darkcloud.ca	1.49.2	matrix.darkcloud.ca	Canada	🇨🇦
 matrix.club-tech.fr	1.49.2	matrix.club-tech.fr	France	🇫🇷
 matrix.calvinrw.com	1.49.2	matrix.calvinrw.com	United States of America	🇺🇸
 matrix.beachcom.org	1.49.2	matrix.beachcom.org	Germany	🇩🇪
+inferiorlattice.com	1.49.2	inferiorlattice.com	United States of America	🇺🇸
 matrix.underworld.fr	1.49.2	matrix.underworld.fr	France	🇫🇷
 matrix.sealbaker.com	1.49.2	matrix.sealbaker.com	Canada	🇨🇦
 matrix.peek-a-boo.at	1.49.2	matrix.peek-a-boo.at	Austria	🇦🇹
@@ -124,7 +128,6 @@ matrix.neuland.technology	1.49.2	matrix.neuland.technology	Germany	🇩🇪
 synapse.internet-portal.cz	1.49.2	synapse.internet-portal.cz	Czechia	🇨🇿
 vgd.me	1.49.0	vgd.me	United States of America	🇺🇸
 m.wfr.moe	1.49.0	m.wfr.moe	Austria	🇦🇹
-bau-ha.us	1.49.0	bau-ha.us	Germany	🇩🇪
 3000.chat	1.49.0	3000.chat	Finland	🇫🇮
 priv8.chat	1.49.0	priv8.chat	France	🇫🇷
 waffle.tech	1.49.0	waffle.tech	United States of America	🇺🇸
@@ -139,7 +142,6 @@ therealblue.de	1.49.0	therealblue.de	Germany	🇩🇪
 matrix.dhp.com	1.49.0	matrix.dhp.com	United States of America	🇺🇸
 mailstation.de	1.49.0	mailstation.de	Germany	🇩🇪
 matrix.leon.wtf	1.49.0	matrix.leon.wtf	Germany	🇩🇪
-plus-sensible.me	1.49.0	plus-sensible.me	France	🇫🇷
 chat.twomoons.de	1.49.0	chat.twomoons.de	Germany	🇩🇪
 matrix.jeweet.net	1.49.0	matrix.jeweet.net	Netherlands	🇳🇱
 matrix.grusbv.com	1.49.0	matrix.grusbv.com	Netherlands	🇳🇱
@@ -149,9 +151,7 @@ matrix.tmiland.com	1.49.0	matrix.tmiland.com	Netherlands	🇳🇱
 matrix.nobelium.no	1.49.0	matrix.nobelium.no	Norway	🇳🇴
 matrix.epactive.de	1.49.0	matrix.epactive.de	Germany	🇩🇪
 synapse.dst.fjit.no	1.49.0	synapse.dst.fjit.no	Norway	🇳🇴
-matrix.rauhala.info	1.49.0	matrix.rauhala.info	France	🇫🇷
 matrix.altertek.org	1.49.0	matrix.altertek.org	Switzerland	🇨🇭
-inferiorlattice.com	1.49.0	inferiorlattice.com	United States of America	🇺🇸
 synapse.mcwhirter.io	1.49.0	synapse.mcwhirter.io	Australia	🇦🇺
 matrix.kellnerweg.de	1.49.0	matrix.kellnerweg.de	Germany	🇩🇪
 matrix.fff.community	1.49.0	matrix.fff.community	Germany	🇩🇪
