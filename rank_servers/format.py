@@ -24,7 +24,7 @@ def format_entries():
                         f'<summary>{row["name"]}</summary>',
                         '<div class="info">',
                         f'<b>URL</b><span class="name"><a target="_blank" href="https://{row["name"]}">{row["name"]}</a></span>',
-                        f'<b>Version</b><code class="version">{row["version"]}</code>',
+                        f'<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#{row["host"]}">{row["version"]}</a></code>',
                         f'<b>Host</b><input class="host" readonly type="text" value="{row["host"]}">',
                         f'<b>Country</b><span class="country">{row["country"] or "Not specified"}</span>',
                         '</div>',
