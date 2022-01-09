@@ -28,7 +28,7 @@ settgast.org	1.49.2	settgast.org	Germany	🇩🇪
 halogen.city	1.49.2	halogen.city	United States of America	🇺🇸
 foobar.style	1.49.2	foobar.style	United States of America	🇺🇸
 calcuode.com	1.49.2	calcuode.com		
-aria-net.org	1.49.2	aria-net.org	Netherlands	🇳🇱
+aria-net.org	1.49.2	aria-net.org	Italy	🇮🇹
 zettabomb.com	1.49.2	zettabomb.com		
 xxx.madzel.de	1.49.2	xxx.madzel.de	Germany	🇩🇪
 systemtest.tk	1.49.2	systemtest.tk	Romania	🇷🇴
@@ -40,9 +40,9 @@ m.deadcrab.de	1.49.2	m.deadcrab.de	Germany	🇩🇪
 juniorjpdj.pl	1.49.2	juniorjpdj.pl	Poland	🇵🇱
 io.proxion.de	1.49.2	io.proxion.de	Germany	🇩🇪
 illspirit.net	1.49.2	illspirit.net	United States of America	🇺🇸
+das-labor.org	1.49.2	das-labor.org	Germany	🇩🇪
 cutelab.space	1.49.2	cutelab.space	United States of America	🇺🇸
 chat.filik.eu	1.49.2	chat.filik.eu	Czechia	🇨🇿
-uaf.uber.space	1.49.2	uaf.uber.space	Germany	🇩🇪
 matrix.tryp.io	1.49.2	matrix.tryp.io	France	🇫🇷
 matrix.phcn.de	1.49.2	matrix.phcn.de	Netherlands	🇳🇱
 matrix.ohai.su	1.49.2	matrix.ohai.su	Germany	🇩🇪
@@ -91,6 +91,7 @@ matrix.entr0py.de	1.49.2	matrix.entr0py.de	Germany	🇩🇪
 matrix.decred.org	1.49.2	matrix.decred.org	Netherlands	🇳🇱
 hive-mind.network	1.49.2	hive-mind.network	Seychelles	🇸🇨
 spiff.plootarg.net	1.49.2	spiff.plootarg.net	France	🇫🇷
+matrix.st0rm.cloud	1.49.2	matrix.st0rm.cloud	Germany	🇩🇪
 matrix.sp-codes.de	1.49.2	matrix.sp-codes.de	Germany	🇩🇪
 matrix.schotty.com	1.49.2	matrix.schotty.com	United States of America	🇺🇸
 matrix.riotcat.org	1.49.2	matrix.riotcat.org	Germany	🇩🇪
@@ -118,11 +119,13 @@ matrix.beachcom.org	1.49.2	matrix.beachcom.org	Germany	🇩🇪
 inferiorlattice.com	1.49.2	inferiorlattice.com	United States of America	🇺🇸
 server.matrix4ulm.de	1.49.2	server.matrix4ulm.de	Germany	🇩🇪
 matrix.underworld.fr	1.49.2	matrix.underworld.fr	France	🇫🇷
+matrix.thedisco.zone	1.49.2	matrix.thedisco.zone	Canada	🇨🇦
 matrix.sealbaker.com	1.49.2	matrix.sealbaker.com	Canada	🇨🇦
 matrix.peek-a-boo.at	1.49.2	matrix.peek-a-boo.at	Austria	🇦🇹
 matrix.kiwifarms.net	1.49.2	matrix.kiwifarms.net	Australia	🇦🇺
 matrix.kitzberger.at	1.49.2	matrix.kitzberger.at	Austria	🇦🇹
 matrix.get-racing.de	1.49.2	matrix.get-racing.de	Germany	🇩🇪
+matrix.fff.community	1.49.2	matrix.fff.community	Germany	🇩🇪
 matrix.ds-guiraud.fr	1.49.2	matrix.ds-guiraud.fr	France	🇫🇷
 matrix.danyocean.com	1.49.2	matrix.danyocean.com	France	🇫🇷
 chat.pforzelona.club	1.49.2	chat.pforzelona.club	Germany	🇩🇪
@@ -172,7 +175,6 @@ synapse.dst.fjit.no	1.49.0	synapse.dst.fjit.no	Norway	🇳🇴
 matrix.altertek.org	1.49.0	matrix.altertek.org	Switzerland	🇨🇭
 synapse.mcwhirter.io	1.49.0	synapse.mcwhirter.io	Australia	🇦🇺
 matrix.kellnerweg.de	1.49.0	matrix.kellnerweg.de	Germany	🇩🇪
-matrix.fff.community	1.49.0	matrix.fff.community	Germany	🇩🇪
 matrix.chatcloud.net	1.49.0	matrix.chatcloud.net	Germany	🇩🇪
 synapse.schefczyk.net	1.49.0	synapse.schefczyk.net	Germany	🇩🇪
 matrix.w1l.duckdns.org	1.49.0	matrix.w1l.duckdns.org	Germany	🇩🇪
@@ -194,7 +196,6 @@ matrix.v-lan.org	1.48.0	matrix.v-lan.org	Germany	🇩🇪
 matrix.cccgoe.de	1.48.0	matrix.cccgoe.de	Germany	🇩🇪
 matrix.asger.xyz	1.48.0	matrix.asger.xyz	Australia	🇦🇺
 metalgearsonic.de	1.48.0	metalgearsonic.de	Netherlands	🇳🇱
-matrix.st0rm.cloud	1.48.0	matrix.st0rm.cloud	Germany	🇩🇪
 matrix.refchat.net	1.48.0	matrix.refchat.net	United States of America	🇺🇸
 matrix.netcavy.net	1.48.0	matrix.netcavy.net	Australia	🇦🇺
 matrix.hankhub.net	1.48.0	matrix.hankhub.net	Singapore	🇸🇬
