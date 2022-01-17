@@ -49,7 +49,6 @@ io.proxion.de	1.49.2	io.proxion.de	Germany	🇩🇪
 im.su.cvut.cz	1.49.2	im.su.cvut.cz	Czechia	🇨🇿
 illspirit.net	1.49.2	illspirit.net	United States of America	🇺🇸
 hope.ems.host	1.49.2	hope.ems.host	United States of America	🇺🇸
-das-labor.org	1.49.2	das-labor.org	Germany	🇩🇪
 cutelab.space	1.49.2	cutelab.space	United States of America	🇺🇸
 chat.lutsi.fi	1.49.2	chat.lutsi.fi	Finland	🇫🇮
 chat.filik.eu	1.49.2	chat.filik.eu	Czechia	🇨🇿
@@ -115,6 +114,7 @@ matrix.riotcat.org	1.49.2	matrix.riotcat.org	Germany	🇩🇪
 matrix.piscaer.com	1.49.2	matrix.piscaer.com	Germany	🇩🇪
 matrix.nobelium.no	1.49.2	matrix.nobelium.no	Norway	🇳🇴
 matrix.niklasfi.de	1.49.2	matrix.niklasfi.de	Germany	🇩🇪
+matrix.netcavy.net	1.49.2	matrix.netcavy.net	Australia	🇦🇺
 matrix.ibsgaard.io	1.49.2	matrix.ibsgaard.io	United States of America	🇺🇸
 matrix.epactive.de	1.49.2	matrix.epactive.de	Germany	🇩🇪
 matrix.dabbill.com	1.49.2	matrix.dabbill.com	United States of America	🇺🇸
@@ -122,11 +122,11 @@ matrix.boritsch.de	1.49.2	matrix.boritsch.de	Germany	🇩🇪
 chat.joinpoint.org	1.49.2	chat.joinpoint.org	Germany	🇩🇪
 the-apothecary.club	1.49.2	the-apothecary.club	Germany	🇩🇪
 synapse.malooma.bzh	1.49.2	synapse.malooma.bzh	France	🇫🇷
+matrix.tschorne.net	1.49.2	matrix.tschorne.net	Germany	🇩🇪
 matrix.taskname.com	1.49.2	matrix.taskname.com	United States of America	🇺🇸
 matrix.simonetti.nl	1.49.2	matrix.simonetti.nl	United States of America	🇺🇸
 matrix.rustysoft.de	1.49.2	matrix.rustysoft.de	France	🇫🇷
 matrix.rauhala.info	1.49.2	matrix.rauhala.info	France	🇫🇷
-matrix.petabyte.dev	1.49.2	matrix.petabyte.dev	Germany	🇩🇪
 matrix.paglusch.com	1.49.2	matrix.paglusch.com	United States of America	🇺🇸
 matrix.govanify.com	1.49.2	matrix.govanify.com	France	🇫🇷
 matrix.ericmesa.com	1.49.2	matrix.ericmesa.com	United States of America	🇺🇸
@@ -149,6 +149,7 @@ matrix.fff.community	1.49.2	matrix.fff.community	Germany	🇩🇪
 matrix.ds-guiraud.fr	1.49.2	matrix.ds-guiraud.fr	France	🇫🇷
 matrix.danyocean.com	1.49.2	matrix.danyocean.com	France	🇫🇷
 chat.pforzelona.club	1.49.2	chat.pforzelona.club	Germany	🇩🇪
+synapse.schefczyk.net	1.49.2	synapse.schefczyk.net	Germany	🇩🇪
 matrix.un-hack-bar.de	1.49.2	matrix.un-hack-bar.de	Germany	🇩🇪
 matrix.snt.utwente.nl	1.49.2	matrix.snt.utwente.nl	Netherlands	🇳🇱
 matrix.ombreport.info	1.49.2	matrix.ombreport.info	France	🇫🇷
@@ -195,7 +196,6 @@ synapse.dst.fjit.no	1.49.0	synapse.dst.fjit.no	Norway	🇳🇴
 matrix.altertek.org	1.49.0	matrix.altertek.org	Switzerland	🇨🇭
 matrix.kellnerweg.de	1.49.0	matrix.kellnerweg.de	Germany	🇩🇪
 matrix.chatcloud.net	1.49.0	matrix.chatcloud.net	Germany	🇩🇪
-synapse.schefczyk.net	1.49.0	synapse.schefczyk.net	Germany	🇩🇪
 matrix.w1l.duckdns.org	1.49.0	matrix.w1l.duckdns.org	Germany	🇩🇪
 matrix.thisisjoes.site	1.49.0	matrix.thisisjoes.site	United States of America	🇺🇸
 matrix.arya.dogcraft.de	1.49.0	matrix.arya.dogcraft.de	Germany	🇩🇪
@@ -214,7 +214,6 @@ matrix.cccgoe.de	1.48.0	matrix.cccgoe.de	Germany	🇩🇪
 matrix.asger.xyz	1.48.0	matrix.asger.xyz	Australia	🇦🇺
 metalgearsonic.de	1.48.0	metalgearsonic.de	Netherlands	🇳🇱
 matrix.refchat.net	1.48.0	matrix.refchat.net	United States of America	🇺🇸
-matrix.netcavy.net	1.48.0	matrix.netcavy.net	Australia	🇦🇺
 matrix.hankhub.net	1.48.0	matrix.hankhub.net	Singapore	🇸🇬
 matrix.fjolstad.no	1.48.0	matrix.fjolstad.no	Norway	🇳🇴
 chat.darksiders.me	1.48.0	chat.darksiders.me	United States of America	🇺🇸
