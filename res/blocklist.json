@@ -68,7 +68,11 @@
     "reason": "this room is too complex error when joining rooms"
   },
   {
-    "name": "matrix.phcn.de",
+    "name": "*.phcn.de",
+    "reason": "no appropriate authentication flow found"
+  },
+  {
+    "name": "*.ohea.xyz",
     "reason": "no appropriate authentication flow found"
   }
 ]
