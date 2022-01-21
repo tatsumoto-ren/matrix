@@ -54,5 +54,17 @@
   {
     "name": "*.poa.st",
     "reason": "slow server, strict moderation, cloudflare"
+  },
+  {
+    "name": "*.nesven.eu",
+    "reason": "apparently not a server for public use."
+  },
+  {
+    "name": "3000.chat",
+    "reason": "fails do deliver messages"
+  },
+  {
+    "name": "unita.online",
+    "reason": "this room is too complex error when joining rooms"
   }
 ]
