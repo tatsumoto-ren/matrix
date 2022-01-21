@@ -74,5 +74,9 @@
   {
     "name": "*.ohea.xyz",
     "reason": "no appropriate authentication flow found"
+  },
+  {
+    "name": "faelix.im",
+    "reason": "stability/performance issues"
   }
 ]
