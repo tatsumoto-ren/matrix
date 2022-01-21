@@ -66,5 +66,9 @@
   {
     "name": "unita.online",
     "reason": "this room is too complex error when joining rooms"
+  },
+  {
+    "name": "matrix.phcn.de",
+    "reason": "no appropriate authentication flow found"
   }
 ]
