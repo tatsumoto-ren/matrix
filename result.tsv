@@ -28,6 +28,7 @@ hope.ems.host	1.50.1	hope.ems.host	United States of America	🇺🇸
 cutelab.space	1.50.1	cutelab.space	United States of America	🇺🇸
 cl0secall.net	1.50.1	cl0secall.net	United States of America	🇺🇸
 chat.filik.eu	1.50.1	chat.filik.eu	Czechia	🇨🇿
+pirateriot.net	1.50.1	pirateriot.net	Germany	🇩🇪
 matrix.ohai.su	1.50.1	matrix.ohai.su	Germany	🇩🇪
 matrix.dhp.com	1.50.1	matrix.dhp.com	United States of America	🇺🇸
 matrix.comm.cx	1.50.1	matrix.comm.cx	United States of America	🇺🇸
@@ -45,6 +46,7 @@ matrix.cccgoe.de	1.50.1	matrix.cccgoe.de	Germany	🇩🇪
 matrix.base8.org	1.50.1	matrix.base8.org	United States of America	🇺🇸
 matrix.asger.xyz	1.50.1	matrix.asger.xyz	Australia	🇦🇺
 matrix.yksflip.de	1.50.1	matrix.yksflip.de	Germany	🇩🇪
+matrix.utwente.io	1.50.1	matrix.utwente.io	Netherlands	🇳🇱
 matrix.troplo.com	1.50.1	matrix.troplo.com	Australia	🇦🇺
 matrix.tomesh.net	1.50.1	matrix.tomesh.net	United States of America	🇺🇸
 matrix.thiesyy.de	1.50.1	matrix.thiesyy.de	Austria	🇦🇹
@@ -57,9 +59,10 @@ matrix.riotcat.org	1.50.1	matrix.riotcat.org	Germany	🇩🇪
 matrix.nobelium.no	1.50.1	matrix.nobelium.no	Norway	🇳🇴
 matrix.netcavy.net	1.50.1	matrix.netcavy.net	Australia	🇦🇺
 matrix.ibsgaard.io	1.50.1	matrix.ibsgaard.io	United States of America	🇺🇸
-matrix.amorgan.xyz	1.50.1	matrix.amorgan.xyz	Germany	🇩🇪
+matrix.epactive.de	1.50.1	matrix.epactive.de	Germany	🇩🇪
 the-apothecary.club	1.50.1	the-apothecary.club	Germany	🇩🇪
 synapse.malooma.bzh	1.50.1	synapse.malooma.bzh	France	🇫🇷
+matrix.taskname.com	1.50.1	matrix.taskname.com	United States of America	🇺🇸
 matrix.simonetti.nl	1.50.1	matrix.simonetti.nl	United States of America	🇺🇸
 matrix.rustysoft.de	1.50.1	matrix.rustysoft.de	Germany	🇩🇪
 matrix.paglusch.com	1.50.1	matrix.paglusch.com	United States of America	🇺🇸
@@ -73,9 +76,11 @@ matrix.get-racing.de	1.50.1	matrix.get-racing.de	Germany	🇩🇪
 matrix.danyocean.com	1.50.1	matrix.danyocean.com	France	🇫🇷
 chat.pforzelona.club	1.50.1	chat.pforzelona.club	Germany	🇩🇪
 matrix.un-hack-bar.de	1.50.1	matrix.un-hack-bar.de	Germany	🇩🇪
+matrix.snt.utwente.nl	1.50.1	matrix.snt.utwente.nl	Netherlands	🇳🇱
 matrix.elsmussols.net	1.50.1	matrix.elsmussols.net	Germany	🇩🇪
 matrix.archoslinux.cz	1.50.1	matrix.archoslinux.cz	Germany	🇩🇪
 synapse.duncanturk.com	1.50.1	synapse.duncanturk.com	Germany	🇩🇪
+riot.anarchyplanet.org	1.50.1	riot.anarchyplanet.org	United States of America	🇺🇸
 matrix.rot1.bruckbu.de	1.50.1	matrix.rot1.bruckbu.de	Germany	🇩🇪
 matrix.nrp-nautilus.io	1.50.1	matrix.nrp-nautilus.io	United States of America	🇺🇸
 matrix.magnumchaos.org	1.50.1	matrix.magnumchaos.org	Germany	🇩🇪
@@ -87,6 +92,7 @@ matrix-rmonten.ddns.net	1.50.1	matrix-rmonten.ddns.net	United States of America	
 matrix.lorenzo12floxy.ga	1.50.1	matrix.lorenzo12floxy.ga	Netherlands	🇳🇱
 matrix.banfieldzanin.com	1.50.1	matrix.banfieldzanin.com	United Kingdom	🇬🇧
 matrix.neuland.technology	1.50.1	matrix.neuland.technology	Germany	🇩🇪
+matrix.lacavernedemanu.fr	1.50.1	matrix.lacavernedemanu.fr	Germany	🇩🇪
 bau-ha.us	1.50.0rc2	bau-ha.us	Germany	🇩🇪
 matrix.unknown.place	1.50.0	matrix.unknown.place	Germany	🇩🇪
 matrix.ombreport.info	1.50.0	matrix.ombreport.info	France	🇫🇷
@@ -145,7 +151,6 @@ synapse.matoro.tk	1.49.2	synapse.matoro.tk	United States of America	🇺🇸
 synapse.chefst.de	1.49.2	synapse.chefst.de	Germany	🇩🇪
 matrix.wvffle.net	1.49.2	matrix.wvffle.net	Poland	🇵🇱
 matrix.vasbud.fun	1.49.2	matrix.vasbud.fun	Canada	🇨🇦
-matrix.utwente.io	1.49.2	matrix.utwente.io	Netherlands	🇳🇱
 matrix.psytux.com	1.49.2	matrix.psytux.com	Switzerland	🇨🇭
 matrix.ideaweb.hu	1.49.2	matrix.ideaweb.hu	Germany	🇩🇪
 matrix.grusbv.com	1.49.2	matrix.grusbv.com	Netherlands	🇳🇱
@@ -159,11 +164,9 @@ matrix.st0rm.cloud	1.49.2	matrix.st0rm.cloud	Germany	🇩🇪
 matrix.piscaer.com	1.49.2	matrix.piscaer.com	Germany	🇩🇪
 matrix.niklasfi.de	1.49.2	matrix.niklasfi.de	Germany	🇩🇪
 matrix.fjolstad.no	1.49.2	matrix.fjolstad.no	Norway	🇳🇴
-matrix.epactive.de	1.49.2	matrix.epactive.de	Germany	🇩🇪
 matrix.dabbill.com	1.49.2	matrix.dabbill.com	United States of America	🇺🇸
 matrix.boritsch.de	1.49.2	matrix.boritsch.de	Germany	🇩🇪
 matrix.tschorne.net	1.49.2	matrix.tschorne.net	Germany	🇩🇪
-matrix.taskname.com	1.49.2	matrix.taskname.com	United States of America	🇺🇸
 matrix.govanify.com	1.49.2	matrix.govanify.com	France	🇫🇷
 matrix.ericmesa.com	1.49.2	matrix.ericmesa.com	United States of America	🇺🇸
 matrix.darkcloud.ca	1.49.2	matrix.darkcloud.ca	Canada	🇨🇦
@@ -178,7 +181,6 @@ matrix.kitzberger.at	1.49.2	matrix.kitzberger.at	Austria	🇦🇹
 matrix.fff.community	1.49.2	matrix.fff.community	Germany	🇩🇪
 matrix.ds-guiraud.fr	1.49.2	matrix.ds-guiraud.fr	France	🇫🇷
 synapse.schefczyk.net	1.49.2	synapse.schefczyk.net	Germany	🇩🇪
-matrix.snt.utwente.nl	1.49.2	matrix.snt.utwente.nl	Netherlands	🇳🇱
 matrix.lesbian.energy	1.49.2	matrix.lesbian.energy	United States of America	🇺🇸
 matrix.bodensee.space	1.49.2	matrix.bodensee.space	Germany	🇩🇪
 matrix.tetaneutral.net	1.49.2	matrix.tetaneutral.net	France	🇫🇷
@@ -188,7 +190,6 @@ matrix.tfcconnection.org	1.49.2	matrix.tfcconnection.org	United States of Americ
 matrix.livforthebaud.net	1.49.2	matrix.livforthebaud.net	United States of America	🇺🇸
 matrix.gears-gadgets.com	1.49.2	matrix.gears-gadgets.com	United States of America	🇺🇸
 matrix.zahlenlabyrinth.de	1.49.2	matrix.zahlenlabyrinth.de	Germany	🇩🇪
-matrix.lacavernedemanu.fr	1.49.2	matrix.lacavernedemanu.fr	Germany	🇩🇪
 synapse.internet-portal.cz	1.49.2	synapse.internet-portal.cz	Czechia	🇨🇿
 gwaaf.rrze.uni-erlangen.de	1.49.2	gwaaf.rrze.uni-erlangen.de	Germany	🇩🇪
 matrix.goe.land	1.49.1	matrix.goe.land	France	🇫🇷
@@ -196,6 +197,7 @@ vgd.me	1.49.0	vgd.me	United States of America	🇺🇸
 m.wfr.moe	1.49.0	m.wfr.moe	Austria	🇦🇹
 waffle.tech	1.49.0	waffle.tech	United States of America	🇺🇸
 skylar.tech	1.49.0	skylar.tech	United States of America	🇺🇸
+converser.eu	1.49.0	converser.eu	France	🇫🇷
 yuuko.smar.fi	1.49.0	yuuko.smar.fi	Finland	🇫🇮
 matrix.leon.wtf	1.49.0	matrix.leon.wtf	Germany	🇩🇪
 matrix.jeweet.net	1.49.0	matrix.jeweet.net	Netherlands	🇳🇱
