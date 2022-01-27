@@ -78,5 +78,9 @@
   {
     "name": "faelix.im",
     "reason": "stability/performance issues"
+  },
+  {
+    "name": "stux.chat",
+    "reason": "has a history of account purges"
   }
 ]
