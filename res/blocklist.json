@@ -82,5 +82,9 @@
   {
     "name": "stux.chat",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "mtrx.nz",
+    "reason": "unreliable. deleted rooms (without shutting them down)"
   }
 ]
