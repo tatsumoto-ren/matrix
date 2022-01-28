@@ -33,7 +33,7 @@ matrix.dapor.net	1.51.0	matrix.dapor.net	Germany	🇩🇪
 matrix.complb.de	1.51.0	matrix.complb.de	Germany	🇩🇪
 matrix.base8.org	1.51.0	matrix.base8.org	United States of America	🇺🇸
 chat.twomoons.de	1.51.0	chat.twomoons.de	Germany	🇩🇪
-matrix.troplo.com	1.51.0	matrix.troplo.com	Australia	🇦🇺
+matrix.tomesh.net	1.51.0	matrix.tomesh.net	United States of America	🇺🇸
 matrix.decred.org	1.51.0	matrix.decred.org	Netherlands	🇳🇱
 spiff.plootarg.net	1.51.0	spiff.plootarg.net	France	🇫🇷
 matrix.sp-codes.de	1.51.0	matrix.sp-codes.de	Germany	🇩🇪
@@ -60,6 +60,7 @@ riot.anarchyplanet.org	1.51.0	riot.anarchyplanet.org	United States of America	�
 matrix.tetaneutral.net	1.51.0	matrix.tetaneutral.net	France	🇫🇷
 matrix.rot1.bruckbu.de	1.51.0	matrix.rot1.bruckbu.de	Germany	🇩🇪
 matrix.magnumchaos.org	1.51.0	matrix.magnumchaos.org	Germany	🇩🇪
+matrix.dubronetwork.fr	1.51.0	matrix.dubronetwork.fr		
 matrix.planetdecred.org	1.51.0	matrix.planetdecred.org	United States of America	🇺🇸
 matrix.pancrypticon.net	1.51.0	matrix.pancrypticon.net	United States of America	🇺🇸
 matrix.mycloudservice.eu	1.51.0	matrix.mycloudservice.eu	Germany	🇩🇪
@@ -75,7 +76,6 @@ chat.filik.eu	1.50.2	chat.filik.eu	Czechia	🇨🇿
 fatherjim.tech	1.50.2	fatherjim.tech	United States of America	🇺🇸
 matrix.asger.xyz	1.50.2	matrix.asger.xyz	Australia	🇦🇺
 matrix.utwente.io	1.50.2	matrix.utwente.io	Netherlands	🇳🇱
-matrix.tomesh.net	1.50.2	matrix.tomesh.net	United States of America	🇺🇸
 matrix.entr0py.de	1.50.2	matrix.entr0py.de	Germany	🇩🇪
 cryotize.ddns.net	1.50.2	cryotize.ddns.net	Switzerland	🇨🇭
 matrix.tschorne.net	1.50.2	matrix.tschorne.net	Germany	🇩🇪
@@ -116,13 +116,11 @@ chat.geekforbes.com	1.50.1	chat.geekforbes.com	Canada	🇨🇦
 server.matrix4ulm.de	1.50.1	server.matrix4ulm.de	Germany	🇩🇪
 synapse.duncanturk.com	1.50.1	synapse.duncanturk.com	Germany	🇩🇪
 matrix.gemeinsam.jetzt	1.50.1	matrix.gemeinsam.jetzt	Austria	🇦🇹
-matrix.dubronetwork.fr	1.50.1	matrix.dubronetwork.fr		
 matrix.techsaviours.org	1.50.1	matrix.techsaviours.org	Germany	🇩🇪
 matrix-rmonten.ddns.net	1.50.1	matrix-rmonten.ddns.net	United States of America	🇺🇸
 matrix.lorenzo12floxy.ga	1.50.1	matrix.lorenzo12floxy.ga	Netherlands	🇳🇱
 matrix.lacavernedemanu.fr	1.50.1	matrix.lacavernedemanu.fr	Germany	🇩🇪
 matrix.unknown.place	1.50.0	matrix.unknown.place	Germany	🇩🇪
-mtrx.nz	1.49.2	mtrx.nz	New Zealand	🇳🇿
 hats.im	1.49.2	hats.im		
 fick.es	1.49.2	fick.es	Germany	🇩🇪
 m.edw.ai	1.49.2	m.edw.ai	United States of America	🇺🇸
@@ -151,6 +149,7 @@ matrix.tryp.io	1.49.2	matrix.tryp.io	France	🇫🇷
 matrix.mvd.org	1.49.2	matrix.mvd.org	Austria	🇦🇹
 matrix.dyn3.de	1.49.2	matrix.dyn3.de	Germany	🇩🇪
 matrix.dnix.de	1.49.2	matrix.dnix.de	Germany	🇩🇪
+mailstation.de	1.49.2	mailstation.de	Germany	🇩🇪
 chat.thorko.de	1.49.2	chat.thorko.de	Germany	🇩🇪
 matrix.sebdu.de	1.49.2	matrix.sebdu.de	Germany	🇩🇪
 matrix.kity.wtf	1.49.2	matrix.kity.wtf	Canada	🇨🇦
