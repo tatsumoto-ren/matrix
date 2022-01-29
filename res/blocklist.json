@@ -86,5 +86,13 @@
   {
     "name": "mtrx.nz",
     "reason": "unreliable. deleted rooms (without shutting them down)"
+  },
+  {
+    "name": "utc.chat",
+    "reason": "has a history of account purges"
+  },
+  {
+    "name": "1776.moe",
+    "reason": "has a history of account purges"
   }
 ]
