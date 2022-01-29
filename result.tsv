@@ -16,6 +16,7 @@ vyas.ems.host	1.51.0	vyas.ems.host	Germany	🇩🇪
 ru-matrix.org	1.51.0	ru-matrix.org	Germany	🇩🇪
 rickelobe.com	1.51.0	rickelobe.com	United States of America	🇺🇸
 matrix.lrn.fm	1.51.0	matrix.lrn.fm	Canada	🇨🇦
+matrix.g24.at	1.51.0	matrix.g24.at	Austria	🇦🇹
 matrix.fuz.re	1.51.0	matrix.fuz.re	France	🇫🇷
 matrix.dpd.ch	1.51.0	matrix.dpd.ch	Switzerland	🇨🇭
 juniorjpdj.pl	1.51.0	juniorjpdj.pl	Poland	🇵🇱
@@ -68,6 +69,7 @@ riot.anarchyplanet.org	1.51.0	riot.anarchyplanet.org	United States of America	�
 matrix.tetaneutral.net	1.51.0	matrix.tetaneutral.net	France	🇫🇷
 matrix.rot1.bruckbu.de	1.51.0	matrix.rot1.bruckbu.de	Germany	🇩🇪
 matrix.magnumchaos.org	1.51.0	matrix.magnumchaos.org	Germany	🇩🇪
+matrix.hiddenasian.dev	1.51.0	matrix.hiddenasian.dev	Germany	🇩🇪
 matrix.gemeinsam.jetzt	1.51.0	matrix.gemeinsam.jetzt	Austria	🇦🇹
 matrix.dubronetwork.fr	1.51.0	matrix.dubronetwork.fr		
 matrix.planetdecred.org	1.51.0	matrix.planetdecred.org	United States of America	🇺🇸
@@ -91,7 +93,6 @@ matrix.snt.utwente.nl	1.50.2	matrix.snt.utwente.nl	Netherlands	🇳🇱
 matrix.deprecated.org	1.50.2	matrix.deprecated.org	United States of America	🇺🇸
 matrix.w1l.duckdns.org	1.50.2	matrix.w1l.duckdns.org	Germany	🇩🇪
 matrix.nrp-nautilus.io	1.50.2	matrix.nrp-nautilus.io	United States of America	🇺🇸
-matrix.hiddenasian.dev	1.50.2	matrix.hiddenasian.dev	Germany	🇩🇪
 matrix.cloud.codelutin.com	1.50.2	matrix.cloud.codelutin.com	Germany	🇩🇪
 mux.re	1.50.1	mux.re	France	🇫🇷
 priv8.chat	1.50.1	priv8.chat	France	🇫🇷
@@ -99,7 +100,6 @@ mx.aire.ml	1.50.1	mx.aire.ml	Netherlands	🇳🇱
 lomnik.net	1.50.1	lomnik.net	Germany	🇩🇪
 calcuode.com	1.50.1	calcuode.com		
 tricuties.com	1.50.1	tricuties.com	United States of America	🇺🇸
-matrix.g24.at	1.50.1	matrix.g24.at	Austria	🇦🇹
 matrix.cfx.re	1.50.1	matrix.cfx.re	United States of America	🇺🇸
 m.deadcrab.de	1.50.1	m.deadcrab.de	Germany	🇩🇪
 io.proxion.de	1.50.1	io.proxion.de	Germany	🇩🇪
@@ -168,7 +168,6 @@ matrix.bda.space	1.49.2	matrix.bda.space	United States of America	🇺🇸
 synapse.matoro.tk	1.49.2	synapse.matoro.tk	United States of America	🇺🇸
 synapse.chefst.de	1.49.2	synapse.chefst.de	Germany	🇩🇪
 matrix.znurre.com	1.49.2	matrix.znurre.com	Switzerland	🇨🇭
-matrix.wvffle.net	1.49.2	matrix.wvffle.net	Poland	🇵🇱
 matrix.vasbud.fun	1.49.2	matrix.vasbud.fun	Canada	🇨🇦
 matrix.psytux.com	1.49.2	matrix.psytux.com	Switzerland	🇨🇭
 matrix.ideaweb.hu	1.49.2	matrix.ideaweb.hu	Germany	🇩🇪
