@@ -106,5 +106,9 @@
   {
     "name": "spodeli.org",
     "reason": "can't upload files larger than 1MiB"
+  },
+  {
+    "name": "cuum.space",
+    "reason": "has a history of room blocks. can't upload large files."
   }
 ]
