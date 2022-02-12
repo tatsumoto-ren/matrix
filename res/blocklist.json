@@ -12,6 +12,10 @@
     "reason": "affiliated with matrix.org"
   },
   {
+    "name": "*.ems.host",
+    "reason": "affiliated with matrix.org"
+  },
+  {
     "name": "*.asra.gr",
     "reason": "has a history of account purges"
   },
