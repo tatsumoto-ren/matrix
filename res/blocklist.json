@@ -130,5 +130,9 @@
   {
     "name": "snug.moe",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.itbyhf.xyz",
+    "reason": "has a history of account purges"
   }
 ]
