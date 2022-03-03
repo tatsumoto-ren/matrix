@@ -65,7 +65,7 @@
   },
   {
     "name": "3000.chat",
-    "reason": "fails do deliver messages"
+    "reason": "has a history of account purges"
   },
   {
     "name": "unita.online",
@@ -133,6 +133,10 @@
   },
   {
     "name": "*.itbyhf.xyz",
+    "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.dalek.zone",
     "reason": "has a history of account purges"
   }
 ]
