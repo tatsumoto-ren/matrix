@@ -138,5 +138,9 @@
   {
     "name": "*.dalek.zone",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.encrypted.at",
+    "reason": "has a history of account purges"
   }
 ]
