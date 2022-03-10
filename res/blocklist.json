@@ -142,5 +142,17 @@
   {
     "name": "*.encrypted.at",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "lodere.es",
+    "reason": "registration is closed"
+  },
+  {
+    "name": "calcuode.com",
+    "reason": "registration is closed"
+  },
+  {
+    "name": "*.zettabomb.com",
+    "reason": "has a history of account purges"
   }
 ]
