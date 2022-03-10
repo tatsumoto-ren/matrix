@@ -158,5 +158,9 @@
   {
     "name": "*.libre.moe",
     "reason": "has a history of room blocks"
+  },
+  {
+    "name": "settgast.org",
+    "reason": "registration is closed (requires token)"
   }
 ]
