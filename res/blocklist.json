@@ -154,5 +154,9 @@
   {
     "name": "*.zettabomb.com",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.libre.moe",
+    "reason": "has a history of room blocks"
   }
 ]
