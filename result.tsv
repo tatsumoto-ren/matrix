@@ -5,6 +5,8 @@ nitro.chat	1.54.0	nitro.chat	Germany	🇩🇪
 lomnik.net	1.54.0	lomnik.net	Germany	🇩🇪
 garm.jrd.fi	1.54.0	garm.jrd.fi	Finland	🇫🇮
 freitrix.de	1.54.0	freitrix.de	Russia	🇷🇺
+arsylum.net	1.54.0	arsylum.net	Germany	🇩🇪
+halogen.city	1.54.0	halogen.city	United States of America	🇺🇸
 aria-net.org	1.54.0	aria-net.org	Italy	🇮🇹
 matrix.cfx.re	1.54.0	matrix.cfx.re	United States of America	🇺🇸
 therealblue.de	1.54.0	therealblue.de	Germany	🇩🇪
@@ -19,7 +21,6 @@ matrix.neaweb.ch	1.54.0	matrix.neaweb.ch	Switzerland	🇨🇭
 matrix.n3xus.one	1.54.0	matrix.n3xus.one	Germany	🇩🇪
 matrix.data.haus	1.54.0	matrix.data.haus	Germany	🇩🇪
 matrix.dapor.net	1.54.0	matrix.dapor.net	Germany	🇩🇪
-matrix.bda.space	1.54.0	matrix.bda.space	United States of America	🇺🇸
 chat.twomoons.de	1.54.0	chat.twomoons.de	Germany	🇩🇪
 synapse.matoro.tk	1.54.0	synapse.matoro.tk	United States of America	🇺🇸
 synapse.chefst.de	1.54.0	synapse.chefst.de	Germany	🇩🇪
@@ -30,10 +31,12 @@ matrix.st0rm.cloud	1.54.0	matrix.st0rm.cloud	Germany	🇩🇪
 matrix.sp-codes.de	1.54.0	matrix.sp-codes.de	Germany	🇩🇪
 matrix.ibsgaard.io	1.54.0	matrix.ibsgaard.io	United States of America	🇺🇸
 matrix.highteq.net	1.54.0	matrix.highteq.net	Germany	🇩🇪
+matrix.epactive.de	1.54.0	matrix.epactive.de	Germany	🇩🇪
 matrix.dabbill.com	1.54.0	matrix.dabbill.com	United States of America	🇺🇸
 matrix.taskname.com	1.54.0	matrix.taskname.com	United States of America	🇺🇸
 matrix.simonetti.nl	1.54.0	matrix.simonetti.nl	United States of America	🇺🇸
 matrix.rustysoft.de	1.54.0	matrix.rustysoft.de	Germany	🇩🇪
+matrix.paglusch.com	1.54.0	matrix.paglusch.com	United States of America	🇺🇸
 matrix.beachcom.org	1.54.0	matrix.beachcom.org	Germany	🇩🇪
 chat.geekforbes.com	1.54.0	chat.geekforbes.com	Canada	🇨🇦
 server.matrix4ulm.de	1.54.0	server.matrix4ulm.de	Germany	🇩🇪
@@ -52,9 +55,11 @@ matrix.florian-zier.de	1.54.0rc1	matrix.florian-zier.de	Germany	🇩🇪
 matrix.colonelkrud.com	1.54.0rc1	matrix.colonelkrud.com	United States of America	🇺🇸
 matrix.techsaviours.org	1.54.0	matrix.techsaviours.org	Germany	🇩🇪
 matrix.pancrypticon.net	1.54.0	matrix.pancrypticon.net	United States of America	🇺🇸
+matrix.arya.dogcraft.de	1.54.0	matrix.arya.dogcraft.de	Germany	🇩🇪
 matrix.mycloudservice.eu	1.54.0	matrix.mycloudservice.eu	Germany	🇩🇪
 matrix.banfieldzanin.com	1.54.0	matrix.banfieldzanin.com	United Kingdom	🇬🇧
 matrix.neuland.technology	1.54.0	matrix.neuland.technology	Germany	🇩🇪
+matrix-server.schaffarzik.net	1.54.0	matrix-server.schaffarzik.net	Germany	🇩🇪
 mux.re	1.53.0	mux.re	France	🇫🇷
 midov.pl	1.53.0	midov.pl	Poland	🇵🇱
 dermm.io	1.53.0	dermm.io	Germany	🇩🇪
@@ -63,7 +68,6 @@ m.webgo.de	1.53.0	m.webgo.de	Germany	🇩🇪
 m.ip-t.com	1.53.0	m.ip-t.com	Russia	🇷🇺
 skylar.tech	1.53.0	skylar.tech	United States of America	🇺🇸
 houtworm.im	1.53.0	houtworm.im	Netherlands	🇳🇱
-halogen.city	1.53.0	halogen.city	United States of America	🇺🇸
 converser.eu	1.53.0	converser.eu	France	🇫🇷
 matrix.lrn.fm	1.53.0	matrix.lrn.fm	Canada	🇨🇦
 matrix.dpd.ch	1.53.0	matrix.dpd.ch	Switzerland	🇨🇭
@@ -86,10 +90,8 @@ matrix.entr0py.de	1.53.0	matrix.entr0py.de	Germany	🇩🇪
 spiff.plootarg.net	1.53.0	spiff.plootarg.net	France	🇫🇷
 matrix.niklasfi.de	1.53.0	matrix.niklasfi.de	Germany	🇩🇪
 matrix.kraut.space	1.53.0	matrix.kraut.space	Germany	🇩🇪
-matrix.epactive.de	1.53.0	matrix.epactive.de	Germany	🇩🇪
 matrix.atr0phy.net	1.53.0	matrix.atr0phy.net	United States of America	🇺🇸
 matrix.tschorne.net	1.53.0	matrix.tschorne.net	Germany	🇩🇪
-matrix.paglusch.com	1.53.0	matrix.paglusch.com	United States of America	🇺🇸
 matrix.ericmesa.com	1.53.0	matrix.ericmesa.com	United States of America	🇺🇸
 synapse.mcwhirter.io	1.53.0	synapse.mcwhirter.io	Australia	🇦🇺
 matrix.rockstable.it	1.53.0	matrix.rockstable.it	Germany	🇩🇪
@@ -102,7 +104,6 @@ riot.anarchyplanet.org	1.53.0	riot.anarchyplanet.org	United States of America	�
 matrix.web3.foundation	1.53.0	matrix.web3.foundation	United States of America	🇺🇸
 matrix.tetaneutral.net	1.53.0	matrix.tetaneutral.net	France	🇫🇷
 matrix.hiddenasian.dev	1.53.0	matrix.hiddenasian.dev	Germany	🇩🇪
-matrix.arya.dogcraft.de	1.53.0	matrix.arya.dogcraft.de	Germany	🇩🇪
 matrix-rmonten.ddns.net	1.53.0	matrix-rmonten.ddns.net	United States of America	🇺🇸
 matrix.tfcconnection.org	1.53.0	matrix.tfcconnection.org	United States of America	🇺🇸
 matrix.eigenbaukombinat.de	1.53.0	matrix.eigenbaukombinat.de	Germany	🇩🇪
