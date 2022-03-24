@@ -162,5 +162,9 @@
   {
     "name": "settgast.org",
     "reason": "registration is closed (requires token)"
+  },
+  {
+    "name": "garm.jrd.fi",
+    "reason": "registration is closed (requires token)"
   }
 ]
