@@ -8,7 +8,7 @@ class SynapseVersion(tuple):
         for digit in version_str.split('.'):
             try:
                 version_digits.append(int(re.match(r'\d+', digit).group()))
-            except ValueError:
+            except (ValueError, AttributeError):
                 pass
 
         return super().__new__(cls, version_digits)
