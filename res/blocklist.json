@@ -166,5 +166,9 @@
   {
     "name": "garm.jrd.fi",
     "reason": "registration is closed (requires token)"
+  },
+  {
+    "name": "*.ohai.su",
+    "reason": "has a history of room blocks and account purges"
   }
 ]
