@@ -170,5 +170,9 @@
   {
     "name": "*.ohai.su",
     "reason": "has a history of room blocks and account purges"
+  },
+  {
+    "name": "*.dhp.com",
+    "reason": "has a history of account purges"
   }
 ]
