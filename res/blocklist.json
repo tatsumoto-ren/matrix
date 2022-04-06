@@ -182,5 +182,21 @@
   {
     "name": "*.nx-pod.de",
     "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.greensteps.cn",
+    "reason": "denies federation with most servers"
+  },
+  {
+    "name": "*.simonetti.nl",
+    "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.epactive.de",
+    "reason": "errors when trying to join rooms"
+  },
+  {
+    "name": "*.banfieldzanin.com",
+    "reason": "Your email domain is not authorized to register on this server"
   }
 ]
