@@ -198,5 +198,13 @@
   {
     "name": "*.banfieldzanin.com",
     "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.hellug.gr",
+    "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.eightballde.luxe",
+    "reason": "registration is closed"
   }
 ]
