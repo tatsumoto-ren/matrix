@@ -206,5 +206,9 @@
   {
     "name": "*.eightballde.luxe",
     "reason": "registration is closed"
+  },
+  {
+    "name": "*.gnomos.org",
+    "reason": "has a history of account purges"
   }
 ]
