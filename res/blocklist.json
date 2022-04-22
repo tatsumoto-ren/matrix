@@ -210,5 +210,9 @@
   {
     "name": "*.gnomos.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.lomnik.net",
+    "reason": "has a history of account purges"
   }
 ]
