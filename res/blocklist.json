@@ -214,5 +214,9 @@
   {
     "name": "*.lomnik.net",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "matrix.rptc.bid",
+    "reason": "has a history of account purges"
   }
 ]
