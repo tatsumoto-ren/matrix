@@ -218,5 +218,13 @@
   {
     "name": "matrix.rptc.bid",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.parity.io",
+    "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.paglusch.com",
+    "reason": "No appropriate authentication flow found"
   }
 ]
