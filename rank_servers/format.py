@@ -1,4 +1,6 @@
 import csv
+import json
+import re
 
 try:
     from .consts import *
@@ -7,6 +9,8 @@ except ImportError:
 
 
 def format_entries():
+    with open(BLOCKLIST_FILEPATH) as bf:
+        blocklist: list[dict[str, str]] = json.load(bf)
     with open(RESULT_FILEPATH) as rf, open(TEMPLATE_FILEPATH) as tf, open(FORMATTED_FILEPATH, 'w') as of:
         reader = csv.DictReader(
             rf,
@@ -27,6 +31,20 @@ def format_entries():
                         f'<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#{row["host"]}">{row["version"]}</a></code>',
                         f'<b>Host</b><input class="host" readonly type="text" value="{row["host"]}">',
                         f'<b>Country</b><span class="country">{row["country"] or "Not specified"}</span>',
+                        '</div>',
+                        '</details>',
+                        sep='\n',
+                        file=of,
+                    )
+            if line == '<!--blocklist data begin-->':
+                for row in blocklist:
+                    name_pretty = re.sub(r"^\*\.", "", row["name"])
+                    print(
+                        '<details class="entry">',
+                        f'<summary>{name_pretty}</summary>',
+                        '<div class="info">',
+                        f'<b>Host</b><input class="host" readonly type="text" value="{row["name"]}">',
+                        f'<b>Reason</b><span class="reason">{row["reason"] or "Not specified"}</span>',
                         '</div>',
                         '</details>',
                         sep='\n',
