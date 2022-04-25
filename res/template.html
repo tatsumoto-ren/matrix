@@ -10,13 +10,18 @@
 
 <body>
     <header>
-        <img alt="Element" src="https://swiso.org/use/matrix/icon.svg">
-        <h1>Ranked Matrix servers</h1>
-        <a href="/blog/donating-to-tatsumoto.html">Support</a>
-        <a class="return" href="/">Return</a>
+        <div class="logo">
+            <img alt="Element" src="https://swiso.org/use/matrix/icon.svg">
+            <h1>Ranked Matrix servers</h1>
+        </div>
+        <nav>
+            <a href="#blocklist">Blocklist</a>
+            <a href="/blog/donating-to-tatsumoto.html">Support</a>
+            <a class="return" href="/">Return</a>
+        </nav>
     </header>
     <div class="container">
-        <details open class="howto">
+        <details open class="howto" id="get_started">
             <summary>How to get started</summary>
             <article>
                 <ol>
@@ -53,7 +58,7 @@
             <!--formatted data begin-->
             <!--formatted data end-->
         </div>
-        <details open class="howto">
+        <details open class="howto" id="blocklist">
             <summary>Blocklisted servers</summary>
             <article>
                 <p>
@@ -99,8 +104,8 @@
                 select_text(input)
             }
         }
-        const first_link = document.querySelector('header > a:first-of-type')
-        first_link.parentNode.insertBefore(create_expand_all_link(), first_link);
+        const nav = document.querySelector('header > nav')
+        nav.prepend(create_expand_all_link());
     });
 </script>
 
