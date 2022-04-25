@@ -63,7 +63,7 @@ class SortServers:
 
     def construct_blocklist(self) -> List[str]:
         blocklist = []
-        with open(os.path.join(DATA_DIR, 'blocklist.json')) as f:
+        with open(BLOCKLIST_FILEPATH) as f:
             for server in json.load(f):
                 blocklist.append(self.blocklist_escape(server['name']))
                 if server['name'].startswith('*.'):
