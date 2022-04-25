@@ -8,13 +8,18 @@
 </head>
 <body>
 <header>
+<div class="logo">
 <img alt="Element" src="https://swiso.org/use/matrix/icon.svg">
 <h1>Ranked Matrix servers</h1>
+</div>
+<nav>
+<a href="#blocklist">Blocklist</a>
 <a href="/blog/donating-to-tatsumoto.html">Support</a>
 <a class="return" href="/">Return</a>
+</nav>
 </header>
 <div class="container">
-<details open class="howto">
+<details open class="howto" id="get_started">
 <summary>How to get started</summary>
 <article>
 <ol>
@@ -216,15 +221,6 @@ Press "Register" and follow the instructions.
 <b>URL</b><span class="name"><a target="_blank" href="https://io.proxion.de">io.proxion.de</a></span>
 <b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#io.proxion.de">1.57.0</a></code>
 <b>Host</b><input class="host" readonly type="text" value="io.proxion.de">
-<b>Country</b><span class="country">Germany</span>
-</div>
-</details>
-<details class="entry">
-<summary>mailstation.de</summary>
-<div class="info">
-<b>URL</b><span class="name"><a target="_blank" href="https://mailstation.de">mailstation.de</a></span>
-<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#mailstation.de">1.57.0</a></code>
-<b>Host</b><input class="host" readonly type="text" value="mailstation.de">
 <b>Country</b><span class="country">Germany</span>
 </div>
 </details>
@@ -590,6 +586,419 @@ Press "Register" and follow the instructions.
 </details>
 <!--formatted data end-->
 </div>
+<details open class="howto" id="blocklist">
+<summary>Blocklisted servers</summary>
+<article>
+<p>
+The blocklist contains servers that have proven themselves unreliable for registering new accounts on.
+A server is added to this list if it has technical issues
+or if it has been caught banning user accounts or rooms without prior notice.
+</p>
+</article>
+</details>
+<div class="servers">
+<!--blocklist data begin-->
+<details class="entry">
+<summary>matrix.org</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="matrix.org">
+<b>Reason</b><span class="reason">absurdly strict moderation</span>
+</div>
+</details>
+<details class="entry">
+<summary>tchncs.de</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="tchncs.de">
+<b>Reason</b><span class="reason">absurdly strict moderation</span>
+</div>
+</details>
+<details class="entry">
+<summary>modular.im</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.modular.im">
+<b>Reason</b><span class="reason">affiliated with matrix.org</span>
+</div>
+</details>
+<details class="entry">
+<summary>ems.host</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.ems.host">
+<b>Reason</b><span class="reason">affiliated with matrix.org</span>
+</div>
+</details>
+<details class="entry">
+<summary>asra.gr</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.asra.gr">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>envs.net</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.envs.net">
+<b>Reason</b><span class="reason">totalitarian terms of service</span>
+</div>
+</details>
+<details class="entry">
+<summary>x0.chat</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="x0.chat">
+<b>Reason</b><span class="reason">admin prevents users from publishing their rooms</span>
+</div>
+</details>
+<details class="entry">
+<summary>kuvio.de</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="kuvio.de">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>awau.uk</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="awau.uk">
+<b>Reason</b><span class="reason">cloudflare</span>
+</div>
+</details>
+<details class="entry">
+<summary>neko.dev</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.neko.dev">
+<b>Reason</b><span class="reason">registration is closed</span>
+</div>
+</details>
+<details class="entry">
+<summary>tusooa.xyz</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="tusooa.xyz">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>msqu.de</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.msqu.de">
+<b>Reason</b><span class="reason">has a history of room blocks</span>
+</div>
+</details>
+<details class="entry">
+<summary>stop.pe</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.stop.pe">
+<b>Reason</b><span class="reason">internal server error when trying to register</span>
+</div>
+</details>
+<details class="entry">
+<summary>zinz.dev</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.zinz.dev">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>poa.st</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.poa.st">
+<b>Reason</b><span class="reason">slow server, strict moderation, cloudflare</span>
+</div>
+</details>
+<details class="entry">
+<summary>nesven.eu</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.nesven.eu">
+<b>Reason</b><span class="reason">apparently not a server for public use.</span>
+</div>
+</details>
+<details class="entry">
+<summary>3000.chat</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="3000.chat">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>unita.online</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="unita.online">
+<b>Reason</b><span class="reason">this room is too complex error when joining rooms</span>
+</div>
+</details>
+<details class="entry">
+<summary>phcn.de</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.phcn.de">
+<b>Reason</b><span class="reason">no appropriate authentication flow found</span>
+</div>
+</details>
+<details class="entry">
+<summary>ohea.xyz</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.ohea.xyz">
+<b>Reason</b><span class="reason">no appropriate authentication flow found</span>
+</div>
+</details>
+<details class="entry">
+<summary>faelix.im</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="faelix.im">
+<b>Reason</b><span class="reason">stability/performance issues</span>
+</div>
+</details>
+<details class="entry">
+<summary>stux.chat</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="stux.chat">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>mtrx.nz</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="mtrx.nz">
+<b>Reason</b><span class="reason">unreliable. deleted rooms (without shutting them down)</span>
+</div>
+</details>
+<details class="entry">
+<summary>utc.chat</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="utc.chat">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>1776.moe</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="1776.moe">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>sykorp.com</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="sykorp.com">
+<b>Reason</b><span class="reason">repeated room deletions</span>
+</div>
+</details>
+<details class="entry">
+<summary>catgirl.gay</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="catgirl.gay">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>spodeli.org</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="spodeli.org">
+<b>Reason</b><span class="reason">can't upload files larger than 1MiB</span>
+</div>
+</details>
+<details class="entry">
+<summary>cuum.space</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="cuum.space">
+<b>Reason</b><span class="reason">has a history of room blocks. can't upload large files.</span>
+</div>
+</details>
+<details class="entry">
+<summary>antifash.gay</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="antifash.gay">
+<b>Reason</b><span class="reason">constantly throws Invalid Authorization header.</span>
+</div>
+</details>
+<details class="entry">
+<summary>nigger.chat</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="nigger.chat">
+<b>Reason</b><span class="reason">can't upload files larger than 1MiB</span>
+</div>
+</details>
+<details class="entry">
+<summary>lostpod.me</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="lostpod.me">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>snug.moe</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="snug.moe">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>itbyhf.xyz</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.itbyhf.xyz">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>dalek.zone</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.dalek.zone">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>encrypted.at</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.encrypted.at">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>lodere.es</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="lodere.es">
+<b>Reason</b><span class="reason">registration is closed</span>
+</div>
+</details>
+<details class="entry">
+<summary>calcuode.com</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="calcuode.com">
+<b>Reason</b><span class="reason">registration is closed</span>
+</div>
+</details>
+<details class="entry">
+<summary>zettabomb.com</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.zettabomb.com">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>libre.moe</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.libre.moe">
+<b>Reason</b><span class="reason">has a history of room blocks</span>
+</div>
+</details>
+<details class="entry">
+<summary>settgast.org</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="settgast.org">
+<b>Reason</b><span class="reason">registration is closed (requires token)</span>
+</div>
+</details>
+<details class="entry">
+<summary>garm.jrd.fi</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="garm.jrd.fi">
+<b>Reason</b><span class="reason">registration is closed (requires token)</span>
+</div>
+</details>
+<details class="entry">
+<summary>ohai.su</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.ohai.su">
+<b>Reason</b><span class="reason">has a history of room blocks and account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>dhp.com</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.dhp.com">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>scamdemic.wtf</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.scamdemic.wtf">
+<b>Reason</b><span class="reason">registration is desabled</span>
+</div>
+</details>
+<details class="entry">
+<summary>nx-pod.de</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.nx-pod.de">
+<b>Reason</b><span class="reason">Your email domain is not authorized to register on this server</span>
+</div>
+</details>
+<details class="entry">
+<summary>greensteps.cn</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.greensteps.cn">
+<b>Reason</b><span class="reason">denies federation with most servers</span>
+</div>
+</details>
+<details class="entry">
+<summary>simonetti.nl</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.simonetti.nl">
+<b>Reason</b><span class="reason">Your email domain is not authorized to register on this server</span>
+</div>
+</details>
+<details class="entry">
+<summary>epactive.de</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.epactive.de">
+<b>Reason</b><span class="reason">errors when trying to join rooms</span>
+</div>
+</details>
+<details class="entry">
+<summary>banfieldzanin.com</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.banfieldzanin.com">
+<b>Reason</b><span class="reason">Your email domain is not authorized to register on this server</span>
+</div>
+</details>
+<details class="entry">
+<summary>hellug.gr</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.hellug.gr">
+<b>Reason</b><span class="reason">Your email domain is not authorized to register on this server</span>
+</div>
+</details>
+<details class="entry">
+<summary>eightballde.luxe</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.eightballde.luxe">
+<b>Reason</b><span class="reason">registration is closed</span>
+</div>
+</details>
+<details class="entry">
+<summary>gnomos.org</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.gnomos.org">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>lomnik.net</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.lomnik.net">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>matrix.rptc.bid</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="matrix.rptc.bid">
+<b>Reason</b><span class="reason">has a history of account purges</span>
+</div>
+</details>
+<details class="entry">
+<summary>parity.io</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.parity.io">
+<b>Reason</b><span class="reason">Your email domain is not authorized to register on this server</span>
+</div>
+</details>
+<details class="entry">
+<summary>paglusch.com</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.paglusch.com">
+<b>Reason</b><span class="reason">No appropriate authentication flow found</span>
+</div>
+</details>
+<!--blocklist data end-->
+</div>
 </div>
 <footer>
 You can find the repository of this project on
@@ -618,8 +1027,8 @@ input.onclick = () => {
 select_text(input)
 }
 }
-const first_link = document.querySelector('header > a:first-of-type')
-first_link.parentNode.insertBefore(create_expand_all_link(), first_link);
+const nav = document.querySelector('header > nav')
+nav.prepend(create_expand_all_link());
 });
 </script>
 </html>
