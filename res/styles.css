@@ -181,6 +181,11 @@ details>.info>* {
     line-height: 33px;
 }
 
+details .reason {
+    word-wrap: break-word;
+    word-break: normal;
+}
+
 summary {
     padding: 1rem;
     display: block;
