@@ -35,7 +35,8 @@ of Element if you can't install it locally.
 </li>
 <li>
 Use common sense to choose wisely.
-My recommendations can be found
+Any server can appear on this page unless it's <a href="#blocklist">blocklisted</a>.
+My recommendations (a whitelist) can be found
 <a href="/blog/list-of-matrix-servers.html">here</a>.
 </li>
 <li>
@@ -105,15 +106,6 @@ Press "Register" and follow the instructions.
 <b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#matrix.g24.at">1.58.1</a></code>
 <b>Host</b><input class="host" readonly type="text" value="matrix.g24.at">
 <b>Country</b><span class="country">Austria</span>
-</div>
-</details>
-<details class="entry">
-<summary>m.deadcrab.de</summary>
-<div class="info">
-<b>URL</b><span class="name"><a target="_blank" href="https://m.deadcrab.de">m.deadcrab.de</a></span>
-<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#m.deadcrab.de">1.58.1</a></code>
-<b>Host</b><input class="host" readonly type="text" value="m.deadcrab.de">
-<b>Country</b><span class="country">Germany</span>
 </div>
 </details>
 <details class="entry">
@@ -396,15 +388,6 @@ Press "Register" and follow the instructions.
 </div>
 </details>
 <details class="entry">
-<summary>matrix.danyocean.com</summary>
-<div class="info">
-<b>URL</b><span class="name"><a target="_blank" href="https://matrix.danyocean.com">matrix.danyocean.com</a></span>
-<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#matrix.danyocean.com">1.58.0</a></code>
-<b>Host</b><input class="host" readonly type="text" value="matrix.danyocean.com">
-<b>Country</b><span class="country">France</span>
-</div>
-</details>
-<details class="entry">
 <summary>matrix.archoslinux.cz</summary>
 <div class="info">
 <b>URL</b><span class="name"><a target="_blank" href="https://matrix.archoslinux.cz">matrix.archoslinux.cz</a></span>
@@ -636,15 +619,6 @@ Press "Register" and follow the instructions.
 <b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#chat.thorko.de">1.57.0</a></code>
 <b>Host</b><input class="host" readonly type="text" value="chat.thorko.de">
 <b>Country</b><span class="country">Germany</span>
-</div>
-</details>
-<details class="entry">
-<summary>matrix.tele2.ee</summary>
-<div class="info">
-<b>URL</b><span class="name"><a target="_blank" href="https://matrix.tele2.ee">matrix.tele2.ee</a></span>
-<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#matrix.tele2.ee">1.57.0</a></code>
-<b>Host</b><input class="host" readonly type="text" value="matrix.tele2.ee">
-<b>Country</b><span class="country">Not specified</span>
 </div>
 </details>
 <details class="entry">
@@ -1274,6 +1248,27 @@ or if it has been caught banning user accounts or rooms without prior notice.
 <div class="info">
 <b>Host</b><input class="host" readonly type="text" value="*.paglusch.com">
 <b>Reason</b><span class="reason">No appropriate authentication flow found</span>
+</div>
+</details>
+<details class="entry">
+<summary>danyocean.com</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.danyocean.com">
+<b>Reason</b><span class="reason">Poor performance</span>
+</div>
+</details>
+<details class="entry">
+<summary>matrix.tele2.ee</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="matrix.tele2.ee">
+<b>Reason</b><span class="reason">Broken reCaptcha</span>
+</div>
+</details>
+<details class="entry">
+<summary>deadcrab.de</summary>
+<div class="info">
+<b>Host</b><input class="host" readonly type="text" value="*.deadcrab.de">
+<b>Reason</b><span class="reason">An error was encountered when sending the email</span>
 </div>
 </details>
 <!--blocklist data end-->
