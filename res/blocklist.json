@@ -238,5 +238,9 @@
   {
     "name": "*.deadcrab.de",
     "reason": "An error was encountered when sending the email"
+  },
+  {
+    "name": "*.saytar.me",
+    "reason": "has a history of account purges"
   }
 ]
