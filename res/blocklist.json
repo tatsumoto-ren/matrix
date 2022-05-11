@@ -242,5 +242,9 @@
   {
     "name": "*.saytar.me",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.g24.at",
+    "reason": "unable to join large rooms"
   }
 ]
