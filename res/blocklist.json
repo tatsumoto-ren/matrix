@@ -226,5 +226,17 @@
   {
     "name": "*.paglusch.com",
     "reason": "No appropriate authentication flow found"
+  },
+  {
+    "name": "*.danyocean.com",
+    "reason": "Poor performance"
+  },
+  {
+    "name": "matrix.tele2.ee",
+    "reason": "Broken reCaptcha"
+  },
+  {
+    "name": "*.deadcrab.de",
+    "reason": "An error was encountered when sending the email"
   }
 ]
