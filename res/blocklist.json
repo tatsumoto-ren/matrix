@@ -246,5 +246,9 @@
   {
     "name": "*.g24.at",
     "reason": "unable to join large rooms"
+  },
+  {
+    "name": "*.vgd.me",
+    "reason": "denies federation with most servers"
   }
 ]
