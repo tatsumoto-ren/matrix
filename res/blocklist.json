@@ -254,5 +254,13 @@
   {
     "name": "*.dermm.io",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.rickelobe.com",
+    "reason": "denies federation with most servers"
+  },
+  {
+    "name": "*.hicag.org",
+    "reason": "requires a registration token"
   }
 ]
