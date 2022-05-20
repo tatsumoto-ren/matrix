@@ -250,5 +250,9 @@
   {
     "name": "*.vgd.me",
     "reason": "denies federation with most servers"
+  },
+  {
+    "name": "*.dermm.io",
+    "reason": "has a history of account purges"
   }
 ]
