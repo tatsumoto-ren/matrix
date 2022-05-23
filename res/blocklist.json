@@ -262,5 +262,9 @@
   {
     "name": "*.hicag.org",
     "reason": "requires a registration token"
+  },
+  {
+    "name": "*.un-hack-bar.de",
+    "reason": "has a history of account purges"
   }
 ]
