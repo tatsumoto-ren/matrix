@@ -266,5 +266,9 @@
   {
     "name": "*.un-hack-bar.de",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.the-apothecary.club",
+    "reason": "absurdly strict moderation"
   }
 ]
