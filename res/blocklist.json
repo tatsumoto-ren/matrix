@@ -57,7 +57,7 @@
   },
   {
     "name": "*.poa.st",
-    "reason": "slow server, strict moderation, cloudflare"
+    "reason": "slow server, strict moderation, cloudflare, has a history of account purges"
   },
   {
     "name": "*.nesven.eu",
