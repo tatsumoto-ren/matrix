@@ -1,11 +1,14 @@
 bau-ha.us	1.62.0	bau-ha.us	Germany	🇩🇪
 nitro.chat	1.62.0	nitro.chat	Germany	🇩🇪
+freitrix.de	1.62.0	freitrix.de	Russia	🇷🇺
 illspirit.net	1.62.0rc3	illspirit.net	Germany	🇩🇪
-das-labor.org	1.62.0	das-labor.org	Germany	🇩🇪
 matrix.lion.fm	1.62.0	matrix.lion.fm	United States of America	🇺🇸
 chat.home55.net	1.62.0	chat.home55.net	Germany	🇩🇪
+anon.playgo.tel	1.62.0	anon.playgo.tel	Germany	🇩🇪
 matrix.nicfab.it	1.62.0	matrix.nicfab.it	Italy	🇮🇹
+matrix.lelux.net	1.62.0	matrix.lelux.net	Germany	🇩🇪
 matrix.sibnsk.net	1.62.0	matrix.sibnsk.net	Russia	🇷🇺
+matrix.decred.org	1.62.0	matrix.decred.org	Netherlands	🇳🇱
 matrix.automat.run	1.62.0	matrix.automat.run	France	🇫🇷
 matrix.chatcloud.net	1.62.0	matrix.chatcloud.net	Germany	🇩🇪
 matrix.ombreport.info	1.62.0	matrix.ombreport.info	France	🇫🇷
@@ -17,7 +20,6 @@ zelchat.de	1.61.1	zelchat.de	Germany	🇩🇪
 waffle.tech	1.61.1	waffle.tech	United States of America	🇺🇸
 jabawok.net	1.61.1	jabawok.net	Australia	🇦🇺
 houtworm.im	1.61.1	houtworm.im	Netherlands	🇳🇱
-freitrix.de	1.61.1	freitrix.de	Russia	🇷🇺
 chat.usr.nz	1.61.1	chat.usr.nz	New Zealand	🇳🇿
 boritsch.de	1.61.1	boritsch.de	Germany	🇩🇪
 halogen.city	1.61.1	halogen.city	United States of America	🇺🇸
@@ -25,6 +27,8 @@ franssen.xyz	1.61.1	franssen.xyz	Finland	🇫🇮
 io.proxion.de	1.61.1	io.proxion.de	Germany	🇩🇪
 dowdell.media	1.61.1	dowdell.media	United States of America	🇺🇸
 pirateriot.net	1.61.1	pirateriot.net	Germany	🇩🇪
+matrix.tryp.io	1.61.1	matrix.tryp.io	France	🇫🇷
+mailstation.de	1.61.1	mailstation.de	Germany	🇩🇪
 chat.thorko.de	1.61.1	chat.thorko.de	Germany	🇩🇪
 matrix.leon.wtf	1.61.1	matrix.leon.wtf	Germany	🇩🇪
 matrix.cirr.com	1.61.1	matrix.cirr.com	United States of America	🇺🇸
@@ -33,7 +37,6 @@ matrix.poast.org	1.61.1	matrix.poast.org	Finland	🇫🇮
 matrix.neaweb.ch	1.61.1	matrix.neaweb.ch	Switzerland	🇨🇭
 matrix.ffggrz.de	1.61.1	matrix.ffggrz.de	Germany	🇩🇪
 matrix.bda.space	1.61.1	matrix.bda.space	United States of America	🇺🇸
-hive-mind.network	1.61.1	hive-mind.network	Seychelles	🇸🇨
 matrix.sp-codes.de	1.61.1	matrix.sp-codes.de	Germany	🇩🇪
 matrix.boritsch.de	1.61.1	matrix.boritsch.de	Germany	🇩🇪
 social.rights.ninja	1.61.1	social.rights.ninja	Canada	🇨🇦
@@ -60,9 +63,7 @@ matrix.dnix.de	1.61.0	matrix.dnix.de	Germany	🇩🇪
 hs.livegen.net	1.61.0	hs.livegen.net		
 chat.breuxi.de	1.61.0	chat.breuxi.de	Germany	🇩🇪
 matrix.cirk2.de	1.61.0	matrix.cirk2.de	Germany	🇩🇪
-anon.playgo.tel	1.61.0	anon.playgo.tel	Germany	🇩🇪
 matrix.base8.org	1.61.0	matrix.base8.org	United States of America	🇺🇸
-matrix.decred.org	1.61.0	matrix.decred.org	Netherlands	🇳🇱
 panthermoderns.org	1.61.0	panthermoderns.org	Germany	🇩🇪
 matrix.highteq.net	1.61.0	matrix.highteq.net	Germany	🇩🇪
 matrix.bootlin.com	1.61.0	matrix.bootlin.com	France	🇫🇷
@@ -77,14 +78,3 @@ matrix.planetdecred.org	1.61.0	matrix.planetdecred.org	United States of America	
 matrix.mycloudservice.eu	1.61.0	matrix.mycloudservice.eu	Germany	🇩🇪
 matrix.eigenbaukombinat.de	1.61.0	matrix.eigenbaukombinat.de	Germany	🇩🇪
 synapse.matrix.digitale-gesellschaft.ch	1.61.0rc1	synapse.matrix.digitale-gesellschaft.ch	Germany	🇩🇪
-matrix.tryp.io	1.60.0	matrix.tryp.io	France	🇫🇷
-matrix.kjoe.ml	1.60.0	matrix.kjoe.ml	Germany	🇩🇪
-matrix.sebdu.de	1.60.0	matrix.sebdu.de	Germany	🇩🇪
-matrix.kity.wtf	1.60.0	matrix.kity.wtf	Canada	🇨🇦
-matrix.data.haus	1.60.0	matrix.data.haus	Germany	🇩🇪
-synapse.matoro.tk	1.60.0	synapse.matoro.tk	United States of America	🇺🇸
-matrix.librepush.net	1.60.0	matrix.librepush.net	Germany	🇩🇪
-synapse.schefczyk.net	1.60.0	synapse.schefczyk.net	Germany	🇩🇪
-matrix.web3.foundation	1.60.0	matrix.web3.foundation	United States of America	🇺🇸
-matrix.tetaneutral.net	1.60.0	matrix.tetaneutral.net	France	🇫🇷
-matrix.colonelkrud.com	1.60.0rc1	matrix.colonelkrud.com	United States of America	🇺🇸
