@@ -270,5 +270,9 @@
   {
     "name": "*.the-apothecary.club",
     "reason": "absurdly strict moderation"
+  },
+  {
+    "name": "*.yatrix.org",
+    "reason": "has a history of account purges"
   }
 ]
