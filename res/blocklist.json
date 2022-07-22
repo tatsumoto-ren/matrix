@@ -274,5 +274,9 @@
   {
     "name": "*.yatrix.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.base8.org",
+    "reason": "requires a registration token"
   }
 ]
