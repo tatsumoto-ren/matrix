@@ -278,5 +278,9 @@
   {
     "name": "*.base8.org",
     "reason": "requires a registration token"
+  },
+  {
+    "name": "*.selea.se",
+    "reason": "requires a registration token"
   }
 ]
