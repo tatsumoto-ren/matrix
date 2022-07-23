@@ -306,5 +306,13 @@
   {
     "name": "*.mux.re",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.das-labor.org",
+    "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.ioi.wtf",
+    "reason": "An error was encountered when sending the email"
   }
 ]
