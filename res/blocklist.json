@@ -314,5 +314,9 @@
   {
     "name": "*.ioi.wtf",
     "reason": "An error was encountered when sending the email"
+  },
+  {
+    "name": "*.archoslinux.cz",
+    "reason": "has a history of account purges"
   }
 ]
