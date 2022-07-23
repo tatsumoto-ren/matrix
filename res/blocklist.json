@@ -318,5 +318,9 @@
   {
     "name": "*.archoslinux.cz",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.matrix.horse",
+    "reason": "has a history of account purges"
   }
 ]
