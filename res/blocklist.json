@@ -302,5 +302,9 @@
   {
     "name": "*.home55.net",
     "reason": "denies federation with most servers"
+  },
+  {
+    "name": "*.mux.re",
+    "reason": "has a history of account purges"
   }
 ]
