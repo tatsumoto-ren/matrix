@@ -298,5 +298,9 @@
   {
     "name": "*.3dns.eu",
     "reason": "Unable to query for supported registration methods."
+  },
+  {
+    "name": "*.home55.net",
+    "reason": "denies federation with most servers"
   }
 ]
