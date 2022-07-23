@@ -286,5 +286,17 @@
   {
     "name": "*.automat.run",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.libresolutions.network",
+    "reason": "No appropriate authentication flow found"
+  },
+  {
+    "name": "*.ombreport.info",
+    "reason": "Localhost is not in the list of supported domains for this site key."
+  },
+  {
+    "name": "*.3dns.eu",
+    "reason": "Unable to query for supported registration methods."
   }
 ]
