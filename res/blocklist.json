@@ -326,5 +326,9 @@
   {
     "name": "*.franssen.xyz",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.cuteworld.space",
+    "reason": "has a history of account purges"
   }
 ]
