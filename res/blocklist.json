@@ -330,5 +330,9 @@
   {
     "name": "*.cuteworld.space",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.mssj.me",
+    "reason": "requires a registration token"
   }
 ]
