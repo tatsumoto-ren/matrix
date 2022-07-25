@@ -334,5 +334,9 @@
   {
     "name": "*.mssj.me",
     "reason": "requires a registration token"
+  },
+  {
+    "name": "*.dascoyote.xyz",
+    "reason": "has a history of account purges"
   }
 ]
