@@ -338,5 +338,9 @@
   {
     "name": "*.dascoyote.xyz",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.smar.fi",
+    "reason": "has a history of account purges"
   }
 ]
