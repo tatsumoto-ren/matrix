@@ -22,7 +22,7 @@ echo "Latest synapse version: $LATEST_SYNAPSE"
 
 export MATRIX_DATA_DIR LATEST_SYNAPSE
 
-[[ $1 == debug ]] || rm -- "$MATRIX_DATA_DIR/servers.json" || true
+[[ $* == debug ]] || rm -- "$MATRIX_DATA_DIR/servers.json" || true
 python3 -m rank_servers
 mv -- "$MATRIX_DATA_DIR/formatted.html" "$dir/index.html"
 mv -- "$MATRIX_DATA_DIR/result.tsv" "$dir/result.tsv"
