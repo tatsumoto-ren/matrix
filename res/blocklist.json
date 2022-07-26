@@ -354,5 +354,9 @@
   {
     "name": "*.lolisho.chat",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.synod.im",
+    "reason": "has a history of account purges"
   }
 ]
