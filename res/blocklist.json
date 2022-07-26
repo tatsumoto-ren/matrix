@@ -346,5 +346,9 @@
   {
     "name": "*.lkj.it",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.gogel.me",
+    "reason": "has a history of account purges"
   }
 ]
