@@ -358,5 +358,9 @@
   {
     "name": "*.synod.im",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.e2e.zone",
+    "reason": "has a history of account purges"
   }
 ]
