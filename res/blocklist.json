@@ -366,5 +366,13 @@
   {
     "name": "*.piegod.me",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.donsid.net",
+    "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.kameron.cloud",
+    "reason": "has a history of account purges"
   }
 ]
