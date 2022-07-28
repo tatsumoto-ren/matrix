@@ -374,5 +374,9 @@
   {
     "name": "*.kameron.cloud",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.nixxda.net",
+    "reason": "has a history of account purges"
   }
 ]
