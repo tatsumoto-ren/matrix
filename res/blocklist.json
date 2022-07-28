@@ -382,5 +382,9 @@
   {
     "name": "*.ax.lt",
     "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.neaweb.ch",
+    "reason": "Unable to query for supported registration methods."
   }
 ]
