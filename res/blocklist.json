@@ -390,5 +390,9 @@
   {
     "name": "*.panthermoderns.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.rustysoft.de",
+    "reason": "Your email domain is not authorized to register on this server"
   }
 ]
