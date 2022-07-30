@@ -394,5 +394,13 @@
   {
     "name": "*.rustysoft.de",
     "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.leon.wtf",
+    "reason": "requires a registration token"
+  },
+  {
+    "name": "*.ffggrz.de",
+    "reason": "Your email domain is not authorized to register on this server"
   }
 ]
