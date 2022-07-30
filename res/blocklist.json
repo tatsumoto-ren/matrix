@@ -386,5 +386,9 @@
   {
     "name": "*.neaweb.ch",
     "reason": "Unable to query for supported registration methods."
+  },
+  {
+    "name": "*.panthermoderns.org",
+    "reason": "has a history of account purges"
   }
 ]
