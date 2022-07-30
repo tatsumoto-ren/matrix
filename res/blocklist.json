@@ -406,5 +406,9 @@
   {
     "name": "*.utwente.io",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.chaospott.de",
+    "reason": "requires a registration token"
   }
 ]
