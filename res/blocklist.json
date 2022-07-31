@@ -410,5 +410,9 @@
   {
     "name": "*.chaospott.de",
     "reason": "requires a registration token"
+  },
+  {
+    "name": "*.decred.org",
+    "reason": "has a history of account purges"
   }
 ]
