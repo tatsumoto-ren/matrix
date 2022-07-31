@@ -414,5 +414,13 @@
   {
     "name": "*.decred.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.techsaviours.org",
+    "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.catgirl.cloud",
+    "reason": "has a history of account purges"
   }
 ]
