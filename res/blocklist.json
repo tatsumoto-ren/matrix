@@ -422,5 +422,9 @@
   {
     "name": "*.catgirl.cloud",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.geekforbes.com",
+    "reason": "has a history of account purges"
   }
 ]
