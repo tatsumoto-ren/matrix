@@ -430,5 +430,9 @@
   {
     "name": "*.nerd2nerd.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "vn-rtmessaging.rtcenter.org",
+    "reason": "denies federation with most servers"
   }
 ]
