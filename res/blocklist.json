@@ -426,5 +426,9 @@
   {
     "name": "*.geekforbes.com",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.nerd2nerd.org",
+    "reason": "has a history of account purges"
   }
 ]
