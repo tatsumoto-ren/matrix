@@ -442,5 +442,13 @@
   {
     "name": "*.rtb.rocks",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.skytel.ee",
+    "reason": "'this room is too complex' error when joining rooms"
+  },
+  {
+    "name": "*.su.cvut.cz",
+    "reason": "Your email domain is not authorized to register on this server"
   }
 ]
