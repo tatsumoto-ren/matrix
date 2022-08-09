@@ -438,5 +438,9 @@
   {
     "name": "*.garudalinux.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.rtb.rocks",
+    "reason": "has a history of account purges"
   }
 ]
