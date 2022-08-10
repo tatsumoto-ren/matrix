@@ -454,5 +454,9 @@
   {
     "name": "*.magnumchaos.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.planetdecred.org",
+    "reason": "No appropriate authentication flow found"
   }
 ]
