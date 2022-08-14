@@ -466,5 +466,9 @@
   {
     "name": "*.dpd.ch",
     "reason": "Your email address cannot be used for registration"
+  },
+  {
+    "name": "*.lutsi.fi",
+    "reason": "Localhost is not in the list of supported domains for this site key"
   }
 ]
