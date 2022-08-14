@@ -470,5 +470,9 @@
   {
     "name": "*.lutsi.fi",
     "reason": "Localhost is not in the list of supported domains for this site key"
+  },
+  {
+    "name": "*.cirr.com",
+    "reason": "An error was encountered when sending the email"
   }
 ]
