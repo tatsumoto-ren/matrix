@@ -490,5 +490,9 @@
   {
     "name": "*.highteq.net",
     "reason": "Localhost is not in the list of supported domains for this site key."
+  },
+  {
+    "name": "*.rights.ninja",
+    "reason": "requires a registration token"
   }
 ]
