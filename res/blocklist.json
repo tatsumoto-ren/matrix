@@ -478,5 +478,9 @@
   {
     "name": "*.playgo.tel",
     "reason": "requires a registration token"
+  },
+  {
+    "name": "*.bda.space",
+    "reason": "Localhost is not in the list of supported domains for this site key."
   }
 ]
