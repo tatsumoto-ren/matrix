@@ -482,5 +482,9 @@
   {
     "name": "*.bda.space",
     "reason": "Localhost is not in the list of supported domains for this site key."
+  },
+  {
+    "name": "*.rrze.fau.de",
+    "reason": "Your email domain is not authorized to register on this server"
   }
 ]
