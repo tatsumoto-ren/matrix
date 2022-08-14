@@ -462,5 +462,9 @@
   {
     "name": "*.schefczyk.net",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.dpd.ch",
+    "reason": "Your email address cannot be used for registration"
   }
 ]
