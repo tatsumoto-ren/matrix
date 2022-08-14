@@ -474,5 +474,9 @@
   {
     "name": "*.cirr.com",
     "reason": "An error was encountered when sending the email"
+  },
+  {
+    "name": "*.playgo.tel",
+    "reason": "requires a registration token"
   }
 ]
