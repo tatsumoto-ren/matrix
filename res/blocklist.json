@@ -458,5 +458,9 @@
   {
     "name": "*.planetdecred.org",
     "reason": "No appropriate authentication flow found"
+  },
+  {
+    "name": "*.schefczyk.net",
+    "reason": "has a history of account purges"
   }
 ]
