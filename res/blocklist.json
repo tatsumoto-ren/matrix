@@ -494,5 +494,9 @@
   {
     "name": "*.rights.ninja",
     "reason": "requires a registration token"
+  },
+  {
+    "name": "*.vitoy.xyz",
+    "reason": "has a history of account purges"
   }
 ]
