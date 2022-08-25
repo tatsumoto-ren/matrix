@@ -498,5 +498,21 @@
   {
     "name": "*.vitoy.xyz",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.aire.ml",
+    "reason": "requires a registration token"
+  },
+  {
+    "name": "*.webgo.de",
+    "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.batna.ir",
+    "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.matoro.tk",
+    "reason": "No appropriate authentication flow found"
   }
 ]
