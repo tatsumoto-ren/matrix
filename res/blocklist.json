@@ -514,5 +514,9 @@
   {
     "name": "*.matoro.tk",
     "reason": "No appropriate authentication flow found"
+  },
+  {
+    "name": "*.bootlin.com",
+    "reason": "denies federation with most servers"
   }
 ]
