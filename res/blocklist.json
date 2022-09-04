@@ -518,5 +518,9 @@
   {
     "name": "*.bootlin.com",
     "reason": "denies federation with most servers"
+  },
+  {
+    "name": "*.twistednet.org",
+    "reason": "has a history of account purges"
   }
 ]
