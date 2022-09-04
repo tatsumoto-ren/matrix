@@ -522,5 +522,9 @@
   {
     "name": "*.twistednet.org",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.badat.dev",
+    "reason": "requires a registration token"
   }
 ]
