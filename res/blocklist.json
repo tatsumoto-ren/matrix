@@ -526,5 +526,9 @@
   {
     "name": "*.badat.dev",
     "reason": "requires a registration token"
+  },
+  {
+    "name": "*.utwente.nl",
+    "reason": "Unable to query for supported registration methods."
   }
 ]
