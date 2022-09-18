@@ -38,4 +38,5 @@ async def download_thefederation(client: httpx.AsyncClient) -> list[ServerInfo]:
             version=server['version'],
         ))
 
+    print(f"Thefederation nodes: {len(out)}")
     return out

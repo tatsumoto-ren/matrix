@@ -33,6 +33,7 @@ async def download_asra(client: httpx.AsyncClient) -> list[ServerInfo]:
             ))
         except ValueError:
             pass
+
     print(f"Asra nodes: {len(out)}")
     return out
 
