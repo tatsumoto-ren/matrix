@@ -26,9 +26,9 @@ class SortServers:
 
         print(f"Min synapse version: {'.'.join(map(str, self.min_synapse_ver))}")
 
-    def is_blocklisted(self, node_name: str) -> bool:
+    def is_blocklisted(self, host: str) -> bool:
         for pattern in self.blocklist:
-            if re.match(pattern, node_name):
+            if re.match(pattern, host):
                 return True
         return False
 
@@ -39,6 +39,7 @@ class SortServers:
                 and node.open_signups is True
                 and SynapseVersion.from_str(node.version) >= self.min_synapse_ver
                 and not self.is_blocklisted(node.name)
+                and not self.is_blocklisted(node.url)
         )
 
     def run(self) -> list[ServerInfo]:

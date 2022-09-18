@@ -93,6 +93,7 @@ async def test():
         "1.9.1",
         "2.70.0",
         "3.11-for-workgroups",
+        "1.66.0 (b=master,f0ebd13e,dirty)",
     ]
 
     for test_case in test_cases:
