@@ -25,12 +25,12 @@ async def main():
     servers = {}
     async with httpx.AsyncClient(timeout=90) as client:
         tasks = [
+            download_asra(client),
             download_joinmatrix(client),
             download_thefederation(client),
-            download_asra(client),
         ]
-        for result in asyncio.as_completed(tasks):
-            servers |= {server.name: dataclasses.asdict(server) for server in await result}
+        for result in await asyncio.gather(*tasks):
+            servers |= {server.name: dataclasses.asdict(server) for server in result}
 
     with open(args.output, 'w') as of:
         json.dump(list(servers.values()), of, indent=4)
