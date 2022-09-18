@@ -12,5 +12,9 @@ class ServerInfo:
     version: str
 
 
-def rm_port(url: str):
+def rm_port(url: str) -> str:
     return re.sub(r':\d+$', '', url)
+
+
+def version_trim(version: str) -> str:
+    return re.sub(r'\s*\(.+\)', '', version)

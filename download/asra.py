@@ -4,9 +4,9 @@ import httpx
 import lxml.html
 
 try:
-    from .server_info import ServerInfo, rm_port
+    from .server_info import ServerInfo, rm_port, version_trim
 except ImportError:
-    from server_info import ServerInfo, rm_port
+    from server_info import ServerInfo, rm_port, version_trim
 
 
 def asra_url():
@@ -29,7 +29,7 @@ async def download_asra(client: httpx.AsyncClient) -> list[ServerInfo]:
                 country="Unknown",
                 open_signups=True,
                 software=software,
-                version=version,
+                version=version_trim(version),
             ))
         except ValueError:
             pass

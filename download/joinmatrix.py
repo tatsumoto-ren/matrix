@@ -1,6 +1,6 @@
 import httpx
 
-from .server_info import ServerInfo, rm_port
+from .server_info import ServerInfo, rm_port, version_trim
 
 
 def joinmatrix_url():
@@ -18,7 +18,7 @@ async def download_joinmatrix(client: httpx.AsyncClient) -> list[ServerInfo]:
             country=server['jurisdiction'],
             open_signups=server['open'],
             software=server['software'],
-            version=server['version'],
+            version=version_trim(server['version']),
         ))
 
     print(f"Joinmatrix nodes: {len(out)}")

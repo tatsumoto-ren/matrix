@@ -2,7 +2,7 @@ import re
 
 import httpx
 
-from download.server_info import ServerInfo, rm_port
+from .server_info import ServerInfo, rm_port, version_trim
 
 
 def thefederation_url():
@@ -17,8 +17,8 @@ def fix_format(nodes: list[dict]) -> list[dict]:
     for node in nodes:
         node['name'] = rm_port(node['name'])
         node['host'] = rm_port(node['host'])
-        node['version'] = re.sub(r'\s*\(.+\)', '', node['version'])
         node['software'] = get_software(node)
+        node['version'] = version_trim(node['version'])
     return nodes
 
 
