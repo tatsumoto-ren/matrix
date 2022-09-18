@@ -530,5 +530,9 @@
   {
     "name": "*.utwente.nl",
     "reason": "Unable to query for supported registration methods."
+  },
+  {
+    "name": "*.nibbana.jp",
+    "reason": "absurdly strict moderation"
   }
 ]
