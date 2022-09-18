@@ -8,6 +8,7 @@ import httpx
 
 import argparse
 
+from download.asra import download_asra
 from download.joinmatrix import download_joinmatrix
 from download.thefederation import download_thefederation
 
@@ -26,6 +27,7 @@ async def main():
         tasks = [
             download_joinmatrix(client),
             download_thefederation(client),
+            download_asra(client),
         ]
         for result in asyncio.as_completed(tasks):
             servers |= {server.name: dataclasses.asdict(server) for server in await result}
