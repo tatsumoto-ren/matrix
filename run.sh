@@ -2,29 +2,21 @@
 
 set -euo pipefail
 
-latest_synapse() {
-	local -r synapse_pkgbuld='https://raw.githubusercontent.com/archlinux/svntogit-community/packages/matrix-synapse/trunk/PKGBUILD'
-	curl -s "$synapse_pkgbuld" | grep -Po '(?<=pkgver=).+$'
-}
-
 # shellcheck disable=SC2155
-{
-	readonly this=$(readlink -f -- "$0")
-	readonly dir=$(dirname -- "$this")
-	readonly MATRIX_DATA_DIR=$dir/res
-	readonly LATEST_SYNAPSE=$(latest_synapse)
-}
+readonly this=$(readlink -f -- "$0")
+readonly dir=$(dirname -- "$this")
 
-mkdir -p -- "$MATRIX_DATA_DIR"
 cd -- "$dir" || exit 1
 
-echo "Latest synapse version: $LATEST_SYNAPSE"
+mkdir -p temp
 
-export MATRIX_DATA_DIR LATEST_SYNAPSE
+if [[ $* == *debug ]]; then
+	true
+else
+	python3 -m download --output "temp/all.json"
+fi
 
-[[ $* == debug ]] || rm -- "$MATRIX_DATA_DIR/servers.json" || true
-python3 -m rank_servers
-mv -- "$MATRIX_DATA_DIR/formatted.html" "$dir/index.html"
-mv -- "$MATRIX_DATA_DIR/result.tsv" "$dir/result.tsv"
+python3 -m rank_servers --input "temp/all.json" --output "result.tsv" --blocklist "res/blocklist.json"
+python3 -m format_html --input "result.tsv" --output "index.html" --template "res/template.html" --blocklist "res/blocklist.json"
 
 echo "Done."

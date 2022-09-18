@@ -2,19 +2,26 @@ import csv
 import json
 import re
 
-try:
-    from .consts import *
-except ImportError:
-    from consts import *
+import argparse
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(prog="Downloader")
+    parser.add_argument("-o", "--output", type=str, help="Output file.", required=True)
+    parser.add_argument("-i", "--input", type=str, help="Output file.", required=True)
+    parser.add_argument("-b", "--blocklist", type=str, help="Path to blocklist.", required=True)
+    parser.add_argument("-t", "--template", type=str, help="Path to template html.", required=True)
+    return parser.parse_args()
 
 
 def format_entries():
-    with open(BLOCKLIST_FILEPATH) as bf:
+    args = parse_args()
+
+    with open(args.blocklist) as bf:
         blocklist: list[dict[str, str]] = json.load(bf)
-    with open(RESULT_FILEPATH) as rf, open(TEMPLATE_FILEPATH) as tf, open(FORMATTED_FILEPATH, 'w') as of:
+    with open(args.input) as rf, open(args.template) as tf, open(args.output, 'w') as of:
         reader = csv.DictReader(
             rf,
-            fieldnames=('name', 'version', 'host', 'country', 'flag'),
             dialect=csv.excel_tab
         )
         for line in tf:
@@ -28,8 +35,8 @@ def format_entries():
                         f'<summary>{row["name"]}</summary>',
                         '<div class="info">',
                         f'<b>URL</b><span class="name"><a target="_blank" href="https://{row["name"]}">{row["name"]}</a></span>',
-                        f'<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#{row["host"]}">{row["version"]}</a></code>',
-                        f'<b>Host</b><input class="host" readonly type="text" value="{row["host"]}">',
+                        f'<b>Version</b><code class="version"><a target="_blank" href="https://federationtester.matrix.org/#{row["url"]}">{row["version"]}</a></code>',
+                        f'<b>Host</b><input class="host" readonly type="text" value="{row["url"]}">',
                         f'<b>Country</b><span class="country">{row["country"] or "Not specified"}</span>',
                         '</div>',
                         '</details>',
@@ -50,7 +57,3 @@ def format_entries():
                         sep='\n',
                         file=of,
                     )
-
-
-if __name__ == '__main__':
-    format_entries()

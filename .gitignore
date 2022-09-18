@@ -1,3 +1,4 @@
 .idea
+/temp
 /res/servers.json
 __pycache__

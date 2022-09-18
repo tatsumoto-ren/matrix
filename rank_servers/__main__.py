@@ -1,11 +1,7 @@
-import requests
+import asyncio
 
-from . import rank, format
+from . import rank
 
-try:
-    rank.rank_servers()
-    format.format_entries()
-except requests.ConnectionError:
-    print("No internet?")
-except RuntimeError as e:
-    print(e)
+if __name__ == '__main__':
+    asyncio.run(rank.rank_servers())
+

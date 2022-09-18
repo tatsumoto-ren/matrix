@@ -1,8 +1,11 @@
 import re
+import asyncio
+import httpx
 
 
 class SynapseVersion(tuple):
-    def __new__(cls, version_str: str):
+    @classmethod
+    def from_str(cls, version_str: str):
         version_str = re.sub(r' \(.+\)$', '', version_str)
         version_digits = []
         for digit in version_str.split('.'):
@@ -10,11 +13,29 @@ class SynapseVersion(tuple):
                 version_digits.append(int(re.match(r'\d+', digit).group()))
             except (ValueError, AttributeError):
                 pass
+        return cls(version_digits)
 
-        return super().__new__(cls, version_digits)
+
+def synapse_pkgbuild_url() -> str:
+    return 'https://raw.githubusercontent.com/archlinux/svntogit-community/packages/matrix-synapse/trunk/PKGBUILD'
 
 
-def test():
+async def fetch_latest_synapse_ver() -> SynapseVersion:
+    async with httpx.AsyncClient(timeout=10) as client:
+        response = await client.get(synapse_pkgbuild_url())
+
+    for line in response.text.splitlines():
+        if 'pkgver=' in line:
+            return SynapseVersion.from_str(line.split('=')[-1])
+
+
+async def calc_min_synapse_ver() -> SynapseVersion:
+    latest_ver: SynapseVersion = await fetch_latest_synapse_ver()
+    assert latest_ver[0] == 1
+    return SynapseVersion((1, latest_ver[1] - 1, 0,))
+
+
+async def test():
     test_cases = [
         "0.25.1",
         "0.33.2.1",
@@ -75,8 +96,11 @@ def test():
     ]
 
     for test_case in test_cases:
-        print(SynapseVersion(test_case))
+        print(SynapseVersion.from_str(test_case))
+
+    min_ver = await calc_min_synapse_ver()
+    print('min ver', min_ver)
 
 
 if __name__ == '__main__':
-    test()
+    asyncio.run(test())
