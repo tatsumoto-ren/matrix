@@ -2,7 +2,6 @@
 
 set -euo pipefail
 
-# shellcheck disable=SC2155
 readonly this=$(readlink -f -- "$0")
 readonly dir=$(dirname -- "$this")
 

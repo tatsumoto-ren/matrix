@@ -51,7 +51,7 @@ class SortServers:
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(prog="Downloader")
+    parser = argparse.ArgumentParser(prog="Rank servers")
     parser.add_argument("-o", "--output", type=str, help="Output file.", required=True)
     parser.add_argument("-i", "--input", type=str, help="Output file.", required=True)
     parser.add_argument("-b", "--blocklist", type=str, help="Path to blocklist.", required=True)

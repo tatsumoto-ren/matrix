@@ -6,7 +6,7 @@ import argparse
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(prog="Downloader")
+    parser = argparse.ArgumentParser(prog="Format html")
     parser.add_argument("-o", "--output", type=str, help="Output file.", required=True)
     parser.add_argument("-i", "--input", type=str, help="Output file.", required=True)
     parser.add_argument("-b", "--blocklist", type=str, help="Path to blocklist.", required=True)
@@ -20,10 +20,7 @@ def format_entries():
     with open(args.blocklist) as bf:
         blocklist: list[dict[str, str]] = json.load(bf)
     with open(args.input) as rf, open(args.template) as tf, open(args.output, 'w') as of:
-        reader = csv.DictReader(
-            rf,
-            dialect=csv.excel_tab
-        )
+        reader = csv.DictReader(rf, dialect=csv.excel_tab)
         for line in tf:
             line = line.strip()
             if line:
