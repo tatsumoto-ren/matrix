@@ -10,6 +10,7 @@ class ServerInfo:
     open_signups: bool
     software: str
     version: str
+    sourced_from: str
 
 
 def rm_port(url: str) -> str:

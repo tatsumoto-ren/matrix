@@ -19,6 +19,7 @@ async def download_joinmatrix(client: httpx.AsyncClient) -> list[ServerInfo]:
             open_signups=server['open'],
             software=server['software'],
             version=version_trim(server['version']),
+            sourced_from="Join Matrix",
         ))
 
     print(f"Joinmatrix nodes: {len(out)}")

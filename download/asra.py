@@ -30,6 +30,7 @@ async def download_asra(client: httpx.AsyncClient) -> list[ServerInfo]:
                 open_signups=True,
                 software=software,
                 version=version_trim(version),
+                sourced_from="Asra.gr",
             ))
         except ValueError:
             pass
