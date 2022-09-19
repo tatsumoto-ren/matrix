@@ -29,13 +29,13 @@ freiburg.social	1.67.0	matrix.freiburg.social	Germany
 arcticfoxes.net	1.67.0	matrix.arcticfoxes.net	US (UK)
 projectsegfau.lt	1.67.0	projectsegfau.lt	France/Greece
 matrix.nicfab.it	1.67.0	matrix.nicfab.it	Italy
-mx.grupotd.nat.cu	1.67.0rc1	mx.grupotd.nat.cu	Unknown
 matrix.sibnsk.net	1.67.0	matrix.sibnsk.net	Russia
 matrix.rice.id.au	1.67.0	matrix.rice.id.au	
 matrix.foilhat.tk	1.67.0	matrix.foilhat.tk	Russia
 chrrreeeeesss.com	1.67.0	chrrreeeeesss.com	US
 matrix.sp-codes.de	1.67.0	matrix.sp-codes.de	Germany
 matrix.pyrignis.fr	1.67.0	matrix.pyrignis.fr	France
+arrayinamatrix.xyz	1.67.0	matrix.arrayinamatrix.xyz	Canada
 pragma-messenger.ch	1.67.0	pragma-messenger.ch	Switzerland
 matrix.leenooks.net	1.67.0	matrix.leenooks.net	Australia
 matrix.underworld.fr	1.67.0	matrix.underworld.fr	France
@@ -64,6 +64,7 @@ linkor.io	1.66.0	linkor.io	Unknown
 kotous.cz	1.66.0rc1	ssl.kotous.cz	Unknown
 inetd.xyz	1.66.0	inetd.xyz	Netherlands
 byter.dev	1.66.0	matrix.byter.dev	Unknown
+bknow.net	1.66.0	bknow.net	Unknown
 banzan.uk	1.66.0	matrix.banzan.uk	Unknown
 zmiguel.me	1.66.0	matrix.zmiguel.me	Unknown
 vignat.org	1.66.0	matrix.vignat.org	Unknown
@@ -126,11 +127,9 @@ nightshade.fun	1.66.0	matrix.nightshade.fun	Unknown
 netzkraefte.de	1.66.0	matrix.netzkraefte.de	Unknown
 nerfherders.io	1.66.0	matrix.nerfherders.io	Unknown
 matrix.tan3.de	1.66.0	matrix.tan3.de	Unknown
-matrix.hgs.moe	1.66.0	matrix.hgs.moe	Unknown
 matrix.gw4.fun	1.66.0	matrix.gw4.fun	Unknown
 matrix.grin.hu	1.66.0	matrix.grin.hu	Unknown
 matrix.dwbi.ca	1.66.0	matrix.dwbi.ca	Unknown
-mailstation.de	1.66.0	mailstation.de	Germany
 im.gimitec.com	1.66.0	im.gimitec.com	Unknown
 computerlie.be	1.66.0	matrix.computerlie.be	Unknown
 chimbus.online	1.66.0	chimbus.online	Unknown
@@ -172,6 +171,7 @@ matrix.leturcq.bzh	1.66.0	matrix.leturcq.bzh	Unknown
 matrix.gensokyo.ch	1.66.0	matrix.gensokyo.ch	Unknown
 matrix.eientei.org	1.66.0	matrix.eientei.org	Russia
 matrix.dryusdan.im	1.66.0	matrix.dryusdan.im	Unknown
+matrix.daxtond.com	1.66.0	matrix.daxtond.com	Unknown
 matrix.apiks.world	1.66.0	matrix.apiks.world	Unknown
 geislingen.digital	1.66.0	matrix.geislingen.digital	Unknown
 fieberg-systems.de	1.66.0	fieberg-systems.de	Unknown
@@ -186,7 +186,6 @@ matrix.batsense.net	1.66.0	matrix.batsense.net	Unknown
 chat.gadgetusaf.com	1.66.0	chat.gadgetusaf.com	Unknown
 server.matrix4ulm.de	1.66.0	server.matrix4ulm.de	Germany
 rozekengineering.com	1.66.0	matrix.rozekengineering.com	Unknown
-riot.firechicken.net	1.66.0	riot.firechicken.net	United States of America
 matrix.wrservers.ovh	1.66.0	matrix.wrservers.ovh	Unknown
 matrix.tinternet.net	1.66.0	matrix.tinternet.net	Unknown
 matrix.pfalz-mail.de	1.66.0	matrix.pfalz-mail.de	Unknown
