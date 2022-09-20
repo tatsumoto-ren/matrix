@@ -1,12 +1,7 @@
-import asyncio
-
 import httpx
 import lxml.html
 
-try:
-    from .server_info import ServerInfo, rm_port, version_trim
-except ImportError:
-    from server_info import ServerInfo, rm_port, version_trim
+from .server_info import ServerInfo, rm_port, version_trim
 
 
 def asra_url():
@@ -37,12 +32,3 @@ async def download_asra(client: httpx.AsyncClient) -> list[ServerInfo]:
 
     print(f"Asra nodes: {len(out)}")
     return out
-
-
-async def test():
-    async with httpx.AsyncClient() as client:
-        await download_asra(client)
-
-
-if __name__ == '__main__':
-    asyncio.run(test())

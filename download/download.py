@@ -1,16 +1,15 @@
 #!/usr/bin/python3
 
+import argparse
 import asyncio
 import dataclasses
 import json
 
 import httpx
 
-import argparse
-
-from download.asra import download_asra
-from download.joinmatrix import download_joinmatrix
-from download.thefederation import download_thefederation
+from .asra import download_asra
+from .joinmatrix import download_joinmatrix
+from .thefederation import download_thefederation
 
 
 def parse_args():
