@@ -7,6 +7,7 @@ plus.st	1.67.0	plus.st	US?
 neom.im	1.67.0	matrix.neom.im	Unknown
 0wnz.at	1.67.0	0wnz.at	Austria
 zntrl.de	1.67.0	matrix.zntrl.de	Unknown
+uvoid.de	1.67.0	uvoid.de	Unknown
 somu.app	1.67.0	somu.app	Unknown
 n1g3.com	1.67.0	matrix.n1g3.com	Unknown
 iffq.top	1.67.0	iffq.top	Unknown
@@ -14,6 +15,7 @@ group.lt	1.67.0	group.lt	Lithuania?
 frens.io	1.67.0	matrix.frens.io	Unknown
 foss.wtf	1.67.0	matrix.foss.wtf	Unknown
 fitz.ink	1.67.0	matrix.fitz.ink	Unknown
+club1.fr	1.67.0	club1.fr	France
 cat.casa	1.67.0	matrix.cat.casa	Germany
 anter.io	1.67.0	matrix.anter.io	Unknown
 zhub.link	1.67.0	matrix.zhub.link	Unknown
@@ -37,7 +39,6 @@ sibnsk.net	1.67.0	matrix.sibnsk.net	Russia
 seth0r.net	1.67.0	seth0r.net	Unknown
 rice.id.au	1.67.0	matrix.rice.id.au	Unknown
 preller.me	1.67.0	synapse.preller.me	Unknown
-onweb3.net	1.67.0	matrix.onweb3.net	Unknown
 nitro.chat	1.67.0	nitro.chat	Germany
 kd0ioe.com	1.67.0	matrix.kd0ioe.com	Unknown
 gaube.chat	1.67.0	gaube.chat	Unknown
@@ -135,7 +136,6 @@ cyberdruids.club	1.67.0	cyberdruids.club	Unknown
 chat.olomorn.xyz	1.67.0	chat.olomorn.xyz	Unknown
 centonze.noho.st	1.67.0	centonze.noho.st	Unknown
 pianadicinao.live	1.67.0	matrix.pianadicinao.live	Unknown
-neo.chocoflan.net	1.67.0	neo.chocoflan.net	Unknown
 meet.inboxsys.net	1.67.0	meet.inboxsys.net	Unknown
 matrix.sibnsk.net	1.67.0	matrix.sibnsk.net	Russia
 matrix.rice.id.au	1.67.0	matrix.rice.id.au	
@@ -201,7 +201,6 @@ matrix.wegnershausen.de	1.67.0	matrix.wegnershausen.de	Unknown
 netz.darknight-coffee.eu	1.67.0	netz.darknight-coffee.eu	Unknown
 matrix.oelrichsgarcia.de	1.67.0	matrix.oelrichsgarcia.de	Unknown
 matrix.fablabchemnitz.de	1.67.0	matrix.fablabchemnitz.de	Unknown
-matrix.aktion-nordost.de	1.67.0	matrix.aktion-nordost.de	Unknown
 matrix-synapse.spdns.org	1.67.0	matrix-synapse.spdns.org	Unknown
 server.dialogmessenger.ru	1.67.0rc1	server.dialogmessenger.ru	Unknown
 dev.matrix.seymour.family	1.67.0	dev.matrix.seymour.family	Unknown
@@ -226,7 +225,6 @@ secnd.me	1.66.0	matrix.secnd.me	Unknown
 scrv.xyz	1.66.0	scrv.xyz	Unknown
 mlp.chat	1.66.0	mlp.chat	Unknown
 firo.org	1.66.0	matrix.firo.org	Unknown
-club1.fr	1.66.0	club1.fr	France
 yaoi.chat	1.66.0	yaoi.chat	Unknown
 xion.chat	1.66.0	xion.chat	Unknown
 t-bond.hu	1.66.0	ma.nt.t-bond.hu	Unknown
@@ -234,6 +232,7 @@ pratl.org	1.66.0	pratl.org	Unknown
 oizos.net	1.66.0	matrix.oizos.net	Unknown
 lbbert.de	1.66.0	matrix.lbbert.de	Unknown
 kotous.cz	1.66.0rc1	ssl.kotous.cz	Unknown
+inetd.xyz	1.66.0	inetd.xyz	Netherlands
 f2a.space	1.66.0	matrix.f2a.space	Unknown
 bwitch.me	1.66.0	bwitch.me	Unknown
 pcriot.org	1.66.0	pcriot.org	Germany
@@ -252,7 +251,6 @@ phoxden.net	1.66.0	synapse.phoxden.net	Unknown
 mm.etl.guru	1.66.0	mm.etl.guru	Unknown
 intkos.link	1.66.0	matrix.intkos.link	Unknown
 hribhrib.at	1.66.0	hribhrib.at	Unknown
-hour19.club	1.66.0	matrix.hour19.club	Unknown
 fstracke.eu	1.66.0	fstracke.eu	Unknown
 eientei.org	1.66.0	matrix.eientei.org	Unknown
 cezeri.tech	1.66.0	matrix.cezeri.tech	Turkey (Germany)
@@ -283,7 +281,6 @@ sessionclan.de	1.66.0	matrix.sessionclan.de	Unknown
 nixbitcoin.org	1.66.0	synapse.nixbitcoin.org	Unknown
 nerfherders.io	1.66.0	matrix.nerfherders.io	Unknown
 meilleroux.net	1.66.0	m.meilleroux.net	Unknown
-matrix.hgs.moe	1.66.0	matrix.hgs.moe	Unknown
 matrix.grin.hu	1.66.0	matrix.grin.hu	Unknown
 matrix.aksw.de	1.66.0	matrix.aksw.de	Unknown
 mailstation.de	1.66.0	mailstation.de	Germany
@@ -317,7 +314,6 @@ matrix.hackify.de	1.66.0	matrix.hackify.de	Germany
 matrix.forster.cc	1.66.0	matrix.forster.cc	Unknown
 kontrollpunkt7.de	1.66.0	kontrollpunkt7.de	Unknown
 chat.vaprix.group	1.66.0	chat.vaprix.group	Unknown
-matrix.pgrninc.com	1.66.0	matrix.pgrninc.com	Unknown
 matrix.leturcq.bzh	1.66.0	matrix.leturcq.bzh	Unknown
 matrix.inlakech.de	1.66.0	matrix.inlakech.de	Unknown
 matrix.gensokyo.ch	1.66.0	matrix.gensokyo.ch	Unknown
