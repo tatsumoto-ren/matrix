@@ -80,9 +80,11 @@ async def is_registration_open(client: httpx.AsyncClient, node: ServerInfo) -> b
     if "error" in result_json or "errcode" in result_json:
         return False
 
-    for flow in result_json["flows"]:
-        if "m.login.registration_token" in flow["stages"]:
+    try:
+        if any("m.login.registration_token" in flow["stages"] for flow in result_json["flows"]):
             return False
+    except KeyError:
+        return False
 
     return True
 
