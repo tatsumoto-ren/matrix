@@ -1,6 +1,6 @@
 import httpx
 
-from .server_info import ServerInfo, rm_port, version_trim
+from ..server_info import ServerInfo, rm_port, version_trim
 
 
 def joinmatrix_url():

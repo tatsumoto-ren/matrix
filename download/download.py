@@ -7,9 +7,9 @@ import json
 
 import httpx
 
-from .asra import download_asra
-from .joinmatrix import download_joinmatrix
-from .thefederation import download_thefederation
+from .sources.asra import download_asra
+from .sources.joinmatrix import download_joinmatrix
+from .sources.thefederation import download_thefederation
 
 
 def parse_args():
