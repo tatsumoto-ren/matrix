@@ -90,7 +90,7 @@ async def is_registration_open(client: httpx.AsyncClient, node: ServerInfo) -> b
 
 
 async def filter_open(nodes: list[ServerInfo]) -> list[ServerInfo]:
-    async with httpx.AsyncClient(timeout=10) as client:
+    async with httpx.AsyncClient(timeout=30) as client:
         return [
             node
             for node, open_status
