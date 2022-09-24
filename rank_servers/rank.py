@@ -58,7 +58,7 @@ def parse_args():
     return parser.parse_args()
 
 
-def read_nodes(json_filepath: str):
+def read_nodes(json_filepath: str) -> list[ServerInfo]:
     with open(json_filepath) as f:
         return list(map(lambda server: ServerInfo(**server), json.load(f)))
 
