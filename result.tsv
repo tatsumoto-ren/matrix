@@ -5,6 +5,7 @@ x0p.it	1.67.0	matrix.x0p.it	Unknown
 zspn.me	1.67.0	matrix.zspn.me	Unknown
 plus.st	1.67.0	plus.st	US?
 neom.im	1.67.0	matrix.neom.im	Unknown
+comm.cx	1.67.0	matrix-client.comm.cx	Japan
 0wnz.at	1.67.0	0wnz.at	Austria
 zntrl.de	1.67.0	matrix.zntrl.de	Unknown
 uvoid.de	1.67.0	uvoid.de	Unknown
@@ -14,7 +15,6 @@ iffq.top	1.67.0	iffq.top	Unknown
 group.lt	1.67.0	group.lt	Lithuania?
 frens.io	1.67.0	matrix.frens.io	Unknown
 foss.wtf	1.67.0	matrix.foss.wtf	Unknown
-fitz.ink	1.67.0	matrix.fitz.ink	Unknown
 club1.fr	1.67.0	club1.fr	France
 cat.casa	1.67.0	matrix.cat.casa	Germany
 anter.io	1.67.0	matrix.anter.io	Unknown
@@ -41,6 +41,7 @@ sibnsk.net	1.67.0	matrix.sibnsk.net	Russia
 seth0r.net	1.67.0	seth0r.net	Unknown
 rice.id.au	1.67.0	matrix.rice.id.au	Unknown
 preller.me	1.67.0	synapse.preller.me	Unknown
+onweb3.net	1.67.0	matrix.onweb3.net	Unknown
 nitro.chat	1.67.0	nitro.chat	Germany
 kd0ioe.com	1.67.0	matrix.kd0ioe.com	Unknown
 gaube.chat	1.67.0	gaube.chat	Unknown
@@ -67,7 +68,6 @@ houtworm.im	1.67.0	houtworm.im	Netherlands
 hammons.llc	1.67.0	hammons.llc	Unknown
 grips-it.de	1.67.0	matrix.grips-edv.de	Unknown
 grimneko.de	1.67.0	grimneko.de	Unknown
-furiosa.org	1.67.0	matrix.furiosa.org	Unknown
 freitrix.de	1.67.0	freitrix.de	Germany
 foschat.com	1.67.0	matrix.foschat.com	Unknown
 duesen.chat	1.67.0	matrix.duesen.chat	Germany
@@ -147,7 +147,6 @@ matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown
 matrix.hecker.xyz	1.67.0	matrix.hecker.xyz	Unknown
 matrix.foilhat.tk	1.67.0	matrix.foilhat.tk	Russia
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown
-hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown
 chrrreeeeesss.com	1.67.0	chrrreeeeesss.com	US
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown
@@ -164,6 +163,7 @@ allhandsactive.org	1.67.0	matrix.allhandsactive.org	Unknown
 pragma-messenger.ch	1.67.0	pragma-messenger.ch	Switzerland
 matrix.taskname.com	1.67.0	matrix.taskname.com	United States of America
 matrix.sandbox64.at	1.67.0	matrix.sandbox64.at	Unknown
+matrix.retronerd.at	1.67.0	matrix.retronerd.at	Unknown
 matrix.opulus.space	1.67.0	matrix.opulus.space	Unknown
 matrix.leenooks.net	1.67.0	matrix.leenooks.net	Australia
 matrix.kirbfeels.cc	1.67.0	matrix.kirbfeels.cc	Unknown
@@ -198,6 +198,7 @@ matrix.gemeinsam.jetzt	1.67.0	matrix.gemeinsam.jetzt	Austria
 matrix.daugs-online.de	1.67.0	matrix.daugs-online.de	Unknown
 matrix.baensch.noho.st	1.67.0	matrix.baensch.noho.st	Unknown
 holonet.starwars.rocks	1.67.0	holonet.starwars.rocks	Unknown
+epicureanworldview.com	1.67.0	epicureanworldview.com	United States of America
 matrix.wegnershausen.de	1.67.0	matrix.wegnershausen.de	Unknown
 netz.darknight-coffee.eu	1.67.0	netz.darknight-coffee.eu	Unknown
 matrix.oelrichsgarcia.de	1.67.0	matrix.oelrichsgarcia.de	Unknown
@@ -209,7 +210,6 @@ server.dialogmessenger.ru	1.67.0rc1	server.dialogmessenger.ru	Unknown
 dev.matrix.seymour.family	1.67.0	dev.matrix.seymour.family	Unknown
 matrix.mi.hdm-stuttgart.de	1.67.0	matrix.mi.hdm-stuttgart.de	Unknown
 matrix.eigenbaukombinat.de	1.67.0	matrix.eigenbaukombinat.de	Germany
-matrix.apatite-cloud.co.uk	1.67.0	matrix.apatite-cloud.co.uk	Unknown
 synapse.federationspace.net	1.67.0	synapse.federationspace.net	Unknown
 matrix.wolfrevo.duckdns.org	1.67.0	matrix.wolfrevo.duckdns.org	Unknown
 matrix.studentenzimmer.online	1.67.0	matrix.studentenzimmer.online	Unknown
@@ -222,7 +222,6 @@ xmr.se	1.66.0	xmr.se	Unknown
 oma.su	1.66.0	oma.su	Unknown
 nehu.me	1.66.0	nehu.me	Unknown
 grin.hu	1.66.0	matrix.grin.hu	Unknown
-comm.cx	1.66.0	matrix-client.comm.cx	Japan
 xplod.de	1.66.0	matrix.xplod.de	Unknown
 secnd.me	1.66.0	matrix.secnd.me	Unknown
 scrv.xyz	1.66.0	scrv.xyz	Unknown
@@ -268,3 +267,22 @@ hackers.town	1.66.0	matrix.hackers.town	Unknown
 grayarea.org	1.66.0	matrix.grayarea.org	Unknown
 converser.eu	1.66.0	converser.eu	France
 authelia.com	1.66.0	matrix.authelia.com	Unknown
+whomst.online	1.66.0	whomst.online	United States of America
+spqr2gang.com	1.66.0	matrix.spqr2gang.com	Unknown
+scyldings.com	1.66.0	matrix.scyldings.com	UK? (US)
+neilhuyton.me	1.66.0	neilhuyton.me	Unknown
+monero.social	1.66.0	matrix.monero.social	US
+manerakai.com	1.66.0	manerakai.com	Unknown
+joshilles.com	1.66.0	matrix.joshilles.com	Unknown
+io.proxion.de	1.66.0	io.proxion.de	Germany
+cutefunny.art	1.66.0	matrix.cutefunny.art	Unknown
+cluephone.org	1.66.0	cluephone.org	Unknown
+unredacted.org	1.66.0	matrix.unredacted.org	US (Romania)
+thewords.faith	1.66.0	thewords.faith	Unknown
+solarchan.club	1.66.0	matrix.solarchan.club	Unknown
+sessionclan.de	1.66.0	matrix.sessionclan.de	Unknown
+nixbitcoin.org	1.66.0	synapse.nixbitcoin.org	Unknown
+meilleroux.net	1.66.0	m.meilleroux.net	Unknown
+matrix.hgs.moe	1.66.0	matrix.hgs.moe	Unknown
+matrix.grin.hu	1.66.0	matrix.grin.hu	Unknown
+matrix.aksw.de	1.66.0	matrix.aksw.de	Unknown
