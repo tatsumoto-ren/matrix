@@ -34,7 +34,7 @@ async def download_thefederation(client: httpx.AsyncClient) -> list[ServerInfo]:
             open_signups=server['openSignups'],
             software=server['software'],
             version=server['version'],
-            sourced_from="the federation",
+            sourced_from="The federation",
         ))
 
     print(f"Thefederation nodes: {len(out)}")

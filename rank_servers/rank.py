@@ -123,13 +123,14 @@ async def rank_servers():
     nodes = await filter_open(nodes)
 
     with open(args.output, 'w') as of:
-        print("name", "version", "url", "country", sep='\t', file=of)
+        print("name", "version", "url", "country", "source", sep='\t', file=of)
         for item in nodes:
             print(
                 item.name,
                 item.version,
                 item.url,
                 item.country,
+                item.sourced_from,
                 sep='\t',
                 file=of
             )
