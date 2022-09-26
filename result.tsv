@@ -42,7 +42,6 @@ sibnsk.net	1.67.0	matrix.sibnsk.net	Russia	Join Matrix
 seth0r.net	1.67.0	seth0r.net	Unknown	Asra.gr
 rice.id.au	1.67.0	matrix.rice.id.au	Unknown	Asra.gr
 preller.me	1.67.0	synapse.preller.me	Unknown	Asra.gr
-onweb3.net	1.67.0	matrix.onweb3.net	Unknown	Asra.gr
 nitro.chat	1.67.0	nitro.chat	Germany	The federation
 kd0ioe.com	1.67.0	matrix.kd0ioe.com	Unknown	Asra.gr
 gaube.chat	1.67.0	gaube.chat	Unknown	Asra.gr
@@ -52,6 +51,7 @@ codefor.nl	1.67.0	matrix.codefor.nl	Unknown	Asra.gr
 choomba.de	1.67.0	choomba.de	Unknown	Asra.gr
 c0ffee.xyz	1.67.0	matrix.c0ffee.xyz	Unknown	Asra.gr
 bytes4u.de	1.67.0	matrix.bytes4u.de	Germany	Join Matrix
+brandur.de	1.67.0	brandur.de	Unknown	Asra.gr
 yifangu.com	1.67.0	matrix-federation.matrix.org	Unknown	Asra.gr
 xoddark.com	1.67.0	synapse.xoddark.com	Unknown	Asra.gr
 waffle.tech	1.67.0	waffle.tech	United States of America	The federation
@@ -93,6 +93,7 @@ xwaretech.net	1.67.0	matrix.xwaretech.net	Unknown	Asra.gr
 matrix.lrn.fm	1.67.0	matrix.lrn.fm	Canada	The federation
 matrix.evl.su	1.67.0	matrix.evl.su	Unknown	Asra.gr
 matrix.com.se	1.67.0	matrix.com.se	Unknown	Asra.gr
+krueger.media	1.67.0	matrix.krueger.media	Unknown	Asra.gr
 hot-chilli.im	1.67.0	hot-chilli.im	Germany	Join Matrix
 cookiechat.de	1.67.0	cookiechat.de	Unknown	Asra.gr
 chatcloud.net	1.67.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
@@ -143,6 +144,7 @@ centonze.noho.st	1.67.0	centonze.noho.st	Unknown	Asra.gr
 pianadicinao.live	1.67.0	matrix.pianadicinao.live	Unknown	Asra.gr
 neo.chocoflan.net	1.67.0	neo.chocoflan.net	Unknown	Asra.gr
 meet.inboxsys.net	1.67.0	meet.inboxsys.net	Unknown	Asra.gr
+matrix.toschke.de	1.67.0	matrix.toschke.de	France	The federation
 matrix.sibnsk.net	1.67.0	matrix.sibnsk.net	Russia	The federation
 matrix.rice.id.au	1.67.0	matrix.rice.id.au		The federation
 matrix.nave.house	1.67.0	matrix.nave.house	Unknown	Asra.gr
@@ -150,7 +152,6 @@ matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown	Asra.gr
 matrix.hecker.xyz	1.67.0	matrix.hecker.xyz	Unknown	Asra.gr
 matrix.foilhat.tk	1.67.0	matrix.foilhat.tk	Russia	The federation
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown	Asra.gr
-hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown	Asra.gr
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown	Asra.gr
 chrrreeeeesss.com	1.67.0	chrrreeeeesss.com	US	Join Matrix
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown	Asra.gr
@@ -162,7 +163,6 @@ matrix.dryusdan.im	1.67.0	matrix.dryusdan.im	Unknown	Asra.gr
 matrix.daxtond.com	1.67.0	matrix.daxtond.com	Unknown	Asra.gr
 matrix.apiks.world	1.67.0	matrix.apiks.world	Unknown	Asra.gr
 geislingen.digital	1.67.0	matrix.geislingen.digital	Unknown	Asra.gr
-arrayinamatrix.xyz	1.67.0	matrix.arrayinamatrix.xyz	Canada	Join Matrix
 allhandsactive.org	1.67.0	matrix.allhandsactive.org	Unknown	Asra.gr
 pragma-messenger.ch	1.67.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.taskname.com	1.67.0	matrix.taskname.com	United States of America	The federation
@@ -196,7 +196,6 @@ matrix.netzagentur.at	1.67.0	matrix.netzagentur.at	Unknown	Asra.gr
 matrix.libre.brussels	1.67.0	matrix.libre.brussels	Unknown	Asra.gr
 matrix.hks-projekt.at	1.67.0	matrix.hks-projekt.at	Unknown	Asra.gr
 chat.boobookitty.info	1.67.0	chat.boobookitty.info	Unknown	Asra.gr
-sergmatrix.duckdns.org	1.67.0	sergmatrix.duckdns.org	Unknown	Asra.gr
 matrix.michaelclass.de	1.67.0	matrix.michaelclass.de	Unknown	Asra.gr
 matrix.linuxrocker.com	1.67.0	matrix.linuxrocker.com	Unknown	Asra.gr
 matrix.gemeinsam.jetzt	1.67.0	matrix.gemeinsam.jetzt	Austria	The federation
@@ -289,9 +288,11 @@ solarchan.club	1.66.0	matrix.solarchan.club	Unknown	Asra.gr
 sessionclan.de	1.66.0	matrix.sessionclan.de	Unknown	Asra.gr
 nixbitcoin.org	1.66.0	synapse.nixbitcoin.org	Unknown	Asra.gr
 nerfherders.io	1.66.0	matrix.nerfherders.io	Unknown	Asra.gr
+meilleroux.net	1.66.0	m.meilleroux.net	Unknown	Asra.gr
 matrix.hgs.moe	1.66.0	matrix.hgs.moe	Unknown	Asra.gr
 matrix.grin.hu	1.66.0	matrix.grin.hu	Unknown	Asra.gr
 matrix.aksw.de	1.66.0	matrix.aksw.de	Unknown	Asra.gr
+mailstation.de	1.66.0	mailstation.de	Germany	The federation
 concordia.chat	1.66.0	matrix.concordia.chat	Unknown	Asra.gr
 computerlie.be	1.66.0	matrix.computerlie.be	Unknown	Asra.gr
 stonercloud.net	1.66.0	matrix.stonercloud.net	Unknown	Asra.gr
