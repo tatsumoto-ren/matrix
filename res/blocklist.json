@@ -534,5 +534,9 @@
   {
     "name": "*.nibbana.jp",
     "reason": "absurdly strict moderation"
+  },
+  {
+    "name": "*.sp-codes.de",
+    "reason": "has a history of account purges"
   }
 ]
