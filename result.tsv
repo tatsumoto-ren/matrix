@@ -1,5 +1,6 @@
 name	version	url	country	source
 comm.cx	1.68.0	matrix-client.comm.cx	Japan	Join Matrix
+0wnz.at	1.68.0	0wnz.at	Austria	Join Matrix
 qoto.org	1.68.0	matrix.qoto.org	US?	Join Matrix
 m.edw.ai	1.68.0	m.edw.ai	United States of America	The federation
 group.lt	1.68.0	group.lt	Lithuania?	Join Matrix
@@ -10,7 +11,6 @@ matrix.im	1.68.0	matrix.im	Germany	Join Matrix
 madzel.de	1.68.0	madzel.de	Germany	The federation
 bau-ha.us	1.68.0	bau-ha.us	Germany	The federation
 nitro.chat	1.68.0	nitro.chat	Germany	The federation
-sfunk1x.com	1.68.0	matrix.sfunk1x.com	US	Join Matrix
 jonasled.de	1.68.0	matrix.jonasled.de	Germany	Join Matrix
 houtworm.im	1.68.0	houtworm.im	Netherlands	The federation
 freitrix.de	1.68.0	freitrix.de	Germany	The federation
@@ -52,7 +52,6 @@ x0p.it	1.67.0	matrix.x0p.it	Unknown	Asra.gr
 zspn.me	1.67.0	matrix.zspn.me	Unknown	Asra.gr
 plus.st	1.67.0	plus.st	US?	Join Matrix
 neom.im	1.67.0	matrix.neom.im	Unknown	Asra.gr
-0wnz.at	1.67.0	0wnz.at	Austria	Join Matrix
 zntrl.de	1.67.0	matrix.zntrl.de	Unknown	Asra.gr
 uvoid.de	1.67.0	uvoid.de	Unknown	Asra.gr
 somu.app	1.67.0	somu.app	Unknown	Asra.gr
@@ -83,6 +82,7 @@ sibnsk.net	1.67.0	matrix.sibnsk.net	Russia	Join Matrix
 seth0r.net	1.67.0	seth0r.net	Unknown	Asra.gr
 rice.id.au	1.67.0	matrix.rice.id.au	Unknown	Asra.gr
 preller.me	1.67.0	synapse.preller.me	Unknown	Asra.gr
+onweb3.net	1.67.0	matrix.onweb3.net	Unknown	Asra.gr
 kd0ioe.com	1.67.0	matrix.kd0ioe.com	Unknown	Asra.gr
 gaube.chat	1.67.0	gaube.chat	Unknown	Asra.gr
 foilhat.tk	1.67.0	matrix.foilhat.tk	Unknown	Asra.gr
@@ -168,15 +168,14 @@ cyberdruids.club	1.67.0	cyberdruids.club	Unknown	Asra.gr
 chat.olomorn.xyz	1.67.0	chat.olomorn.xyz	Unknown	Asra.gr
 centonze.noho.st	1.67.0	centonze.noho.st	Unknown	Asra.gr
 pianadicinao.live	1.67.0	matrix.pianadicinao.live	Unknown	Asra.gr
-neo.chocoflan.net	1.67.0	neo.chocoflan.net	Unknown	Asra.gr
 meet.inboxsys.net	1.67.0	meet.inboxsys.net	Unknown	Asra.gr
-matrix.toschke.de	1.67.0	matrix.toschke.de	France	The federation
 matrix.sibnsk.net	1.67.0	matrix.sibnsk.net	Russia	The federation
 matrix.rice.id.au	1.67.0	matrix.rice.id.au		The federation
 matrix.nave.house	1.67.0	matrix.nave.house	Unknown	Asra.gr
 matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown	Asra.gr
 matrix.hecker.xyz	1.67.0	matrix.hecker.xyz	Unknown	Asra.gr
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown	Asra.gr
+hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown	Asra.gr
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown	Asra.gr
 chrrreeeeesss.com	1.67.0	chrrreeeeesss.com	US	Join Matrix
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown	Asra.gr
@@ -240,7 +239,6 @@ matrix.mi.hdm-stuttgart.de	1.67.0	matrix.mi.hdm-stuttgart.de	Unknown	Asra.gr
 matrix.eigenbaukombinat.de	1.67.0	matrix.eigenbaukombinat.de	Germany	The federation
 matrix.apatite-cloud.co.uk	1.67.0	matrix.apatite-cloud.co.uk	Unknown	Asra.gr
 synapse.federationspace.net	1.67.0	synapse.federationspace.net	Unknown	Asra.gr
-matrix.wolfrevo.duckdns.org	1.67.0	matrix.wolfrevo.duckdns.org	Unknown	Asra.gr
 matrix.studentenzimmer.online	1.67.0	matrix.studentenzimmer.online	Unknown	Asra.gr
 matrix.4f9e1738.ignorelist.com	1.67.0	matrix.4f9e1738.ignorelist.com	Unknown	Asra.gr
 server.digitalesozialearbeit.de	1.67.0	server.digitalesozialearbeit.de	Unknown	Asra.gr
