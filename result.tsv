@@ -28,7 +28,6 @@ scyldings.com	1.68.0	matrix.scyldings.com	UK? (US)	Join Matrix
 dowdell.media	1.68.0	dowdell.media	United States of America	The federation
 matrix.lion.fm	1.68.0	matrix.lion.fm	United States of America	The federation
 chat.breuxi.de	1.68.0	chat.breuxi.de	Germany	The federation
-bachgau.social	1.68.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cirk2.de	1.68.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.68.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.68.0	matrix.freiburg.social	Germany	Join Matrix
@@ -39,7 +38,6 @@ matrix.poast.org	1.68.0	matrix.poast.org	Finland	The federation
 matrix.nicfab.it	1.68.0	matrix.nicfab.it	Italy	The federation
 mx.grupotd.nat.cu	1.68.0rc1	mx.grupotd.nat.cu	Unknown	Asra.gr
 matrix.foilhat.tk	1.68.0	matrix.foilhat.tk	Russia	The federation
-arrayinamatrix.xyz	1.68.0	matrix.arrayinamatrix.xyz	Canada	Join Matrix
 pragma-messenger.ch	1.68.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.calvinrw.com	1.68.0	matrix.calvinrw.com	United States of America	The federation
 matrix.beachcom.org	1.68.0	matrix.beachcom.org	Germany	The federation
@@ -55,6 +53,7 @@ synapse.internet-portal.cz	1.68.0	synapse.internet-portal.cz	Czechia	The federat
 x0p.it	1.67.0	matrix.x0p.it	Unknown	Asra.gr
 zspn.me	1.67.0	matrix.zspn.me	Unknown	Asra.gr
 plus.st	1.67.0	plus.st	US?	Join Matrix
+neom.im	1.67.0	matrix.neom.im	Unknown	Asra.gr
 zntrl.de	1.67.0	matrix.zntrl.de	Unknown	Asra.gr
 uvoid.de	1.67.0	uvoid.de	Unknown	Asra.gr
 somu.app	1.67.0	somu.app	Unknown	Asra.gr
@@ -102,7 +101,6 @@ valvano.one	1.67.0	matrix.valvano.one	Unknown	Asra.gr
 swatinem.de	1.67.0	matrix.swatinem.de	Unknown	Asra.gr
 robbinsa.me	1.67.0	matrix.robbinsa.me	Unknown	Asra.gr
 realmar.net	1.67.0	realmar.net	Unknown	Asra.gr
-ordo-h.club	1.67.0	matrix.ordo-h.club	Unknown	Asra.gr
 maroulid.is	1.67.0	maroulid.is	France	The federation
 m.ptirc.org	1.67.0	m.ptirc.org	Unknown	Asra.gr
 linuxsec.eu	1.67.0	matrix.linuxsec.eu	Unknown	Asra.gr
@@ -114,7 +112,6 @@ conradit.de	1.67.0	matrix.conradit.de	Unknown	Asra.gr
 arkmuse.org	1.67.0	matrix.arkmuse.org	Unknown	Asra.gr
 agdersam.no	1.67.0	agdersam.no	Norway (Germany)	Join Matrix
 wasscher.com	1.67.0	chat.wasscher.com	Unknown	Asra.gr
-uninsane.org	1.67.0	matrix.uninsane.org	Unknown	Asra.gr
 taskname.com	1.67.0	matrix.taskname.com	Unknown	Asra.gr
 sameteem.com	1.67.0	matrix.sameteem.com	Unknown	Asra.gr
 polymake.org	1.67.0	matrix.polymake.org	Unknown	Asra.gr
@@ -149,6 +146,7 @@ matrix.dwbi.ca	1.67.0	matrix.dwbi.ca	Unknown	Asra.gr
 im.gimitec.com	1.67.0	im.gimitec.com	Unknown	Asra.gr
 chimbus.online	1.67.0	chimbus.online	Unknown	Asra.gr
 chat.thorko.de	1.67.0	chat.thorko.de	Germany	The federation
+bachgau.social	1.67.0	matrix.bachgau.social	Unknown	Asra.gr
 stefanhofman.nl	1.67.0	matrix.stefanhofman.nl	Unknown	Asra.gr
 schnackerbox.de	1.67.0	schnackerbox.de	Unknown	Asra.gr
 matrix.wiuma.de	1.67.0	matrix.wiuma.de	Unknown	Asra.gr
@@ -179,7 +177,6 @@ matrix.nave.house	1.67.0	matrix.nave.house	Unknown	Asra.gr
 matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown	Asra.gr
 matrix.hecker.xyz	1.67.0	matrix.hecker.xyz	Unknown	Asra.gr
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown	Asra.gr
-hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown	Asra.gr
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown	Asra.gr
 chrrreeeeesss.com	1.67.0	chrrreeeeesss.com	US	Join Matrix
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown	Asra.gr
@@ -240,7 +237,6 @@ server.dialogmessenger.ru	1.67.0rc1	server.dialogmessenger.ru	Unknown	Asra.gr
 dev.matrix.seymour.family	1.67.0	dev.matrix.seymour.family	Unknown	Asra.gr
 matrix.mi.hdm-stuttgart.de	1.67.0	matrix.mi.hdm-stuttgart.de	Unknown	Asra.gr
 matrix.eigenbaukombinat.de	1.67.0	matrix.eigenbaukombinat.de	Germany	The federation
-matrix.apatite-cloud.co.uk	1.67.0	matrix.apatite-cloud.co.uk	Unknown	Asra.gr
 synapse.federationspace.net	1.67.0	synapse.federationspace.net	Unknown	Asra.gr
 matrix.wolfrevo.duckdns.org	1.67.0	matrix.wolfrevo.duckdns.org	Unknown	Asra.gr
 matrix.studentenzimmer.online	1.67.0	matrix.studentenzimmer.online	Unknown	Asra.gr
