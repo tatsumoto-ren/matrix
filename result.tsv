@@ -41,6 +41,7 @@ projectsegfau.lt	1.68.0	projectsegfau.lt	France/Greece	Join Matrix
 matrix.poast.org	1.68.0	matrix.poast.org	Finland	The federation
 matrix.nicfab.it	1.68.0	matrix.nicfab.it	Italy	The federation
 mx.grupotd.nat.cu	1.68.0rc1	mx.grupotd.nat.cu	Unknown	Asra.gr
+matrix.talos.chat	1.68.0	matrix.talos.chat	Czechia	The federation
 matrix.foilhat.tk	1.68.0	matrix.foilhat.tk	Russia	The federation
 arrayinamatrix.xyz	1.68.0	matrix.arrayinamatrix.xyz	Canada	Join Matrix
 pragma-messenger.ch	1.68.0	pragma-messenger.ch	Switzerland	Join Matrix
@@ -56,6 +57,7 @@ matrix.rot1.bruckbu.de	1.68.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.68.0	matrix.nrp-nautilus.io	United States of America	The federation
 matrix.gemeinsam.jetzt	1.68.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.colonelkrud.com	1.68.0	matrix.colonelkrud.com	United States of America	The federation
+matrixx.uc-netcorsoft.de	1.68.0	matrixx.uc-netcorsoft.de		The federation
 matrix.mycloudservice.eu	1.68.0	matrix.mycloudservice.eu	Germany	The federation
 synapse.internet-portal.cz	1.68.0	synapse.internet-portal.cz	Czechia	The federation
 x0p.it	1.67.0	matrix.x0p.it	Unknown	Asra.gr
@@ -119,7 +121,6 @@ foschat.com	1.67.0	matrix.foschat.com	Unknown	Asra.gr
 conradit.de	1.67.0	matrix.conradit.de	Unknown	Asra.gr
 arkmuse.org	1.67.0	matrix.arkmuse.org	Unknown	Asra.gr
 agdersam.no	1.67.0	agdersam.no	Norway (Germany)	Join Matrix
-wasscher.com	1.67.0	chat.wasscher.com	Unknown	Asra.gr
 uninsane.org	1.67.0	matrix.uninsane.org	Unknown	Asra.gr
 taskname.com	1.67.0	matrix.taskname.com	Unknown	Asra.gr
 sameteem.com	1.67.0	matrix.sameteem.com	Unknown	Asra.gr
@@ -184,7 +185,6 @@ matrix.rice.id.au	1.67.0	matrix.rice.id.au		The federation
 matrix.nave.house	1.67.0	matrix.nave.house	Unknown	Asra.gr
 matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown	Asra.gr
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown	Asra.gr
-hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown	Asra.gr
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown	Asra.gr
 chrrreeeeesss.com	1.67.0	chrrreeeeesss.com	US	Join Matrix
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown	Asra.gr
