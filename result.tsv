@@ -1,4 +1,5 @@
 name	version	url	country	source
+xmr.se	1.68.0	xmr.se	Germany?	Join Matrix
 comm.cx	1.68.0	matrix-client.comm.cx	Japan	Join Matrix
 0wnz.at	1.68.0	0wnz.at	Austria	Join Matrix
 qoto.org	1.68.0	matrix.qoto.org	US?	Join Matrix
@@ -65,6 +66,7 @@ matrixx.uc-netcorsoft.de	1.68.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.mycloudservice.eu	1.68.0	matrix.mycloudservice.eu	Germany	The federation
 synapse.internet-portal.cz	1.68.0	synapse.internet-portal.cz	Czechia	The federation
 x0p.it	1.67.0	matrix.x0p.it	Unknown	Asra.gr
+zspn.me	1.67.0	matrix.zspn.me	Unknown	Asra.gr
 plus.st	1.67.0	plus.st	US?	Join Matrix
 neom.im	1.67.0	matrix.neom.im	Unknown	Asra.gr
 zntrl.de	1.67.0	matrix.zntrl.de	Unknown	Asra.gr
@@ -85,6 +87,7 @@ linkor.io	1.67.0	linkor.io	Unknown	Asra.gr
 data.haus	1.67.0	matrix.data.haus	Germany	Join Matrix
 byter.dev	1.67.0	matrix.byter.dev	Unknown	Asra.gr
 buyvm.net	1.67.0	buyvm.chat	US	Join Matrix
+bknow.net	1.67.0	bknow.net	Unknown	Asra.gr
 banzan.uk	1.67.0	matrix.banzan.uk	Unknown	Asra.gr
 zmiguel.me	1.67.0	matrix.zmiguel.me	Unknown	Asra.gr
 vignat.org	1.67.0	matrix.vignat.org	Unknown	Asra.gr
@@ -120,6 +123,7 @@ foschat.com	1.67.0	matrix.foschat.com	Unknown	Asra.gr
 conradit.de	1.67.0	matrix.conradit.de	Unknown	Asra.gr
 arkmuse.org	1.67.0	matrix.arkmuse.org	Unknown	Asra.gr
 agdersam.no	1.67.0	agdersam.no	Norway (Germany)	Join Matrix
+wasscher.com	1.67.0	chat.wasscher.com	Unknown	Asra.gr
 uninsane.org	1.67.0	matrix.uninsane.org	Unknown	Asra.gr
 taskname.com	1.67.0	matrix.taskname.com	Unknown	Asra.gr
 sameteem.com	1.67.0	matrix.sameteem.com	Unknown	Asra.gr
@@ -167,6 +171,7 @@ uc-netcorsoft.de	1.67.0	matrixx.uc-netcorsoft.de	Unknown	Asra.gr
 novababilonia.me	1.67.0	novababilonia.me	Unknown	Asra.gr
 matrix.ignifi.me	1.67.0	matrix.ignifi.me	Unknown	Asra.gr
 matrix.heysam.fr	1.67.0	matrix.heysam.fr	Unknown	Asra.gr
+matrix.data.haus	1.67.0	matrix.data.haus	Germany	The federation
 henger.ddnss.org	1.67.0	matrix.henger.ddnss.org	Unknown	Asra.gr
 cyberdruids.club	1.67.0	cyberdruids.club	Unknown	Asra.gr
 chat.olomorn.xyz	1.67.0	chat.olomorn.xyz	Unknown	Asra.gr
@@ -180,7 +185,6 @@ matrix.rice.id.au	1.67.0	matrix.rice.id.au		The federation
 matrix.nave.house	1.67.0	matrix.nave.house	Unknown	Asra.gr
 matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown	Asra.gr
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown	Asra.gr
-hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown	Asra.gr
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown	Asra.gr
 chrrreeeeesss.com	1.67.0	chrrreeeeesss.com	US	Join Matrix
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown	Asra.gr
