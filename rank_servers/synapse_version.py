@@ -2,6 +2,8 @@ import re
 import asyncio
 import httpx
 
+COUNT_BACK = 2
+
 
 class SynapseVersion(tuple):
     @classmethod
@@ -32,7 +34,7 @@ async def fetch_latest_synapse_ver() -> SynapseVersion:
 async def calc_min_synapse_ver() -> SynapseVersion:
     latest_ver: SynapseVersion = await fetch_latest_synapse_ver()
     assert latest_ver[0] == 1
-    return SynapseVersion((1, latest_ver[1] - 1, 0,))
+    return SynapseVersion((1, latest_ver[1] - COUNT_BACK, 0,))
 
 
 async def test():
