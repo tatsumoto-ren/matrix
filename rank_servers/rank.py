@@ -94,7 +94,10 @@ async def filter_open(nodes: list[ServerInfo]) -> list[ServerInfo]:
         return [
             node
             for node, open_status
-            in zip(nodes, await asyncio.gather(*(is_registration_open(client, node) for node in nodes)))
+            in zip(
+                nodes,
+                await asyncio.gather(*(is_registration_open(client, node) for node in nodes), return_exceptions=True),
+            )
             if open_status is True
         ]
 
