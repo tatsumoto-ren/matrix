@@ -13,7 +13,6 @@ bau-ha.us	1.69.0	bau-ha.us	Germany	The federation
 nitro.chat	1.69.0	nitro.chat	Germany	The federation
 bytes4u.de	1.69.0	matrix.bytes4u.de	Germany	Join Matrix
 jonasled.de	1.69.0	matrix.jonasled.de	Germany	Join Matrix
-funami.tech	1.69.0	funami.tech	South Korea	The federation
 freitrix.de	1.69.0	freitrix.de	Germany	The federation
 duesen.chat	1.69.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.69.0	chat.usr.nz	New Zealand	The federation
@@ -29,6 +28,7 @@ matrix.cirk2.de	1.69.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.69.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 badstuebner.biz	1.69.0	matrix.badstuebner.biz	Germany	Join Matrix
 arcticfoxes.net	1.69.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
+projectsegfau.lt	1.69.0	projectsegfau.lt	France/Greece	Join Matrix
 matrix.sysops.de	1.69.0	matrix.sysops.de	Germany	The federation
 matrix.poast.org	1.69.0	matrix.poast.org	Finland	The federation
 matrix.nicfab.it	1.69.0	matrix.nicfab.it	Italy	The federation
@@ -47,6 +47,7 @@ matrix.arya.dogcraft.de	1.69.0	matrix.arya.dogcraft.de	Finland	The federation
 matrixx.uc-netcorsoft.de	1.69.0	matrixx.uc-netcorsoft.de	Germany	The federation
 wolffelectronicdesign.com	1.69.0	wolffelectronicdesign.com	United States of America	The federation
 0wnz.at	1.68.0	0wnz.at	Austria	Join Matrix
+qoto.org	1.68.0	matrix.qoto.org	US?	Join Matrix
 m.edw.ai	1.68.0	m.edw.ai	United States of America	The federation
 club1.fr	1.68.0	club1.fr	France	Join Matrix
 okaris.de	1.68.0	okaris.de	Germany	The federation
@@ -151,7 +152,6 @@ krueger.media	1.67.0	matrix.krueger.media	Unknown	Asra.gr
 hot-chilli.im	1.67.0	hot-chilli.im	Germany	Join Matrix
 cookiechat.de	1.67.0	cookiechat.de	Unknown	Asra.gr
 chatcloud.net	1.67.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
-wherelinux.xyz	1.67.0	matrix.wherelinux.xyz	Unknown	Asra.gr
 teufelspack.im	1.67.0	teufelspack.im	Unknown	Asra.gr
 para-travel.de	1.67.0	matrix.para-travel.de	Unknown	Asra.gr
 nightshade.fun	1.67.0	matrix.nightshade.fun	Unknown	Asra.gr
@@ -189,6 +189,7 @@ matrix.nave.house	1.67.0	matrix.nave.house	Unknown	Asra.gr
 matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown	Asra.gr
 matrix.hecker.xyz	1.67.0	matrix.hecker.xyz	Unknown	Asra.gr
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown	Asra.gr
+hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown	Asra.gr
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown	Asra.gr
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown	Asra.gr
 oblivioncoding.pro	1.67.0	hs.obco.pro	Unknown	Asra.gr
