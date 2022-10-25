@@ -7,6 +7,7 @@ cat.casa	1.69.0	matrix.cat.casa	Germany	Join Matrix
 trygve.me	1.69.0	trygve.me	Norway	Join Matrix
 pub.solar	1.69.0	matrix.pub.solar	Germany	Join Matrix
 nope.chat	1.69.0	nope.chat	Germany	Join Matrix
+matrix.im	1.69.0	matrix.im	Germany	Join Matrix
 m.wfr.moe	1.69.0	m.wfr.moe	Germany	The federation
 hashi.sbs	1.69.0	chatserver.hashi.sbs	China? (US?)	Join Matrix
 bau-ha.us	1.69.0	bau-ha.us	Germany	The federation
@@ -51,7 +52,6 @@ qoto.org	1.68.0	matrix.qoto.org	US?	Join Matrix
 m.edw.ai	1.68.0	m.edw.ai	United States of America	The federation
 club1.fr	1.68.0	club1.fr	France	Join Matrix
 okaris.de	1.68.0	okaris.de	Germany	The federation
-matrix.im	1.68.0	matrix.im	Germany	Join Matrix
 madzel.de	1.68.0	madzel.de	Germany	The federation
 inetd.xyz	1.68.0	inetd.xyz	Netherlands	Join Matrix
 zelchat.de	1.68.0	zelchat.de	Germany	The federation
@@ -59,7 +59,6 @@ sibnsk.net	1.68.0	matrix.sibnsk.net	Russia	Join Matrix
 skylar.tech	1.68.0	skylar.tech	United States of America	The federation
 sfunk1x.com	1.68.0	matrix.sfunk1x.com	US	Join Matrix
 houtworm.im	1.68.0	houtworm.im	Netherlands	The federation
-halogen.city	1.68.0	halogen.city	United States of America	The federation
 community.rs	1.68.0	matrix.community.rs	US	Join Matrix
 bolesiny.net	1.68.0rc1	matrix.bolesiny.net	Unknown	Asra.gr
 xxx.madzel.de	1.68.0	xxx.madzel.de	Germany	The federation
@@ -71,7 +70,6 @@ chat.breuxi.de	1.68.0	chat.breuxi.de	Germany	The federation
 virto.community	1.68.0	matrix.virto.community	? (Germany)	Join Matrix
 freiburg.social	1.68.0	matrix.freiburg.social	Germany	Join Matrix
 radiowarnerd.org	1.68.0	radiowarnerd.org	US	Join Matrix
-mx.grupotd.nat.cu	1.68.0rc1	mx.grupotd.nat.cu	Unknown	Asra.gr
 matrix.talos.chat	1.68.0	matrix.talos.chat	Czechia	The federation
 matrix.sibnsk.net	1.68.0	matrix.sibnsk.net	Russia	The federation
 matrix.opencloud.lu	1.68.0	matrix.opencloud.lu	Luxembourg	The federation
@@ -152,6 +150,7 @@ krueger.media	1.67.0	matrix.krueger.media	Unknown	Asra.gr
 hot-chilli.im	1.67.0	hot-chilli.im	Germany	Join Matrix
 cookiechat.de	1.67.0	cookiechat.de	Unknown	Asra.gr
 chatcloud.net	1.67.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
+wherelinux.xyz	1.67.0	matrix.wherelinux.xyz	Unknown	Asra.gr
 teufelspack.im	1.67.0	teufelspack.im	Unknown	Asra.gr
 para-travel.de	1.67.0	matrix.para-travel.de	Unknown	Asra.gr
 nightshade.fun	1.67.0	matrix.nightshade.fun	Unknown	Asra.gr
@@ -183,13 +182,11 @@ centonze.noho.st	1.67.0	centonze.noho.st	Unknown	Asra.gr
 pianadicinao.live	1.67.0	matrix.pianadicinao.live	Unknown	Asra.gr
 neo.chocoflan.net	1.67.0	neo.chocoflan.net	Unknown	Asra.gr
 meet.inboxsys.net	1.67.0	meet.inboxsys.net	Unknown	Asra.gr
-matrix.toschke.de	1.67.0	matrix.toschke.de	France	The federation
 matrix.rice.id.au	1.67.0	matrix.rice.id.au		The federation
 matrix.nave.house	1.67.0	matrix.nave.house	Unknown	Asra.gr
 matrix.heckin.how	1.67.0	matrix.heckin.how	Unknown	Asra.gr
 matrix.hecker.xyz	1.67.0	matrix.hecker.xyz	Unknown	Asra.gr
 matrix.codenic.de	1.67.0	matrix.codenic.de	Unknown	Asra.gr
-hasihome.ddnss.de	1.67.0	matrix.hasihome.ddnss.de	Unknown	Asra.gr
 dieandalusier.net	1.67.0	matrix.dieandalusier.net	Unknown	Asra.gr
 chat.jacobsen.app	1.67.0	chat.jacobsen.app	Unknown	Asra.gr
 oblivioncoding.pro	1.67.0	hs.obco.pro	Unknown	Asra.gr
