@@ -3,6 +3,7 @@ comm.cx	1.71.0	matrix-client.comm.cx	Japan	Join Matrix
 group.lt	1.71.0	group.lt	Lithuania?	Join Matrix
 foss.wtf	1.71.0	matrix.foss.wtf	Germany	Join Matrix
 pub.solar	1.71.0	matrix.pub.solar	Germany	Join Matrix
+nope.chat	1.71.0	nope.chat	Germany	Join Matrix
 matrix.im	1.71.0	matrix.im	Germany	Join Matrix
 hashi.sbs	1.71.0	chatserver.hashi.sbs	? (Germany)	Join Matrix
 bau-ha.us	1.71.0	bau-ha.us		The federation
@@ -22,7 +23,7 @@ matrix.poast.org	1.71.0	matrix.poast.org	Finland	The federation
 matrix.nicfab.it	1.71.0	matrix.nicfab.it	Italy	The federation
 matrix.jascha.wtf	1.71.0	matrix.jascha.wtf	Germany	The federation
 matrix.foilhat.tk	1.71.0	matrix.foilhat.tk	Russia	The federation
-matrix.cybre.space	1.71.0	matrix.cybre.space	Germany	The federation
+matrix.cybre.space	1.71.0	matrix.cybre.space		The federation
 pragma-messenger.ch	1.71.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.hsrn.nyu.edu	1.71.0	matrix.hsrn.nyu.edu	United States of America	The federation
 matrix.beachcom.org	1.71.0	matrix.beachcom.org	Germany	The federation
@@ -34,7 +35,7 @@ matrixx.uc-netcorsoft.de	1.71.0	matrixx.uc-netcorsoft.de	Germany	The federation
 synapse.internet-portal.cz	1.71.0	synapse.internet-portal.cz	Czechia	The federation
 0wnz.at	1.70.1	0wnz.at	Austria	Join Matrix
 club1.fr	1.70.1	club1.fr	France	Join Matrix
-cat.casa	1.70.1	matrix.cat.casa	Germany	Join Matrix
+sibnsk.net	1.70.1	matrix.sibnsk.net	Russia	Join Matrix
 bytes4u.de	1.70.1	matrix.bytes4u.de	Germany	Join Matrix
 jabawok.net	1.70.1	jabawok.net	Australia	The federation
 houtworm.im	1.70.1	houtworm.im	Netherlands	The federation
@@ -47,6 +48,7 @@ glasgow.social	1.70.1	matrix.glasgow.social	UK	Join Matrix
 matrix.cirk2.de	1.70.1	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.70.1	matrix.gemeinsam.jetzt	Austria	Join Matrix
 arcticfoxes.net	1.70.1	matrix.arcticfoxes.net	US (UK)	Join Matrix
+matrix.sibnsk.net	1.70.1	matrix.sibnsk.net	Russia	The federation
 matrix.schotty.com	1.70.1	matrix.schotty.com	United States of America	The federation
 synapse.dst.fjit.no	1.70.1	synapse.dst.fjit.no	Norway	The federation
 matrix.taskname.com	1.70.1	matrix.taskname.com	United States of America	The federation
@@ -86,7 +88,6 @@ matrix.domainepublic.net	1.69.0	matrix.domainepublic.net	Belgium	The federation
 adb.sh	1.68.0	adb.sh	Germany	The federation
 qoto.org	1.68.0	matrix.qoto.org	US?	Join Matrix
 m.edw.ai	1.68.0	m.edw.ai	United States of America	The federation
-okaris.de	1.68.0	okaris.de	Germany	The federation
 madzel.de	1.68.0	madzel.de	Germany	The federation
 inetd.xyz	1.68.0	inetd.xyz	Netherlands	Join Matrix
 zelchat.de	1.68.0	zelchat.de	Germany	The federation
