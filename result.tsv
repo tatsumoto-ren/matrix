@@ -1,5 +1,6 @@
 name	version	url	country	source
 xmr.se	1.71.0	xmr.se	Germany?	Join Matrix
+comm.cx	1.71.0	matrix-client.comm.cx	Japan	Join Matrix
 0wnz.at	1.71.0	0wnz.at	Austria	Join Matrix
 qoto.org	1.71.0	matrix.qoto.org	US?	Join Matrix
 group.lt	1.71.0	group.lt	Lithuania?	Join Matrix
@@ -15,6 +16,7 @@ sibnsk.net	1.71.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.71.0	nitro.chat	Germany	The federation
 bytes4u.de	1.71.0	matrix.bytes4u.de	Germany	Join Matrix
 jonasled.de	1.71.0	matrix.jonasled.de	Germany	Join Matrix
+funami.tech	1.71.0	funami.tech	South Korea	The federation
 freitrix.de	1.71.0	freitrix.de	Germany	The federation
 duesen.chat	1.71.0	matrix.duesen.chat	Germany	Join Matrix
 cezeri.tech	1.71.0	matrix.cezeri.tech	Turkey (Germany)	Join Matrix
@@ -97,6 +99,7 @@ matrix.kevinronceray.com	1.69.0	matrix.kevinronceray.com	France	The federation
 matrix.domainepublic.net	1.69.0	matrix.domainepublic.net	Belgium	The federation
 adb.sh	1.68.0	adb.sh	Germany	The federation
 m.edw.ai	1.68.0	m.edw.ai	United States of America	The federation
+okaris.de	1.68.0	okaris.de	Germany	The federation
 madzel.de	1.68.0	madzel.de	Germany	The federation
 inetd.xyz	1.68.0	inetd.xyz	Netherlands	Join Matrix
 cybre.town	1.68.0	cybre.town	Germany	The federation
