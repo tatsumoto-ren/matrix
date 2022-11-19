@@ -56,7 +56,9 @@ matrix.tetaneutral.net	1.71.0	matrix.tetaneutral.net	France	The federation
 matrix.rot1.bruckbu.de	1.71.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.71.0	matrix.nrp-nautilus.io	United States of America	The federation
 matrix.gemeinsam.jetzt	1.71.0	matrix.gemeinsam.jetzt	Austria	The federation
+matrix.colonelkrud.com	1.71.0	matrix.colonelkrud.com	United States of America	The federation
 matrixx.uc-netcorsoft.de	1.71.0	matrixx.uc-netcorsoft.de	Germany	The federation
+wolffelectronicdesign.com	1.71.0	wolffelectronicdesign.com	United States of America	The federation
 synapse.internet-portal.cz	1.71.0	synapse.internet-portal.cz	Czechia	The federation
 club1.fr	1.70.1	club1.fr	France	Join Matrix
 cat.casa	1.70.1	matrix.cat.casa	Germany	Join Matrix
@@ -74,22 +76,21 @@ synapse.dst.fjit.no	1.70.1	synapse.dst.fjit.no	Norway	The federation
 matrix.calvinrw.com	1.70.1	matrix.calvinrw.com	United States of America	The federation
 server.matrix4ulm.de	1.70.1	server.matrix4ulm.de	Germany	The federation
 matrix.drastical.net	1.70.1	matrix.drastical.net	Netherlands	The federation
-matrix.web3.foundation	1.70.1	matrix.web3.foundation	United States of America	The federation
+trixie.undrground.org	1.70.1	trixie.undrground.org	United States of America	The federation
+matrix.web3.foundation	1.70.1	matrix.web3.foundation		The federation
 matrix.arya.dogcraft.de	1.70.1	matrix.arya.dogcraft.de	Finland	The federation
-wolffelectronicdesign.com	1.70.1	wolffelectronicdesign.com	United States of America	The federation
 chrrreeeeesss.com	1.70.0	chrrreeeeesss.com	US	Join Matrix
 matrix.mycloudservice.eu	1.70.0	matrix.mycloudservice.eu	Germany	The federation
 m.wfr.moe	1.69.0	m.wfr.moe	Germany	The federation
 maroulid.is	1.69.0	maroulid.is	France	The federation
-converser.eu	1.69.0	converser.eu	France	The federation
 unredacted.org	1.69.0	matrix.unredacted.org	US (Romania)	Join Matrix
+pirateriot.net	1.69.0	pirateriot.net	Germany	The federation
 chat.thorko.de	1.69.0	chat.thorko.de	Germany	The federation
 no.dustinthe.net	1.69.0	no.dustinthe.net	France	The federation
 matrix.sysops.de	1.69.0	matrix.sysops.de	Germany	The federation
 matrix.rice.id.au	1.69.0	matrix.rice.id.au		The federation
 matrix.pyrignis.fr	1.69.0	matrix.pyrignis.fr	France	The federation
 matrix.antopie.org	1.69.0	matrix.antopie.org	France	The federation
-socialnetwork24.com	1.69.0	socialnetwork24.com	Germany	Join Matrix
 matrix.thisisjoes.site	1.69.0	matrix.thisisjoes.site	United States of America	The federation
 matrix.kevinronceray.com	1.69.0	matrix.kevinronceray.com	France	The federation
 matrix.domainepublic.net	1.69.0	matrix.domainepublic.net	Belgium	The federation
@@ -99,7 +100,7 @@ okaris.de	1.68.0	okaris.de	Germany	The federation
 madzel.de	1.68.0	madzel.de	Germany	The federation
 inetd.xyz	1.68.0	inetd.xyz	Netherlands	Join Matrix
 cybre.town	1.68.0	cybre.town	Germany	The federation
-skylar.tech	1.68.0	skylar.tech	United States of America	The federation
+skylar.tech	1.68.0	skylar.tech		The federation
 sfunk1x.com	1.68.0	matrix.sfunk1x.com	US	Join Matrix
 bolesiny.net	1.68.0rc1	matrix.bolesiny.net	Unknown	Asra.gr
 xxx.madzel.de	1.68.0	xxx.madzel.de	Germany	The federation
@@ -108,4 +109,3 @@ chat.breuxi.de	1.68.0	chat.breuxi.de	Germany	The federation
 virto.community	1.68.0	matrix.virto.community	? (Germany)	Join Matrix
 radiowarnerd.org	1.68.0	radiowarnerd.org	US	Join Matrix
 matrix.kitzberger.at	1.68.0	matrix.kitzberger.at	Austria	The federation
-matrix.colonelkrud.com	1.68.0	matrix.colonelkrud.com	United States of America	The federation
