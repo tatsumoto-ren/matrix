@@ -18,6 +18,7 @@ chatwave.org	1.72.0	matrix.chatwave.org	Germany	Join Matrix
 mandragot.org	1.72.0	mandragot.org	France	Join Matrix
 io.proxion.de	1.72.0	io.proxion.de	Germany	The federation
 matrix.lion.fm	1.72.0	matrix.lion.fm	United States of America	The federation
+mailstation.de	1.72.0	mailstation.de	Germany	The federation
 freiburg.social	1.72.0	matrix.freiburg.social	Germany	Join Matrix
 badstuebner.biz	1.72.0	matrix.badstuebner.biz	Germany	Join Matrix
 arcticfoxes.net	1.72.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
@@ -54,7 +55,6 @@ agdersam.no	1.71.0	agdersam.no	Norway (Germany)	Join Matrix
 halogen.city	1.71.0	halogen.city	United States of America	The federation
 nopasaran.red	1.71.0	nopasaran.red	Finland	The federation
 hot-chilli.im	1.71.0	hot-chilli.im	Germany	Join Matrix
-chatcloud.net	1.71.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
 matrix.drsk.ru	1.71.0	matrix.drsk.ru	Russia	The federation
 bachgau.social	1.71.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cirk2.de	1.71.0	matrix.cirk2.de	Germany	The federation
@@ -81,7 +81,6 @@ data.haus	1.70.1	matrix.data.haus	Germany	Join Matrix
 jabawok.net	1.70.1	jabawok.net	Australia	The federation
 chat.usr.nz	1.70.1	chat.usr.nz	New Zealand	The federation
 converser.eu	1.70.1	converser.eu	France	The federation
-mailstation.de	1.70.1	mailstation.de	Germany	The federation
 glasgow.social	1.70.1	matrix.glasgow.social	UK	Join Matrix
 chat.thorko.de	1.70.1	chat.thorko.de	Germany	The federation
 matrix.data.haus	1.70.1	matrix.data.haus	Germany	The federation
@@ -99,6 +98,7 @@ unredacted.org	1.69.0	matrix.unredacted.org	US (Romania)	Join Matrix
 pirateriot.net	1.69.0	pirateriot.net	Germany	The federation
 no.dustinthe.net	1.69.0	no.dustinthe.net	France	The federation
 matrix.sysops.de	1.69.0	matrix.sysops.de	Germany	The federation
+matrix.rice.id.au	1.69.0	matrix.rice.id.au		The federation
 matrix.pyrignis.fr	1.69.0	matrix.pyrignis.fr	France	The federation
 matrix.antopie.org	1.69.0	matrix.antopie.org	France	The federation
 matrix.thisisjoes.site	1.69.0	matrix.thisisjoes.site	United States of America	The federation
