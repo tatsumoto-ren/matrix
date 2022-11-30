@@ -538,5 +538,9 @@
   {
     "name": "*.sp-codes.de",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.lolispace.moe",
+    "reason": "totalitarian terms of service"
   }
 ]
