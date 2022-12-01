@@ -40,7 +40,6 @@ matrix.leenooks.net	1.72.0	matrix.leenooks.net	Australia	The federation
 matrix.hsrn.nyu.edu	1.72.0	matrix.hsrn.nyu.edu	United States of America	The federation
 matrix.beachcom.org	1.72.0	matrix.beachcom.org	Germany	The federation
 server.matrix4ulm.de	1.72.0	server.matrix4ulm.de	Germany	The federation
-matrix.underworld.fr	1.72.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.72.0	matrix.rockstable.it	Germany	The federation
 chatserver.hashi.sbs	1.72.0	chatserver.hashi.sbs	Turkey	The federation
 matrix.web3.foundation	1.72.0	matrix.web3.foundation		The federation
@@ -61,6 +60,7 @@ agdersam.no	1.71.0	agdersam.no	Norway (Germany)	Join Matrix
 halogen.city	1.71.0	halogen.city	United States of America	The federation
 nopasaran.red	1.71.0	nopasaran.red	Finland	The federation
 hot-chilli.im	1.71.0	hot-chilli.im	Germany	Join Matrix
+chatcloud.net	1.71.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
 matrix.drsk.ru	1.71.0	matrix.drsk.ru	Russia	The federation
 matrix.cirk2.de	1.71.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.71.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -72,7 +72,6 @@ matrix.cybre.space	1.71.0	matrix.cybre.space		The federation
 socialnetwork24.com	1.71.0	socialnetwork24.com	Germany	Join Matrix
 matrix.taskname.com	1.71.0	matrix.taskname.com		The federation
 matrix.opencloud.lu	1.71.0	matrix.opencloud.lu	Luxembourg	The federation
-matrix.lemarchand.io	1.71.0	matrix.lemarchand.io	France	The federation
 matrix.chatcloud.net	1.71.0	matrix.chatcloud.net	Germany	The federation
 chat.opentechtalks.be	1.71.0	chat.opentechtalks.be	Belgium	The federation
 matrix.tetaneutral.net	1.71.0	matrix.tetaneutral.net	France	The federation
@@ -82,7 +81,6 @@ matrix.colonelkrud.com	1.71.0	matrix.colonelkrud.com	United States of America	Th
 matrix.domainepublic.net	1.71.0	matrix.domainepublic.net	Belgium	The federation
 synapse.internet-portal.cz	1.71.0	synapse.internet-portal.cz	Czechia	The federation
 matrix.cloud.codelutin.com	1.71.0	matrix.cloud.codelutin.com	Germany	The federation
-cat.casa	1.70.1	matrix.cat.casa	Germany	Join Matrix
 data.haus	1.70.1	matrix.data.haus	Germany	Join Matrix
 jabawok.net	1.70.1	jabawok.net	Australia	The federation
 converser.eu	1.70.1	converser.eu	France	The federation
@@ -112,7 +110,7 @@ m.edw.ai	1.68.0	m.edw.ai	United States of America	The federation
 okaris.de	1.68.0	okaris.de	Germany	The federation
 madzel.de	1.68.0	madzel.de	Germany	The federation
 cybre.town	1.68.0	cybre.town	Germany	The federation
-skylar.tech	1.68.0	skylar.tech		The federation
+skylar.tech	1.68.0	skylar.tech	United States of America	The federation
 bolesiny.net	1.68.0rc1	matrix.bolesiny.net	Unknown	Asra.gr
 xxx.madzel.de	1.68.0	xxx.madzel.de	Germany	The federation
 dowdell.media	1.68.0	dowdell.media	United States of America	The federation
