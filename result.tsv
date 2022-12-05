@@ -3,7 +3,6 @@ name	version	url	country	source
 qoto.org	1.72.0	matrix.qoto.org	US?	Join Matrix
 foss.wtf	1.72.0	matrix.foss.wtf	Germany	Join Matrix
 club1.fr	1.72.0	club1.fr	France	Join Matrix
-cat.casa	1.72.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.72.0	nope.chat	Germany	Join Matrix
 matrix.im	1.72.0	matrix.im	Germany	Join Matrix
 inetd.xyz	1.72.0	inetd.xyz	Netherlands	Join Matrix
@@ -16,7 +15,6 @@ jonasled.de	1.72.0	matrix.jonasled.de	Germany	Join Matrix
 houtworm.im	1.72.0	houtworm.im	Netherlands	The federation
 funami.tech	1.72.0	funami.tech	South Korea	The federation
 freitrix.de	1.72.0	freitrix.de	Germany	The federation
-duesen.chat	1.72.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.72.0	chat.usr.nz	New Zealand	The federation
 cezeri.tech	1.72.0	matrix.cezeri.tech	Turkey (Germany)	Join Matrix
 studichat.de	1.72.0	matrix.studichat.de	Germany	Join Matrix
@@ -27,7 +25,6 @@ mandragot.org	1.72.0	mandragot.org	France	Join Matrix
 io.proxion.de	1.72.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.72.0	hot-chilli.im	Germany	Join Matrix
 matrix.lion.fm	1.72.0	matrix.lion.fm	United States of America	The federation
-mailstation.de	1.72.0	mailstation.de	Germany	The federation
 bachgau.social	1.72.0	matrix.bachgau.social	Germany	Join Matrix
 freiburg.social	1.72.0	matrix.freiburg.social	Germany	Join Matrix
 badstuebner.biz	1.72.0	matrix.badstuebner.biz	Germany	Join Matrix
@@ -53,6 +50,7 @@ matrix.arya.dogcraft.de	1.72.0	matrix.arya.dogcraft.de	Finland	The federation
 matrixx.uc-netcorsoft.de	1.72.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.mycloudservice.eu	1.72.0	matrix.mycloudservice.eu	Germany	The federation
 matrix.domainepublic.net	1.72.0	matrix.domainepublic.net	Belgium	The federation
+wolffelectronicdesign.com	1.72.0	wolffelectronicdesign.com	United States of America	The federation
 gwaaf.rrze.uni-erlangen.de	1.72.0	gwaaf.rrze.uni-erlangen.de	Germany	The federation
 xmr.se	1.71.0	xmr.se	Germany?	Join Matrix
 yuri.im	1.71.0	yuri.im	Germany	The federation
