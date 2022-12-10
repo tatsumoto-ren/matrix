@@ -8,7 +8,6 @@ bau-ha.us	1.73.0	bau-ha.us		The federation
 sibnsk.net	1.73.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.73.0	nitro.chat	Germany	The federation
 jonasled.de	1.73.0	matrix.jonasled.de	Germany	Join Matrix
-funami.tech	1.73.0	funami.tech	South Korea	The federation
 duesen.chat	1.73.0	matrix.duesen.chat	Germany	Join Matrix
 flieger.chat	1.73.0	matrix.flieger.chat	Germany	Join Matrix
 chatwave.org	1.73.0	matrix.chatwave.org	Germany	Join Matrix
@@ -32,9 +31,9 @@ matrix.rockstable.it	1.73.0	matrix.rockstable.it	Germany	The federation
 chatserver.hashi.sbs	1.73.0	chatserver.hashi.sbs	Turkey	The federation
 matrix.rot1.bruckbu.de	1.73.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrixx.uc-netcorsoft.de	1.73.0	matrixx.uc-netcorsoft.de	Germany	The federation
-wolffelectronicdesign.com	1.73.0	wolffelectronicdesign.com	United States of America	The federation
 0wnz.at	1.72.0	0wnz.at	Austria	Join Matrix
 club1.fr	1.72.0	club1.fr	France	Join Matrix
+cat.casa	1.72.0	matrix.cat.casa	Germany	Join Matrix
 trygve.me	1.72.0	trygve.me	Norway	Join Matrix
 matrix.im	1.72.0	matrix.im	Germany	Join Matrix
 inetd.xyz	1.72.0	inetd.xyz	Netherlands	Join Matrix
@@ -100,6 +99,7 @@ matrix.eientei.org	1.70.1	matrix.eientei.org	Russia	The federation
 synapse.dst.fjit.no	1.70.1	synapse.dst.fjit.no	Norway	The federation
 matrix.calvinrw.com	1.70.1	matrix.calvinrw.com	United States of America	The federation
 matrix.drastical.net	1.70.1	matrix.drastical.net	Netherlands	The federation
+trixie.undrground.org	1.70.1	trixie.undrground.org	United States of America	The federation
 matrix.reticu.li	1.70.0	matrix.reticu.li	United States of America	The federation
 englersch.de	1.69.0	englersch.de	Germany	The federation
 unredacted.org	1.69.0	matrix.unredacted.org	US (Romania)	Join Matrix
