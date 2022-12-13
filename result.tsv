@@ -2,13 +2,13 @@ name	version	url	country	source
 xmr.se	1.73.0	xmr.se	Germany?	Join Matrix
 comm.cx	1.73.0	matrix-client.comm.cx	Japan	Join Matrix
 group.lt	1.73.0	group.lt	Lithuania?	Join Matrix
-foss.wtf	1.73.0	matrix.foss.wtf	Germany	Join Matrix
 nope.chat	1.73.0	nope.chat	Germany	Join Matrix
 m.wfr.moe	1.73.0	m.wfr.moe	Germany	The federation
 bau-ha.us	1.73.0	bau-ha.us		The federation
 sibnsk.net	1.73.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.73.0	nitro.chat	Germany	The federation
 jonasled.de	1.73.0	matrix.jonasled.de	Germany	Join Matrix
+funami.tech	1.73.0	funami.tech	South Korea	The federation
 duesen.chat	1.73.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.73.0	chat.usr.nz	New Zealand	The federation
 cezeri.tech	1.73.0	matrix.cezeri.tech	Turkey (Germany)	Join Matrix
@@ -33,7 +33,6 @@ matrix.vulkanlan.at	1.73.0	matrix.vulkanlan.at	Finland	The federation
 matrix.hsrn.nyu.edu	1.73.0	matrix.hsrn.nyu.edu	United States of America	The federation
 matrix.beachcom.org	1.73.0	matrix.beachcom.org	Germany	The federation
 server.matrix4ulm.de	1.73.0	server.matrix4ulm.de	Germany	The federation
-matrix.underworld.fr	1.73.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.73.0	matrix.rockstable.it	Germany	The federation
 chatserver.hashi.sbs	1.73.0	chatserver.hashi.sbs	Turkey	The federation
 matrix.rot1.bruckbu.de	1.73.0	matrix.rot1.bruckbu.de	Germany	The federation
@@ -94,6 +93,7 @@ matrix.cloud.codelutin.com	1.71.0	matrix.cloud.codelutin.com	Ukraine	The federat
 data.haus	1.70.1	matrix.data.haus	Germany	Join Matrix
 jabawok.net	1.70.1	jabawok.net	Australia	The federation
 converser.eu	1.70.1	converser.eu	France	The federation
+glasgow.social	1.70.1	matrix.glasgow.social	UK	Join Matrix
 chat.thorko.de	1.70.1	chat.thorko.de	Germany	The federation
 matrix.data.haus	1.70.1	matrix.data.haus	Germany	The federation
 matrix.eientei.org	1.70.1	matrix.eientei.org	Russia	The federation
