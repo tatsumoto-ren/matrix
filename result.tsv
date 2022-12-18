@@ -1,6 +1,5 @@
 name	version	url	country	source
 xmr.se	1.73.0	xmr.se	Germany?	Join Matrix
-comm.cx	1.73.0	matrix-client.comm.cx	Japan	Join Matrix
 group.lt	1.73.0	group.lt	Lithuania?	Join Matrix
 foss.wtf	1.73.0	matrix.foss.wtf	Germany	Join Matrix
 club1.fr	1.73.0	club1.fr	France	Join Matrix
@@ -13,7 +12,6 @@ zfnmxt.com	1.73.0	zfnmxt.com	Luxembourg	The federation
 sibnsk.net	1.73.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.73.0	nitro.chat	Germany	The federation
 jonasled.de	1.73.0	matrix.jonasled.de	Germany	Join Matrix
-funami.tech	1.73.0	funami.tech	South Korea	The federation
 freitrix.de	1.73.0	freitrix.de	Germany	The federation
 duesen.chat	1.73.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.73.0	chat.usr.nz	New Zealand	The federation
@@ -93,4 +91,4 @@ matrix.nrp-nautilus.io	1.71.0	matrix.nrp-nautilus.io	United States of America	Th
 matrix.colonelkrud.com	1.71.0	matrix.colonelkrud.com	United States of America	The federation
 matrix.kevinronceray.com	1.71.0	matrix.kevinronceray.com	France	The federation
 synapse.internet-portal.cz	1.71.0	synapse.internet-portal.cz	Czechia	The federation
-matrix.cloud.codelutin.com	1.71.0	matrix.cloud.codelutin.com	Ukraine	The federation
+matrix.cloud.codelutin.com	1.71.0	matrix.cloud.codelutin.com	Germany	The federation
