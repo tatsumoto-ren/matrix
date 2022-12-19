@@ -1,5 +1,6 @@
 name	version	url	country	source
 xmr.se	1.73.0	xmr.se	Germany?	Join Matrix
+comm.cx	1.73.0	matrix-client.comm.cx	Japan	Join Matrix
 group.lt	1.73.0	group.lt	Lithuania?	Join Matrix
 foss.wtf	1.73.0	matrix.foss.wtf	Germany	Join Matrix
 club1.fr	1.73.0	club1.fr	France	Join Matrix
@@ -33,6 +34,7 @@ projectsegfau.lt	1.73.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.poast.org	1.73.0	matrix.poast.org	Finland	The federation
 matrix.nicfab.it	1.73.0	matrix.nicfab.it	Italy	The federation
 matrix.sibnsk.net	1.73.0	matrix.sibnsk.net	Russia	The federation
+matrix.poweron.dk	1.73.0	matrix.poweron.dk	Denmark	The federation
 matrix.jascha.wtf	1.73.0	matrix.jascha.wtf	Germany	The federation
 matrix.foilhat.tk	1.73.0	matrix.foilhat.tk	Russia	The federation
 chrrreeeeesss.com	1.73.0	chrrreeeeesss.com	US	Join Matrix
@@ -52,7 +54,6 @@ matrix.gemeinsam.jetzt	1.73.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrixx.uc-netcorsoft.de	1.73.0	matrixx.uc-netcorsoft.de	Germany	The federation
 wolffelectronicdesign.com	1.73.0	wolffelectronicdesign.com	United States of America	The federation
 0wnz.at	1.72.0	0wnz.at	Austria	Join Matrix
-cat.casa	1.72.0	matrix.cat.casa	Germany	Join Matrix
 trygve.me	1.72.0	trygve.me	Norway	Join Matrix
 inetd.xyz	1.72.0	inetd.xyz	Netherlands	Join Matrix
 m.ip-t.com	1.72.0	m.ip-t.com	Russia	The federation
@@ -77,7 +78,6 @@ matrix.cirk2.de	1.71.0	matrix.cirk2.de	Germany	The federation
 no.dustinthe.net	1.71.0	no.dustinthe.net	France	The federation
 matrix.talos.chat	1.71.0	matrix.talos.chat	Czechia	The federation
 matrix.rice.id.au	1.71.0	matrix.rice.id.au		The federation
-matrix.poweron.dk	1.71.0	matrix.poweron.dk	Denmark	The federation
 matrix.itstall.de	1.71.0	matrix.itstall.de		The federation
 matrix.schotty.com	1.71.0	matrix.schotty.com	United States of America	The federation
 matrix.cybre.space	1.71.0	matrix.cybre.space		The federation
