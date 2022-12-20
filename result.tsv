@@ -4,6 +4,7 @@ comm.cx	1.73.0	matrix-client.comm.cx	Japan	Join Matrix
 group.lt	1.73.0	group.lt	Lithuania?	Join Matrix
 foss.wtf	1.73.0	matrix.foss.wtf	Germany	Join Matrix
 club1.fr	1.73.0	club1.fr	France	Join Matrix
+okaris.de	1.73.0	okaris.de	Germany	The federation
 nope.chat	1.73.0	nope.chat	Germany	Join Matrix
 matrix.im	1.73.0	matrix.im	Germany	Join Matrix
 m.wfr.moe	1.73.0	m.wfr.moe	Germany	The federation
@@ -18,6 +19,7 @@ freitrix.de	1.73.0	freitrix.de	Germany	The federation
 duesen.chat	1.73.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.73.0	chat.usr.nz	New Zealand	The federation
 cezeri.tech	1.73.0	matrix.cezeri.tech	Turkey (Germany)	Join Matrix
+agdersam.no	1.73.0	agdersam.no	Norway (Germany)	Join Matrix
 flieger.chat	1.73.0	matrix.flieger.chat	Germany	Join Matrix
 community.rs	1.73.0	matrix.community.rs	US	Join Matrix
 chatwave.org	1.73.0	matrix.chatwave.org	Germany	Join Matrix
@@ -29,10 +31,12 @@ chatcloud.net	1.73.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
 matrix.lion.fm	1.73.0	matrix.lion.fm	United States of America	The federation
 mailstation.de	1.73.0	mailstation.de	Germany	The federation
 bachgau.social	1.73.0	matrix.bachgau.social	Germany	Join Matrix
+matrix.cirk2.de	1.73.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.73.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.73.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.73.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
 projectsegfau.lt	1.73.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
+matrix.poast.org	1.73.0	matrix.poast.org	United States of America	The federation
 matrix.nicfab.it	1.73.0	matrix.nicfab.it	Italy	The federation
 matrix.sibnsk.net	1.73.0	matrix.sibnsk.net	Russia	The federation
 matrix.poweron.dk	1.73.0	matrix.poweron.dk	Denmark	The federation
@@ -72,8 +76,8 @@ matrix.domainepublic.net	1.72.0	matrix.domainepublic.net	Belgium	The federation
 gwaaf.rrze.uni-erlangen.de	1.72.0	gwaaf.rrze.uni-erlangen.de	Germany	The federation
 yuri.im	1.71.0	yuri.im	Germany	The federation
 zelchat.de	1.71.0	zelchat.de	Germany	The federation
+maroulid.is	1.71.0	maroulid.is	France	The federation
 matrix.drsk.ru	1.71.0	matrix.drsk.ru	Russia	The federation
-matrix.cirk2.de	1.71.0	matrix.cirk2.de	Germany	The federation
 no.dustinthe.net	1.71.0	no.dustinthe.net	France	The federation
 matrix.talos.chat	1.71.0	matrix.talos.chat	Czechia	The federation
 matrix.rice.id.au	1.71.0	matrix.rice.id.au		The federation
