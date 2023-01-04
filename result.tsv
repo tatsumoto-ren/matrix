@@ -1,5 +1,6 @@
 name	version	url	country	source
 xmr.se	1.74.0	xmr.se	Germany?	Join Matrix
+adb.sh	1.74.0	adb.sh	Germany	The federation
 mtrx.cz	1.74.0	mtrx.cz	Germany	The federation
 comm.cx	1.74.0	matrix-client.comm.cx	Japan	Join Matrix
 foss.wtf	1.74.0	matrix.foss.wtf	Germany	Join Matrix
@@ -9,7 +10,7 @@ okaris.de	1.74.0	okaris.de	Germany	The federation
 nope.chat	1.74.0	nope.chat	Germany	Join Matrix
 matrix.im	1.74.0	matrix.im	Germany	Join Matrix
 hashi.sbs	1.74.0	hashi.sbs	Netherlands	The federation
-bau-ha.us	1.74.0	bau-ha.us		The federation
+bau-ha.us	1.74.0	bau-ha.us	Germany	The federation
 nitro.chat	1.74.0	nitro.chat	Germany	The federation
 maroulid.is	1.74.0	maroulid.is	France	The federation
 jonasled.de	1.74.0	matrix.jonasled.de	Germany	Join Matrix
@@ -32,7 +33,6 @@ bachgau.social	1.74.0	matrix.bachgau.social	Germany	Join Matrix
 gemeinsam.jetzt	1.74.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.74.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.74.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
-projectsegfau.lt	1.74.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 no.dustinthe.net	1.74.0	no.dustinthe.net	France	The federation
 matrix.sysops.de	1.74.0	matrix.sysops.de	Germany	The federation
 matrix.privex.io	1.74.0	matrix.privex.io	Sweden	The federation
@@ -60,7 +60,7 @@ matrix.gemeinsam.jetzt	1.74.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrixx.uc-netcorsoft.de	1.74.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.kevinronceray.com	1.74.0	matrix.kevinronceray.com	France	The federation
 matrix.eigenbaukombinat.de	1.74.0	matrix.eigenbaukombinat.de	Germany	The federation
-matrix.cloud.codelutin.com	1.74.0	matrix.cloud.codelutin.com	Ukraine	The federation
+matrix.cloud.codelutin.com	1.74.0	matrix.cloud.codelutin.com	Germany	The federation
 group.lt	1.73.0	group.lt	Lithuania?	Join Matrix
 club1.fr	1.73.0	club1.fr	France	Join Matrix
 madzel.de	1.73.0	madzel.de	Germany	The federation
