@@ -4,6 +4,7 @@ adb.sh	1.74.0	adb.sh	Germany	The federation
 mtrx.cz	1.74.0	mtrx.cz	Germany	The federation
 comm.cx	1.74.0	matrix-client.comm.cx	Japan	Join Matrix
 foss.wtf	1.74.0	matrix.foss.wtf	Germany	Join Matrix
+club1.fr	1.74.0	club1.fr	France	Join Matrix
 cat.casa	1.74.0	matrix.cat.casa	Germany	Join Matrix
 trygve.me	1.74.0	trygve.me	Norway	Join Matrix
 okaris.de	1.74.0	okaris.de	Germany	The federation
@@ -12,6 +13,7 @@ matrix.im	1.74.0	matrix.im	Germany	Join Matrix
 hashi.sbs	1.74.0	hashi.sbs	Netherlands	The federation
 bau-ha.us	1.74.0	bau-ha.us	Germany	The federation
 nitro.chat	1.74.0	nitro.chat	Germany	The federation
+sfunk1x.com	1.74.0	matrix.sfunk1x.com	US	Join Matrix
 maroulid.is	1.74.0	maroulid.is	France	The federation
 jonasled.de	1.74.0	matrix.jonasled.de	Germany	Join Matrix
 jabawok.net	1.74.0	jabawok.net	Australia	The federation
@@ -62,7 +64,6 @@ matrix.kevinronceray.com	1.74.0	matrix.kevinronceray.com	France	The federation
 matrix.eigenbaukombinat.de	1.74.0	matrix.eigenbaukombinat.de	Germany	The federation
 matrix.cloud.codelutin.com	1.74.0	matrix.cloud.codelutin.com	Germany	The federation
 group.lt	1.73.0	group.lt	Lithuania?	Join Matrix
-club1.fr	1.73.0	club1.fr	France	Join Matrix
 madzel.de	1.73.0	madzel.de	Germany	The federation
 m.wfr.moe	1.73.0	m.wfr.moe	Germany	The federation
 inetd.xyz	1.73.0	inetd.xyz	Netherlands	Join Matrix
@@ -89,7 +90,6 @@ trixie.undrground.org	1.73.0	trixie.undrground.org	United States of America	The 
 wolffelectronicdesign.com	1.73.0	wolffelectronicdesign.com	United States of America	The federation
 0wnz.at	1.72.0	0wnz.at	Austria	Join Matrix
 m.ip-t.com	1.72.0	m.ip-t.com	Dominica	The federation
-sfunk1x.com	1.72.0	matrix.sfunk1x.com	US	Join Matrix
 studichat.de	1.72.0	matrix.studichat.de	Germany	Join Matrix
 badstuebner.biz	1.72.0	matrix.badstuebner.biz	Germany	Join Matrix
 matrix.leenooks.net	1.72.0	matrix.leenooks.net	Australia	The federation
