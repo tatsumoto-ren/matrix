@@ -2,6 +2,7 @@ name	version	url	country	source
 xmr.se	1.74.0	xmr.se	Germany?	Join Matrix
 adb.sh	1.74.0	adb.sh	Germany	The federation
 mtrx.cz	1.74.0	mtrx.cz	Germany	The federation
+comm.cx	1.74.0	matrix-client.comm.cx	Japan	Join Matrix
 foss.wtf	1.74.0	matrix.foss.wtf	Germany	Join Matrix
 club1.fr	1.74.0	club1.fr	France	Join Matrix
 cat.casa	1.74.0	matrix.cat.casa	Germany	Join Matrix
@@ -28,6 +29,7 @@ crossbach.de	1.74.0	matrix.crossbach.de	Germany	Join Matrix
 community.rs	1.74.0	matrix.community.rs	US	Join Matrix
 chatwave.org	1.74.0	matrix.chatwave.org	Germany	Join Matrix
 perthchat.org	1.74.0	matrix.perthchat.org	Australia	Join Matrix
+nopasaran.red	1.74.0	nopasaran.red	Finland	The federation
 io.proxion.de	1.74.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.74.0	hot-chilli.im	Germany	Join Matrix
 matrix.lion.fm	1.74.0	matrix.lion.fm	United States of America	The federation
@@ -36,7 +38,6 @@ bachgau.social	1.74.0	matrix.bachgau.social	Germany	Join Matrix
 gemeinsam.jetzt	1.74.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.74.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.74.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
-projectsegfau.lt	1.74.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 no.dustinthe.net	1.74.0	no.dustinthe.net	France	The federation
 matrix.sysops.de	1.74.0	matrix.sysops.de	Germany	The federation
 matrix.privex.io	1.74.0	matrix.privex.io	Sweden	The federation
@@ -47,6 +48,7 @@ matrix.rice.id.au	1.74.0	matrix.rice.id.au		The federation
 matrix.poweron.dk	1.74.0	matrix.poweron.dk	Denmark	The federation
 matrix.jascha.wtf	1.74.0	matrix.jascha.wtf	Germany	The federation
 matrix.foilhat.tk	1.74.0	matrix.foilhat.tk	Russia	The federation
+chrrreeeeesss.com	1.74.0	chrrreeeeesss.com	US	Join Matrix
 anonymousland.org	1.74.0	matrix.anonymousland.org	Iceland?	Join Matrix
 matrix.boritsch.de	1.74.0	matrix.boritsch.de	Germany	The federation
 matrix.antopie.org	1.74.0	matrix.antopie.org	France	The federation
@@ -76,14 +78,12 @@ zfnmxt.com	1.73.0	zfnmxt.com	Luxembourg	The federation
 chat.usr.nz	1.73.0	chat.usr.nz	New Zealand	The federation
 agdersam.no	1.73.0	agdersam.no	Norway (Germany)	Join Matrix
 xxx.madzel.de	1.73.0	xxx.madzel.de	Germany	The federation
-nopasaran.red	1.73.0	nopasaran.red	Finland	The federation
 mandragot.org	1.73.0	mandragot.org	France	Join Matrix
 chatcloud.net	1.73.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
 chat.thorko.de	1.73.0	chat.thorko.de	Germany	The federation
 matrix.cirk2.de	1.73.0	matrix.cirk2.de	Germany	The federation
 matrix.poast.org	1.73.0	matrix.poast.org	United States of America	The federation
 matrix.data.haus	1.73.0	matrix.data.haus	Germany	The federation
-chrrreeeeesss.com	1.73.0	chrrreeeeesss.com	US	Join Matrix
 synapse.dst.fjit.no	1.73.0	synapse.dst.fjit.no	Norway	The federation
 matrix.vulkanlan.at	1.73.0	matrix.vulkanlan.at	Finland	The federation
 matrix.chatcloud.net	1.73.0	matrix.chatcloud.net	Germany	The federation
