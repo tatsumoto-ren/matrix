@@ -542,5 +542,9 @@
   {
     "name": "*.lolispace.moe",
     "reason": "totalitarian terms of service"
+  },
+  {
+    "name": "*.waffle.tech",
+    "reason": "ERROR for site owner: Invalid domain for site key"
   }
 ]
