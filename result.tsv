@@ -2,7 +2,6 @@ name	version	url	country	source
 xmr.se	1.74.0	xmr.se	Germany?	Join Matrix
 adb.sh	1.74.0	adb.sh	Germany	The federation
 mtrx.cz	1.74.0	mtrx.cz	Germany	The federation
-comm.cx	1.74.0	matrix-client.comm.cx	Japan	Join Matrix
 foss.wtf	1.74.0	matrix.foss.wtf	Germany	Join Matrix
 club1.fr	1.74.0	club1.fr	France	Join Matrix
 cat.casa	1.74.0	matrix.cat.casa	Germany	Join Matrix
@@ -35,12 +34,13 @@ io.proxion.de	1.74.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.74.0	hot-chilli.im	Germany	Join Matrix
 matrix.lion.fm	1.74.0	matrix.lion.fm	United States of America	The federation
 mailstation.de	1.74.0	mailstation.de	Germany	The federation
-glasgow.social	1.74.0	matrix.glasgow.social	UK	Join Matrix
+glasgow.social	1.74.0	glasgow.social	UK	Join Matrix
+chat.breuxi.de	1.74.0	chat.breuxi.de	Germany	The federation
 bachgau.social	1.74.0	matrix.bachgau.social	Germany	Join Matrix
+matrix.cirk2.de	1.74.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.74.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.74.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.74.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
-projectsegfau.lt	1.74.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 no.dustinthe.net	1.74.0	no.dustinthe.net	France	The federation
 matrix.sysops.de	1.74.0	matrix.sysops.de	Germany	The federation
 matrix.privex.io	1.74.0	matrix.privex.io	Sweden	The federation
@@ -79,11 +79,11 @@ inetd.xyz	1.73.0	inetd.xyz	Netherlands	Join Matrix
 data.haus	1.73.0	matrix.data.haus	Germany	Join Matrix
 chat.usr.nz	1.73.0	chat.usr.nz	New Zealand	The federation
 agdersam.no	1.73.0	agdersam.no	Norway (Germany)	Join Matrix
+converser.eu	1.73.0	converser.eu	France	The federation
 xxx.madzel.de	1.73.0	xxx.madzel.de	Germany	The federation
 mandragot.org	1.73.0	mandragot.org	France	Join Matrix
 chatcloud.net	1.73.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
 chat.thorko.de	1.73.0	chat.thorko.de	Germany	The federation
-matrix.cirk2.de	1.73.0	matrix.cirk2.de	Germany	The federation
 matrix.poast.org	1.73.0	matrix.poast.org	United States of America	The federation
 matrix.data.haus	1.73.0	matrix.data.haus	Germany	The federation
 synapse.dst.fjit.no	1.73.0	synapse.dst.fjit.no	Norway	The federation
