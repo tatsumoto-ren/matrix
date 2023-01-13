@@ -21,8 +21,10 @@ maroulid.is	1.74.0	maroulid.is	France	The federation
 jonasled.de	1.74.0	matrix.jonasled.de	Germany	Join Matrix
 jabawok.net	1.74.0	jabawok.net	Australia	The federation
 houtworm.im	1.74.0	houtworm.im	Netherlands	The federation
+funami.tech	1.74.0	funami.tech	South Korea	The federation
 freitrix.de	1.74.0	freitrix.de	Germany	The federation
 duesen.chat	1.74.0	matrix.duesen.chat	Germany	Join Matrix
+agdersam.no	1.74.0	agdersam.no	Norway (Germany)	Join Matrix
 halogen.city	1.74.0	halogen.city	United States of America	The federation
 fulda.social	1.74.0	matrix.fulda.social	Germany	Join Matrix
 flieger.chat	1.74.0	matrix.flieger.chat	Germany	Join Matrix
@@ -43,7 +45,6 @@ matrix.cirk2.de	1.74.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.74.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.74.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.74.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
-projectsegfau.lt	1.74.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 no.dustinthe.net	1.74.0	no.dustinthe.net	France	The federation
 matrix.sysops.de	1.74.0	matrix.sysops.de	Germany	The federation
 matrix.privex.io	1.74.0	matrix.privex.io	Sweden	The federation
@@ -62,8 +63,8 @@ socialnetwork24.com	1.74.0	socialnetwork24.com	Germany	Join Matrix
 pragma-messenger.ch	1.74.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.taskname.com	1.74.0	matrix.taskname.com		The federation
 matrix.schnatter.eu	1.74.0	matrix.schnatter.eu	Germany	The federation
+matrix.leenooks.net	1.74.0	matrix.leenooks.net	Australia	The federation
 matrix.beachcom.org	1.74.0	matrix.beachcom.org	Germany	The federation
-server.matrix4ulm.de	1.74.0	server.matrix4ulm.de	Germany	The federation
 matrix.underworld.fr	1.74.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.74.0	matrix.rockstable.it	Germany	The federation
 chatserver.hashi.sbs	1.74.0	chatserver.hashi.sbs	Turkey	The federation
@@ -81,7 +82,6 @@ m.wfr.moe	1.73.0	m.wfr.moe	Germany	The federation
 inetd.xyz	1.73.0	inetd.xyz	Netherlands	Join Matrix
 data.haus	1.73.0	matrix.data.haus	Germany	Join Matrix
 chat.usr.nz	1.73.0	chat.usr.nz	New Zealand	The federation
-agdersam.no	1.73.0	agdersam.no	Norway (Germany)	Join Matrix
 converser.eu	1.73.0	converser.eu	France	The federation
 xxx.madzel.de	1.73.0	xxx.madzel.de	Germany	The federation
 mandragot.org	1.73.0	mandragot.org	France	Join Matrix
@@ -98,10 +98,8 @@ wolffelectronicdesign.com	1.73.0	wolffelectronicdesign.com	United States of Amer
 m.ip-t.com	1.72.0	m.ip-t.com	Dominica	The federation
 studichat.de	1.72.0	matrix.studichat.de	Germany	Join Matrix
 badstuebner.biz	1.72.0	matrix.badstuebner.biz	Germany	Join Matrix
-matrix.leenooks.net	1.72.0	matrix.leenooks.net	Australia	The federation
 matrix.web3.foundation	1.72.0	matrix.web3.foundation	Netherlands	The federation
 matrix.thisisjoes.site	1.72.0	matrix.thisisjoes.site	United States of America	The federation
 matrix.arya.dogcraft.de	1.72.0	matrix.arya.dogcraft.de	Finland	The federation
 matrix.mycloudservice.eu	1.72.0	matrix.mycloudservice.eu	Germany	The federation
-matrix.domainepublic.net	1.72.0	matrix.domainepublic.net	Belgium	The federation
 gwaaf.rrze.uni-erlangen.de	1.72.0	gwaaf.rrze.uni-erlangen.de	Germany	The federation
