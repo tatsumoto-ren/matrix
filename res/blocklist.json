@@ -546,5 +546,9 @@
   {
     "name": "*.waffle.tech",
     "reason": "ERROR for site owner: Invalid domain for site key"
+  },
+  {
+    "name": "*.houtworm.im",
+    "reason": "The admin purged all accounts without prior notice."
   }
 ]
