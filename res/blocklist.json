@@ -554,5 +554,9 @@
   {
     "name": "*.foss.wtf",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.waifuhunter.club",
+    "reason": "has a history of account purges"
   }
 ]
