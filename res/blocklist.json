@@ -558,5 +558,9 @@
   {
     "name": "*.waifuhunter.club",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.yesmap.net",
+    "reason": "against public use"
   }
 ]
