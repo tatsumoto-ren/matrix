@@ -3,6 +3,7 @@ xmr.se	1.77.0	xmr.se	Germany?	Join Matrix
 comm.cx	1.77.0	matrix-client.comm.cx	Japan	Join Matrix
 group.lt	1.77.0	matrix.group.lt	Lithuania?	Join Matrix
 club1.fr	1.77.0	club1.fr	France	Join Matrix
+cat.casa	1.77.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.77.0	nope.chat	Germany	Join Matrix
 mephis.to	1.77.0	mephis.to	Germany	The federation
 matrix.im	1.77.0	matrix.im	Germany	Join Matrix
@@ -15,7 +16,7 @@ bau-ha.us	1.77.0	bau-ha.us	Germany	The federation
 rayneau.fr	1.77.0	rayneau.fr	France	The federation
 norge.chat	1.77.0	matrix.norge.chat	Norway (Finland)	Join Matrix
 nitro.chat	1.77.0	nitro.chat	Germany	The federation
-filly.chat	1.77.0	filly.chat	United States of America	The federation
+filly.chat	1.77.0	filly.chat		The federation
 bolha.chat	1.77.0	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.77.0	matrix.jonasled.de	Germany	Join Matrix
 jabawok.net	1.77.0	jabawok.net	Australia	The federation
@@ -48,6 +49,7 @@ matrix.foilhat.tk	1.77.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.77.0	matrix.flip.earth	Finland	The federation
 llamarific.social	1.77.0	matrix.llamarific.social	US	Join Matrix
 chrrreeeeesss.com	1.77.0	chrrreeeeesss.com	US	Join Matrix
+chat.casually.cat	1.77.0	chat.casually.cat	Netherlands	The federation
 matrix.cybre.space	1.77.0	matrix.cybre.space	Germany	The federation
 matrix.boritsch.de	1.77.0	matrix.boritsch.de	Germany	The federation
 socialnetwork24.com	1.77.0	socialnetwork24.com	Germany	Join Matrix
@@ -81,6 +83,7 @@ matrix.itstall.de	1.76.0	matrix.itstall.de		The federation
 matrix.antopie.org	1.76.0	matrix.antopie.org	France	The federation
 matrix.underworld.fr	1.76.0	matrix.underworld.fr	France	The federation
 matrix.lemarchand.io	1.76.0	matrix.lemarchand.io	France	The federation
+trixie.undrground.org	1.76.0	trixie.undrground.org	United States of America	The federation
 matrix.hiddenasian.dev	1.76.0	matrix.hiddenasian.dev	Germany	The federation
 matrix.ninetailed.ninja	1.76.0	matrix.ninetailed.ninja	Germany	The federation
 matrix.arya.dogcraft.de	1.76.0	matrix.arya.dogcraft.de	Finland	The federation
@@ -174,7 +177,6 @@ arschtronaut.de	1.75.0	synapse.arschtronaut.de	Unknown	Asra.gr
 uc-netcorsoft.de	1.75.0	matrixx.uc-netcorsoft.de	Unknown	Asra.gr
 opentechtalks.be	1.75.0	chat.opentechtalks.be	Unknown	Asra.gr
 matrix.omegav.no	1.75.0	matrix.omegav.no	Unknown	Asra.gr
-nth.international	1.75.0	matrix.nth.international	Unknown	Asra.gr
 meet.inboxsys.net	1.75.0	meet.inboxsys.net	Unknown	Asra.gr
 matrix.wanter.dev	1.75.0	matrix.wanter.dev	Unknown	Asra.gr
 matrix.texo-it.de	1.75.0	matrix.texo-it.de	Unknown	Asra.gr
