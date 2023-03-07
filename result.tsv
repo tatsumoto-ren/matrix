@@ -1,5 +1,6 @@
 name	version	url	country	source
 xmr.se	1.78.0	xmr.se	Germany?	Join Matrix
+plus.st	1.78.0	matrix.plus.st	US	Join Matrix
 comm.cx	1.78.0	matrix-client.comm.cx	Japan	Join Matrix
 mlp.chat	1.78.0	mlp.chat	United States of America	The federation
 group.lt	1.78.0	matrix.group.lt	Lithuania?	Join Matrix
@@ -24,6 +25,7 @@ nopasaran.red	1.78.0	nopasaran.red	Germany	The federation
 matrix.lrn.fm	1.78.0	matrix.lrn.fm	Canada	The federation
 kitsunes.club	1.78.0	kitsunes.club	Canada	The federation
 io.proxion.de	1.78.0	io.proxion.de	Germany	The federation
+hot-chilli.im	1.78.0	hot-chilli.im	Germany	Join Matrix
 matrix.lion.fm	1.78.0	matrix.lion.fm	United States of America	The federation
 bachgau.social	1.78.0	matrix.bachgau.social	Germany	Join Matrix
 gemeinsam.jetzt	1.78.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -36,6 +38,7 @@ matrix.flip.earth	1.78.0	matrix.flip.earth	Finland	The federation
 pragma-messenger.ch	1.78.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.beachcom.org	1.78.0	matrix.beachcom.org	Germany	The federation
 kiber-ogur4ik.space	1.78.0	matrix.kiber-ogur4ik.space	Russia (Poland)	Join Matrix
+server.matrix4ulm.de	1.78.0	server.matrix4ulm.de	Germany	The federation
 matrix.rockstable.it	1.78.0	matrix.rockstable.it	Germany	The federation
 chatserver.hashi.sbs	1.78.0	chatserver.hashi.sbs	Turkey	The federation
 chat.opentechtalks.be	1.78.0	chat.opentechtalks.be	Belgium	The federation
@@ -50,6 +53,7 @@ matrix.domainepublic.net	1.78.0	matrix.domainepublic.net	Belgium	The federation
 matrix.im	1.77.0	matrix.im	Germany	Join Matrix
 m.wfr.moe	1.77.0	m.wfr.moe	Germany	The federation
 libcom.de	1.77.0	matrix.libcom.de	Germany	Join Matrix
+zfnmxt.com	1.77.0	zfnmxt.com	Luxembourg	The federation
 norge.chat	1.77.0	matrix.norge.chat	Norway (Finland)	Join Matrix
 bolha.chat	1.77.0	bolha.chat	Brazil (Canada)	Join Matrix
 jabawok.net	1.77.0	jabawok.net	Australia	The federation
@@ -60,10 +64,8 @@ englersch.de	1.77.0	englersch.de	Germany	The federation
 crossbach.de	1.77.0	matrix.crossbach.de	Germany	Join Matrix
 community.rs	1.77.0	matrix.community.rs	US	Join Matrix
 chatwave.org	1.77.0	matrix.chatwave.org	Germany	Join Matrix
-monero.social	1.77.0	matrix.monero.social	US	Join Matrix
 mandragot.org	1.77.0	mandragot.org	France	Join Matrix
 gnulinux.club	1.77.0	matrix.gnulinux.club	US	Join Matrix
-mailstation.de	1.77.0	mailstation.de	Germany	The federation
 matrix.cirk2.de	1.77.0	matrix.cirk2.de	Germany	The federation
 freiburg.social	1.77.0	matrix.freiburg.social	Germany	Join Matrix
 no.dustinthe.net	1.77.0	no.dustinthe.net	France	The federation
