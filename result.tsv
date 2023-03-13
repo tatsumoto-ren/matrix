@@ -1,6 +1,7 @@
 name	version	url	country	source
 arcticfoxes.net	1.79.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
 xmr.se	1.78.0	xmr.se	Germany?	Join Matrix
+plus.st	1.78.0	matrix.plus.st	US	Join Matrix
 comm.cx	1.78.0	matrix-client.comm.cx	Japan	Join Matrix
 mlp.chat	1.78.0	mlp.chat	United States of America	The federation
 group.lt	1.78.0	matrix.group.lt	Lithuania?	Join Matrix
@@ -13,6 +14,7 @@ hashi.sbs	1.78.0	hashi.sbs	United States of America	The federation
 frei.chat	1.78.0	matrix.frei.chat	Germany (Finland)	Join Matrix
 evulid.cc	1.78.0	matrix.evulid.cc	US	Join Matrix
 bau-ha.us	1.78.0	bau-ha.us	Germany	The federation
+bark.lgbt	1.78.0	synapse.bark.lgbt	Netherlands	Join Matrix
 sibnsk.net	1.78.0	matrix.sibnsk.net	Russia	Join Matrix
 rayneau.fr	1.78.0	rayneau.fr	France	The federation
 norge.chat	1.78.0	matrix.norge.chat	Norway (Finland)	Join Matrix
@@ -36,7 +38,7 @@ kitsunes.club	1.78.0	kitsunes.club	Canada	The federation
 io.proxion.de	1.78.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.78.0	hot-chilli.im	Germany	Join Matrix
 matrix.lion.fm	1.78.0	matrix.lion.fm	United States of America	The federation
-bachgau.social	1.78.0	matrix.bachgau.social	Germany	Join Matrix
+mailstation.de	1.78.0	mailstation.de	Germany	The federation
 matrix.cirk2.de	1.78.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.78.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.78.0	matrix.freiburg.social	Germany	Join Matrix
@@ -89,7 +91,6 @@ matrix.boritsch.de	1.77.0	matrix.boritsch.de	Germany	The federation
 matrix.antopie.org	1.77.0	matrix.antopie.org	France	The federation
 synapse.dst.fjit.no	1.77.0	synapse.dst.fjit.no	Norway	The federation
 socialnetwork24.com	1.77.0	socialnetwork24.com	Germany	Join Matrix
-matrix.taskname.com	1.77.0	matrix.taskname.com	United States of America	The federation
 matrix.drastical.net	1.77.0	matrix.drastical.net	Netherlands	The federation
 matrix.mycloudservice.eu	1.77.0	matrix.mycloudservice.eu	Germany	The federation
 matrix.kevinronceray.com	1.77.0	matrix.kevinronceray.com	France	The federation
