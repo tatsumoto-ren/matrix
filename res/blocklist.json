@@ -562,5 +562,9 @@
   {
     "name": "*.yesmap.net",
     "reason": "against public use"
+  },
+  {
+    "name": "*.maeli.net",
+    "reason": "has a history of account purges"
   }
 ]
