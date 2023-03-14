@@ -1,5 +1,5 @@
 name	version	url	country	source
-arcticfoxes.net	1.79.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
+arcticfoxes.net	1.79.0rc2	matrix.arcticfoxes.net	US (UK)	Join Matrix
 xmr.se	1.78.0	xmr.se	Germany?	Join Matrix
 plus.st	1.78.0	matrix.plus.st	US	Join Matrix
 comm.cx	1.78.0	matrix-client.comm.cx	Japan	Join Matrix
@@ -39,6 +39,8 @@ io.proxion.de	1.78.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.78.0	hot-chilli.im	Germany	Join Matrix
 matrix.lion.fm	1.78.0	matrix.lion.fm	United States of America	The federation
 mailstation.de	1.78.0	mailstation.de	Germany	The federation
+chagai.website	1.78.0	mx.chagai.website	Switzerland	Join Matrix
+bachgau.social	1.78.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cirk2.de	1.78.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.78.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.78.0	matrix.freiburg.social	Germany	Join Matrix
@@ -91,6 +93,7 @@ matrix.boritsch.de	1.77.0	matrix.boritsch.de	Germany	The federation
 matrix.antopie.org	1.77.0	matrix.antopie.org	France	The federation
 synapse.dst.fjit.no	1.77.0	synapse.dst.fjit.no	Norway	The federation
 socialnetwork24.com	1.77.0	socialnetwork24.com	Germany	Join Matrix
+matrix.taskname.com	1.77.0	matrix.taskname.com	United States of America	The federation
 matrix.drastical.net	1.77.0	matrix.drastical.net	Netherlands	The federation
 matrix.mycloudservice.eu	1.77.0	matrix.mycloudservice.eu	Germany	The federation
 matrix.kevinronceray.com	1.77.0	matrix.kevinronceray.com	France	The federation
