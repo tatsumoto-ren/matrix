@@ -10,7 +10,8 @@ cat.casa	1.78.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.78.0	nope.chat	Germany	Join Matrix
 noevil.pl	1.78.0	matrix.noevil.pl	Poland (Germany)	Join Matrix
 mephis.to	1.78.0	mephis.to	Germany	The federation
-hashi.sbs	1.78.0	hashi.sbs	United States of America	The federation
+matrix.im	1.78.0	matrix.im	Germany	Join Matrix
+hashi.sbs	1.78.0	hashi.sbs	Netherlands	The federation
 frei.chat	1.78.0	matrix.frei.chat	Germany (Finland)	Join Matrix
 evulid.cc	1.78.0	matrix.evulid.cc	US	Join Matrix
 bau-ha.us	1.78.0	bau-ha.us	Germany	The federation
@@ -70,7 +71,6 @@ matrix.tfcconnection.org	1.78.0	matrix.tfcconnection.org	United States of Americ
 matrix.domainepublic.net	1.78.0	matrix.domainepublic.net	Belgium	The federation
 matrix.eigenbaukombinat.de	1.78.0	matrix.eigenbaukombinat.de	Germany	The federation
 4d2.org	1.77.0	matrix.4d2.org	Moldova	Join Matrix
-matrix.im	1.77.0	matrix.im	Germany	Join Matrix
 m.wfr.moe	1.77.0	m.wfr.moe	Germany	The federation
 libcom.de	1.77.0	matrix.libcom.de	Germany	Join Matrix
 zfnmxt.com	1.77.0	zfnmxt.com	Luxembourg	The federation
@@ -88,7 +88,7 @@ matrix.hackify.de	1.77.0	matrix.hackify.de	Germany	The federation
 llamarific.social	1.77.0	matrix.llamarific.social	US	Join Matrix
 synapse.vault81.de	1.77.0	synapse.vault81.de	Germany	The federation
 matrix.pyrignis.fr	1.77.0	matrix.pyrignis.fr	France	The federation
-matrix.cybre.space	1.77.0	matrix.cybre.space	Germany	The federation
+matrix.cybre.space	1.77.0	matrix.cybre.space		The federation
 matrix.boritsch.de	1.77.0	matrix.boritsch.de	Germany	The federation
 matrix.antopie.org	1.77.0	matrix.antopie.org	France	The federation
 synapse.dst.fjit.no	1.77.0	synapse.dst.fjit.no	Norway	The federation
