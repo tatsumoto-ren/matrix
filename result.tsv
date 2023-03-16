@@ -3,19 +3,23 @@ group.lt	1.79.0	matrix.group.lt	Lithuania?	Join Matrix
 cat.casa	1.79.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.79.0	nope.chat	Germany	Join Matrix
 mephis.to	1.79.0	mephis.to	Germany	The federation
-hashi.sbs	1.79.0	hashi.sbs	United States of America	The federation
+hashi.sbs	1.79.0	hashi.sbs	Netherlands	The federation
 nitro.chat	1.79.0	nitro.chat	Germany	The federation
-filly.chat	1.79.0	filly.chat	United States of America	The federation
+filly.chat	1.79.0	filly.chat		The federation
 jonasled.de	1.79.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.79.0	funami.tech	South Korea	The federation
+agdersam.no	1.79.0	agdersam.no	Norway (Germany)	Join Matrix
 studichat.de	1.79.0	matrix.studichat.de	Germany	Join Matrix
+matrix.lrn.fm	1.79.0	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.79.0	io.proxion.de	Germany	The federation
+hot-chilli.im	1.79.0	hot-chilli.im	Germany	Join Matrix
 dowdell.media	1.79.0	dowdell.media	United States of America	The federation
 matrix.lion.fm	1.79.0	matrix.lion.fm	United States of America	The federation
 bachgau.social	1.79.0	matrix.bachgau.social	Germany	Join Matrix
-arcticfoxes.net	1.79.0rc2	matrix.arcticfoxes.net	US (UK)	Join Matrix
+arcticfoxes.net	1.79.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
 projectsegfau.lt	1.79.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.nicfab.it	1.79.0	matrix.nicfab.it	Italy	The federation
+matrix.toschke.de	1.79.0	matrix.toschke.de	France	The federation
 matrix.jascha.wtf	1.79.0	matrix.jascha.wtf	Germany	The federation
 matrix.foilhat.tk	1.79.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.79.0	matrix.flip.earth	Finland	The federation
@@ -45,16 +49,13 @@ norge.chat	1.78.0	matrix.norge.chat	Norway (Finland)	Join Matrix
 freitrix.de	1.78.0	freitrix.de	Germany	The federation
 duesen.chat	1.78.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.78.0	chat.usr.nz	New Zealand	The federation
-agdersam.no	1.78.0	agdersam.no	Norway (Germany)	Join Matrix
 flieger.chat	1.78.0	matrix.flieger.chat	Germany	Join Matrix
 crossbach.de	1.78.0	matrix.crossbach.de	Germany	Join Matrix
 community.rs	1.78.0	matrix.community.rs	US	Join Matrix
 chatwave.org	1.78.0	matrix.chatwave.org	Germany	Join Matrix
 perthchat.org	1.78.0	matrix.perthchat.org	Australia	Join Matrix
 nopasaran.red	1.78.0	nopasaran.red	Germany	The federation
-matrix.lrn.fm	1.78.0	matrix.lrn.fm	Canada	The federation
 kitsunes.club	1.78.0	kitsunes.club	Canada	The federation
-hot-chilli.im	1.78.0	hot-chilli.im	Germany	Join Matrix
 mailstation.de	1.78.0	mailstation.de	Germany	The federation
 chagai.website	1.78.0	mx.chagai.website	Switzerland	Join Matrix
 matrix.cirk2.de	1.78.0	matrix.cirk2.de	Germany	The federation
@@ -97,4 +98,4 @@ socialnetwork24.com	1.77.0	socialnetwork24.com	Germany	Join Matrix
 matrix.drastical.net	1.77.0	matrix.drastical.net	Netherlands	The federation
 matrix.mycloudservice.eu	1.77.0	matrix.mycloudservice.eu	Germany	The federation
 matrix.kevinronceray.com	1.77.0	matrix.kevinronceray.com	France	The federation
-matrix.cloud.codelutin.com	1.77.0	matrix.cloud.codelutin.com	Ukraine	The federation
+matrix.cloud.codelutin.com	1.77.0	matrix.cloud.codelutin.com	Germany	The federation
