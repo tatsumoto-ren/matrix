@@ -1,7 +1,6 @@
 name	version	url	country	source
 comm.cx	1.79.0	matrix-client.comm.cx	Japan	Join Matrix
 group.lt	1.79.0	matrix.group.lt	Lithuania?	Join Matrix
-cat.casa	1.79.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.79.0	nope.chat	Germany	Join Matrix
 mephis.to	1.79.0	mephis.to	Germany	The federation
 m.wfr.moe	1.79.0	m.wfr.moe	Germany	The federation
@@ -10,7 +9,6 @@ nitro.chat	1.79.0	nitro.chat	Germany	The federation
 filly.chat	1.79.0	filly.chat		The federation
 jonasled.de	1.79.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.79.0	funami.tech	South Korea	The federation
-agdersam.no	1.79.0	agdersam.no	Norway (Germany)	Join Matrix
 studichat.de	1.79.0	matrix.studichat.de	Germany	Join Matrix
 matrix.lrn.fm	1.79.0	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.79.0	io.proxion.de	Germany	The federation
@@ -24,12 +22,12 @@ arcticfoxes.net	1.79.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
 projectsegfau.lt	1.79.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 no.dustinthe.net	1.79.0	no.dustinthe.net	France	The federation
 matrix.nicfab.it	1.79.0	matrix.nicfab.it	Italy	The federation
+matrix.toschke.de	1.79.0	matrix.toschke.de	France	The federation
 matrix.jascha.wtf	1.79.0	matrix.jascha.wtf	Germany	The federation
 matrix.foilhat.tk	1.79.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.79.0	matrix.flip.earth	Finland	The federation
-chrrreeeeesss.com	1.79.0	chrrreeeeesss.com	US	Join Matrix
 pragma-messenger.ch	1.79.0	pragma-messenger.ch	Switzerland	Join Matrix
-matrix.taskname.com	1.79.0	matrix.taskname.com		The federation
+matrix.taskname.com	1.79.0	matrix.taskname.com	United States of America	The federation
 matrix.beachcom.org	1.79.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.79.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.79.0	matrix.rockstable.it	Germany	The federation
@@ -61,7 +59,6 @@ chatwave.org	1.78.0	matrix.chatwave.org	Germany	Join Matrix
 perthchat.org	1.78.0	matrix.perthchat.org	Australia	Join Matrix
 nopasaran.red	1.78.0	nopasaran.red	Germany	The federation
 kitsunes.club	1.78.0	kitsunes.club	Canada	The federation
-mailstation.de	1.78.0	mailstation.de	Germany	The federation
 chat.hubns.net	1.78.0	chat.hubns.net		The federation
 chagai.website	1.78.0	mx.chagai.website	Switzerland	Join Matrix
 gemeinsam.jetzt	1.78.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
