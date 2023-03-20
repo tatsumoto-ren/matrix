@@ -13,8 +13,11 @@ nitro.chat	1.79.0	nitro.chat	Germany	The federation
 filly.chat	1.79.0	filly.chat		The federation
 jonasled.de	1.79.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.79.0	funami.tech	South Korea	The federation
+duesen.chat	1.79.0	matrix.duesen.chat	Germany	Join Matrix
 agdersam.no	1.79.0	agdersam.no	Norway (Germany)	Join Matrix
 studichat.de	1.79.0	matrix.studichat.de	Germany	Join Matrix
+flieger.chat	1.79.0	matrix.flieger.chat	Germany	Join Matrix
+chatwave.org	1.79.0	matrix.chatwave.org	Germany	Join Matrix
 matrix.lrn.fm	1.79.0	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.79.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.79.0	hot-chilli.im	Germany	Join Matrix
@@ -28,7 +31,6 @@ arcticfoxes.net	1.79.0	matrix.arcticfoxes.net	US (UK)	Join Matrix
 projectsegfau.lt	1.79.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 no.dustinthe.net	1.79.0	no.dustinthe.net	France	The federation
 matrix.nicfab.it	1.79.0	matrix.nicfab.it	Italy	The federation
-matrix.toschke.de	1.79.0	matrix.toschke.de	France	The federation
 matrix.jascha.wtf	1.79.0	matrix.jascha.wtf	Germany	The federation
 matrix.foilhat.tk	1.79.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.79.0	matrix.flip.earth	Finland	The federation
@@ -59,12 +61,9 @@ bark.lgbt	1.78.0	synapse.bark.lgbt	Netherlands	Join Matrix
 sibnsk.net	1.78.0	matrix.sibnsk.net	Russia	Join Matrix
 norge.chat	1.78.0	matrix.norge.chat	Norway (Finland)	Join Matrix
 freitrix.de	1.78.0	freitrix.de	Germany	The federation
-duesen.chat	1.78.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.78.0	chat.usr.nz	New Zealand	The federation
-flieger.chat	1.78.0	matrix.flieger.chat	Germany	Join Matrix
 crossbach.de	1.78.0	matrix.crossbach.de	Germany	Join Matrix
 community.rs	1.78.0	matrix.community.rs	US	Join Matrix
-chatwave.org	1.78.0	matrix.chatwave.org	Germany	Join Matrix
 perthchat.org	1.78.0	matrix.perthchat.org	Australia	Join Matrix
 nopasaran.red	1.78.0	nopasaran.red	Germany	The federation
 kitsunes.club	1.78.0	kitsunes.club	Canada	The federation
