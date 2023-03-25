@@ -1,6 +1,5 @@
 name	version	url	country	source
 arcticfoxes.net	1.80.0rc2	matrix.arcticfoxes.net	US (UK)	Join Matrix
-comm.cx	1.79.0	matrix-client.comm.cx	Japan	Join Matrix
 m.edw.ai	1.79.0	m.edw.ai	United States of America	The federation
 group.lt	1.79.0	matrix.group.lt	Lithuania?	Join Matrix
 cat.casa	1.79.0	matrix.cat.casa	Germany	Join Matrix
@@ -13,7 +12,7 @@ m.wfr.moe	1.79.0	m.wfr.moe	Germany	The federation
 hashi.sbs	1.79.0	hashi.sbs	Netherlands	The federation
 frei.chat	1.79.0	matrix.frei.chat	Germany (Finland)	Join Matrix
 nitro.chat	1.79.0	nitro.chat	Germany	The federation
-filly.chat	1.79.0	filly.chat		The federation
+filly.chat	1.79.0	filly.chat	United States of America	The federation
 jonasled.de	1.79.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.79.0	funami.tech	South Korea	The federation
 duesen.chat	1.79.0	matrix.duesen.chat	Germany	Join Matrix
@@ -26,6 +25,7 @@ matrix.lrn.fm	1.79.0	matrix.lrn.fm	Canada	The federation
 kitsunes.club	1.79.0	kitsunes.club	Canada	The federation
 io.proxion.de	1.79.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.79.0	hot-chilli.im	Germany	Join Matrix
+gnulinux.club	1.79.0	matrix.gnulinux.club	US	Join Matrix
 dowdell.media	1.79.0	dowdell.media	United States of America	The federation
 chatcloud.net	1.79.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
 unredacted.org	1.79.0	matrix.unredacted.org	US (Romania)	Join Matrix
@@ -39,6 +39,7 @@ freiburg.social	1.79.0	matrix.freiburg.social	Germany	Join Matrix
 projectsegfau.lt	1.79.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 no.dustinthe.net	1.79.0	no.dustinthe.net	France	The federation
 matrix.nicfab.it	1.79.0	matrix.nicfab.it	Italy	The federation
+matrix.toschke.de	1.79.0	matrix.toschke.de	France	The federation
 matrix.poweron.dk	1.79.0	matrix.poweron.dk	Denmark	The federation
 matrix.jascha.wtf	1.79.0	matrix.jascha.wtf	Germany	The federation
 matrix.foilhat.tk	1.79.0	matrix.foilhat.tk	Russia	The federation
@@ -95,7 +96,6 @@ jabawok.net	1.77.0	jabawok.net	Australia	The federation
 halogen.city	1.77.0	halogen.city	United States of America	The federation
 englersch.de	1.77.0	englersch.de	Germany	The federation
 monero.social	1.77.0	matrix.monero.social	US	Join Matrix
-gnulinux.club	1.77.0	matrix.gnulinux.club	US	Join Matrix
 matrix.hackify.de	1.77.0	matrix.hackify.de	Germany	The federation
 llamarific.social	1.77.0	matrix.llamarific.social	US	Join Matrix
 synapse.vault81.de	1.77.0	synapse.vault81.de	Germany	The federation
