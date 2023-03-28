@@ -1,5 +1,6 @@
 name	version	url	country	source
 arcticfoxes.net	1.80.0rc2	matrix.arcticfoxes.net	US (UK)	Join Matrix
+3zi.ru	1.79.0	3zi.ru	Russia	The federation
 comm.cx	1.79.0	matrix-client.comm.cx	Japan	Join Matrix
 m.edw.ai	1.79.0	m.edw.ai	United States of America	The federation
 group.lt	1.79.0	matrix.group.lt	Lithuania?	Join Matrix
@@ -17,6 +18,7 @@ filly.chat	1.79.0	filly.chat	United States of America	The federation
 jonasled.de	1.79.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.79.0	funami.tech	South Korea	The federation
 duesen.chat	1.79.0	matrix.duesen.chat	Germany	Join Matrix
+agdersam.no	1.79.0	agdersam.no	Norway (Germany)	Join Matrix
 studichat.de	1.79.0	matrix.studichat.de	Germany	Join Matrix
 flieger.chat	1.79.0	matrix.flieger.chat	Germany	Join Matrix
 community.rs	1.79.0	matrix.community.rs	US	Join Matrix
@@ -31,8 +33,8 @@ dowdell.media	1.79.0	dowdell.media	United States of America	The federation
 chatcloud.net	1.79.0	matrix.chatcloud.net	Austria (Germany)	Join Matrix
 unredacted.org	1.79.0	matrix.unredacted.org	US (Romania)	Join Matrix
 matrix.lion.fm	1.79.0	matrix.lion.fm	United States of America	The federation
-mailstation.de	1.79.0	mailstation.de	Germany	The federation
 chat.hubns.net	1.79.0	chat.hubns.net		The federation
+bachgau.social	1.79.0	matrix.bachgau.social	Germany	Join Matrix
 virto.community	1.79.0	matrix.virto.community	? (Germany)	Join Matrix
 matrix.cirk2.de	1.79.0	matrix.cirk2.de	Germany	The federation
 freiburg.social	1.79.0	matrix.freiburg.social	Germany	Join Matrix
@@ -50,7 +52,6 @@ matrix.antopie.org	1.79.0	matrix.antopie.org	France	The federation
 pragma-messenger.ch	1.79.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.taskname.com	1.79.0	matrix.taskname.com	United States of America	The federation
 matrix.beachcom.org	1.79.0	matrix.beachcom.org	Germany	The federation
-server.matrix4ulm.de	1.79.0	server.matrix4ulm.de	Germany	The federation
 matrix.underworld.fr	1.79.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.79.0	matrix.rockstable.it	Germany	The federation
 matrix.lemarchand.io	1.79.0	matrix.lemarchand.io	France	The federation
@@ -65,12 +66,13 @@ matrix.arya.dogcraft.de	1.79.0	matrix.arya.dogcraft.de	Finland	The federation
 matrixx.uc-netcorsoft.de	1.79.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.kevinronceray.com	1.79.0	matrix.kevinronceray.com	France	The federation
 matrix.domainepublic.net	1.79.0	matrix.domainepublic.net	Belgium	The federation
+matrix.cloud.codelutin.com	1.79.0	matrix.cloud.codelutin.com	Ukraine	The federation
 xmr.se	1.78.0	xmr.se	Germany?	Join Matrix
 plus.st	1.78.0	matrix.plus.st	US	Join Matrix
 grin.hu	1.78.0	matrix.grin.hu	Hungary	Join Matrix
 mlp.chat	1.78.0	mlp.chat	United States of America	The federation
 club1.fr	1.78.0	club1.fr	France	Join Matrix
-bau-ha.us	1.78.0	bau-ha.us	Germany	The federation
+bau-ha.us	1.78.0	bau-ha.us		The federation
 bark.lgbt	1.78.0	synapse.bark.lgbt	Netherlands	Join Matrix
 sibnsk.net	1.78.0	matrix.sibnsk.net	Russia	Join Matrix
 norge.chat	1.78.0	matrix.norge.chat	Norway (Finland)	Join Matrix
@@ -93,17 +95,16 @@ matrix.eigenbaukombinat.de	1.78.0	matrix.eigenbaukombinat.de	Germany	The federat
 libcom.de	1.77.0	matrix.libcom.de	Germany	Join Matrix
 zfnmxt.com	1.77.0	zfnmxt.com	Luxembourg	The federation
 bolha.chat	1.77.0	bolha.chat	Brazil (Canada)	Join Matrix
+maroulid.is	1.77.0	maroulid.is	France	The federation
 jabawok.net	1.77.0	jabawok.net	Australia	The federation
 halogen.city	1.77.0	halogen.city	United States of America	The federation
 englersch.de	1.77.0	englersch.de	Germany	The federation
 monero.social	1.77.0	matrix.monero.social	US	Join Matrix
 matrix.hackify.de	1.77.0	matrix.hackify.de	Germany	The federation
 llamarific.social	1.77.0	matrix.llamarific.social	US	Join Matrix
-synapse.vault81.de	1.77.0	synapse.vault81.de	Germany	The federation
 matrix.cybre.space	1.77.0	matrix.cybre.space		The federation
 matrix.boritsch.de	1.77.0	matrix.boritsch.de	Germany	The federation
 synapse.dst.fjit.no	1.77.0	synapse.dst.fjit.no	Norway	The federation
 socialnetwork24.com	1.77.0	socialnetwork24.com	Germany	Join Matrix
 matrix.drastical.net	1.77.0	matrix.drastical.net	Netherlands	The federation
 matrix.mycloudservice.eu	1.77.0	matrix.mycloudservice.eu	Germany	The federation
-matrix.cloud.codelutin.com	1.77.0	matrix.cloud.codelutin.com	Ukraine	The federation
