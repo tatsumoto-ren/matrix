@@ -1,4 +1,5 @@
 name	version	url	country	source
+3zi.ru	1.80.0	3zi.ru	Russia	The federation
 group.lt	1.80.0	matrix.group.lt	Lithuania?	Join Matrix
 cat.casa	1.80.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.80.0	nope.chat	Germany	Join Matrix
@@ -41,7 +42,6 @@ chatserver.hashi.sbs	1.80.0	chatserver.hashi.sbs	Turkey	The federation
 matrix.rot1.bruckbu.de	1.80.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.gemeinsam.jetzt	1.80.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrixx.uc-netcorsoft.de	1.80.0	matrixx.uc-netcorsoft.de	Germany	The federation
-3zi.ru	1.79.0	3zi.ru	Russia	The federation
 comm.cx	1.79.0	matrix-client.comm.cx	Japan	Join Matrix
 m.edw.ai	1.79.0	m.edw.ai	United States of America	The federation
 trygve.me	1.79.0	trygve.me	Norway	Join Matrix
@@ -49,7 +49,6 @@ matrix.im	1.79.0	matrix.im	Germany	Join Matrix
 m.wfr.moe	1.79.0	m.wfr.moe	Germany	The federation
 agdersam.no	1.79.0	agdersam.no	Norway (Germany)	Join Matrix
 community.rs	1.79.0	matrix.community.rs	US	Join Matrix
-nopasaran.red	1.79.0	nopasaran.red	Germany	The federation
 monero.social	1.79.0	matrix.monero.social	US	Join Matrix
 matrix.lrn.fm	1.79.0	matrix.lrn.fm	Canada	The federation
 gnulinux.club	1.79.0	matrix.gnulinux.club	US	Join Matrix
@@ -88,7 +87,6 @@ freitrix.de	1.78.0	freitrix.de	Germany	The federation
 chat.usr.nz	1.78.0	chat.usr.nz	New Zealand	The federation
 perthchat.org	1.78.0	matrix.perthchat.org	Australia	Join Matrix
 matrix.grin.hu	1.78.0	matrix.grin.hu	Hungary	The federation
-chagai.website	1.78.0	mx.chagai.website	Switzerland	Join Matrix
 matrix.reticu.li	1.78.0	matrix.reticu.li	United States of America	The federation
 kiber-ogur4ik.space	1.78.0	matrix.kiber-ogur4ik.space	Russia (Poland)	Join Matrix
 matrix.thisisjoes.site	1.78.0	matrix.thisisjoes.site	United States of America	The federation
