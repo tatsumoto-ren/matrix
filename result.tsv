@@ -1,5 +1,6 @@
 name	version	url	country	source
 xmr.se	1.81.0	xmr.se	Germany?	Join Matrix
+3zi.ru	1.81.0	3zi.ru	Russia	The federation
 plus.st	1.81.0rc2	matrix.plus.st	US	Join Matrix
 group.lt	1.81.0	matrix.group.lt	Lithuania?	Join Matrix
 cat.casa	1.81.0	matrix.cat.casa	Germany	Join Matrix
@@ -10,6 +11,7 @@ libcom.de	1.81.0	matrix.libcom.de	Germany	Join Matrix
 hashi.sbs	1.81.0	hashi.sbs	Netherlands	The federation
 frei.chat	1.81.0	matrix.frei.chat	Germany (Finland)	Join Matrix
 buyvm.net	1.81.0	buyvm.chat	US	Join Matrix
+bau-ha.us	1.81.0	bau-ha.us		The federation
 sibnsk.net	1.81.0	matrix.sibnsk.net	Russia	Join Matrix
 norge.chat	1.81.0	matrix.norge.chat	Norway (Finland)	Join Matrix
 nitro.chat	1.81.0	nitro.chat	Germany	The federation
@@ -17,6 +19,7 @@ filly.chat	1.81.0	filly.chat	United States of America	The federation
 bolha.chat	1.81.0	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.81.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.81.0	funami.tech	South Korea	The federation
+agdersam.no	1.81.0	agdersam.no	Norway (Germany)	Join Matrix
 studichat.de	1.81.0	matrix.studichat.de	Germany	Join Matrix
 halogen.city	1.81.0	halogen.city	United States of America	The federation
 matrix.lrn.fm	1.81.0	matrix.lrn.fm	Canada	The federation
@@ -44,8 +47,9 @@ matrix.rot1.bruckbu.de	1.81.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.81.0	matrix.nrp-nautilus.io	United States of America	The federation
 matrix.gemeinsam.jetzt	1.81.0	matrix.gemeinsam.jetzt	Austria	The federation
 wolffelectronicdesign.com	1.81.0	wolffelectronicdesign.com	United States of America	The federation
+synapse.internet-portal.cz	1.81.0	synapse.internet-portal.cz	Czechia	The federation
 matrix.eigenbaukombinat.de	1.81.0	matrix.eigenbaukombinat.de	Germany	The federation
-3zi.ru	1.80.0	3zi.ru	Russia	The federation
+synapse.matrix.digitale-gesellschaft.ch	1.81.0	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
 mtrx.cz	1.80.0	mtrx.cz	Germany	The federation
 kijy.de	1.80.0	kijy.de	Czechia	The federation
 comm.cx	1.80.0	matrix-client.comm.cx	Japan	Join Matrix
