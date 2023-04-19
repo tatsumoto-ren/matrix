@@ -2,6 +2,7 @@ name	version	url	country	source
 xmr.se	1.81.0	xmr.se	Germany?	Join Matrix
 3zi.ru	1.81.0	3zi.ru	Russia	The federation
 plus.st	1.81.0rc2	matrix.plus.st	US	Join Matrix
+mlp.chat	1.81.0	mlp.chat	United States of America	The federation
 group.lt	1.81.0	matrix.group.lt	Lithuania?	Join Matrix
 cat.casa	1.81.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.81.0	nope.chat	Germany	Join Matrix
@@ -40,6 +41,7 @@ matrix.poweron.dk	1.81.0	matrix.poweron.dk	Denmark	The federation
 matrix.foilhat.tk	1.81.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.81.0	matrix.flip.earth	Finland	The federation
 chrrreeeeesss.com	1.81.0	chrrreeeeesss.com	US	Join Matrix
+socialnetwork24.com	1.81.0	socialnetwork24.com	Germany	Join Matrix
 pragma-messenger.ch	1.81.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.taskname.com	1.81.0	matrix.taskname.com	United States of America	The federation
 matrix.beachcom.org	1.81.0	matrix.beachcom.org	Germany	The federation
@@ -60,10 +62,10 @@ kijy.de	1.80.0	kijy.de	Czechia	The federation
 comm.cx	1.80.0	matrix-client.comm.cx	Japan	Join Matrix
 4d2.org	1.80.0	matrix.4d2.org	Moldova	Join Matrix
 0wnz.at	1.80.0	0wnz.at	Austria	Join Matrix
-mlp.chat	1.80.0	mlp.chat	United States of America	The federation
 club1.fr	1.80.0	club1.fr	France	Join Matrix
 duesen.chat	1.80.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.80.0	chat.usr.nz	New Zealand	The federation
+flieger.chat	1.80.0	matrix.flieger.chat	Germany	Join Matrix
 crossbach.de	1.80.0	matrix.crossbach.de	Germany	Join Matrix
 chatwave.org	1.80.0	matrix.chatwave.org	Germany	Join Matrix
 perthchat.org	1.80.0	matrix.perthchat.org	Australia	Join Matrix
