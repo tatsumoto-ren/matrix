@@ -1,36 +1,37 @@
 name	version	url	country	source
+3zi.ru	1.82.0	3zi.ru	Russia	The federation
 plus.st	1.82.0rc1	matrix.plus.st	US	Join Matrix
 obco.pro	1.82.0	hs.obco.pro	Germany	Join Matrix
-cat.casa	1.82.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.82.0	nope.chat	Germany	Join Matrix
 matrix.im	1.82.0	matrix.im	Germany	Join Matrix
 hashi.sbs	1.82.0	hashi.sbs	Netherlands	The federation
 bark.lgbt	1.82.0	synapse.bark.lgbt	Netherlands	Join Matrix
 sibnsk.net	1.82.0	matrix.sibnsk.net	Russia	Join Matrix
 norge.chat	1.82.0	matrix.norge.chat	Norway (Finland)	Join Matrix
-filly.chat	1.82.0	filly.chat	United States of America	The federation
+filly.chat	1.82.0	filly.chat		The federation
 jonasled.de	1.82.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.82.0	funami.tech	South Korea	The federation
 studichat.de	1.82.0	matrix.studichat.de	Germany	Join Matrix
 chatwave.org	1.82.0	matrix.chatwave.org	Germany	Join Matrix
+perthchat.org	1.82.0	matrix.perthchat.org	Australia	Join Matrix
 matrix.lrn.fm	1.82.0	matrix.lrn.fm	Canada	The federation
 kitsunes.club	1.82.0rc1	kitsunes.club	Canada	The federation
 io.proxion.de	1.82.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
 matrix.lion.fm	1.82.0	matrix.lion.fm	United States of America	The federation
 arcticfoxes.net	1.82.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
-matrix.nicfab.it	1.82.0	matrix.nicfab.it	Italy	The federation
+projectsegfau.lt	1.82.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.sibnsk.net	1.82.0	matrix.sibnsk.net	Russia	The federation
 matrix.poweron.dk	1.82.0	matrix.poweron.dk	Denmark	The federation
 matrix.foilhat.tk	1.82.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.82.0	matrix.flip.earth	Finland	The federation
 pragma-messenger.ch	1.82.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.beachcom.org	1.82.0	matrix.beachcom.org	Germany	The federation
-chatserver.hashi.sbs	1.82.0	chatserver.hashi.sbs		The federation
+chatserver.hashi.sbs	1.82.0	chatserver.hashi.sbs	United States of America	The federation
 matrix.web3.foundation	1.82.0	matrix.web3.foundation	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.82.0	matrix.rot1.bruckbu.de	Germany	The federation
+synapse.internet-portal.cz	1.82.0	synapse.internet-portal.cz	Czechia	The federation
 xmr.se	1.81.0	xmr.se	Germany?	Join Matrix
-3zi.ru	1.81.0	3zi.ru	Russia	The federation
 pony.cx	1.81.0	pony.cx	Canada	The federation
 0wnz.at	1.81.0	0wnz.at	Austria	Join Matrix
 mlp.chat	1.81.0	mlp.chat	United States of America	The federation
@@ -46,15 +47,15 @@ nitro.chat	1.81.0	nitro.chat	Germany	The federation
 bolha.chat	1.81.0	bolha.chat	Brazil (Canada)	Join Matrix
 halogen.city	1.81.0	halogen.city	United States of America	The federation
 englersch.de	1.81.0	englersch.de	Germany	The federation
+community.rs	1.81.0	matrix.community.rs	US	Join Matrix
 gnulinux.club	1.81.0	matrix.gnulinux.club	US	Join Matrix
 mailstation.de	1.81.0	mailstation.de	Germany	The federation
 chat.hubns.net	1.81.0	chat.hubns.net		The federation
 gemeinsam.jetzt	1.81.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.81.0	matrix.freiburg.social	Germany	Join Matrix
-projectsegfau.lt	1.81.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 netauthority.org	1.81.0	netauthority.org	United States of America	The federation
 cryptonomic.tech	1.81.0	cryptonomic.tech	Netherlands	The federation
-chrrreeeeesss.com	1.81.0	chrrreeeeesss.com	US	Join Matrix
+matrix.boritsch.de	1.81.0	matrix.boritsch.de	Germany	The federation
 matrix.antopie.org	1.81.0	matrix.antopie.org	France	The federation
 synapse.dst.fjit.no	1.81.0	synapse.dst.fjit.no	Norway	The federation
 socialnetwork24.com	1.81.0	socialnetwork24.com	Germany	Join Matrix
@@ -79,7 +80,6 @@ duesen.chat	1.80.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.80.0	chat.usr.nz	New Zealand	The federation
 flieger.chat	1.80.0	matrix.flieger.chat	Germany	Join Matrix
 crossbach.de	1.80.0	matrix.crossbach.de	Germany	Join Matrix
-perthchat.org	1.80.0	matrix.perthchat.org	Australia	Join Matrix
 nopasaran.red	1.80.0	nopasaran.red	Finland	The federation
 dowdell.media	1.80.0	dowdell.media	United States of America	The federation
 chat.thorko.de	1.80.0	chat.thorko.de	Germany	The federation
