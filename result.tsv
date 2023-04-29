@@ -1,5 +1,6 @@
 name	version	url	country	source
 3zi.ru	1.82.0	3zi.ru	Russia	The federation
+plus.st	1.82.0rc1	matrix.plus.st	US	Join Matrix
 obco.pro	1.82.0	hs.obco.pro	Germany	Join Matrix
 nope.chat	1.82.0	nope.chat	Germany	Join Matrix
 mephis.to	1.82.0	mephis.to	Germany	The federation
@@ -15,7 +16,6 @@ jonasled.de	1.82.0	matrix.jonasled.de	Germany	Join Matrix
 helvetet.eu	1.82.0	helvetet.eu	Sweden	The federation
 funami.tech	1.82.0	funami.tech	South Korea	The federation
 studichat.de	1.82.0	matrix.studichat.de	Germany	Join Matrix
-chatwave.org	1.82.0	matrix.chatwave.org	Germany	Join Matrix
 perthchat.org	1.82.0	matrix.perthchat.org	Australia	Join Matrix
 matrix.lrn.fm	1.82.0	matrix.lrn.fm	Canada	The federation
 kitsunes.club	1.82.0rc1	kitsunes.club	Canada	The federation
@@ -42,7 +42,6 @@ xmr.se	1.81.0	xmr.se	Germany?	Join Matrix
 pony.cx	1.81.0	pony.cx	Canada	The federation
 0wnz.at	1.81.0	0wnz.at	Austria	Join Matrix
 mlp.chat	1.81.0	mlp.chat	United States of America	The federation
-group.lt	1.81.0	matrix.group.lt	Lithuania?	Join Matrix
 club1.fr	1.81.0	club1.fr	France	Join Matrix
 noevil.pl	1.81.0	matrix.noevil.pl	Poland (Iceland)	Join Matrix
 libcom.de	1.81.0	matrix.libcom.de	Germany	Join Matrix
@@ -79,6 +78,7 @@ synapse.matrix.digitale-gesellschaft.ch	1.81.0	synapse.matrix.digitale-gesellsch
 mtrx.cz	1.80.0	mtrx.cz	Germany	The federation
 kijy.de	1.80.0	kijy.de	Czechia	The federation
 comm.cx	1.80.0	matrix-client.comm.cx	Japan	Join Matrix
+4d2.org	1.80.0	matrix.4d2.org	Moldova	Join Matrix
 duesen.chat	1.80.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.80.0	chat.usr.nz	New Zealand	The federation
 flieger.chat	1.80.0	matrix.flieger.chat	Germany	Join Matrix
