@@ -566,5 +566,9 @@
   {
     "name": "*.maeli.net",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.chatwave.org",
+    "reason": "doesn't allow complex rooms"
   }
 ]
