@@ -1,6 +1,6 @@
 name	version	url	country	source
 3zi.ru	1.82.0	3zi.ru	Russia	The federation
-plus.st	1.82.0rc1	matrix.plus.st	US	Join Matrix
+4d2.org	1.82.0	matrix.4d2.org	Moldova	Join Matrix
 obco.pro	1.82.0	hs.obco.pro	Germany	Join Matrix
 group.lt	1.82.0	matrix.group.lt	Lithuania?	Join Matrix
 cat.casa	1.82.0	matrix.cat.casa	Germany	Join Matrix
@@ -31,8 +31,10 @@ mailstation.de	1.82.0	mailstation.de	Germany	The federation
 chat.hubns.net	1.82.0	chat.hubns.net		The federation
 bachgau.social	1.82.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cirk2.de	1.82.0	matrix.cirk2.de	Germany	The federation
+matrix.causa.li	1.82.0	matrix.causa.li	Canada	The federation
 matrix.cat.casa	1.82.0	matrix.cat.casa	Germany	The federation
 gemeinsam.jetzt	1.82.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
+freiburg.social	1.82.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.82.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
 projectsegfau.lt	1.82.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.nicfab.it	1.82.0	matrix.nicfab.it	Italy	The federation
@@ -63,7 +65,6 @@ bolha.chat	1.81.0	bolha.chat	Brazil (Canada)	Join Matrix
 testmobo.com	1.81.0	matrix.testmobo.com	US?	Join Matrix
 englersch.de	1.81.0	englersch.de	Germany	The federation
 gnulinux.club	1.81.0	matrix.gnulinux.club	US	Join Matrix
-freiburg.social	1.81.0	matrix.freiburg.social	Germany	Join Matrix
 netauthority.org	1.81.0	netauthority.org	United States of America	The federation
 cryptonomic.tech	1.81.0	cryptonomic.tech	Netherlands	The federation
 matrix.rice.id.au	1.81.0	matrix.rice.id.au		The federation
