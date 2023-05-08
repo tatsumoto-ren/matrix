@@ -27,7 +27,6 @@ jonasled.de	1.82.0	matrix.jonasled.de	Germany	Join Matrix
 helvetet.eu	1.82.0	helvetet.eu	Sweden	The federation
 funami.tech	1.82.0	funami.tech	South Korea	The federation
 duesen.chat	1.82.0	matrix.duesen.chat	Germany	Join Matrix
-studichat.de	1.82.0	matrix.studichat.de	Germany	Join Matrix
 halogen.city	1.82.0	halogen.city	United States of America	The federation
 flieger.chat	1.82.0	matrix.flieger.chat	Germany	Join Matrix
 community.rs	1.82.0	matrix.community.rs	US	Join Matrix
@@ -37,6 +36,7 @@ matrix.lrn.fm	1.82.0	matrix.lrn.fm	Canada	The federation
 kitsunes.club	1.82.0rc1	kitsunes.chat	Canada	Join Matrix
 io.proxion.de	1.82.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
+dowdell.media	1.82.0	dowdell.media	United States of America	The federation
 matrix.lion.fm	1.82.0	matrix.lion.fm	United States of America	The federation
 mailstation.de	1.82.0	mailstation.de	Germany	The federation
 chat.hubns.net	1.82.0	chat.hubns.net		The federation
@@ -55,12 +55,12 @@ matrix.sibnsk.net	1.82.0	matrix.sibnsk.net	Russia	The federation
 matrix.poweron.dk	1.82.0	matrix.poweron.dk	Denmark	The federation
 matrix.foilhat.tk	1.82.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.82.0	matrix.flip.earth	Finland	The federation
-chrrreeeeesss.com	1.82.0	chrrreeeeesss.com	US	Join Matrix
 pragma-messenger.ch	1.82.0	pragma-messenger.ch	Switzerland	Join Matrix
-matrix.taskname.com	1.82.0	matrix.taskname.com		The federation
+matrix.taskname.com	1.82.0	matrix.taskname.com	United States of America	The federation
 matrix.calvinrw.com	1.82.0	matrix.calvinrw.com	United States of America	The federation
 matrix.beachcom.org	1.82.0	matrix.beachcom.org	Germany	The federation
 nebula.cyberveins.eu	1.82.0	nebula.cyberveins.eu	Italy	The federation
+matrix.underworld.fr	1.82.0	matrix.underworld.fr	France	The federation
 chatserver.hashi.sbs	1.82.0	chatserver.hashi.sbs	Netherlands	The federation
 trixie.undrground.org	1.82.0	trixie.undrground.org	United States of America	The federation
 matrix.web3.foundation	1.82.0	matrix.web3.foundation	Netherlands	The federation
@@ -89,7 +89,6 @@ matrix.antopie.org	1.81.0	matrix.antopie.org	France	The federation
 synapse.dst.fjit.no	1.81.0	synapse.dst.fjit.no	Norway	The federation
 socialnetwork24.com	1.81.0	socialnetwork24.com	Germany	Join Matrix
 server.matrix4ulm.de	1.81.0	server.matrix4ulm.de	Germany	The federation
-matrix.underworld.fr	1.81.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.81.0	matrix.rockstable.it	Germany	The federation
 matrix.drastical.net	1.81.0	matrix.drastical.net	Netherlands	The federation
 matrix.tetaneutral.net	1.81.0	matrix.tetaneutral.net	France	The federation
@@ -104,4 +103,5 @@ crossbach.de	1.80.0	matrix.crossbach.de	Germany	Join Matrix
 chat.thorko.de	1.80.0	chat.thorko.de	Germany	The federation
 chat.breuxi.de	1.80.0	chat.breuxi.de	Germany	The federation
 radiowarnerd.org	1.80.0	radiowarnerd.org	US	Join Matrix
+matrix.ladiv.org	1.80.0	matrix.ladiv.org	Switzerland	The federation
 matrix.toschke.de	1.80.0	matrix.toschke.de	France	The federation
