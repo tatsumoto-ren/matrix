@@ -30,13 +30,13 @@ duesen.chat	1.82.0	matrix.duesen.chat	Germany	Join Matrix
 studichat.de	1.82.0	matrix.studichat.de	Germany	Join Matrix
 halogen.city	1.82.0	halogen.city	United States of America	The federation
 flieger.chat	1.82.0	matrix.flieger.chat	Germany	Join Matrix
+community.rs	1.82.0	matrix.community.rs	US	Join Matrix
 perthchat.org	1.82.0	matrix.perthchat.org	Australia	Join Matrix
 nopasaran.red	1.82.0	nopasaran.red	Finland	The federation
 matrix.lrn.fm	1.82.0	matrix.lrn.fm	Canada	The federation
-kitsunes.club	1.82.0rc1	kitsunes.club	Canada	The federation
+kitsunes.club	1.82.0rc1	kitsunes.chat	Canada	Join Matrix
 io.proxion.de	1.82.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
-dowdell.media	1.82.0	dowdell.media	United States of America	The federation
 matrix.lion.fm	1.82.0	matrix.lion.fm	United States of America	The federation
 mailstation.de	1.82.0	mailstation.de	Germany	The federation
 chat.hubns.net	1.82.0	chat.hubns.net		The federation
@@ -76,7 +76,9 @@ club1.fr	1.81.0	club1.fr	France	Join Matrix
 libcom.de	1.81.0	matrix.libcom.de	Germany	Join Matrix
 buyvm.net	1.81.0	buyvm.chat	US	Join Matrix
 bolha.chat	1.81.0	bolha.chat	Brazil (Canada)	Join Matrix
+maroulid.is	1.81.0	maroulid.is	France	The federation
 englersch.de	1.81.0	englersch.de	Germany	The federation
+gnulinux.club	1.81.0	matrix.gnulinux.club	US	Join Matrix
 no.dustinthe.net	1.81.0	no.dustinthe.net	France	The federation
 cryptonomic.tech	1.81.0	cryptonomic.tech	Netherlands	The federation
 matrix.rice.id.au	1.81.0	matrix.rice.id.au		The federation
@@ -102,5 +104,4 @@ crossbach.de	1.80.0	matrix.crossbach.de	Germany	Join Matrix
 chat.thorko.de	1.80.0	chat.thorko.de	Germany	The federation
 chat.breuxi.de	1.80.0	chat.breuxi.de	Germany	The federation
 radiowarnerd.org	1.80.0	radiowarnerd.org	US	Join Matrix
-matrix.ladiv.org	1.80.0	matrix.ladiv.org	Switzerland	The federation
 matrix.toschke.de	1.80.0	matrix.toschke.de	France	The federation
