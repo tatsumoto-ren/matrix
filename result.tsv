@@ -9,15 +9,16 @@ cat.casa	1.83.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.83.0	nope.chat	Germany	Join Matrix
 noevil.pl	1.83.0	matrix.noevil.pl	Poland (Iceland)	Join Matrix
 matrix.im	1.83.0	matrix.im	Germany	Join Matrix
-hashi.sbs	1.83.0	hashi.sbs		The federation
+hashi.sbs	1.83.0	hashi.sbs	Netherlands	The federation
 bark.lgbt	1.83.0	synapse.bark.lgbt	Netherlands	Join Matrix
 supreme.sh	1.83.0	matrix.supreme.sh	UK (Germany)	Join Matrix
-filly.chat	1.83.0	filly.chat		The federation
+nitro.chat	1.83.0	nitro.chat	Germany	The federation
 chat.usr.nz	1.83.0	chat.usr.nz	New Zealand	The federation
 studichat.de	1.83.0	matrix.studichat.de	Germany	Join Matrix
 matrix.lrn.fm	1.83.0	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.83.0	io.proxion.de	Germany	The federation
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
+pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 matrix.lion.fm	1.83.0	matrix.lion.fm	United States of America	The federation
 bachgau.social	1.83.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cat.casa	1.83.0	matrix.cat.casa	Germany	The federation
@@ -26,10 +27,9 @@ matrix.poast.org	1.83.0	matrix.poast.org	United States of America	The federation
 matrix.nicfab.it	1.83.0	matrix.nicfab.it	Italy	The federation
 matrix.foilhat.tk	1.83.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.83.0	matrix.flip.earth	Finland	The federation
-chrrreeeeesss.com	1.83.0	chrrreeeeesss.com	US	Join Matrix
 pragma-messenger.ch	1.83.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.beachcom.org	1.83.0	matrix.beachcom.org	Germany	The federation
-chatserver.hashi.sbs	1.83.0	chatserver.hashi.sbs	Netherlands	The federation
+chatserver.hashi.sbs	1.83.0	chatserver.hashi.sbs		The federation
 matrix.rot1.bruckbu.de	1.83.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.domainepublic.net	1.83.0	matrix.domainepublic.net	Belgium	The federation
 matrix.divided-by-zero.eu	1.83.0	matrix.divided-by-zero.eu	Germany	The federation
@@ -54,6 +54,7 @@ nopasaran.red	1.82.0	nopasaran.red	Finland	The federation
 kitsunes.club	1.82.0rc1	kitsunes.chat	Canada	Join Matrix
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
 dowdell.media	1.82.0	dowdell.media	United States of America	The federation
+mailstation.de	1.82.0	mailstation.de	Germany	The federation
 chat.hubns.net	1.82.0	chat.hubns.net		The federation
 matrix.cirk2.de	1.82.0	matrix.cirk2.de	Germany	The federation
 matrix.causa.li	1.82.0	matrix.causa.li	Canada	The federation
