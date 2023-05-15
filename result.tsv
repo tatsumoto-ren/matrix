@@ -25,7 +25,6 @@ nopasaran.red	1.83.0	nopasaran.red	Finland	The federation
 matrix.lrn.fm	1.83.0	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.83.0	io.proxion.de	Germany	The federation
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
-pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 matrix.lion.fm	1.83.0	matrix.lion.fm	United States of America	The federation
 mailstation.de	1.83.0	mailstation.de	Germany	The federation
 bachgau.social	1.83.0	matrix.bachgau.social	Germany	Join Matrix
@@ -34,6 +33,7 @@ projectsegfau.lt	1.83.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.poast.org	1.83.0	matrix.poast.org	United States of America	The federation
 matrix.nicfab.it	1.83.0	matrix.nicfab.it	Italy	The federation
 matrix.data.haus	1.83.0	matrix.data.haus	Germany	The federation
+matrix.toschke.de	1.83.0	matrix.toschke.de	France	The federation
 matrix.sibnsk.net	1.83.0	matrix.sibnsk.net	Russia	The federation
 matrix.foilhat.tk	1.83.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.83.0	matrix.flip.earth	Finland	The federation
@@ -43,6 +43,7 @@ matrix.beachcom.org	1.83.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.83.0	matrix.underworld.fr	France	The federation
 chatserver.hashi.sbs	1.83.0	chatserver.hashi.sbs	United States of America	The federation
 matrix.rot1.bruckbu.de	1.83.0	matrix.rot1.bruckbu.de	Germany	The federation
+matrix.arya.dogcraft.de	1.83.0	matrix.arya.dogcraft.de	Finland	The federation
 matrix.domainepublic.net	1.83.0	matrix.domainepublic.net	Belgium	The federation
 matrix.divided-by-zero.eu	1.83.0	matrix.divided-by-zero.eu	Germany	The federation
 synapse.matrix.digitale-gesellschaft.ch	1.83.0	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
@@ -58,7 +59,6 @@ helvetet.eu	1.82.0	helvetet.eu	Sweden	The federation
 funami.tech	1.82.0	funami.tech	South Korea	The federation
 duesen.chat	1.82.0	matrix.duesen.chat	Germany	Join Matrix
 flieger.chat	1.82.0	matrix.flieger.chat	Germany	Join Matrix
-community.rs	1.82.0	matrix.community.rs	US	Join Matrix
 perthchat.org	1.82.0	matrix.perthchat.org	Australia	Join Matrix
 kitsunes.club	1.82.0rc1	kitsunes.chat	Canada	Join Matrix
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
@@ -71,7 +71,7 @@ freiburg.social	1.82.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.82.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
 netauthority.org	1.82.0	netauthority.org	United States of America	The federation
 matrix.poweron.dk	1.82.0	matrix.poweron.dk	Denmark	The federation
-chat.casually.cat	1.82.0	chat.casually.cat	United States of America	The federation
+chat.casually.cat	1.82.0	chat.casually.cat	Netherlands	The federation
 matrix.taskname.com	1.82.0	matrix.taskname.com	United States of America	The federation
 matrix.calvinrw.com	1.82.0	matrix.calvinrw.com	United States of America	The federation
 trixie.undrground.org	1.82.0	trixie.undrground.org	United States of America	The federation
