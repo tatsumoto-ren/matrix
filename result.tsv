@@ -29,6 +29,7 @@ matrix.lion.fm	1.83.0	matrix.lion.fm	United States of America	The federation
 mailstation.de	1.83.0	mailstation.de	Germany	The federation
 bachgau.social	1.83.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cat.casa	1.83.0	matrix.cat.casa	Germany	The federation
+gemeinsam.jetzt	1.83.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 projectsegfau.lt	1.83.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.poast.org	1.83.0	matrix.poast.org	United States of America	The federation
 matrix.nicfab.it	1.83.0	matrix.nicfab.it	Italy	The federation
@@ -43,11 +44,11 @@ matrix.beachcom.org	1.83.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.83.0	matrix.underworld.fr	France	The federation
 chatserver.hashi.sbs	1.83.0	chatserver.hashi.sbs	United States of America	The federation
 matrix.rot1.bruckbu.de	1.83.0	matrix.rot1.bruckbu.de	Germany	The federation
+matrix.gemeinsam.jetzt	1.83.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.arya.dogcraft.de	1.83.0	matrix.arya.dogcraft.de	Finland	The federation
 matrix.domainepublic.net	1.83.0	matrix.domainepublic.net	Belgium	The federation
 matrix.divided-by-zero.eu	1.83.0	matrix.divided-by-zero.eu	Germany	The federation
 synapse.matrix.digitale-gesellschaft.ch	1.83.0	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
-plus.st	1.82.0	matrix.plus.st	US	Join Matrix
 4d2.org	1.82.0	matrix.4d2.org	Moldova	Join Matrix
 0wnz.at	1.82.0	0wnz.at	Austria	Join Matrix
 club1.fr	1.82.0	club1.fr	France	Join Matrix
@@ -66,7 +67,6 @@ dowdell.media	1.82.0	dowdell.media	United States of America	The federation
 chat.hubns.net	1.82.0	chat.hubns.net		The federation
 matrix.cirk2.de	1.82.0	matrix.cirk2.de	Germany	The federation
 matrix.causa.li	1.82.0	matrix.causa.li	Canada	The federation
-gemeinsam.jetzt	1.82.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.82.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.82.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
 netauthority.org	1.82.0	netauthority.org	United States of America	The federation
@@ -76,7 +76,6 @@ matrix.taskname.com	1.82.0	matrix.taskname.com	United States of America	The fede
 matrix.calvinrw.com	1.82.0	matrix.calvinrw.com	United States of America	The federation
 trixie.undrground.org	1.82.0	trixie.undrground.org	United States of America	The federation
 matrix.web3.foundation	1.82.0	matrix.web3.foundation	Netherlands	The federation
-matrix.gemeinsam.jetzt	1.82.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.mycloudservice.eu	1.82.0	matrix.mycloudservice.eu	Germany	The federation
 synapse.internet-portal.cz	1.82.0	synapse.internet-portal.cz	Czechia	The federation
 pony.cx	1.81.0	pony.cx	Canada	The federation
