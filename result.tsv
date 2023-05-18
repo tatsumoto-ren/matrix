@@ -1,5 +1,4 @@
 name	version	url	country	source
-arcticfoxes.net	1.84.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
 xmr.se	1.83.0	xmr.se	Germany?	Join Matrix
 3zi.ru	1.83.0	3zi.ru	Russia	The federation
 plus.st	1.83.0	matrix.plus.st	US	Join Matrix
@@ -20,6 +19,7 @@ supreme.sh	1.83.0	matrix.supreme.sh	UK (Germany)	Join Matrix
 sibnsk.net	1.83.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.83.0	nitro.chat	Germany	The federation
 jonasled.de	1.83.0	matrix.jonasled.de	Germany	Join Matrix
+funami.tech	1.83.0	funami.tech	South Korea	The federation
 duesen.chat	1.83.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.83.0	chat.usr.nz	New Zealand	The federation
 studichat.de	1.83.0	matrix.studichat.de	Germany	Join Matrix
@@ -31,6 +31,7 @@ io.proxion.de	1.83.0	io.proxion.de	Germany	The federation
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
 pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 matrix.lion.fm	1.83.0	matrix.lion.fm	United States of America	The federation
+mailstation.de	1.83.0	mailstation.de	Germany	The federation
 bachgau.social	1.83.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cat.casa	1.83.0	matrix.cat.casa	Germany	The federation
 gemeinsam.jetzt	1.83.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -45,7 +46,8 @@ matrix.flip.earth	1.83.0	matrix.flip.earth	Finland	The federation
 chrrreeeeesss.com	1.83.0	chrrreeeeesss.com	US	Join Matrix
 pragma-messenger.ch	1.83.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.beachcom.org	1.83.0	matrix.beachcom.org	Germany	The federation
-chatserver.hashi.sbs	1.83.0	chatserver.hashi.sbs	Netherlands	The federation
+matrix.underworld.fr	1.83.0	matrix.underworld.fr	France	The federation
+chatserver.hashi.sbs	1.83.0	chatserver.hashi.sbs		The federation
 matrix.rot1.bruckbu.de	1.83.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.gemeinsam.jetzt	1.83.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.arya.dogcraft.de	1.83.0	matrix.arya.dogcraft.de	Finland	The federation
@@ -60,6 +62,7 @@ bau-ha.us	1.82.0	bau-ha.us		The federation
 pcriot.org	1.82.0	pcriot.org	Germany	Join Matrix
 norge.chat	1.82.0	matrix.norge.chat	Norway (Finland)	Join Matrix
 helvetet.eu	1.82.0	helvetet.eu	Sweden	The federation
+community.rs	1.82.0	matrix.community.rs	US	Join Matrix
 perthchat.org	1.82.0	matrix.perthchat.org	Australia	Join Matrix
 kitsunes.club	1.82.0rc1	kitsunes.chat	Canada	Join Matrix
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
