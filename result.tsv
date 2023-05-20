@@ -20,6 +20,7 @@ bark.lgbt	1.83.0	synapse.bark.lgbt	Netherlands	Join Matrix
 supreme.sh	1.83.0	matrix.supreme.sh	UK (Germany)	Join Matrix
 sibnsk.net	1.83.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.83.0	nitro.chat	Germany	The federation
+bolha.chat	1.83.0	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.83.0	matrix.jonasled.de	Germany	Join Matrix
 funami.tech	1.83.0	funami.tech	South Korea	The federation
 duesen.chat	1.83.0	matrix.duesen.chat	Germany	Join Matrix
@@ -33,7 +34,6 @@ io.proxion.de	1.83.0	io.proxion.de	Germany	The federation
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
 pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 matrix.lion.fm	1.83.0	matrix.lion.fm	United States of America	The federation
-mailstation.de	1.83.0	mailstation.de	Germany	The federation
 bachgau.social	1.83.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cat.casa	1.83.0	matrix.cat.casa	Germany	The federation
 gemeinsam.jetzt	1.83.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -43,6 +43,7 @@ matrix.poast.org	1.83.0	matrix.poast.org	United States of America	The federation
 matrix.nicfab.it	1.83.0	matrix.nicfab.it	Italy	The federation
 matrix.data.haus	1.83.0	matrix.data.haus	Germany	The federation
 matrix.toschke.de	1.83.0	matrix.toschke.de	France	The federation
+matrix.talos.chat	1.83.0	matrix.talos.chat	Czechia	The federation
 matrix.sibnsk.net	1.83.0	matrix.sibnsk.net	Russia	The federation
 matrix.foilhat.tk	1.83.0	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.83.0	matrix.flip.earth	Finland	The federation
@@ -83,7 +84,6 @@ synapse.internet-portal.cz	1.82.0	synapse.internet-portal.cz	Czechia	The federat
 pony.cx	1.81.0	pony.cx	Canada	The federation
 libcom.de	1.81.0	matrix.libcom.de	Germany	Join Matrix
 buyvm.net	1.81.0	buyvm.chat	US	Join Matrix
-bolha.chat	1.81.0	bolha.chat	Brazil (Canada)	Join Matrix
 maroulid.is	1.81.0	maroulid.is	France	The federation
 englersch.de	1.81.0	englersch.de	Germany	The federation
 no.dustinthe.net	1.81.0	no.dustinthe.net	France	The federation
