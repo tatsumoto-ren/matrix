@@ -5,6 +5,7 @@ xmr.se	1.83.0	xmr.se	Germany?	Join Matrix
 plus.st	1.83.0	matrix.plus.st	US	Join Matrix
 mtrx.cz	1.83.0	mtrx.cz	Germany	The federation
 comm.cx	1.83.0	matrix-client.comm.cx	Japan	Join Matrix
+0wnz.at	1.83.0	0wnz.at	Austria	Join Matrix
 obco.pro	1.83.0	hs.obco.pro	Germany	Join Matrix
 mlp.chat	1.83.0	mlp.chat	Saudi Arabia	The federation
 group.lt	1.83.0	matrix.group.lt	Lithuania?	Join Matrix
@@ -34,6 +35,7 @@ io.proxion.de	1.83.0	io.proxion.de	Germany	The federation
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
 pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 matrix.lion.fm	1.83.0	matrix.lion.fm	United States of America	The federation
+mailstation.de	1.83.0	mailstation.de	Germany	The federation
 bachgau.social	1.83.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cat.casa	1.83.0	matrix.cat.casa	Germany	The federation
 gemeinsam.jetzt	1.83.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -55,11 +57,11 @@ chatserver.hashi.sbs	1.83.0	chatserver.hashi.sbs	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.83.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.gemeinsam.jetzt	1.83.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.arya.dogcraft.de	1.83.0	matrix.arya.dogcraft.de	Finland	The federation
+matrix.mycloudservice.eu	1.83.0	matrix.mycloudservice.eu	Germany	The federation
 matrix.domainepublic.net	1.83.0	matrix.domainepublic.net	Belgium	The federation
 matrix.divided-by-zero.eu	1.83.0	matrix.divided-by-zero.eu	Germany	The federation
 synapse.matrix.digitale-gesellschaft.ch	1.83.0	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
 4d2.org	1.82.0	matrix.4d2.org	Moldova	Join Matrix
-0wnz.at	1.82.0	0wnz.at	Austria	Join Matrix
 club1.fr	1.82.0	club1.fr	France	Join Matrix
 mephis.to	1.82.0	mephis.to	Germany	The federation
 bau-ha.us	1.82.0	bau-ha.us		The federation
@@ -79,7 +81,6 @@ chat.casually.cat	1.82.0	chat.casually.cat	Netherlands	The federation
 matrix.calvinrw.com	1.82.0	matrix.calvinrw.com	United States of America	The federation
 trixie.undrground.org	1.82.0	trixie.undrground.org	United States of America	The federation
 matrix.web3.foundation	1.82.0	matrix.web3.foundation	Netherlands	The federation
-matrix.mycloudservice.eu	1.82.0	matrix.mycloudservice.eu	Germany	The federation
 synapse.internet-portal.cz	1.82.0	synapse.internet-portal.cz	Czechia	The federation
 pony.cx	1.81.0	pony.cx	Canada	The federation
 libcom.de	1.81.0	matrix.libcom.de	Germany	Join Matrix
