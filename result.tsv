@@ -1,9 +1,10 @@
 name	version	url	country	source
 3zi.ru	1.84.0	3zi.ru	Russia	The federation
-plus.st	1.84.0	matrix.plus.st	US	Join Matrix
+comm.cx	1.84.0	matrix-client.comm.cx	Japan	Join Matrix
 obco.pro	1.84.0	hs.obco.pro	Germany	Join Matrix
 cat.casa	1.84.0	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.84.0	nope.chat	Germany	Join Matrix
+noevil.pl	1.84.0	matrix.noevil.pl	Poland	Join Matrix
 hashi.sbs	1.84.0	hashi.sbs	Netherlands	The federation
 frei.chat	1.84.0	matrix.frei.chat	Germany (Finland)	Join Matrix
 data.haus	1.84.0	matrix.data.haus	Germany	Join Matrix
@@ -11,6 +12,7 @@ supreme.sh	1.84.0	matrix.supreme.sh	UK (Germany)	Join Matrix
 sibnsk.net	1.84.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.84.0	nitro.chat	Germany	The federation
 filly.chat	1.84.0	filly.chat		The federation
+bolha.chat	1.84.0	bolha.chat	Brazil (Canada)	Join Matrix
 duesen.chat	1.84.0	matrix.duesen.chat	Germany	Join Matrix
 studichat.de	1.84.0	matrix.studichat.de	Germany	Join Matrix
 flieger.chat	1.84.0	matrix.flieger.chat	Germany	Join Matrix
@@ -18,9 +20,11 @@ nopasaran.red	1.84.0	nopasaran.red	Finland	The federation
 matrix.lrn.fm	1.84.0	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.84.0	io.proxion.de	Germany	The federation
 matrix.lion.fm	1.84.0	matrix.lion.fm	United States of America	The federation
+mailstation.de	1.84.0	mailstation.de	Germany	The federation
 bachgau.social	1.84.0	matrix.bachgau.social	Germany	Join Matrix
 matrix.cat.casa	1.84.0	matrix.cat.casa	Germany	The federation
 gemeinsam.jetzt	1.84.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
+freiburg.social	1.84.0	matrix.freiburg.social	Germany	Join Matrix
 arcticfoxes.net	1.84.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
 netauthority.org	1.84.0	netauthority.org	United States of America	The federation
 matrix.poast.org	1.84.0	matrix.poast.org	United States of America	The federation
@@ -39,15 +43,12 @@ matrix.arya.dogcraft.de	1.84.0	matrix.arya.dogcraft.de	Finland	The federation
 synapse.internet-portal.cz	1.84.0	synapse.internet-portal.cz	Czechia	The federation
 xmr.se	1.83.0	xmr.se	Germany?	Join Matrix
 mtrx.cz	1.83.0	mtrx.cz	Germany	The federation
-comm.cx	1.83.0	matrix-client.comm.cx	Japan	Join Matrix
 0wnz.at	1.83.0	0wnz.at	Austria	Join Matrix
 mlp.chat	1.83.0	mlp.chat	Saudi Arabia	The federation
 group.lt	1.83.0	matrix.group.lt	Lithuania?	Join Matrix
 trygve.me	1.83.0	trygve.me	Norway	Join Matrix
-noevil.pl	1.83.0	matrix.noevil.pl	Poland	Join Matrix
 matrix.im	1.83.0	matrix.im	Germany	Join Matrix
 bark.lgbt	1.83.0	synapse.bark.lgbt	Netherlands	Join Matrix
-bolha.chat	1.83.0	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.83.0	matrix.jonasled.de	Germany	Join Matrix
 jabawok.net	1.83.0	jabawok.net	Australia	The federation
 funami.tech	1.83.0	funami.tech	South Korea	The federation
@@ -55,12 +56,10 @@ chat.usr.nz	1.83.0	chat.usr.nz	New Zealand	The federation
 halogen.city	1.83.0	halogen.city	United States of America	The federation
 perthchat.org	1.83.0	matrix.perthchat.org	Australia	Join Matrix
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
-mailstation.de	1.83.0	mailstation.de	Germany	The federation
+pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 chat.thorko.de	1.83.0	chat.thorko.de	Germany	The federation
-freiburg.social	1.83.0	matrix.freiburg.social	Germany	Join Matrix
 projectsegfau.lt	1.83.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.reticu.li	1.83.0	matrix.reticu.li	United States of America	The federation
-matrix.toschke.de	1.83.0	matrix.toschke.de	France	The federation
 matrix.talos.chat	1.83.0	matrix.talos.chat	Czechia	The federation
 matrix.poweron.dk	1.83.0	matrix.poweron.dk	Denmark	The federation
 pragma-messenger.ch	1.83.0	pragma-messenger.ch	Switzerland	Join Matrix
@@ -109,3 +108,4 @@ matrixx.uc-netcorsoft.de	1.81.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.kevinronceray.com	1.81.0	matrix.kevinronceray.com	France	The federation
 wolffelectronicdesign.com	1.81.0	wolffelectronicdesign.com	United States of America	The federation
 matrix.eigenbaukombinat.de	1.81.0	matrix.eigenbaukombinat.de	Germany	The federation
+matrix.cloud.codelutin.com	1.81.0	matrix.cloud.codelutin.com	Germany	The federation
