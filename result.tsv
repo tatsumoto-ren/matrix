@@ -4,8 +4,11 @@ cat.casa	1.84.1	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.84.1	nope.chat	Germany	Join Matrix
 hashi.sbs	1.84.1	hashi.sbs	Netherlands	The federation
 data.haus	1.84.1	matrix.data.haus	Germany	Join Matrix
+bau-ha.us	1.84.1	bau-ha.us		The federation
 supreme.sh	1.84.1	matrix.supreme.sh	UK (Germany)	Join Matrix
+sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	Join Matrix
 filly.chat	1.84.1	filly.chat		The federation
+monero.social	1.84.1	matrix.monero.social	US	Join Matrix
 matrix.lrn.fm	1.84.1	matrix.lrn.fm	Canada	The federation
 matrix.lion.fm	1.84.1	matrix.lion.fm	United States of America	The federation
 matrix.cat.casa	1.84.1	matrix.cat.casa	Germany	The federation
@@ -17,15 +20,14 @@ matrix.sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	The federation
 matrix.foilhat.tk	1.84.1	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.84.1	matrix.flip.earth	Finland	The federation
 chatserver.hashi.sbs	1.84.1	chatserver.hashi.sbs	Netherlands	The federation
+matrix.rot1.bruckbu.de	1.84.1	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.84.1	matrix.nrp-nautilus.io	United States of America	The federation
 3zi.ru	1.84.0	3zi.ru	Russia	The federation
 plus.st	1.84.0	matrix.plus.st	US	Join Matrix
 comm.cx	1.84.0	matrix-client.comm.cx	Japan	Join Matrix
 noevil.pl	1.84.0	matrix.noevil.pl	Poland	Join Matrix
 frei.chat	1.84.0	matrix.frei.chat	Germany (Finland)	Join Matrix
-bau-ha.us	1.84.0	bau-ha.us		The federation
 bark.lgbt	1.84.0	synapse.bark.lgbt	Netherlands	Join Matrix
-sibnsk.net	1.84.0	matrix.sibnsk.net	Russia	Join Matrix
 nitro.chat	1.84.0	nitro.chat	Germany	The federation
 bolha.chat	1.84.0	bolha.chat	Brazil (Canada)	Join Matrix
 helvetet.eu	1.84.0	helvetet.eu	Sweden	The federation
@@ -34,7 +36,7 @@ studichat.de	1.84.0	matrix.studichat.de	Germany	Join Matrix
 flieger.chat	1.84.0	matrix.flieger.chat	Germany	Join Matrix
 nopasaran.red	1.84.0	nopasaran.red	Finland	The federation
 io.proxion.de	1.84.0	io.proxion.de	Germany	The federation
-mailstation.de	1.84.0	mailstation.de	Germany	The federation
+chat.hubns.net	1.84.0	chat.hubns.net		The federation
 bachgau.social	1.84.0	matrix.bachgau.social	Germany	Join Matrix
 gemeinsam.jetzt	1.84.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 arcticfoxes.net	1.84.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
@@ -45,7 +47,6 @@ synapse.dst.fjit.no	1.84.0	synapse.dst.fjit.no	Norway	The federation
 pragma-messenger.ch	1.84.0	pragma-messenger.ch	Switzerland	Join Matrix
 matrix.beachcom.org	1.84.0	matrix.beachcom.org	Germany	The federation
 server.matrix4ulm.de	1.84.0	server.matrix4ulm.de	Germany	The federation
-matrix.rot1.bruckbu.de	1.84.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.gemeinsam.jetzt	1.84.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.arya.dogcraft.de	1.84.0	matrix.arya.dogcraft.de	Finland	The federation
 matrixx.uc-netcorsoft.de	1.84.0	matrixx.uc-netcorsoft.de	Germany	The federation
@@ -62,8 +63,10 @@ jabawok.net	1.83.0	jabawok.net	Australia	The federation
 funami.tech	1.83.0	funami.tech	South Korea	The federation
 chat.usr.nz	1.83.0	chat.usr.nz	New Zealand	The federation
 halogen.city	1.83.0	halogen.city	United States of America	The federation
+community.rs	1.83.0	matrix.community.rs	US	Join Matrix
 perthchat.org	1.83.0	matrix.perthchat.org	Australia	Join Matrix
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
+pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 chat.thorko.de	1.83.0	chat.thorko.de	Germany	The federation
 projectsegfau.lt	1.83.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
 matrix.reticu.li	1.83.0	matrix.reticu.li	United States of America	The federation
@@ -84,7 +87,6 @@ norge.chat	1.82.0	matrix.norge.chat	Norway (Finland)	Join Matrix
 kitsunes.club	1.82.0rc1	kitsunes.club	Canada	The federation
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
 dowdell.media	1.82.0	dowdell.media	United States of America	The federation
-chat.hubns.net	1.82.0	chat.hubns.net		The federation
 matrix.cirk2.de	1.82.0	matrix.cirk2.de	Germany	The federation
 matrix.causa.li	1.82.0	matrix.causa.li	Canada	The federation
 chat.casually.cat	1.82.0	chat.casually.cat	Netherlands	The federation
