@@ -1,8 +1,9 @@
 name	version	url	country	source
+kitsunes.club	1.85.0rc1	kitsunes.club	Canada	The federation
 xmr.se	1.84.1	xmr.se	Germany?	Join Matrix
 plus.st	1.84.1	matrix.plus.st	US	Join Matrix
+obco.pro	1.84.1	hs.obco.pro	Germany	Join Matrix
 group.lt	1.84.1	matrix.group.lt	Lithuania?	Join Matrix
-cat.casa	1.84.1	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.84.1	nope.chat	Germany	Join Matrix
 mephis.to	1.84.1	mephis.to	Germany	The federation
 hashi.sbs	1.84.1	hashi.sbs	Netherlands	The federation
@@ -13,7 +14,7 @@ sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	Join Matrix
 norge.chat	1.84.1	matrix.norge.chat	Norway (Finland)	Join Matrix
 nitro.chat	1.84.1	nitro.chat	Germany	The federation
 koyu.space	1.84.1	koyu.space	Netherlands	The federation
-filly.chat	1.84.1	filly.chat		The federation
+filly.chat	1.84.1	filly.chat	United States of America	The federation
 bolha.chat	1.84.1	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.84.1	matrix.jonasled.de	Germany	Join Matrix
 halogen.city	1.84.1	halogen.city	United States of America	The federation
@@ -34,7 +35,7 @@ matrix.sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	The federation
 matrix.foilhat.tk	1.84.1	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.84.1	matrix.flip.earth	Finland	The federation
 matrix.underworld.fr	1.84.1	matrix.underworld.fr	France	The federation
-matrix.triangular.pt	1.84.1	matrix.triangular.pt	United States of America	The federation
+matrix.triangular.pt	1.84.1	matrix.triangular.pt		The federation
 chatserver.hashi.sbs	1.84.1	chatserver.hashi.sbs	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.84.1	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.84.1	matrix.nrp-nautilus.io	United States of America	The federation
@@ -86,12 +87,11 @@ matrix.divided-by-zero.eu	1.83.0	matrix.divided-by-zero.eu	Germany	The federatio
 synapse.matrix.digitale-gesellschaft.ch	1.83.0	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
 4d2.org	1.82.0	matrix.4d2.org	Moldova	Join Matrix
 club1.fr	1.82.0	club1.fr	France	Join Matrix
-pcriot.org	1.82.0	pcriot.org	Germany	Join Matrix
-kitsunes.club	1.82.0rc1	kitsunes.club	Canada	The federation
 hot-chilli.im	1.82.0	hot-chilli.im	Germany	Join Matrix
 dowdell.media	1.82.0	dowdell.media	United States of America	The federation
 matrix.cirk2.de	1.82.0	matrix.cirk2.de	Germany	The federation
 matrix.calvinrw.com	1.82.0	matrix.calvinrw.com	United States of America	The federation
+trixie.undrground.org	1.82.0	trixie.undrground.org	United States of America	The federation
 pony.cx	1.81.0	pony.cx	Canada	The federation
 libcom.de	1.81.0	matrix.libcom.de	Germany	Join Matrix
 buyvm.net	1.81.0	buyvm.chat	US	Join Matrix
