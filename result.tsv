@@ -16,7 +16,7 @@ sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	Join Matrix
 norge.chat	1.84.1	matrix.norge.chat	Norway (Finland)	Join Matrix
 nitro.chat	1.84.1	nitro.chat	Germany	The federation
 koyu.space	1.84.1	koyu.space	Netherlands	The federation
-filly.chat	1.84.1	filly.chat	United States of America	The federation
+filly.chat	1.84.1	filly.chat		The federation
 bolha.chat	1.84.1	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.84.1	matrix.jonasled.de	Germany	Join Matrix
 halogen.city	1.84.1	halogen.city	United States of America	The federation
@@ -26,6 +26,7 @@ monero.social	1.84.1	matrix.monero.social	US	Join Matrix
 matrix.lrn.fm	1.84.1	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.84.1	io.proxion.de	Germany	The federation
 matrix.lion.fm	1.84.1	matrix.lion.fm	United States of America	The federation
+chat.hubns.net	1.84.1	chat.hubns.net		The federation
 bachgau.social	1.84.1	matrix.bachgau.social	Germany	Join Matrix
 matrix.cat.casa	1.84.1	matrix.cat.casa	Germany	The federation
 gemeinsam.jetzt	1.84.1	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -37,10 +38,8 @@ matrix.data.haus	1.84.1	matrix.data.haus	Germany	The federation
 matrix.toschke.de	1.84.1	matrix.toschke.de	France	The federation
 matrix.talos.chat	1.84.1	matrix.talos.chat	Czechia	The federation
 matrix.sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	The federation
-matrix.foilhat.tk	1.84.1	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.84.1	matrix.flip.earth	Finland	The federation
 chrrreeeeesss.com	1.84.1	chrrreeeeesss.com	US	Join Matrix
-matrix.underworld.fr	1.84.1	matrix.underworld.fr	France	The federation
 matrix.triangular.pt	1.84.1	matrix.triangular.pt		The federation
 chatserver.hashi.sbs	1.84.1	chatserver.hashi.sbs	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.84.1	matrix.rot1.bruckbu.de	Germany	The federation
@@ -56,7 +55,6 @@ duesen.chat	1.84.0	matrix.duesen.chat	Germany	Join Matrix
 studichat.de	1.84.0	matrix.studichat.de	Germany	Join Matrix
 flieger.chat	1.84.0	matrix.flieger.chat	Germany	Join Matrix
 mailstation.de	1.84.0	mailstation.de	Germany	The federation
-chat.hubns.net	1.84.0	chat.hubns.net		The federation
 arcticfoxes.net	1.84.0rc1	matrix.arcticfoxes.net	US (UK)	Join Matrix
 netauthority.org	1.84.0	netauthority.org	United States of America	The federation
 matrix.pyrignis.fr	1.84.0	matrix.pyrignis.fr	France	The federation
@@ -101,7 +99,6 @@ englersch.de	1.81.0	englersch.de	Germany	The federation
 cryptonomic.tech	1.81.0	cryptonomic.tech	Netherlands	The federation
 matrix.rice.id.au	1.81.0	matrix.rice.id.au		The federation
 matrix.eientei.org	1.81.0	matrix.eientei.org	Russia	The federation
-matrix.boritsch.de	1.81.0	matrix.boritsch.de	Germany	The federation
 socialnetwork24.com	1.81.0	socialnetwork24.com	Germany	Join Matrix
 matrix.rockstable.it	1.81.0	matrix.rockstable.it	Germany	The federation
 matrix.drastical.net	1.81.0	matrix.drastical.net	Netherlands	The federation
