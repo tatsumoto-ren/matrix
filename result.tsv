@@ -1,5 +1,5 @@
 name	version	url	country	source
-plus.st	1.85.0rc1	matrix.plus.st	US	Join Matrix
+plus.st	1.85.0rc2	matrix.plus.st	US	Join Matrix
 kitsunes.club	1.85.0rc1	kitsunes.club	Canada	The federation
 xmr.se	1.84.1	xmr.se	Germany?	Join Matrix
 obco.pro	1.84.1	hs.obco.pro	Germany	Join Matrix
@@ -21,7 +21,6 @@ bolha.chat	1.84.1	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.84.1	matrix.jonasled.de	Germany	Join Matrix
 halogen.city	1.84.1	halogen.city	United States of America	The federation
 community.rs	1.84.1	matrix.community.rs	US	Join Matrix
-nopasaran.red	1.84.1	nopasaran.red	Finland	The federation
 monero.social	1.84.1	matrix.monero.social	US	Join Matrix
 matrix.lrn.fm	1.84.1	matrix.lrn.fm	Canada	The federation
 io.proxion.de	1.84.1	io.proxion.de	Germany	The federation
@@ -38,8 +37,11 @@ matrix.data.haus	1.84.1	matrix.data.haus	Germany	The federation
 matrix.toschke.de	1.84.1	matrix.toschke.de	France	The federation
 matrix.talos.chat	1.84.1	matrix.talos.chat	Czechia	The federation
 matrix.sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	The federation
+matrix.foilhat.tk	1.84.1	matrix.foilhat.tk	Russia	The federation
 matrix.flip.earth	1.84.1	matrix.flip.earth	Finland	The federation
 chrrreeeeesss.com	1.84.1	chrrreeeeesss.com	US	Join Matrix
+matrix.boritsch.de	1.84.1	matrix.boritsch.de	Germany	The federation
+matrix.underworld.fr	1.84.1	matrix.underworld.fr	France	The federation
 matrix.triangular.pt	1.84.1	matrix.triangular.pt		The federation
 chatserver.hashi.sbs	1.84.1	chatserver.hashi.sbs	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.84.1	matrix.rot1.bruckbu.de	Germany	The federation
@@ -74,6 +76,7 @@ funami.tech	1.83.0	funami.tech	South Korea	The federation
 chat.usr.nz	1.83.0	chat.usr.nz	New Zealand	The federation
 perthchat.org	1.83.0	matrix.perthchat.org	Australia	Join Matrix
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
+pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 chat.thorko.de	1.83.0	chat.thorko.de	Germany	The federation
 matrix.causa.li	1.83.0	matrix.causa.li	Canada	The federation
 projectsegfau.lt	1.83.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
