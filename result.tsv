@@ -6,17 +6,17 @@ obco.pro	1.84.1	hs.obco.pro	Germany	Join Matrix
 group.lt	1.84.1	matrix.group.lt	Lithuania?	Join Matrix
 cat.casa	1.84.1	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.84.1	nope.chat	Germany	Join Matrix
+noevil.pl	1.84.1	matrix.noevil.pl	Poland	Join Matrix
 mephis.to	1.84.1	mephis.to	Germany	The federation
 matrix.im	1.84.1	matrix.im	Germany	Join Matrix
-hashi.sbs	1.84.1	hashi.sbs	Netherlands	The federation
-frei.chat	1.84.1	matrix.frei.chat	Germany (Finland)	Join Matrix
+hashi.sbs	1.84.1	hashi.sbs		The federation
 data.haus	1.84.1	matrix.data.haus	Germany	Join Matrix
 bau-ha.us	1.84.1	bau-ha.us		The federation
 sibnsk.net	1.84.1	matrix.sibnsk.net	Russia	Join Matrix
 norge.chat	1.84.1	matrix.norge.chat	Norway (Finland)	Join Matrix
 nitro.chat	1.84.1	nitro.chat	Germany	The federation
 koyu.space	1.84.1	koyu.space	Netherlands	The federation
-filly.chat	1.84.1	filly.chat		The federation
+filly.chat	1.84.1	filly.chat	United States of America	The federation
 bolha.chat	1.84.1	bolha.chat	Brazil (Canada)	Join Matrix
 jonasled.de	1.84.1	matrix.jonasled.de	Germany	Join Matrix
 halogen.city	1.84.1	halogen.city	United States of America	The federation
@@ -42,7 +42,7 @@ matrix.flip.earth	1.84.1	matrix.flip.earth	Finland	The federation
 chrrreeeeesss.com	1.84.1	chrrreeeeesss.com	US	Join Matrix
 matrix.boritsch.de	1.84.1	matrix.boritsch.de	Germany	The federation
 matrix.underworld.fr	1.84.1	matrix.underworld.fr	France	The federation
-matrix.triangular.pt	1.84.1	matrix.triangular.pt		The federation
+matrix.triangular.pt	1.84.1	matrix.triangular.pt	United States of America	The federation
 chatserver.hashi.sbs	1.84.1	chatserver.hashi.sbs	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.84.1	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.84.1	matrix.nrp-nautilus.io	United States of America	The federation
@@ -50,7 +50,6 @@ matrix.gemeinsam.jetzt	1.84.1	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.arya.dogcraft.de	1.84.1	matrix.arya.dogcraft.de	Finland	The federation
 3zi.ru	1.84.0	3zi.ru	Russia	The federation
 comm.cx	1.84.0	matrix-client.comm.cx	Japan	Join Matrix
-noevil.pl	1.84.0	matrix.noevil.pl	Poland	Join Matrix
 bark.lgbt	1.84.0	synapse.bark.lgbt	Netherlands	Join Matrix
 helvetet.eu	1.84.0	helvetet.eu	Sweden	The federation
 duesen.chat	1.84.0	matrix.duesen.chat	Germany	Join Matrix
@@ -76,7 +75,6 @@ funami.tech	1.83.0	funami.tech	South Korea	The federation
 chat.usr.nz	1.83.0	chat.usr.nz	New Zealand	The federation
 perthchat.org	1.83.0	matrix.perthchat.org	Australia	Join Matrix
 gnulinux.club	1.83.0	matrix.gnulinux.club	US	Join Matrix
-pirateriot.net	1.83.0	pirateriot.net	Germany	The federation
 chat.thorko.de	1.83.0	chat.thorko.de	Germany	The federation
 matrix.causa.li	1.83.0	matrix.causa.li	Canada	The federation
 projectsegfau.lt	1.83.0	matrix.projectsegfau.lt	France/Luxembourg	Join Matrix
