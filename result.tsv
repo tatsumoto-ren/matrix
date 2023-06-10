@@ -2,20 +2,22 @@ name	version	url	country	source
 3zi.ru	1.85.2	3zi.ru	Russia	The federation
 plus.st	1.85.2	matrix.plus.st	US	Join Matrix
 obco.pro	1.85.2	hs.obco.pro	Germany	Join Matrix
+mlp.chat	1.85.2	mlp.chat	Saudi Arabia	The federation
 cat.casa	1.85.2	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.85.2	nope.chat	Germany	Join Matrix
 hashi.sbs	1.85.2	hashi.sbs	Netherlands	The federation
 frei.chat	1.85.2	matrix.frei.chat	Germany (Finland)	Join Matrix
 data.haus	1.85.2	matrix.data.haus	Germany	Join Matrix
-filly.chat	1.85.2	filly.chat	United States of America	The federation
+filly.chat	1.85.2	filly.chat		The federation
 io.proxion.de	1.85.2	io.proxion.de	Germany	The federation
 matrix.lion.fm	1.85.2	matrix.lion.fm	United States of America	The federation
 matrix.cat.casa	1.85.2	matrix.cat.casa	Germany	The federation
+arcticfoxes.net	1.85.2	matrix.arcticfoxes.net	US (UK)	Join Matrix
 matrix.nicfab.it	1.85.2	matrix.nicfab.it	Italy	The federation
 matrix.data.haus	1.85.2	matrix.data.haus	Germany	The federation
 matrix.foilhat.tk	1.85.2	matrix.foilhat.tk	Russia	The federation
 pragma-messenger.ch	1.85.2	pragma-messenger.ch	Switzerland	Join Matrix
-chatserver.hashi.sbs	1.85.2	chatserver.hashi.sbs	Netherlands	The federation
+chatserver.hashi.sbs	1.85.2	chatserver.hashi.sbs	United States of America	The federation
 matrix.rot1.bruckbu.de	1.85.2	matrix.rot1.bruckbu.de	Germany	The federation
 group.lt	1.85.1	matrix.group.lt	Lithuania?	Join Matrix
 noevil.pl	1.85.1	matrix.noevil.pl	Poland	Join Matrix
@@ -42,9 +44,9 @@ buyvm.net	1.85.0	buyvm.chat	US	Join Matrix
 bark.lgbt	1.85.0	synapse.bark.lgbt	Netherlands	Join Matrix
 kitsunes.club	1.85.0rc1	kitsunes.club	Canada	The federation
 bachgau.social	1.85.0	matrix.bachgau.social	Germany	Join Matrix
-arcticfoxes.net	1.85.0rc2	matrix.arcticfoxes.net	US (UK)	Join Matrix
 projectsegfau.lt	1.85.0	matrix.projectsegfau.lt	France	Join Matrix
 chrrreeeeesss.com	1.85.0	chrrreeeeesss.com	US	Join Matrix
+matrix.tetaneutral.net	1.85.0	matrix.tetaneutral.net	France	The federation
 matrixx.uc-netcorsoft.de	1.85.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.eigenbaukombinat.de	1.85.0	matrix.eigenbaukombinat.de	Germany	The federation
 synapse.matrix.digitale-gesellschaft.ch	1.85.0	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
@@ -79,7 +81,6 @@ matrix.pyrignis.fr	1.84.0	matrix.pyrignis.fr	France	The federation
 synapse.dst.fjit.no	1.84.0	synapse.dst.fjit.no	Norway	The federation
 synapse.internet-portal.cz	1.84.0	synapse.internet-portal.cz	Czechia	The federation
 mtrx.cz	1.83.0	mtrx.cz	Germany	The federation
-mlp.chat	1.83.0	mlp.chat	Saudi Arabia	The federation
 trygve.me	1.83.0	trygve.me	Norway	Join Matrix
 jabawok.net	1.83.0	jabawok.net	Australia	The federation
 funami.tech	1.83.0	funami.tech	South Korea	The federation
