@@ -1,10 +1,10 @@
 name	version	url	country	source
 3zi.ru	1.85.2	3zi.ru	Russia	The federation
 plus.st	1.85.2	matrix.plus.st	US	Join Matrix
-obco.pro	1.85.2	hs.obco.pro	Germany	Join Matrix
 mlp.chat	1.85.2	mlp.chat	Saudi Arabia	The federation
 cat.casa	1.85.2	matrix.cat.casa	Germany	Join Matrix
 nope.chat	1.85.2	nope.chat	Germany	Join Matrix
+matrix.im	1.85.2	matrix.im	Germany	Join Matrix
 hashi.sbs	1.85.2	hashi.sbs	Netherlands	The federation
 frei.chat	1.85.2	matrix.frei.chat	Germany (Finland)	Join Matrix
 data.haus	1.85.2	matrix.data.haus	Germany	Join Matrix
@@ -44,7 +44,6 @@ buyvm.net	1.85.0	buyvm.chat	US	Join Matrix
 bark.lgbt	1.85.0	synapse.bark.lgbt	Netherlands	Join Matrix
 kitsunes.club	1.85.0rc1	kitsunes.club	Canada	The federation
 bachgau.social	1.85.0	matrix.bachgau.social	Germany	Join Matrix
-projectsegfau.lt	1.85.0	matrix.projectsegfau.lt	France	Join Matrix
 chrrreeeeesss.com	1.85.0	chrrreeeeesss.com	US	Join Matrix
 matrix.tetaneutral.net	1.85.0	matrix.tetaneutral.net	France	The federation
 matrixx.uc-netcorsoft.de	1.85.0	matrixx.uc-netcorsoft.de	Germany	The federation
@@ -53,7 +52,6 @@ synapse.matrix.digitale-gesellschaft.ch	1.85.0	synapse.matrix.digitale-gesellsch
 xmr.se	1.84.1	xmr.se	Germany?	Join Matrix
 0wnz.at	1.84.1	0wnz.at	Austria	Join Matrix
 mephis.to	1.84.1	mephis.to	Germany	The federation
-matrix.im	1.84.1	matrix.im	Germany	Join Matrix
 bau-ha.us	1.84.1	bau-ha.us		The federation
 norge.chat	1.84.1	matrix.norge.chat	Norway (Finland)	Join Matrix
 bolha.chat	1.84.1	bolha.chat	Brazil (Canada)	Join Matrix
