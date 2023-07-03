@@ -570,5 +570,9 @@
   {
     "name": "*.chatwave.org",
     "reason": "doesn't allow complex rooms"
+  },
+  {
+    "name": "*.nerdsin.space",
+    "reason": "has a history of account purges"
   }
 ]
