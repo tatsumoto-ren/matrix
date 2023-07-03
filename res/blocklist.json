@@ -574,5 +574,9 @@
   {
     "name": "*.nerdsin.space",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.xmr.se",
+    "reason": "Can't solve captcha: Invalid domain for site key"
   }
 ]
