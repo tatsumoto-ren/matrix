@@ -578,5 +578,9 @@
   {
     "name": "*.xmr.se",
     "reason": "Can't solve captcha: Invalid domain for site key"
+  },
+  {
+    "name": "*.0wnz.at",
+    "reason": "has a history of account purges"
   }
 ]
