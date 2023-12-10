@@ -1,19 +1,20 @@
 name	version	url	country	source
 arcticfoxes.net	1.98.0rc1	matrix.arcticfoxes.net	Unknown	Asra.gr
 mx.grupotd.nat.cu	1.98.0rc1	mx.grupotd.nat.cu	Unknown	Asra.gr
+sym.as	1.97.0	matrix-client.matrix.org	Unknown	Asra.gr
 jc1.ca	1.97.0	matrix.jc1.ca	Unknown	Asra.gr
 xuli.app	1.97.0	matrix.xuli.app	Unknown	Asra.gr
 rebru.ch	1.97.0	matrix.rebru.ch	Unknown	Asra.gr
+obco.pro	1.97.0	matrixapp.chat	Germany	Join Matrix
 m.edw.ai	1.97.0	m.edw.ai	United States of America	The federation
 group.lt	1.97.0	matrix.group.lt	Lithuania?	Join Matrix
 geis.dev	1.97.0	matrix.geis.dev	Unknown	Asra.gr
 fedi.bzh	1.97.0	matrix.fedi.bzh	Unknown	Asra.gr
 cackl.io	1.97.0	c.cackl.io	Unknown	Asra.gr
-bigzu.cc	1.97.0	matrix.bigzu.cc	Unknown	Asra.gr
 tsukim.io	1.97.0	matrix-fed.tsukim.io	Unknown	Asra.gr
 runby.dev	1.97.0	matrix.runby.dev	Unknown	Asra.gr
 oikei.net	1.97.0	matrix.oikei.net	Slovenia (Germany)	Join Matrix
-nope.chat	1.97.0	nope.chat	Unknown	Asra.gr
+nope.chat	1.97.0	nope.chat	Germany	Join Matrix
 mephis.to	1.97.0	mephis.to	Germany	The federation
 kribs.net	1.97.0	kribs.net	Unknown	Asra.gr
 im.xoo.sh	1.97.0	im.xoo.sh	Unknown	Asra.gr
@@ -29,6 +30,7 @@ zfnmxt.com	1.97.0	zfnmxt.com	Luxembourg	The federation
 zemtsov.pw	1.97.0	matrix.zemtsov.pw	Unknown	Asra.gr
 w33b.cloud	1.97.0	matrix.w33b.cloud	Unknown	Asra.gr
 vignat.org	1.97.0	matrix.vignat.org	Unknown	Asra.gr
+sevarg.net	1.97.0	synapse.sevarg.net	Unknown	Asra.gr
 pramari.de	1.97.0	matrix.pramari.de	Unknown	Asra.gr
 nitro.chat	1.97.0	nitro.chat	Germany	The federation
 mtx.zdx.fr	1.97.0	mtx.zdx.fr	Unknown	Asra.gr
@@ -80,6 +82,7 @@ plapper.space	1.97.0	matrix.plapper.space	Unknown	Asra.gr
 metameme.cafe	1.97.0	matrix.metameme.cafe	Unknown	Asra.gr
 matrix.quebec	1.97.0	matrix.quebec	Unknown	Asra.gr
 matrix.l8x.cc	1.97.0rc1	matrix.l8x.cc	Unknown	Asra.gr
+matrix.koa.im	1.97.0	matrix.koa.im	Unknown	Asra.gr
 matrix.b0t.at	1.97.0	matrix.b0t.at	Unknown	Asra.gr
 linkednode.fr	1.97.0	linkednode.fr	Unknown	Asra.gr
 kitsunes.club	1.97.0rc1	kitsunes.chat	Canada	Join Matrix
@@ -121,7 +124,6 @@ gemeinsam.jetzt	1.97.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 freiburg.social	1.97.0	matrix.freiburg.social	Germany	Join Matrix
 arschtronaut.de	1.97.0	synapse.arschtronaut.de	Unknown	Asra.gr
 toucaenroller.fr	1.97.0	matrix.toucaenroller.fr	Unknown	Asra.gr
-provisional.name	1.97.0	matrix.provisional.name	Unknown	Asra.gr
 piratenpartei.ch	1.97.0	matrix.piratenpartei.ch	Unknown	Asra.gr
 matrix.totmin.ru	1.97.0	matrix.totmin.ru	Unknown	Asra.gr
 matrix.skl.works	1.97.0	matrix.skl.works	Unknown	Asra.gr
@@ -140,6 +142,7 @@ pianadicinao.live	1.97.0	matrix.pianadicinao.live	Unknown	Asra.gr
 myaqua.dyndns.org	1.97.0	myaqua.dyndns.org	Unknown	Asra.gr
 mes.proquality.ro	1.97.0	mes.proquality.ro	Unknown	Asra.gr
 matrix.zemtsov.pw	1.97.0	matrix.zemtsov.pw	Unknown	Asra.gr
+matrix.texo-it.de	1.97.0	matrix.texo-it.de	Unknown	Asra.gr
 matrix.szimnau.de	1.97.0	matrix.szimnau.de	Unknown	Asra.gr
 matrix.pwntube.de	1.97.0	matrix.pwntube.de	Unknown	Asra.gr
 matrix.noldal.net	1.97.0	matrix.noldal.net	Unknown	Asra.gr
@@ -186,6 +189,7 @@ matrix.rockstable.it	1.97.0	matrix.rockstable.it	Germany	The federation
 matrix.pfalz-mail.de	1.97.0	matrix.pfalz-mail.de	Unknown	Asra.gr
 matrix.miichelle.moe	1.97.0	matrix.miichelle.moe	Unknown	Asra.gr
 matrix.leftychan.net	1.97.0	matrix.leftychan.net	Unknown	Asra.gr
+matrix.laitinlok.com	1.97.0	matrix.laitinlok.com	Unknown	Asra.gr
 matrix.kinsel-web.de	1.97.0	matrix.kinsel-web.de	Unknown	Asra.gr
 matrix.cyber4edu.org	1.97.0	matrix.cyber4edu.org	Unknown	Asra.gr
 matrix.chatcloud.net	1.97.0	matrix.chatcloud.net	Germany	The federation
@@ -205,6 +209,7 @@ chat.nicecrew.digital	1.97.0	chat.nicecrew.digital	Unknown	Asra.gr
 chat.dezentrale.space	1.97.0	chat.dezentrale.space	Unknown	Asra.gr
 matrix.u-svc.dynv6.net	1.97.0	matrix.u-svc.dynv6.net	Unknown	Asra.gr
 matrix.muensterhack.de	1.97.0	matrix.muensterhack.de	Unknown	Asra.gr
+matrix.michaelclass.de	1.97.0	matrix.michaelclass.de	Unknown	Asra.gr
 matrix.linuxrocker.com	1.97.0	matrix.linuxrocker.com	Unknown	Asra.gr
 matrix.gemeinsam.jetzt	1.97.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.felixgruber.net	1.97.0	matrix.felixgruber.net	Unknown	Asra.gr
@@ -212,6 +217,7 @@ matrix.daugs-online.de	1.97.0	matrix.daugs-online.de	Unknown	Asra.gr
 holonet.starwars.rocks	1.97.0	holonet.starwars.rocks	Unknown	Asra.gr
 shadow-technologies.com	1.97.0	matrix.shadow-technologies.com	Unknown	Asra.gr
 matrix.zohaibsarwar.xyz	1.97.0rc1	matrix.zohaibsarwar.xyz	Unknown	Asra.gr
+matrix.sonsofagartha.com	1.97.0	matrix.sonsofagartha.com	Unknown	Asra.gr
 matrix.mycloudservice.eu	1.97.0	matrix.mycloudservice.eu	Germany	The federation
 matrix.justinhiggins.net	1.97.0	matrix.justinhiggins.net	Unknown	Asra.gr
 matrix.fablabchemnitz.de	1.97.0	matrix.fablabchemnitz.de	Unknown	Asra.gr
@@ -343,6 +349,7 @@ matrix.westendgate.org	1.96.1	matrix.westendgate.org	Unknown	Asra.gr
 matrix.web3.foundation	1.96.1	matrix.web3.foundation	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.96.1	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.lebeaunuage.net	1.96.1	matrix.lebeaunuage.net	Unknown	Asra.gr
+matrix.baensch.noho.st	1.96.1	matrix.baensch.noho.st	Unknown	Asra.gr
 synapse.travnewmatic.com	1.96.1	synapse.travnewmatic.com	Unknown	Asra.gr
 netz.darknight-coffee.eu	1.96.1	netz.darknight-coffee.eu	Unknown	Asra.gr
 matrixx.uc-netcorsoft.de	1.96.1	matrixx.uc-netcorsoft.de	Germany	The federation
@@ -363,7 +370,6 @@ fai.st	1.95.1	matrix.fai.st	Unknown	Asra.gr
 erb.pw	1.95.1	matrix.erb.pw	Unknown	Asra.gr
 zspn.me	1.95.1	matrix.zspn.me	Unknown	Asra.gr
 sudo.is	1.95.1	matrix.sudo.is	Unknown	Asra.gr
-ltgc.cc	1.95.1	ltgc.cc	United States of America	The federation
 deep.fo	1.95.1	deep.fo	Unknown	Asra.gr
 mnau.xyz	1.95.1	matrix.mnau.xyz	Unknown	Asra.gr
 fitz.ink	1.95.1	matrix.fitz.ink	Unknown	Asra.gr
@@ -418,8 +424,6 @@ matrix.yasei.moe	1.95.1	matrix.yasei.moe	Unknown	Asra.gr
 matrix.ewelt.net	1.95.1	matrix.ewelt.net	Unknown	Asra.gr
 synapse.xytes.net	1.95.1	synapse.xytes.net	Unknown	Asra.gr
 mtrx.beatsnet.com	1.95.1	mtrx.beatsnet.com	Unknown	Asra.gr
-matrix.toschke.de	1.95.1	matrix.toschke.de	Germany	The federation
-matrix.texo-it.de	1.95.1	matrix.texo-it.de	Unknown	Asra.gr
 matrix.leturcq.bzh	1.95.1	matrix.leturcq.bzh	Unknown	Asra.gr
 matrix.boritsch.de	1.95.1	matrix.boritsch.de	Germany	The federation
 socialnetwork24.com	1.95.1	socialnetwork24.com	Germany	Join Matrix
@@ -457,7 +461,6 @@ mx11.freemyip.com	1.95.0	mx11.freemyip.com	Unknown	Asra.gr
 matrix.r2.enst.fr	1.95.0	matrix.r2.enst.fr	Unknown	Asra.gr
 definitionhub.com	1.95.0	matrix.definitionhub.com	Unknown	Asra.gr
 chat.jagapathi.me	1.95.0	chat.jagapathi.me	Unknown	Asra.gr
-matrix.fubukus.net	1.95.0	matrix.fubukus.net	Unknown	Asra.gr
 matrix.calvinrw.com	1.95.0	matrix.calvinrw.com	United States of America	The federation
 matrix.seledreams.com	1.95.0	matrix.seledreams.com	Unknown	Asra.gr
 matrix.hiddenasian.dev	1.95.0	matrix.hiddenasian.dev	Germany	The federation
@@ -505,7 +508,6 @@ matrix.aaronhess.xyz	1.94.0	matrix.aaronhess.xyz	Unknown	Asra.gr
 trixie.undrground.org	1.94.0	trixie.undrground.org	United States of America	The federation
 matrix-angel.v6.rocks	1.94.0	matrix-angel.v6.rocks	Unknown	Asra.gr
 matrix.chuggybumba.com	1.94.0	matrix.chuggybumba.com	Unknown	Asra.gr
-matrix.baensch.noho.st	1.94.0	matrix.baensch.noho.st	Unknown	Asra.gr
 digitale-gesellschaft.ch	1.94.0	synapse.matrix.digitale-gesellschaft.ch	Unknown	Asra.gr
 matrix.jester-designs.com	1.94.0	matrix.jester-designs.com	Unknown	Asra.gr
 synapse.matrix.digitale-gesellschaft.ch	1.94.0	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
@@ -513,6 +515,7 @@ dangerousdemos.net	1.93.0+lts.1	matrix.dangerousdemos.net	Unknown	Asra.gr
 mrx.im	1.93.0	matrix.mrx.im	Unknown	Asra.gr
 tdjj.org	1.93.0	chat.tdjj.org	Unknown	Asra.gr
 secnd.me	1.93.0	matrix.secnd.me	Unknown	Asra.gr
+h3132.de	1.93.0	matrix.h3132.de	Unknown	Asra.gr
 wgserv.eu	1.93.0	wgserv.eu	Unknown	Asra.gr
 mirlo.org	1.93.0	matrix.mirlo.org	Unknown	Asra.gr
 breuxi.de	1.93.0	chat.breuxi.de	Unknown	Asra.gr
@@ -531,20 +534,19 @@ odmincheg.com	1.93.0	odmincheg.com	Unknown	Asra.gr
 freedombox.be	1.93.0	freedombox.be	Unknown	Asra.gr
 matrix.isan.ro	1.93.0	matrix.isan.ro	Unknown	Asra.gr
 chat.breuxi.de	1.93.0	chat.breuxi.de	Germany	The federation
+matrix.h3132.de	1.93.0	h3132.de	Unknown	Asra.gr
 chat.zoctan.com	1.93.0	chat.zoctan.com	Unknown	Asra.gr
 rc.acidc0re.info	1.93.0	rc.acidc0re.info	Unknown	Asra.gr
 nulltheinter.net	1.93.0	arctic.chat	Unknown	Asra.gr
 henger.ddnss.org	1.93.0	matrix.henger.ddnss.org	Unknown	Asra.gr
 matrix.orxnet.org	1.93.0	matrix.orxnet.org	Unknown	Asra.gr
 matrix.leyover.de	1.93.0	matrix.leyover.de	Unknown	Asra.gr
-kingu.duckdns.org	1.93.0	kingu.duckdns.org	Unknown	Asra.gr
 gabekamalakis.com	1.93.0	gabekamalakis.com	Unknown	Asra.gr
 matrix.flossir.org	1.93.0	matrix.flossir.org	Unknown	Asra.gr
 matrix.sandbox64.at	1.93.0	matrix.sandbox64.at	Unknown	Asra.gr
 matrix.lukitomo.com	1.93.0	matrix.lukitomo.com	Unknown	Asra.gr
 matrix.ahava528.com	1.93.0	matrix.ahava528.com	Unknown	Asra.gr
 renegadeprojects.com	1.93.0	renegadeprojects.com	Unknown	Asra.gr
-matrix.laitinlok.com	1.93.0	matrix.laitinlok.com	Unknown	Asra.gr
 matrix.kcir.pwr.edu.pl	1.93.0	matrix.kcir.pwr.edu.pl	Unknown	Asra.gr
 matrix.comfycamp.space	1.93.0	matrix.comfycamp.space	Unknown	Asra.gr
 matrix.colonelkrud.com	1.93.0rc1	matrix.colonelkrud.com	United States of America	The federation
@@ -583,7 +585,6 @@ matrix.lds.online	1.92.1	matrix.lds.online	Unknown	Asra.gr
 matrix.cybre.space	1.92.1	matrix.cybre.space		The federation
 synapse.dst.fjit.no	1.92.1	synapse.dst.fjit.no	Norway	The federation
 grin.hu	1.91.2	matrix.grin.hu	Hungary	Join Matrix
-nakama.tv	1.91.2	matrix.nakama.tv	Unknown	Asra.gr
 shutout.win	1.91.2	shutout.win	Unknown	Asra.gr
 matrix.grin.hu	1.91.2	matrix.grin.hu	Hungary	The federation
 matrix.mx3133.top	1.91.2	matrix.mx3133.top	Unknown	Asra.gr
@@ -608,7 +609,6 @@ matrix.khmelnytskyi.dcomm.net.ua	1.91.1	matrix.khmelnytskyi.dcomm.net.ua	Unknown
 pony.cx	1.91.0	pony.cx	Finland	The federation
 rqd2.net	1.91.0	matrix.rqd2.net	Unknown	Asra.gr
 leishi.io	1.91.0	matrix.leishi.io	Unknown	Asra.gr
-sevarg.net	1.91.0	synapse.sevarg.net	Unknown	Asra.gr
 valsania.it	1.91.0	matrix.valsania.it	Unknown	Asra.gr
 sea.nohost.me	1.91.0	sea.nohost.me		The federation
 perthchat.org	1.91.0	matrix.perthchat.org	Australia	Join Matrix
@@ -666,6 +666,7 @@ authelia.com	1.89.0	matrix.authelia.com	Unknown	Asra.gr
 dowdell.media	1.89.0	dowdell.media	United States of America	The federation
 matrix.dege.au	1.89.0	matrix.dege.au	Unknown	Asra.gr
 chat.netfog.de	1.89.0	chat.netfog.de	Unknown	Asra.gr
+chudtown.africa	1.89.0	chudtown.africa	Unknown	Asra.gr
 matrix.fruits.pw	1.89.0	matrix.fruits.pw	Unknown	Asra.gr
 matrix.psytux.com	1.89.0	matrix.psytux.com	Unknown	Asra.gr
 matrix.etersoft.ru	1.89.0	matrix.etersoft.ru	Unknown	Asra.gr
@@ -706,6 +707,7 @@ matrix.budem.de	1.87.0	matrix.budem.de	Unknown	Asra.gr
 hhsolutions.net	1.87.0	hhsolutions.net	Unknown	Asra.gr
 matrix.nzcow.com	1.87.0	matrix.nzcow.com	Unknown	Asra.gr
 matrix.talos.chat	1.87.0	matrix.talos.chat	Czechia	The federation
+matrix.ciechom.eu	1.87.0	matrix.ciechom.eu	Unknown	Asra.gr
 holtermann.online	1.87.0	synapse.c-holtermann.net	Unknown	Asra.gr
 pronostix.lu-cix.lu	1.87.0	pronostix.lu-cix.lu	Unknown	Asra.gr
 synapse.philsmachineshop.com	1.87.0	synapse.philsmachineshop.com	Unknown	Asra.gr
@@ -763,6 +765,7 @@ chat.marimoko.biz	1.82.0	chat.marimoko.biz	Unknown	Asra.gr
 matrix.calitabby.com	1.82.0	matrix.calitabby.com	Unknown	Asra.gr
 entscheidungsfreiraum-md.de	1.82.0	matrix.entscheidungsfreiraum-md.de	Unknown	Asra.gr
 m.sif.moe	1.81.0	m.sif.moe	Unknown	Asra.gr
+matrix.zinck.io	1.81.0	matrix.zinck.io	Unknown	Asra.gr
 chat.paltian.net	1.81.0	chat.paltian.net	Unknown	Asra.gr
 matrix.pupper.dev	1.81.0	matrix.pupper.dev	Unknown	Asra.gr
 matrix.digisomni.com	1.81.0	matrix.digisomni.com	Unknown	Asra.gr
