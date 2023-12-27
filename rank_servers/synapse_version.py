@@ -19,7 +19,7 @@ class SynapseVersion(tuple):
 
 
 def synapse_pkgbuild_url() -> str:
-    return 'https://raw.githubusercontent.com/archlinux/svntogit-community/packages/matrix-synapse/trunk/PKGBUILD'
+    return 'https://gitlab.archlinux.org/archlinux/packaging/packages/matrix-synapse/-/raw/main/PKGBUILD'
 
 
 async def fetch_latest_synapse_ver() -> SynapseVersion:
