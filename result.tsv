@@ -1,4 +1,5 @@
 name	version	url	country	source
+mtrx.cz	1.99.0	mtrx.cz	Germany	The federation
 comm.cx	1.99.0	matrix-client.comm.cx	Japan	Join Matrix
 4d2.org	1.99.0	matrix.4d2.org	US	Join Matrix
 nope.chat	1.99.0	nope.chat	Germany	Join Matrix
@@ -16,6 +17,7 @@ io.proxion.de	1.99.0	io.proxion.de	Germany	The federation
 private.coffee	1.99.0	matrix.private.coffee	Austria	Join Matrix
 matrix.lion.fm	1.99.0	matrix.lion.fm	United States of America	The federation
 discuss.online	1.99.0	discuss.online	United States of America	The federation
+virto.community	1.99.0	matrix.virto.community	Unknown	Join Matrix
 arcticfoxes.net	1.99.0	matrix.arcticfoxes.net	United States	Join Matrix
 matrix.foilhat.tk	1.99.0	matrix.foilhat.tk	Russia	The federation
 matrix.vulkanlan.at	1.99.0	matrix.vulkanlan.at	Finland	The federation
@@ -150,7 +152,6 @@ open-matrix.se	1.98.0	open-matrix.se	Sweden?	Join Matrix
 ohnesorge.live	1.98.0	ohnesorge.live	Unknown	Asra.gr
 nobrainer.zone	1.98.0	matrix.nobrainer.zone	Unknown	Asra.gr
 netzkraefte.de	1.98.0	matrix.netzkraefte.de	Unknown	Asra.gr
-matrixapp.chat	1.98.0	matrixapp.chat	Germany	Join Matrix
 matrix.wxmx.de	1.98.0	matrix.wxmx.de	Unknown	Asra.gr
 matrix.trom.tf	1.98.0	matrix.trom.tf	Unknown	Asra.gr
 matrix.tan3.de	1.98.0	matrix.tan3.de	Unknown	Asra.gr
@@ -194,6 +195,7 @@ netauthority.org	1.98.0	netauthority.org	United States of America	The federation
 matrix.totmin.ru	1.98.0	matrix.totmin.ru	Unknown	Asra.gr
 matrix.sysops.de	1.98.0	matrix.sysops.de	Germany	The federation
 matrix.skl.works	1.98.0	matrix.skl.works	Unknown	Asra.gr
+matrix.ravc.tech	1.98.0	matrix.ravc.tech	Unknown	Asra.gr
 matrix.poast.org	1.98.0	matrix.poast.org	United States of America	The federation
 matrix.ploek.net	1.98.0	matrix.ploek.net	Unknown	Asra.gr
 matrix.omegav.no	1.98.0	matrix.omegav.no	Unknown	Asra.gr
@@ -323,7 +325,6 @@ matrix.mycloudservice.eu	1.98.0	matrix.mycloudservice.eu	Germany	The federation
 matrix.kevinronceray.com	1.98.0	matrix.kevinronceray.com	France	The federation
 matrix.justinhiggins.net	1.98.0	matrix.justinhiggins.net	Unknown	Asra.gr
 matrix.heiliger-boden.de	1.98.0	matrix.heiliger-boden.de	Unknown	Asra.gr
-matrix.domainepublic.net	1.98.0	matrix.domainepublic.net	Belgium	The federation
 digitale-gesellschaft.ch	1.98.0	synapse.matrix.digitale-gesellschaft.ch	Unknown	Asra.gr
 wolffelectronicdesign.com	1.98.0	wolffelectronicdesign.com	United States of America	The federation
 pridelands-after-dark.com	1.98.0	pridelands-after-dark.com	Unknown	Asra.gr
@@ -365,7 +366,6 @@ matrix.jq.mk	1.97.0	matrix.jq.mk	Unknown	Asra.gr
 superhero.com	1.97.0	matrix.superhero.com	Unknown	Asra.gr
 sans-nuage.fr	1.97.0	matrix.sans-nuage.fr	Unknown	Asra.gr
 metameme.cafe	1.97.0	matrix.metameme.cafe	Unknown	Asra.gr
-matrix.quebec	1.97.0	matrix.quebec	Canada	Join Matrix
 matrix.koa.im	1.97.0	matrix.koa.im	Unknown	Asra.gr
 linkednode.fr	1.97.0	linkednode.fr	Unknown	Asra.gr
 datasign.team	1.97.0	datasign.team	Unknown	Asra.gr
