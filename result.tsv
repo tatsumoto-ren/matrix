@@ -33,6 +33,7 @@ matrix.underworld.fr	1.99.0	matrix.underworld.fr	France	The federation
 matrix.lemarchand.io	1.99.0	matrix.lemarchand.io	France	The federation
 chatserver.hashi.sbs	1.99.0	chatserver.hashi.sbs	United States of America	The federation
 trixie.undrground.org	1.99.0	trixie.undrground.org	Finland	The federation
+synapse.chatinbit.com	1.99.0	synapse.chatinbit.com		The federation
 matrix.discuss.online	1.99.0	matrix.discuss.online	United States of America	The federation
 matrix.bodensee.space	1.99.0	matrix.bodensee.space	Germany	The federation
 matrix.web3.foundation	1.99.0	matrix.web3.foundation	Netherlands	The federation
@@ -59,6 +60,7 @@ zhub.link	1.98.0	matrix.zhub.link	Unknown	Asra.gr
 rustch.at	1.98.0	rustch.at	Unknown	Asra.gr
 runby.dev	1.98.0	matrix.runby.dev	Unknown	Asra.gr
 pratl.org	1.98.0	pratl.org	Unknown	Asra.gr
+opsflo.io	1.98.0	opsflo.io	Unknown	Asra.gr
 opi.pp.ua	1.98.0	matrix.opi.pp.ua	Unknown	Asra.gr
 oizos.net	1.98.0	matrix.oizos.net	Unknown	Asra.gr
 oikei.net	1.98.0	matrix.oikei.net	Slovenia	Join Matrix
@@ -178,6 +180,7 @@ chimbus.online	1.98.0	chimbus.online	Unknown	Asra.gr
 chat.thorko.de	1.98.0	chat.thorko.de	Germany	The federation
 chaotic.social	1.98.0	chaotic.social	Unknown	Asra.gr
 purper.ddns.net	1.98.0	purper.ddns.net	Unknown	Asra.gr
+privategate.net	1.98.0	privategate.net	Unknown	Asra.gr
 o-u-t-e-r.space	1.98.0	o-u-t-e-r.space	Unknown	Asra.gr
 matrix.ywnet.ca	1.98.0	matrix.ywnet.ca	Unknown	Asra.gr
 matrix.wrede.ca	1.98.0	matrix.wrede.ca	Unknown	Asra.gr
@@ -383,7 +386,6 @@ web3.foundation	1.97.0	matrix.web3.foundation	Unknown	Asra.gr
 synapse.chn.moe	1.97.0	synapse.chn.moe	Unknown	Asra.gr
 myportal.social	1.97.0	matrix.myportal.social	Unknown	Asra.gr
 kansanvalta.org	1.97.0	kansanvalta.org	Unknown	Asra.gr
-chat.kizaing.ca	1.97.0	chat.kizaing.ca	Unknown	Asra.gr
 piratenpartei.ch	1.97.0	matrix.piratenpartei.ch	Unknown	Asra.gr
 matrix.netig.net	1.97.0	matrix.netig.net	Unknown	Asra.gr
 jannis-goeing.de	1.97.0	jannis-goeing.de	Unknown	Asra.gr
@@ -405,7 +407,6 @@ matrix.marcbarbier.fr	1.97.0	matrix.marcbarbier.fr	Unknown	Asra.gr
 matrix.kaczynski.life	1.97.0	matrix.kaczynski.life	Unknown	Asra.gr
 matrix.haringstad.com	1.97.0	matrix.haringstad.com	Unknown	Asra.gr
 studentenzimmer.online	1.97.0	mx.studentenzimmer.online	Unknown	Asra.gr
-matrix.michaelclass.de	1.97.0	matrix.michaelclass.de	Unknown	Asra.gr
 matrix.linuxrocker.com	1.97.0	matrix.linuxrocker.com	Unknown	Asra.gr
 matrix.comfycamp.space	1.97.0	matrix.comfycamp.space	Unknown	Asra.gr
 matrix.zohaibsarwar.xyz	1.97.0rc1	matrix.zohaibsarwar.xyz	Unknown	Asra.gr
