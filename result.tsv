@@ -29,7 +29,7 @@ matrix.sysops.de	1.100.0	matrix.sysops.de	Germany	The federation
 matrix.taskname.com	1.100.0	matrix.taskname.com		The federation
 nebula.cyberveins.eu	1.100.0	nebula.cyberveins.eu	Italy	The federation
 matrix.underworld.fr	1.100.0	matrix.underworld.fr	France	The federation
-chatserver.hashi.sbs	1.100.0	chatserver.hashi.sbs	United States of America	The federation
+chatserver.hashi.sbs	1.100.0	chatserver.hashi.sbs		The federation
 trixie.undrground.org	1.100.0	trixie.undrground.org	Finland	The federation
 matrix.discuss.online	1.100.0	matrix.discuss.online	United States of America	The federation
 matrix.rot1.bruckbu.de	1.100.0	matrix.rot1.bruckbu.de	Germany	The federation
@@ -55,7 +55,6 @@ matrix.web3.foundation	1.99.0	matrix.web3.foundation	Netherlands	The federation
 matrix.nrp-nautilus.io	1.99.0	matrix.nrp-nautilus.io	Czechia	The federation
 matrix.hiddenasian.dev	1.99.0	matrix.hiddenasian.dev	Germany	The federation
 oma.su	1.98.0	oma.su	Unknown	Asra.gr
-jc1.ca	1.98.0	matrix.jc1.ca	Unknown	Asra.gr
 erb.pw	1.98.0	matrix.erb.pw	Unknown	Asra.gr
 sudo.is	1.98.0	matrix.sudo.is	Unknown	Asra.gr
 moe.onl	1.98.0	chat.moe.onl	Unknown	Asra.gr
@@ -87,6 +86,8 @@ byter.dev	1.98.0	matrix.byter.dev	Unknown	Asra.gr
 bknow.net	1.98.0	bknow.net	Unknown	Asra.gr
 zoner.work	1.98.0	m.zoner.work	Unknown	Asra.gr
 zmiguel.me	1.98.0	matrix.zmiguel.me	Unknown	Asra.gr
+zimage.com	1.98.0	matrix.zimage.com	Unknown	Asra.gr
+zemtsov.pw	1.98.0	matrix.zemtsov.pw	Unknown	Asra.gr
 vignat.org	1.98.0	matrix.vignat.org	Unknown	Asra.gr
 tryst.chat	1.98.0	tryst.chat	Unknown	Asra.gr
 sipior.net	1.98.0	matrix.sipior.net	Unknown	Asra.gr
@@ -179,7 +180,6 @@ im.gimitec.com	1.98.0	im.gimitec.com	Unknown	Asra.gr
 ehrendomain.de	1.98.0	matrix.alpiskundensupport.de	Unknown	Asra.gr
 dimitrodam.com	1.98.0	matrix.dimitrodam.com	Unknown	Asra.gr
 chimbus.online	1.98.0	chimbus.online	Unknown	Asra.gr
-chat.thorko.de	1.98.0	chat.thorko.de	Germany	The federation
 chaotic.social	1.98.0	chaotic.social	Unknown	Asra.gr
 purper.ddns.net	1.98.0	purper.ddns.net	Unknown	Asra.gr
 privategate.net	1.98.0	privategate.net	Unknown	Asra.gr
@@ -226,6 +226,7 @@ myaqua.dyndns.org	1.98.0	myaqua.dyndns.org	Unknown	Asra.gr
 mx.grupotd.nat.cu	1.98.0	mx.grupotd.nat.cu	Unknown	Asra.gr
 mes.proquality.ro	1.98.0	mes.proquality.ro	Unknown	Asra.gr
 meet.inboxsys.net	1.98.0	meet.inboxsys.net	Unknown	Asra.gr
+matrix.zemtsov.pw	1.98.0	matrix.zemtsov.pw	Unknown	Asra.gr
 matrix.texo-it.de	1.98.0	matrix.texo-it.de	Unknown	Asra.gr
 matrix.pwntube.de	1.98.0	matrix.pwntube.de	Unknown	Asra.gr
 matrix.noldal.net	1.98.0	matrix.noldal.net	Unknown	Asra.gr
@@ -304,6 +305,7 @@ matrix.hks-projekt.at	1.98.0	matrix.hks-projekt.at	Unknown	Asra.gr
 matrix.gruppeheat.net	1.98.0	matrix.gruppeheat.net	Unknown	Asra.gr
 matrix.eletrica88.org	1.98.0	matrix.eletrica88.org	Unknown	Asra.gr
 chat.dezentrale.space	1.98.0	chat.dezentrale.space	Unknown	Asra.gr
+sergmatrix.duckdns.org	1.98.0	sergmatrix.duckdns.org	Unknown	Asra.gr
 matrix.westendgate.org	1.98.0	matrix.westendgate.org	Unknown	Asra.gr
 matrix.u-svc.dynv6.net	1.98.0	matrix.u-svc.dynv6.net	Unknown	Asra.gr
 matrix.slashtechno.com	1.98.0	matrix.slashtechno.com	Unknown	Asra.gr
