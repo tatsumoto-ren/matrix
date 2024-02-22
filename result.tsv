@@ -1,6 +1,7 @@
 name	version	url	country	source
 comm.cx	1.101.0	matrix-client.comm.cx	Japan	Join Matrix
 4d2.org	1.101.0	matrix.4d2.org	United States	Join Matrix
+m.edw.ai	1.101.0	m.edw.ai	United States of America	The federation
 oikei.net	1.101.0	matrix.oikei.net	Slovenia	Join Matrix
 nope.chat	1.101.0	nope.chat	Germany	Join Matrix
 mephis.to	1.101.0	mephis.to	Germany	The federation
@@ -20,12 +21,14 @@ kitsunes.club	1.101.0	kitsunes.chat	Canada	Join Matrix
 io.proxion.de	1.101.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.101.0	hot-chilli.im	Germany	Join Matrix
 private.coffee	1.101.0	matrix.private.coffee	Austria	Join Matrix
+open-matrix.se	1.101.0	open-matrix.se	Sweden?	Join Matrix
 matrix.lion.fm	1.101.0	matrix.lion.fm	United States of America	The federation
 bitcoinist.org	1.101.0	bitcoinist.org	Netherlands	Join Matrix
 matrix.cirk2.de	1.101.0	matrix.cirk2.de	Germany	The federation
 gemeinsam.jetzt	1.101.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 arcticfoxes.net	1.101.0rc1	matrix.arcticfoxes.net	United States	Join Matrix
 rollenspiel.chat	1.101.0	rollenspiel.chat	Germany	Join Matrix
+nerdyredneck.net	1.101.0	nerdyredneck.net	United States of America	The federation
 matrix.sysops.de	1.101.0	matrix.sysops.de	Germany	The federation
 matrix.poast.org	1.101.0	matrix.poast.org	United States of America	The federation
 matrix.foilhat.tk	1.101.0	matrix.foilhat.tk	Russia	The federation
@@ -35,7 +38,7 @@ matrix.calvinrw.com	1.101.0	matrix.calvinrw.com	United States of America	The fed
 nebula.cyberveins.eu	1.101.0	nebula.cyberveins.eu	Italy	The federation
 matrix.underworld.fr	1.101.0	matrix.underworld.fr	France	The federation
 matrix.drastical.net	1.101.0	matrix.drastical.net	Netherlands	The federation
-chatserver.hashi.sbs	1.101.0	chatserver.hashi.sbs	United States of America	The federation
+chatserver.hashi.sbs	1.101.0	chatserver.hashi.sbs		The federation
 trixie.undrground.org	1.101.0	trixie.undrground.org	Finland	The federation
 matrix.rot1.bruckbu.de	1.101.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.101.0	matrix.nrp-nautilus.io	Czechia	The federation
@@ -49,7 +52,6 @@ discuss.online	1.100.0	discuss.online	United States of America	The federation
 chat.thorko.de	1.100.0	chat.thorko.de	Germany	The federation
 chagai.website	1.100.0	mx.chagai.website	Switzerland	Join Matrix
 freiburg.social	1.100.0	matrix.freiburg.social	Germany	Join Matrix
-nerdyredneck.net	1.100.0	nerdyredneck.net	United States of America	The federation
 cryptonomic.tech	1.100.0	cryptonomic.tech	Netherlands	The federation
 matrix.poweron.dk	1.100.0	matrix.poweron.dk	Denmark	The federation
 server.matrix4ulm.de	1.100.0	server.matrix4ulm.de	Germany	The federation
