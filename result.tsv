@@ -2,9 +2,10 @@ name	version	url	country	source
 comm.cx	1.102.0	matrix-client.comm.cx	Japan	Join Matrix
 4d2.org	1.102.0	matrix.4d2.org	United States	Join Matrix
 nope.chat	1.102.0	nope.chat	Germany	Join Matrix
-hashi.sbs	1.102.0	hashi.sbs		The federation
+hashi.sbs	1.102.0	hashi.sbs	United States of America	The federation
 frei.chat	1.102.0	matrix.frei.chat	Germany?	Join Matrix
 studichat.de	1.102.0	matrix.studichat.de	Germany	Join Matrix
+soziale.cloud	1.102.0	chat.soziale.cloud	Germany	Join Matrix
 kitsunes.club	1.102.0rc1	kitsunes.chat	Canada	Join Matrix
 io.proxion.de	1.102.0	io.proxion.de	Germany	The federation
 private.coffee	1.102.0	matrix.private.coffee	Austria	Join Matrix
@@ -17,7 +18,7 @@ matrix.beachcom.org	1.102.0	matrix.beachcom.org	Germany	The federation
 nebula.cyberveins.eu	1.102.0	nebula.cyberveins.eu	Italy	The federation
 matrix.underworld.fr	1.102.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.102.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.102.0	chatserver.hashi.sbs		The federation
+chatserver.hashi.sbs	1.102.0	chatserver.hashi.sbs	United States of America	The federation
 trixie.undrground.org	1.102.0	trixie.undrground.org	Finland	The federation
 matrix.rot1.bruckbu.de	1.102.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.102.0	matrix.nrp-nautilus.io	Czechia	The federation
@@ -35,7 +36,6 @@ chat.usr.nz	1.101.0	chat.usr.nz	New Zealand	The federation
 blahaj.love	1.101.0	blahaj.love	Poland	The federation
 imagisphe.re	1.101.0	imagisphe.re	France	Join Matrix
 flieger.chat	1.101.0	matrix.flieger.chat	Germany	Join Matrix
-soziale.cloud	1.101.0	chat.soziale.cloud	Germany	Join Matrix
 monero.social	1.101.0	matrix.monero.social	United States	Join Matrix
 hot-chilli.im	1.101.0	hot-chilli.im	Germany	Join Matrix
 chat.thorko.de	1.101.0	chat.thorko.de	Germany	The federation
