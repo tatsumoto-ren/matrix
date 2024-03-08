@@ -16,7 +16,9 @@ matrix.taskname.com	1.102.0	matrix.taskname.com		The federation
 matrix.beachcom.org	1.102.0	matrix.beachcom.org	Germany	The federation
 nebula.cyberveins.eu	1.102.0	nebula.cyberveins.eu	Italy	The federation
 matrix.underworld.fr	1.102.0	matrix.underworld.fr	France	The federation
+matrix.rockstable.it	1.102.0	matrix.rockstable.it	Germany	The federation
 chatserver.hashi.sbs	1.102.0	chatserver.hashi.sbs		The federation
+trixie.undrground.org	1.102.0	trixie.undrground.org	Finland	The federation
 matrix.rot1.bruckbu.de	1.102.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.nrp-nautilus.io	1.102.0	matrix.nrp-nautilus.io	Czechia	The federation
 matrix.cloud.codelutin.com	1.102.0	matrix.cloud.codelutin.com	Germany	The federation
@@ -62,12 +64,3 @@ server.matrix4ulm.de	1.100.0	server.matrix4ulm.de	Germany	The federation
 matrix.discuss.online	1.100.0	matrix.discuss.online	United States of America	The federation
 matrix.colonelkrud.com	1.100.0	matrix.colonelkrud.com	United States of America	The federation
 wolffelectronicdesign.com	1.100.0	wolffelectronicdesign.com	United States of America	The federation
-mtrx.cz	1.99.0	mtrx.cz	Germany	The federation
-funami.tech	1.99.0	funami.tech	South Korea	The federation
-matrix.quebec	1.99.0	matrix.quebec	Canada	Join Matrix
-dowdell.media	1.99.0	dowdell.media	United States of America	The federation
-glasgow.social	1.99.0	matrix.glasgow.social	UK	Join Matrix
-virto.community	1.99.0	matrix.virto.community	Unknown	Join Matrix
-matrix.vulkanlan.at	1.99.0	matrix.vulkanlan.at	Finland	The federation
-matrix.bodensee.space	1.99.0	matrix.bodensee.space	Germany	The federation
-matrix.hiddenasian.dev	1.99.0	matrix.hiddenasian.dev	Germany	The federation
