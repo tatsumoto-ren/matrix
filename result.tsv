@@ -1,4 +1,5 @@
 name	version	url	country	source
+kitsunes.club	1.103.0rc1	kitsunes.chat	Canada	Join Matrix
 comm.cx	1.102.0	matrix-client.comm.cx	Japan	Join Matrix
 4d2.org	1.102.0	matrix.4d2.org	United States	Join Matrix
 nope.chat	1.102.0	nope.chat	Germany	Join Matrix
@@ -12,7 +13,6 @@ jonasled.de	1.102.0	matrix.jonasled.de	Germany	Join Matrix
 chat.usr.nz	1.102.0	chat.usr.nz	New Zealand	The federation
 studichat.de	1.102.0	matrix.studichat.de	Germany	Join Matrix
 soziale.cloud	1.102.0	chat.soziale.cloud	Germany	Join Matrix
-kitsunes.club	1.102.0rc1	kitsunes.chat	Canada	Join Matrix
 io.proxion.de	1.102.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.102.0	hot-chilli.im	Germany	Join Matrix
 private.coffee	1.102.0	matrix.private.coffee	Austria	Join Matrix
@@ -30,7 +30,6 @@ nebula.cyberveins.eu	1.102.0	nebula.cyberveins.eu	Italy	The federation
 matrix.underworld.fr	1.102.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.102.0	matrix.rockstable.it	Germany	The federation
 chatserver.hashi.sbs	1.102.0	chatserver.hashi.sbs	United States of America	The federation
-trixie.undrground.org	1.102.0	trixie.undrground.org	Finland	The federation
 matrix.discuss.online	1.102.0	matrix.discuss.online	United States of America	The federation
 matrix.web3.foundation	1.102.0	matrix.web3.foundation	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.102.0	matrix.rot1.bruckbu.de	Germany	The federation
