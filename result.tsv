@@ -1,6 +1,6 @@
 name	version	url	country	source
 nope.chat	1.103.0	nope.chat	Germany	Join Matrix
-hashi.sbs	1.103.0	hashi.sbs		The federation
+hashi.sbs	1.103.0	hashi.sbs	United States of America	The federation
 frei.chat	1.103.0	matrix.frei.chat	Germany?	Join Matrix
 nitro.chat	1.103.0	nitro.chat	Germany	The federation
 bolha.chat	1.103.0	bolha.chat	Brazil	Join Matrix
@@ -19,7 +19,7 @@ matrix.beachcom.org	1.103.0	matrix.beachcom.org	Germany	The federation
 nebula.cyberveins.eu	1.103.0	nebula.cyberveins.eu	Italy	The federation
 matrix.underworld.fr	1.103.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.103.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.103.0	chatserver.hashi.sbs	United States of America	The federation
+chatserver.hashi.sbs	1.103.0	chatserver.hashi.sbs		The federation
 trixie.undrground.org	1.103.0	trixie.undrground.org	Finland	The federation
 matrix.bodensee.space	1.103.0	matrix.bodensee.space	Germany	The federation
 matrix.rot1.bruckbu.de	1.103.0	matrix.rot1.bruckbu.de	Germany	The federation
@@ -28,7 +28,6 @@ matrix.cloud.codelutin.com	1.103.0	matrix.cloud.codelutin.com	Germany	The federa
 comm.cx	1.102.0	matrix-client.comm.cx	Japan	Join Matrix
 4d2.org	1.102.0	matrix.4d2.org	United States	Join Matrix
 matrix.im	1.102.0	matrix.im	Germany	Join Matrix
-bark.lgbt	1.102.0	synapse.bark.lgbt	Netherlands	Join Matrix
 zfnmxt.com	1.102.0	zfnmxt.com	Luxembourg	The federation
 jonasled.de	1.102.0	matrix.jonasled.de	Germany	Join Matrix
 chat.usr.nz	1.102.0	chat.usr.nz	New Zealand	The federation
@@ -53,7 +52,7 @@ blahaj.love	1.101.0	blahaj.love	Poland	The federation
 imagisphe.re	1.101.0	imagisphe.re	France	Join Matrix
 hot-chilli.im	1.101.0	hot-chilli.im	Germany	Join Matrix
 gnulinux.club	1.101.0	matrix.gnulinux.club	United States	Join Matrix
-derpzilla.net	1.101.0	derpzilla.net	United States of America	The federation
+derpzilla.net	1.101.0	derpzilla.net		The federation
 chat.thorko.de	1.101.0	chat.thorko.de	Germany	The federation
 netauthority.org	1.101.0	netauthority.org	United States of America	The federation
 matrix.sysops.de	1.101.0	matrix.sysops.de	Germany	The federation
