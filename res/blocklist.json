@@ -586,5 +586,9 @@
   {
     "name": "*.xion.chat",
     "reason": "Your email domain is not authorized to register on this server"
+  },
+  {
+    "name": "*.frei.chat",
+    "reason": "has a history of account purges"
   }
 ]
