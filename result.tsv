@@ -2,7 +2,6 @@ name	version	url	country	source
 4d2.org	1.103.0	matrix.4d2.org	United States	Join Matrix
 club1.fr	1.103.0	club1.fr	France	Join Matrix
 nope.chat	1.103.0	nope.chat	Germany	Join Matrix
-hashi.sbs	1.103.0	hashi.sbs	United States of America	The federation
 nitro.chat	1.103.0	nitro.chat	Germany	The federation
 bolha.chat	1.103.0	bolha.chat	Brazil	Join Matrix
 jonasled.de	1.103.0	matrix.jonasled.de	Germany	Join Matrix
@@ -13,7 +12,7 @@ soziale.cloud	1.103.0	chat.soziale.cloud	Germany	Join Matrix
 kitsunes.club	1.103.0	kitsunes.chat	Canada	Join Matrix
 io.proxion.de	1.103.0	io.proxion.de	Germany	The federation
 dowdell.media	1.103.0	dowdell.media	United States of America	The federation
-derpzilla.net	1.103.0	derpzilla.net	United States of America	The federation
+derpzilla.net	1.103.0	derpzilla.net		The federation
 private.coffee	1.103.0	matrix.private.coffee	Austria	Join Matrix
 matrixapp.chat	1.103.0	matrixapp.chat	Germany	Join Matrix
 matrix.lion.fm	1.103.0	matrix.lion.fm	United States of America	The federation
@@ -26,7 +25,6 @@ matrix.foilhat.tk	1.103.0	matrix.foilhat.tk	Russia	The federation
 matrix.beachcom.org	1.103.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.103.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.103.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.103.0	chatserver.hashi.sbs		The federation
 trixie.undrground.org	1.103.0	trixie.undrground.org	Finland	The federation
 matrix.bodensee.space	1.103.0	matrix.bodensee.space	Germany	The federation
 matrix.rot1.bruckbu.de	1.103.0	matrix.rot1.bruckbu.de	Germany	The federation
