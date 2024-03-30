@@ -594,5 +594,9 @@
   {
     "name": "*.4d2.org",
     "reason": "totalitarian terms of service"
+  },
+  {
+    "name": "*.oikei.net",
+    "reason": "has a history of account purges"
   }
 ]
