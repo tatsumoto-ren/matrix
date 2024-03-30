@@ -590,5 +590,9 @@
   {
     "name": "*.frei.chat",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.4d2.org",
+    "reason": "totalitarian terms of service"
   }
 ]
