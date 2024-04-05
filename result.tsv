@@ -1,6 +1,6 @@
 name	version	url	country	source
 nope.chat	1.104.0	nope.chat	Germany	Join Matrix
-hashi.sbs	1.104.0	hashi.sbs		The federation
+hashi.sbs	1.104.0	hashi.sbs	United States of America	The federation
 bark.lgbt	1.104.0	synapse.bark.lgbt	Netherlands	Join Matrix
 pcriot.org	1.104.0	pcriot.org	Germany	Join Matrix
 bolha.chat	1.104.0	bolha.chat	Brazil	Join Matrix
@@ -33,6 +33,7 @@ monero.social	1.103.0	matrix.monero.social	United States	Join Matrix
 kitsunes.club	1.103.0	kitsunes.club	Finland	The federation
 dowdell.media	1.103.0	dowdell.media	United States of America	The federation
 derpzilla.net	1.103.0	derpzilla.net	United States of America	The federation
+private.coffee	1.103.0	matrix.private.coffee	Austria	Join Matrix
 chat.thorko.de	1.103.0	chat.thorko.de	Germany	The federation
 chagai.website	1.103.0	mx.chagai.website	Switzerland	Join Matrix
 bitcoinist.org	1.103.0	bitcoinist.org	Netherlands	Join Matrix
