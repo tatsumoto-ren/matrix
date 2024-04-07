@@ -598,5 +598,9 @@
   {
     "name": "*.oikei.net",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.cirk2.de",
+    "reason": "has a history of account purges"
   }
 ]
