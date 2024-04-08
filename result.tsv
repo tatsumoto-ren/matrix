@@ -1,8 +1,7 @@
 name	version	url	country	source
 nope.chat	1.104.0	nope.chat	Germany	Join Matrix
 matrix.im	1.104.0	matrix.im	Germany	Join Matrix
-hashi.sbs	1.104.0	hashi.sbs		The federation
-bark.lgbt	1.104.0	synapse.bark.lgbt	Netherlands	Join Matrix
+hashi.sbs	1.104.0	hashi.sbs	United States of America	The federation
 pcriot.org	1.104.0	pcriot.org	Germany	Join Matrix
 bolha.chat	1.104.0	bolha.chat	Brazil	Join Matrix
 jonasled.de	1.104.0	matrix.jonasled.de	Germany	Join Matrix
@@ -11,6 +10,7 @@ chat.usr.nz	1.104.0	chat.usr.nz	New Zealand	The federation
 studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 flieger.chat	1.104.0	matrix.flieger.chat	Germany	Join Matrix
 soziale.cloud	1.104.0	chat.soziale.cloud	Germany	Join Matrix
+kitsunes.club	1.104.0	kitsunes.club	Finland	The federation
 io.proxion.de	1.104.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.104.0	hot-chilli.im	Germany	Join Matrix
 gnulinux.club	1.104.0	matrix.gnulinux.club	United States	Join Matrix
@@ -18,20 +18,21 @@ matrixapp.chat	1.104.0	matrixapp.chat	Germany	Join Matrix
 matrix.lion.fm	1.104.0	matrix.lion.fm	United States of America	The federation
 bitcoinist.org	1.104.0	bitcoinist.org	Netherlands	Join Matrix
 rollenspiel.chat	1.104.0	rollenspiel.chat	Germany	Join Matrix
+matrix.poast.org	1.104.0	matrix.poast.org	United States of America	The federation
 matrix.foilhat.tk	1.104.0	matrix.foilhat.tk	Russia	The federation
 matrix.boritsch.de	1.104.0	matrix.boritsch.de	Germany	The federation
 matrix.beachcom.org	1.104.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.104.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.104.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.104.0	chatserver.hashi.sbs	United States of America	The federation
+chatserver.hashi.sbs	1.104.0	chatserver.hashi.sbs		The federation
 trixie.undrground.org	1.104.0	trixie.undrground.org	Finland	The federation
+matrix.web3.foundation	1.104.0	matrix.web3.foundation	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.104.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.mycloudservice.eu	1.104.0	matrix.mycloudservice.eu	Germany	The federation
 club1.fr	1.103.0	club1.fr	France	Join Matrix
 zfnmxt.com	1.103.0	zfnmxt.com	Luxembourg	The federation
 nitro.chat	1.103.0	nitro.chat	Germany	The federation
 monero.social	1.103.0	matrix.monero.social	United States	Join Matrix
-kitsunes.club	1.103.0	kitsunes.club	Finland	The federation
 dowdell.media	1.103.0	dowdell.media	United States of America	The federation
 derpzilla.net	1.103.0	derpzilla.net		The federation
 private.coffee	1.103.0	matrix.private.coffee	Austria	Join Matrix
@@ -41,7 +42,6 @@ archaeo.social	1.103.0	matrix.archaeo.social	Denmark	Join Matrix
 gemeinsam.jetzt	1.103.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 netauthority.org	1.103.0	netauthority.org	United States of America	The federation
 matrix.reticu.li	1.103.0	matrix.reticu.li	United States of America	The federation
-matrix.poast.org	1.103.0	matrix.poast.org	United States of America	The federation
 server.matrix4ulm.de	1.103.0	server.matrix4ulm.de	Germany	The federation
 matrix.discuss.online	1.103.0	matrix.discuss.online	United States of America	The federation
 matrix.bodensee.space	1.103.0	matrix.bodensee.space	Germany	The federation
@@ -52,5 +52,4 @@ matrix.eigenbaukombinat.de	1.103.0	matrix.eigenbaukombinat.de	Germany	The federa
 comm.cx	1.102.0	matrix-client.comm.cx	Japan	Join Matrix
 virto.community	1.102.0	matrix.virto.community	Unknown	Join Matrix
 freiburg.social	1.102.0	matrix.freiburg.social	Germany	Join Matrix
-matrix.web3.foundation	1.102.0	matrix.web3.foundation	Netherlands	The federation
 matrix.nrp-nautilus.io	1.102.0	matrix.nrp-nautilus.io	United States of America	The federation
