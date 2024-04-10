@@ -1,7 +1,7 @@
 name	version	url	country	source
 nope.chat	1.104.0	nope.chat	Germany	Join Matrix
 matrix.im	1.104.0	matrix.im	Germany	Join Matrix
-hashi.sbs	1.104.0	hashi.sbs	United States of America	The federation
+hashi.sbs	1.104.0	hashi.sbs		The federation
 bark.lgbt	1.104.0	synapse.bark.lgbt	Netherlands	Join Matrix
 pcriot.org	1.104.0	pcriot.org	Germany	Join Matrix
 nitro.chat	1.104.0	nitro.chat	Germany	The federation
@@ -26,7 +26,7 @@ matrix.boritsch.de	1.104.0	matrix.boritsch.de	Germany	The federation
 matrix.beachcom.org	1.104.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.104.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.104.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.104.0	chatserver.hashi.sbs	United States of America	The federation
+chatserver.hashi.sbs	1.104.0	chatserver.hashi.sbs		The federation
 trixie.undrground.org	1.104.0	trixie.undrground.org	Finland	The federation
 matrix.web3.foundation	1.104.0	matrix.web3.foundation	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.104.0	matrix.rot1.bruckbu.de	Germany	The federation
@@ -36,7 +36,7 @@ club1.fr	1.103.0	club1.fr	France	Join Matrix
 zfnmxt.com	1.103.0	zfnmxt.com	Luxembourg	The federation
 monero.social	1.103.0	matrix.monero.social	United States	Join Matrix
 dowdell.media	1.103.0	dowdell.media	United States of America	The federation
-derpzilla.net	1.103.0	derpzilla.net		The federation
+derpzilla.net	1.103.0	derpzilla.net	United States of America	The federation
 private.coffee	1.103.0	matrix.private.coffee	Austria	Join Matrix
 chat.thorko.de	1.103.0	chat.thorko.de	Germany	The federation
 chagai.website	1.103.0	mx.chagai.website	Switzerland	Join Matrix
@@ -54,4 +54,4 @@ matrix.eigenbaukombinat.de	1.103.0	matrix.eigenbaukombinat.de	Germany	The federa
 comm.cx	1.102.0	matrix-client.comm.cx	Japan	Join Matrix
 virto.community	1.102.0	matrix.virto.community	Unknown	Join Matrix
 freiburg.social	1.102.0	matrix.freiburg.social	Germany	Join Matrix
-matrix.nrp-nautilus.io	1.102.0	matrix.nrp-nautilus.io	United States of America	The federation
+matrix.nrp-nautilus.io	1.102.0	matrix.nrp-nautilus.io	Czechia	The federation
