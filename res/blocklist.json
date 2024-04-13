@@ -602,5 +602,13 @@
   {
     "name": "*.cirk2.de",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.matrix.im",
+    "reason": "couldn't register after many tries"
+  },
+  {
+    "name": "*.eigenbaukombinat.de",
+    "reason": "has a history of account purges"
   }
 ]
