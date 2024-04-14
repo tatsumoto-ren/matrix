@@ -1,7 +1,6 @@
 name	version	url	country	source
 nope.chat	1.104.0	nope.chat	Germany	Join Matrix
 mephis.to	1.104.0	mephis.to	Germany	The federation
-matrix.im	1.104.0	matrix.im	Germany	Join Matrix
 hashi.sbs	1.104.0	hashi.sbs	United States of America	The federation
 bark.lgbt	1.104.0	synapse.bark.lgbt	Netherlands	Join Matrix
 pcriot.org	1.104.0	pcriot.org	Germany	Join Matrix
@@ -12,6 +11,7 @@ jonasled.de	1.104.0	matrix.jonasled.de	Germany	Join Matrix
 duesen.chat	1.104.0	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.104.0	chat.usr.nz	New Zealand	The federation
 blahaj.love	1.104.0	blahaj.love	Poland	The federation
+studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 imagisphe.re	1.104.0	imagisphe.re	France	Join Matrix
 flieger.chat	1.104.0	matrix.flieger.chat	Germany	Join Matrix
 soziale.cloud	1.104.0	chat.soziale.cloud	Germany	Join Matrix
@@ -54,7 +54,6 @@ matrix.bodensee.space	1.103.0	matrix.bodensee.space	Germany	The federation
 matrix.hiddenasian.dev	1.103.0	matrix.hiddenasian.dev	Germany	The federation
 matrix.gemeinsam.jetzt	1.103.0	matrix.gemeinsam.jetzt	Austria	The federation
 matrix.arya.dogcraft.de	1.103.0	matrix.arya.dogcraft.de	Finland	The federation
-matrix.eigenbaukombinat.de	1.103.0	matrix.eigenbaukombinat.de	Germany	The federation
 comm.cx	1.102.0	matrix-client.comm.cx	Japan	Join Matrix
 virto.community	1.102.0	matrix.virto.community	Unknown	Join Matrix
 freiburg.social	1.102.0	matrix.freiburg.social	Germany	Join Matrix
