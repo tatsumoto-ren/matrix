@@ -1,8 +1,9 @@
 name	version	url	country	source
+kitsunes.club	1.105.0rc1	kitsunes.chat	Canada	Join Matrix
 comm.cx	1.104.0	matrix-client.comm.cx	Japan	Join Matrix
 nope.chat	1.104.0	nope.chat	Germany	Join Matrix
 mephis.to	1.104.0	mephis.to	Germany	The federation
-hashi.sbs	1.104.0	hashi.sbs		The federation
+hashi.sbs	1.104.0	hashi.sbs	United States of America	The federation
 bark.lgbt	1.104.0	synapse.bark.lgbt	Netherlands	Join Matrix
 zfnmxt.com	1.104.0	zfnmxt.com	Luxembourg	The federation
 pcriot.org	1.104.0	pcriot.org	Germany	Join Matrix
@@ -17,7 +18,6 @@ studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 imagisphe.re	1.104.0	imagisphe.re	France	Join Matrix
 flieger.chat	1.104.0	matrix.flieger.chat	Germany	Join Matrix
 soziale.cloud	1.104.0	chat.soziale.cloud	Germany	Join Matrix
-kitsunes.club	1.104.0	kitsunes.club	Finland	The federation
 io.proxion.de	1.104.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.104.0	hot-chilli.im	Germany	Join Matrix
 gnulinux.club	1.104.0	matrix.gnulinux.club	United States	Join Matrix
@@ -34,7 +34,7 @@ synapse.dst.fjit.no	1.104.0	synapse.dst.fjit.no	Norway	The federation
 matrix.beachcom.org	1.104.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.104.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.104.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.104.0	chatserver.hashi.sbs		The federation
+chatserver.hashi.sbs	1.104.0	chatserver.hashi.sbs	United States of America	The federation
 trixie.undrground.org	1.104.0	trixie.undrground.org	Finland	The federation
 matrix.web3.foundation	1.104.0	matrix.web3.foundation	Netherlands	The federation
 matrix.rot1.bruckbu.de	1.104.0	matrix.rot1.bruckbu.de	Germany	The federation
@@ -45,7 +45,7 @@ wolffelectronicdesign.com	1.104.0	wolffelectronicdesign.com	United States of Ame
 club1.fr	1.103.0	club1.fr	France	Join Matrix
 monero.social	1.103.0	matrix.monero.social	United States	Join Matrix
 dowdell.media	1.103.0	dowdell.media	United States of America	The federation
-derpzilla.net	1.103.0	derpzilla.net	United States of America	The federation
+derpzilla.net	1.103.0	derpzilla.net		The federation
 chat.thorko.de	1.103.0	chat.thorko.de	Germany	The federation
 chagai.website	1.103.0	mx.chagai.website	Switzerland	Join Matrix
 archaeo.social	1.103.0	matrix.archaeo.social	Denmark	Join Matrix
