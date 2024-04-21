@@ -1,5 +1,6 @@
 name	version	url	country	source
 nope.chat	1.105.0	nope.chat	Germany	Join Matrix
+libcom.de	1.105.0	matrix.libcom.de	Germany	Join Matrix
 hashi.sbs	1.105.0	hashi.sbs	Netherlands	The federation
 bark.lgbt	1.105.0	synapse.bark.lgbt	Netherlands	Join Matrix
 nitro.chat	1.105.0	nitro.chat	Germany	The federation
@@ -12,17 +13,15 @@ io.proxion.de	1.105.0	io.proxion.de	Germany	The federation
 hot-chilli.im	1.105.0	hot-chilli.im	Germany	Join Matrix
 private.coffee	1.105.0	matrix.private.coffee	Austria	Join Matrix
 matrixapp.chat	1.105.0	matrixapp.chat	Germany	Join Matrix
-matrix.lion.fm	1.105.0	matrix.lion.fm	United States of America	The federation
 chagai.website	1.105.0	mx.chagai.website	Switzerland	Join Matrix
 bitcoinist.org	1.105.0	bitcoinist.org	Netherlands	Join Matrix
 rollenspiel.chat	1.105.0	rollenspiel.chat	Germany	Join Matrix
 netauthority.org	1.105.0	netauthority.org	United States of America	The federation
-matrix.ladiv.org	1.105.0	matrix.ladiv.org	Switzerland	The federation
 matrix.foilhat.tk	1.105.0	matrix.foilhat.tk	Russia	The federation
 matrix.beachcom.org	1.105.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.105.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.105.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.105.0	chatserver.hashi.sbs		The federation
+chatserver.hashi.sbs	1.105.0	chatserver.hashi.sbs	United States of America	The federation
 trixie.undrground.org	1.105.0	trixie.undrground.org	Finland	The federation
 matrix.rot1.bruckbu.de	1.105.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.hiddenasian.dev	1.105.0	matrix.hiddenasian.dev	Germany	The federation
@@ -40,6 +39,7 @@ studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 gnulinux.club	1.104.0	matrix.gnulinux.club	United States	Join Matrix
 matrix.drsk.ru	1.104.0	matrix.drsk.ru	Russia	The federation
 matrix.poast.org	1.104.0	matrix.poast.org	United States of America	The federation
+matrix.boritsch.de	1.104.0	matrix.boritsch.de	Germany	The federation
 synapse.dst.fjit.no	1.104.0	synapse.dst.fjit.no	Norway	The federation
 matrix.web3.foundation	1.104.0	matrix.web3.foundation	Netherlands	The federation
 matrix.nrp-nautilus.io	1.104.0	matrix.nrp-nautilus.io	Czechia	The federation
