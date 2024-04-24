@@ -1,32 +1,35 @@
 name	version	url	country	source
+hashi.sbs	1.105.1	hashi.sbs	Netherlands	The federation
+duesen.chat	1.105.1	matrix.duesen.chat	Germany	Join Matrix
+chat.usr.nz	1.105.1	chat.usr.nz	New Zealand	The federation
+imagisphe.re	1.105.1	imagisphe.re	France	Join Matrix
+flieger.chat	1.105.1	matrix.flieger.chat	Germany	Join Matrix
+io.proxion.de	1.105.1	io.proxion.de	Germany	The federation
+hot-chilli.im	1.105.1	hot-chilli.im	Germany	Join Matrix
+matrix.foilhat.tk	1.105.1	matrix.foilhat.tk	Russia	The federation
+matrix.lemarchand.io	1.105.1	matrix.lemarchand.io	France	The federation
+chatserver.hashi.sbs	1.105.1	chatserver.hashi.sbs	United States of America	The federation
+matrix.arya.dogcraft.de	1.105.1	matrix.arya.dogcraft.de	Finland	The federation
 nope.chat	1.105.0	nope.chat	Germany	Join Matrix
 libcom.de	1.105.0	matrix.libcom.de	Germany	Join Matrix
-hashi.sbs	1.105.0	hashi.sbs	Netherlands	The federation
 bark.lgbt	1.105.0	synapse.bark.lgbt	Netherlands	Join Matrix
 nitro.chat	1.105.0	nitro.chat	Germany	The federation
-duesen.chat	1.105.0	matrix.duesen.chat	Germany	Join Matrix
 blahaj.love	1.105.0	blahaj.love	Poland	The federation
-imagisphe.re	1.105.0	imagisphe.re	France	Join Matrix
-flieger.chat	1.105.0	matrix.flieger.chat	Germany	Join Matrix
 soziale.cloud	1.105.0	chat.soziale.cloud	Germany	Join Matrix
 kitsunes.club	1.105.0	kitsunes.club	Finland	The federation
-io.proxion.de	1.105.0	io.proxion.de	Germany	The federation
-hot-chilli.im	1.105.0	hot-chilli.im	Germany	Join Matrix
 private.coffee	1.105.0	matrix.private.coffee	Austria	Join Matrix
 chagai.website	1.105.0	mx.chagai.website	Switzerland	Join Matrix
 bitcoinist.org	1.105.0	bitcoinist.org	Netherlands	Join Matrix
 rollenspiel.chat	1.105.0	rollenspiel.chat	Germany	Join Matrix
 netauthority.org	1.105.0	netauthority.org	United States of America	The federation
 matrix.ladiv.org	1.105.0	matrix.ladiv.org	Switzerland	The federation
-matrix.foilhat.tk	1.105.0	matrix.foilhat.tk	Russia	The federation
 matrix.beachcom.org	1.105.0	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.105.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.105.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.105.0	chatserver.hashi.sbs	United States of America	The federation
 trixie.undrground.org	1.105.0	trixie.undrground.org	Finland	The federation
 matrix.rot1.bruckbu.de	1.105.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.hiddenasian.dev	1.105.0	matrix.hiddenasian.dev	Germany	The federation
-matrix.arya.dogcraft.de	1.105.0	matrix.arya.dogcraft.de	Finland	The federation
+matrixx.uc-netcorsoft.de	1.105.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.mycloudservice.eu	1.105.0	matrix.mycloudservice.eu	Germany	The federation
 comm.cx	1.104.0	matrix-client.comm.cx	Japan	Join Matrix
 mephis.to	1.104.0	mephis.to	Germany	The federation
@@ -35,21 +38,19 @@ pcriot.org	1.104.0	pcriot.org	Germany	Join Matrix
 bolha.chat	1.104.0	bolha.chat	Brazil	Join Matrix
 maroulid.is	1.104.0	maroulid.is	France	The federation
 jonasled.de	1.104.0	matrix.jonasled.de	Germany	Join Matrix
-chat.usr.nz	1.104.0	chat.usr.nz	New Zealand	The federation
+studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 gnulinux.club	1.104.0	matrix.gnulinux.club	United States	Join Matrix
 matrix.drsk.ru	1.104.0	matrix.drsk.ru	Russia	The federation
 matrix.boritsch.de	1.104.0	matrix.boritsch.de	Germany	The federation
 synapse.dst.fjit.no	1.104.0	synapse.dst.fjit.no	Norway	The federation
 matrix.web3.foundation	1.104.0	matrix.web3.foundation	Netherlands	The federation
 matrix.nrp-nautilus.io	1.104.0	matrix.nrp-nautilus.io	Czechia	The federation
-matrixx.uc-netcorsoft.de	1.104.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.tfcconnection.org	1.104.0	matrix.tfcconnection.org	United States of America	The federation
 matrix.kevinronceray.com	1.104.0	matrix.kevinronceray.com	France	The federation
 wolffelectronicdesign.com	1.104.0	wolffelectronicdesign.com	United States of America	The federation
 club1.fr	1.103.0	club1.fr	France	Join Matrix
 monero.social	1.103.0	matrix.monero.social	United States	Join Matrix
 dowdell.media	1.103.0	dowdell.media	United States of America	The federation
-derpzilla.net	1.103.0	derpzilla.net		The federation
 chat.thorko.de	1.103.0	chat.thorko.de	Germany	The federation
 archaeo.social	1.103.0	matrix.archaeo.social	Denmark	Join Matrix
 gemeinsam.jetzt	1.103.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
