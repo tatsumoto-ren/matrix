@@ -1,33 +1,36 @@
 name	version	url	country	source
+nope.chat	1.105.1	nope.chat	Germany	Join Matrix
 hashi.sbs	1.105.1	hashi.sbs	Netherlands	The federation
+bark.lgbt	1.105.1	synapse.bark.lgbt	Netherlands	Join Matrix
+nitro.chat	1.105.1	nitro.chat	Germany	The federation
+bolha.chat	1.105.1	bolha.chat	Brazil	Join Matrix
 duesen.chat	1.105.1	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.105.1	chat.usr.nz	New Zealand	The federation
 imagisphe.re	1.105.1	imagisphe.re	France	Join Matrix
 flieger.chat	1.105.1	matrix.flieger.chat	Germany	Join Matrix
 io.proxion.de	1.105.1	io.proxion.de	Germany	The federation
 hot-chilli.im	1.105.1	hot-chilli.im	Germany	Join Matrix
+derpzilla.net	1.105.1	derpzilla.net	United States of America	The federation
+private.coffee	1.105.1	matrix.private.coffee	Austria	Join Matrix
 matrix.foilhat.tk	1.105.1	matrix.foilhat.tk	Russia	The federation
+chat.darksiders.me	1.105.1	chat.darksiders.me	United States of America	The federation
+matrix.underworld.fr	1.105.1	matrix.underworld.fr	France	The federation
 matrix.lemarchand.io	1.105.1	matrix.lemarchand.io	France	The federation
 chatserver.hashi.sbs	1.105.1	chatserver.hashi.sbs	United States of America	The federation
+trixie.undrground.org	1.105.1	trixie.undrground.org	Finland	The federation
+matrix.rot1.bruckbu.de	1.105.1	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.arya.dogcraft.de	1.105.1	matrix.arya.dogcraft.de	Finland	The federation
-nope.chat	1.105.0	nope.chat	Germany	Join Matrix
 libcom.de	1.105.0	matrix.libcom.de	Germany	Join Matrix
-bark.lgbt	1.105.0	synapse.bark.lgbt	Netherlands	Join Matrix
-nitro.chat	1.105.0	nitro.chat	Germany	The federation
 blahaj.love	1.105.0	blahaj.love	Poland	The federation
 soziale.cloud	1.105.0	chat.soziale.cloud	Germany	Join Matrix
 kitsunes.club	1.105.0	kitsunes.club	Finland	The federation
-private.coffee	1.105.0	matrix.private.coffee	Austria	Join Matrix
 chagai.website	1.105.0	mx.chagai.website	Switzerland	Join Matrix
 bitcoinist.org	1.105.0	bitcoinist.org	Netherlands	Join Matrix
 rollenspiel.chat	1.105.0	rollenspiel.chat	Germany	Join Matrix
 netauthority.org	1.105.0	netauthority.org	United States of America	The federation
 matrix.ladiv.org	1.105.0	matrix.ladiv.org	Switzerland	The federation
 matrix.beachcom.org	1.105.0	matrix.beachcom.org	Germany	The federation
-matrix.underworld.fr	1.105.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.105.0	matrix.rockstable.it	Germany	The federation
-trixie.undrground.org	1.105.0	trixie.undrground.org	Finland	The federation
-matrix.rot1.bruckbu.de	1.105.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.hiddenasian.dev	1.105.0	matrix.hiddenasian.dev	Germany	The federation
 matrixx.uc-netcorsoft.de	1.105.0	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.mycloudservice.eu	1.105.0	matrix.mycloudservice.eu	Germany	The federation
@@ -35,10 +38,8 @@ comm.cx	1.104.0	matrix-client.comm.cx	Japan	Join Matrix
 mephis.to	1.104.0	mephis.to	Germany	The federation
 zfnmxt.com	1.104.0	zfnmxt.com	Luxembourg	The federation
 pcriot.org	1.104.0	pcriot.org	Germany	Join Matrix
-bolha.chat	1.104.0	bolha.chat	Brazil	Join Matrix
 maroulid.is	1.104.0	maroulid.is	France	The federation
 jonasled.de	1.104.0	matrix.jonasled.de	Germany	Join Matrix
-studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 gnulinux.club	1.104.0	matrix.gnulinux.club	United States	Join Matrix
 matrix.drsk.ru	1.104.0	matrix.drsk.ru	Russia	The federation
 matrix.boritsch.de	1.104.0	matrix.boritsch.de	Germany	The federation
