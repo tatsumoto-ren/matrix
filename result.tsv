@@ -1,5 +1,6 @@
 name	version	url	country	source
 kitsunes.club	1.106.0rc1	kitsunes.club	Finland	The federation
+mtrx.cz	1.105.1	mtrx.cz	Germany	The federation
 comm.cx	1.105.1	matrix-client.comm.cx	Japan	Join Matrix
 nope.chat	1.105.1	nope.chat	Germany	Join Matrix
 hashi.sbs	1.105.1	hashi.sbs	Netherlands	The federation
@@ -10,13 +11,13 @@ jonasled.de	1.105.1	matrix.jonasled.de	Germany	Join Matrix
 duesen.chat	1.105.1	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.105.1	chat.usr.nz	New Zealand	The federation
 imagisphe.re	1.105.1	imagisphe.re	France	Join Matrix
-flieger.chat	1.105.1	matrix.flieger.chat	Germany	Join Matrix
 converser.eu	1.105.1	converser.eu	France	The federation
 soziale.cloud	1.105.1	chat.soziale.cloud	Germany	Join Matrix
 io.proxion.de	1.105.1	io.proxion.de	Germany	The federation
 hot-chilli.im	1.105.1	hot-chilli.im	Germany	Join Matrix
 derpzilla.net	1.105.1	derpzilla.net	United States of America	The federation
 private.coffee	1.105.1	matrix.private.coffee	Austria	Join Matrix
+matrixapp.chat	1.105.1	matrixapp.chat	Germany	Join Matrix
 bitcoinist.org	1.105.1	bitcoinist.org	Netherlands	Join Matrix
 freiburg.social	1.105.1	matrix.freiburg.social	Germany	Join Matrix
 rollenspiel.chat	1.105.1	rollenspiel.chat	Germany	Join Matrix
@@ -47,7 +48,6 @@ maroulid.is	1.104.0	maroulid.is	France	The federation
 studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 gnulinux.club	1.104.0	matrix.gnulinux.club	United States	Join Matrix
 matrix.drsk.ru	1.104.0	matrix.drsk.ru	Russia	The federation
-matrix.boritsch.de	1.104.0	matrix.boritsch.de	Germany	The federation
 matrix.web3.foundation	1.104.0	matrix.web3.foundation	Netherlands	The federation
 matrix.nrp-nautilus.io	1.104.0	matrix.nrp-nautilus.io	Czechia	The federation
 matrix.tfcconnection.org	1.104.0	matrix.tfcconnection.org	United States of America	The federation
