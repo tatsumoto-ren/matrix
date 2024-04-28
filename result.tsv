@@ -29,7 +29,7 @@ matrix.beachcom.org	1.105.1	matrix.beachcom.org	Germany	The federation
 matrix.underworld.fr	1.105.1	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.105.1	matrix.rockstable.it	Germany	The federation
 matrix.lemarchand.io	1.105.1	matrix.lemarchand.io	France	The federation
-chatserver.hashi.sbs	1.105.1	chatserver.hashi.sbs	United States of America	The federation
+chatserver.hashi.sbs	1.105.1	chatserver.hashi.sbs		The federation
 matrix.rot1.bruckbu.de	1.105.1	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.arya.dogcraft.de	1.105.1	matrix.arya.dogcraft.de	Finland	The federation
 synapse.matrix.digitale-gesellschaft.ch	1.105.1	synapse.matrix.digitale-gesellschaft.ch	Germany	The federation
@@ -48,6 +48,7 @@ maroulid.is	1.104.0	maroulid.is	France	The federation
 studichat.de	1.104.0	matrix.studichat.de	Germany	Join Matrix
 gnulinux.club	1.104.0	matrix.gnulinux.club	United States	Join Matrix
 matrix.drsk.ru	1.104.0	matrix.drsk.ru	Russia	The federation
+matrix.boritsch.de	1.104.0	matrix.boritsch.de	Germany	The federation
 matrix.web3.foundation	1.104.0	matrix.web3.foundation	Netherlands	The federation
 matrix.nrp-nautilus.io	1.104.0	matrix.nrp-nautilus.io	Czechia	The federation
 matrix.tfcconnection.org	1.104.0	matrix.tfcconnection.org	United States of America	The federation
