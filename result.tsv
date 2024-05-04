@@ -13,17 +13,20 @@ matrixapp.chat	1.106.0	matrixapp.chat	Germany	Join Matrix
 bitcoinist.org	1.106.0	bitcoinist.org	Netherlands	Join Matrix
 rollenspiel.chat	1.106.0	rollenspiel.chat	Germany	Join Matrix
 matrix.beachcom.org	1.106.0	matrix.beachcom.org	Germany	The federation
+matrix.underworld.fr	1.106.0	matrix.underworld.fr	France	The federation
 matrix.rockstable.it	1.106.0	matrix.rockstable.it	Germany	The federation
-chatserver.hashi.sbs	1.106.0	chatserver.hashi.sbs	United States of America	The federation
+chatserver.hashi.sbs	1.106.0	chatserver.hashi.sbs		The federation
 matrix.discuss.online	1.106.0	matrix.discuss.online	United States of America	The federation
 matrix.rot1.bruckbu.de	1.106.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.arya.dogcraft.de	1.106.0	matrix.arya.dogcraft.de	Finland	The federation
+synapse.internet-portal.cz	1.106.0	synapse.internet-portal.cz	Czechia	The federation
 mtrx.cz	1.105.1	mtrx.cz	Germany	The federation
 comm.cx	1.105.1	matrix-client.comm.cx	Japan	Join Matrix
 maroulid.is	1.105.1	maroulid.is	France	The federation
 duesen.chat	1.105.1	matrix.duesen.chat	Germany	Join Matrix
 chat.usr.nz	1.105.1	chat.usr.nz	New Zealand	The federation
 studichat.de	1.105.1	matrix.studichat.de	Germany	Join Matrix
+flieger.chat	1.105.1	matrix.flieger.chat	Germany	Join Matrix
 converser.eu	1.105.1	converser.eu	France	The federation
 monero.social	1.105.1	matrix.monero.social	United States	Join Matrix
 io.proxion.de	1.105.1	io.proxion.de	Germany	The federation
@@ -34,7 +37,6 @@ matrix.ladiv.org	1.105.1	matrix.ladiv.org	Switzerland	The federation
 matrix.boritsch.de	1.105.1	matrix.boritsch.de	Germany	The federation
 chat.darksiders.me	1.105.1	chat.darksiders.me	United States of America	The federation
 synapse.dst.fjit.no	1.105.1	synapse.dst.fjit.no	Norway	The federation
-matrix.underworld.fr	1.105.1	matrix.underworld.fr	France	The federation
 matrix.lemarchand.io	1.105.1	matrix.lemarchand.io	France	The federation
 matrixx.uc-netcorsoft.de	1.105.1	matrixx.uc-netcorsoft.de	Germany	The federation
 matrix.kevinronceray.com	1.105.1	matrix.kevinronceray.com	France	The federation
