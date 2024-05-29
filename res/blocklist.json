@@ -610,5 +610,9 @@
   {
     "name": "*.eigenbaukombinat.de",
     "reason": "has a history of account purges"
+  },
+  {
+    "name": "*.bolha.chat",
+    "reason": "banned millions of rooms"
   }
 ]
