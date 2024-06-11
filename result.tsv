@@ -2,7 +2,6 @@ name	version	url	country	source
 yifangu.com	1.109.0rc1	matrix-federation.matrix.org	Unknown	Asra.gr
 vox.hypnox.tech	1.109.0rc1	vox.hypnox.tech	Unknown	Asra.gr
 matrix.oelrichsgarcia.de	1.109.0rc1	matrix.oelrichsgarcia.de	Unknown	Asra.gr
-vvs.rs	1.108.0	vvs.rs	Unknown	Asra.gr
 oma.su	1.108.0	oma.su	Unknown	Asra.gr
 lo0.ch	1.108.0	matrix.lo0.ch	Unknown	Asra.gr
 jc1.ca	1.108.0	matrix.jc1.ca	Unknown	Asra.gr
@@ -117,6 +116,7 @@ matrix.c3re.de	1.108.0	matrix.c3re.de	Unknown	Asra.gr
 mastodon.vn.ua	1.108.0	matrix.mastodon.vn.ua	Unknown	Asra.gr
 jacksswamp.com	1.108.0	matrix.jacksswamp.com	Unknown	Asra.gr
 ditatompel.com	1.108.0	matrix.ditatompel.com	Unknown	Asra.gr
+dimitrodam.com	1.108.0	matrix.dimitrodam.com	Unknown	Asra.gr
 dev.klara.tech	1.108.0	dev.klara.tech	Unknown	Asra.gr
 chimbus.online	1.108.0	chimbus.online	Unknown	Asra.gr
 chaotic.social	1.108.0	chaotic.social	Unknown	Asra.gr
@@ -146,6 +146,7 @@ matrix.pk-web.de	1.108.0	matrix.pk-web.de	Unknown	Asra.gr
 matrix.ok2laj.cz	1.108.0	matrix.ok2laj.cz	Unknown	Asra.gr
 matrix.mxhdr.net	1.108.0	matrix.mxhdr.net	Unknown	Asra.gr
 matrix.intri.cat	1.108.0	matrix.intri.cat	Unknown	Asra.gr
+matrix.bspwr.com	1.108.0	matrix.bspwr.com	Unknown	Asra.gr
 matrix.abyle.org	1.108.0	matrix.abyle.org	Unknown	Asra.gr
 mat.wastaken.xyz	1.108.0	mat.wastaken.xyz	Unknown	Asra.gr
 luisguerrero.net	1.108.0	matrix.luisguerrero.net	Unknown	Asra.gr
@@ -218,6 +219,7 @@ matrix.marcbarbier.fr	1.108.0	matrix.marcbarbier.fr	Unknown	Asra.gr
 matrix.gruppeheat.net	1.108.0	matrix.gruppeheat.net	Unknown	Asra.gr
 matrix.fairyintra.net	1.108.0	matrix.fairyintra.net	Unknown	Asra.gr
 matrix.eletrica88.org	1.108.0	matrix.eletrica88.org	Unknown	Asra.gr
+matrix.aztech.network	1.108.0	matrix.aztech.network	Unknown	Asra.gr
 hq.sysadmin.directory	1.108.0	hq.sysadmin.directory	Unknown	Asra.gr
 chat.dezentrale.space	1.108.0	chat.dezentrale.space	Unknown	Asra.gr
 matrix.theyoutubes.com	1.108.0	matrix.theyoutubes.com	Unknown	Asra.gr
@@ -281,6 +283,7 @@ costmiku.net	1.107.0	matrix.costmiku.net	Unknown	Asra.gr
 poenisch.info	1.107.0	poenisch.info	Unknown	Asra.gr
 odmincheg.com	1.107.0	odmincheg.com	Unknown	Asra.gr
 musicjerm.com	1.107.0	matrix.musicjerm.com	Unknown	Asra.gr
+kitsunes.club	1.107.0rc1	kitsunes.club	Finland	The federation
 io.proxion.de	1.107.0	io.proxion.de	Germany	The federation
 gnulinux.club	1.107.0	matrix.gnulinux.club	United States	Join Matrix
 eulentier.net	1.107.0	eulentier.net	Unknown	Asra.gr
@@ -328,6 +331,8 @@ chatserver.hashi.sbs	1.107.0	chatserver.hashi.sbs	United States of America	The f
 matrix.thatxtreme.dev	1.107.0	matrix.thatxtreme.dev	Unknown	Asra.gr
 matrix.libre.brussels	1.107.0	matrix.libre.brussels	Unknown	Asra.gr
 matrix.discuss.online	1.107.0	matrix.discuss.online	United States of America	The federation
+matrix.bgsulinux.club	1.107.0	matrix.bgsulinux.club	Unknown	Asra.gr
+sergmatrix.duckdns.org	1.107.0	sergmatrix.duckdns.org	Unknown	Asra.gr
 matrix.westendgate.org	1.107.0	matrix.westendgate.org	Unknown	Asra.gr
 matrix.rot1.bruckbu.de	1.107.0	matrix.rot1.bruckbu.de	Germany	The federation
 matrix.comfycamp.space	1.107.0	matrix.comfycamp.space	Unknown	Asra.gr
@@ -349,6 +354,7 @@ pcriot.org	1.106.0	pcriot.org	Germany	Join Matrix
 britzu.com	1.106.0	matrix.britzu.com	Unknown	Asra.gr
 swatinem.de	1.106.0	matrix.swatinem.de	Unknown	Asra.gr
 savemy.name	1.106.0	matrix.savemy.name	Unknown	Asra.gr
+jabawok.net	1.106.0	jabawok.net	Australia	The federation
 hribhrib.at	1.106.0	hribhrib.at	Unknown	Asra.gr
 funami.tech	1.106.0	funami.tech	South Korea	The federation
 cuttlefi.sh	1.106.0	matrix.cuttlefi.sh	Unknown	Asra.gr
@@ -381,7 +387,6 @@ jannis-goeing.de	1.106.0	jannis-goeing.de	Unknown	Asra.gr
 polkadot.builders	1.106.0	matrix.polkadot.builders	Unknown	Asra.gr
 matrix.poweron.dk	1.106.0	matrix.poweron.dk	Denmark	The federation
 matrix.juggler.jp	1.106.0	matrix.juggler.jp	Unknown	Asra.gr
-matrix.armrus.org	1.106.0	matrix.armrus.org	Unknown	Asra.gr
 matrix.apeiria.icu	1.106.0	matrix.apeiria.icu	Unknown	Asra.gr
 internet-portal.cz	1.106.0	synapse.internet-portal.cz	Unknown	Asra.gr
 socialnetwork24.com	1.106.0	socialnetwork24.com	Germany	Join Matrix
