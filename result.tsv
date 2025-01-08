@@ -7,7 +7,6 @@ comm.cx	1.121.1	matrix-client.comm.cx	Japan	Join Matrix
 secnd.me	1.121.1	matrix.secnd.me	Unknown	Asra.gr
 obco.pro	1.121.1	matrixchat.org	Unknown	Asra.gr
 net.cafe	1.121.1	matrix.net.cafe	Unknown	Asra.gr
-insa.lol	1.121.1	matrix.insa.lol	Unknown	Asra.gr
 heiss.be	1.121.1	matrix.heiss.be	Unknown	Asra.gr
 booq.org	1.121.1	matrix.booq.org	Unknown	Asra.gr
 zhub.link	1.121.1	matrix.zhub.link	Unknown	Asra.gr
@@ -23,6 +22,7 @@ kotous.cz	1.121.1	ssl.kotous.cz	Unknown	Asra.gr
 im.xoo.sh	1.121.1	im.xoo.sh	Unknown	Asra.gr
 hashi.sbs	1.121.1	chatserver.hashi.sbs	UK/China?	Join Matrix
 gehl.info	1.121.1	matrix.gehl.info	Unknown	Asra.gr
+cxzlw.top	1.121.1	matrix.cxzlw.top	Unknown	Asra.gr
 bau-ha.us	1.121.1	bau-ha.us	Unknown	Asra.gr
 aipi.chat	1.121.1	aipi.chat	Unknown	Asra.gr
 vidar.chat	1.121.1	matrix.vidar.chat	Unknown	Asra.gr
@@ -221,6 +221,7 @@ matrix.astras.online	1.121.1	matrix.astras.online	Unknown	Asra.gr
 matrix.alfredolin.eu	1.121.1	matrix.alfredolin.eu	Unknown	Asra.gr
 matrix.aldiserver.de	1.121.1	matrix.aldiserver.de	Unknown	Asra.gr
 matrix.aaronhess.xyz	1.121.1	matrix.aaronhess.xyz	Unknown	Asra.gr
+connect.danaides.org	1.121.1	connect.danaides.org	Unknown	Asra.gr
 chatserver.hashi.sbs	1.121.1	chatserver.hashi.sbs	Unknown	Asra.gr
 matrix.netzagentur.at	1.121.1	matrix.netzagentur.at	Unknown	Asra.gr
 matrix.minebender.net	1.121.1	matrix.minebender.net	Unknown	Asra.gr
@@ -232,6 +233,7 @@ matrix.damswallace.fr	1.121.1	matrix.damswallace.fr	Unknown	Asra.gr
 matrix.bruce.computer	1.121.1	matrix.bruce.computer	Unknown	Asra.gr
 hq.sysadmin.directory	1.121.1	hq.sysadmin.directory	Unknown	Asra.gr
 chat.nicecrew.digital	1.121.1	chat.nicecrew.digital	Unknown	Asra.gr
+sergmatrix.duckdns.org	1.121.1	sergmatrix.duckdns.org	Unknown	Asra.gr
 matrix.westendgate.org	1.121.1	matrix.westendgate.org	Unknown	Asra.gr
 matrix.mythiccloud.net	1.121.1	matrix.mythiccloud.net	Unknown	Asra.gr
 matrix.muensterhack.de	1.121.1	matrix.muensterhack.de	Unknown	Asra.gr
@@ -271,6 +273,7 @@ server.digitalesozialearbeit.de	1.121.1	server.digitalesozialearbeit.de	Unknown	
 matrix.strongtownssteinbach.org	1.121.1	matrix.strongtownssteinbach.org	Unknown	Asra.gr
 flying-snail-matrix.nsupdate.info	1.121.1	flying-snail-matrix.nsupdate.info	Unknown	Asra.gr
 psjt.org	1.121.0	matrix.psjt.org	Unknown	Asra.gr
+flc.world	1.121.0	matrix.flc.world	Unknown	Asra.gr
 yoitsu.moe	1.121.0	matrix.yoitsu.moe	Unknown	Asra.gr
 mj-kiel.de	1.121.0	matrix.mj-kiel.de	Unknown	Asra.gr
 yifangu.com	1.121.0rc1	matrix-federation.matrix.org	Unknown	Asra.gr
