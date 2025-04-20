@@ -1,5 +1,4 @@
 name	version	url	country	source
-xvx.sh	1.128.0	matrix.xvx.sh	Unknown	Asra.gr
 jc1.ca	1.128.0	matrix.jc1.ca	Unknown	Asra.gr
 idc.md	1.128.0	matrix.idc.md	Unknown	Asra.gr
 erb.pw	1.128.0	matrix.erb.pw	Unknown	Asra.gr
@@ -24,9 +23,9 @@ hashi.sbs	1.128.0	chatserver.hashi.sbs	UK/China?	Join Matrix
 flc.world	1.128.0	flc.world	Unknown	Asra.gr
 aipi.chat	1.128.0	aipi.chat	Unknown	Asra.gr
 stdint.com	1.128.0	matrix.stdint.com	Unknown	Asra.gr
-r3d007.com	1.128.0	matrix.r3d007.com	Unknown	Asra.gr
 pramari.de	1.128.0	matrix.pramari.de	Unknown	Asra.gr
 poweron.dk	1.128.0	matrix.poweron.dk	Unknown	Asra.gr
+parlote.fr	1.128.0	parlote.fr	Unknown	Asra.gr
 nyanya.gay	1.128.0	matrix.nyanya.gay	Unknown	Asra.gr
 matsch.xyz	1.128.0	matsch.xyz	Unknown	Asra.gr
 gaube.chat	1.128.0	gaube.chat	Unknown	Asra.gr
@@ -88,6 +87,7 @@ matthewzeman.net	1.128.0	matrix.matthewzeman.net	Unknown	Asra.gr
 matrix.sopado.de	1.128.0	matrix.sopado.de	Unknown	Asra.gr
 matrix.ravc.tech	1.128.0	matrix.ravc.tech	Unknown	Asra.gr
 matrix.mxhdr.net	1.128.0	matrix.mxhdr.net	Unknown	Asra.gr
+matrix.intri.cat	1.128.0	matrix.intri.cat	Unknown	Asra.gr
 matrix.abyle.org	1.128.0	matrix.abyle.org	Unknown	Asra.gr
 jameskitt616.one	1.128.0	matrix.jameskitt616.one	Unknown	Asra.gr
 henger.ddnss.org	1.128.0	matrix.henger.ddnss.org	Unknown	Asra.gr
@@ -100,6 +100,7 @@ suicideserver.net	1.128.0	matrix.suicideserver.net	Unknown	Asra.gr
 myaqua.dyndns.org	1.128.0	myaqua.dyndns.org	Unknown	Asra.gr
 matrix.proxima.cx	1.128.0	matrix.proxima.cx	Unknown	Asra.gr
 matrix.poweron.dk	1.128.0	matrix.poweron.dk	Unknown	Asra.gr
+matrix.nuka.works	1.128.0	matrix.nuka.works	Unknown	Asra.gr
 matrix.meachie.cc	1.128.0	matrix.meachie.cc	Unknown	Asra.gr
 matrix.kirgus.net	1.128.0	matrix.kirgus.net	Unknown	Asra.gr
 matrix.elbacho.de	1.128.0	matrix.elbacho.de	Unknown	Asra.gr
@@ -148,6 +149,7 @@ holonet.starwars.rocks	1.128.0	holonet.starwars.rocks	Unknown	Asra.gr
 shadow-technologies.com	1.128.0	matrix.shadow-technologies.com	Unknown	Asra.gr
 matrix.strausscloud.com	1.128.0	matrix.strausscloud.com	Unknown	Asra.gr
 matrix.sekretaerbaer.net	1.128.0	matrix.sekretaerbaer.net	Unknown	Asra.gr
+worldethicaldataforum.org	1.128.0	matrix.worldethicaldataforum.org	Unknown	Asra.gr
 synapse.migou.synology.me	1.128.0	synapse.migou.synology.me	Unknown	Asra.gr
 pridelands-after-dark.com	1.128.0	pridelands-after-dark.com	Unknown	Asra.gr
 synapse.beast.ruun.network	1.128.0	synapse.beast.ruun.network	Unknown	Asra.gr
