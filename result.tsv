@@ -1,7 +1,6 @@
 name	version	url	country	source
 matrix.ipv8.pl	1.129.0rc2	matrix.ipv8.pl	Unknown	Asra.gr
 matrix.elforcer.ru	1.129.0rc2	matrix.elforcer.ru	Unknown	Asra.gr
-xvx.sh	1.128.0	matrix.xvx.sh	Unknown	Asra.gr
 jc1.ca	1.128.0	matrix.jc1.ca	Unknown	Asra.gr
 erb.pw	1.128.0	matrix.erb.pw	Unknown	Asra.gr
 uggs.io	1.128.0	im.uggs.io	Unknown	Asra.gr
@@ -19,6 +18,7 @@ nynex.de	1.128.0	synapse.nynex.de	Unknown	Asra.gr
 halis.io	1.128.0	matrix.halis.io	Unknown	Asra.gr
 floss.uz	1.128.0	matrix.floss.uz	Unknown	Asra.gr
 bwinf.de	1.128.0	synapse.bwinf.de	Unknown	Asra.gr
+amami.cz	1.128.0	amami.cz	Unknown	Asra.gr
 voxbee.ro	1.128.0	matrix.voxbee.ro	Unknown	Asra.gr
 tejat.net	1.128.0	matrix.tejat.net	Unknown	Asra.gr
 sopado.de	1.128.0	matrix.sopado.de	Unknown	Asra.gr
@@ -54,7 +54,7 @@ wanfear.com	1.128.0	matrix.wanfear.net	Unknown	Asra.gr
 securce.com	1.128.0	securce.com	Unknown	Asra.gr
 savemy.name	1.128.0	matrix.savemy.name	Unknown	Asra.gr
 roldera.net	1.128.0	matrix.roldera.net	Unknown	Asra.gr
-robbinsa.me	1.128.0	matrix.robbinsa.me	Unknown	Asra.gr
+mukedues.de	1.128.0	matrix.mukedues.de	Unknown	Asra.gr
 knthost.com	1.128.0	matrix.knthost.com	Unknown	Asra.gr
 im.moec.top	1.128.0	matrix.moec.top	Unknown	Asra.gr
 hofmann.onl	1.128.0	matrix.hofmann.onl	Unknown	Asra.gr
@@ -82,6 +82,7 @@ nimbiztec.com	1.128.0	matrix.nimbiztec.com	Unknown	Asra.gr
 musicjerm.com	1.128.0	matrix.musicjerm.com	Unknown	Asra.gr
 matrix.l4f.cc	1.128.0	matrix.l4f.cc	Unknown	Asra.gr
 matrix.erb.pw	1.128.0	matrix.erb.pw	Unknown	Asra.gr
+matrix.b0t.at	1.128.0	matrix.b0t.at	Unknown	Asra.gr
 matrix.6rx.au	1.128.0	matrix.6rx.au	Unknown	Asra.gr
 io.proxion.de	1.128.0	io.proxion.de	Unknown	Asra.gr
 hot-chilli.im	1.128.0	hot-chilli.im	Germany	Join Matrix
@@ -155,6 +156,7 @@ secure-channel.net	1.128.0	matrix.secure-channel.net	Unknown	Asra.gr
 matrix.tailsit.com	1.128.0	matrix.tailsit.com	Unknown	Asra.gr
 matrix.sucroid.com	1.128.0	matrix.sucroid.com	Unknown	Asra.gr
 matrix.musicsrv.de	1.128.0	matrix.musicsrv.de	Unknown	Asra.gr
+matrix.mukedues.de	1.128.0	matrix.mukedues.de	Unknown	Asra.gr
 matrix.heldenvz.de	1.128.0	matrix.heldenvz.de	Unknown	Asra.gr
 matrix.gallows.dev	1.128.0	matrix.gallows.dev	Unknown	Asra.gr
 matrix.flossir.org	1.128.0	matrix.flossir.org	Unknown	Asra.gr
@@ -242,7 +244,6 @@ popbob.club	1.127.1	matrix.popbob.club	Unknown	Asra.gr
 parlante.de	1.127.1	matrix.parlante.de	Unknown	Asra.gr
 nya.network	1.127.1	matrix.nya.network	Unknown	Asra.gr
 myserver.cz	1.127.1	matrix.myserver.cz	Unknown	Asra.gr
-mycopam.net	1.127.1	mycopam.net	Unknown	Asra.gr
 menteeth.us	1.127.1	menteeth.us	Unknown	Asra.gr
 redchops.com	1.127.1	matrix.redchops.com	Unknown	Asra.gr
 rankenste.in	1.127.1	matrix.rankenste.in	Unknown	Asra.gr
@@ -272,6 +273,7 @@ homelabindia.org	1.127.1	matrix.homelabindia.org	Unknown	Asra.gr
 darmstadt.social	1.127.1	matrix.darmstadt.social	Unknown	Asra.gr
 chat.frennet.xyz	1.127.1	chat.frennet.xyz	Unknown	Asra.gr
 tfcconnection.org	1.127.1	matrix.tfcconnection.org	Unknown	Asra.gr
+synapse.abwfl.com	1.127.1	synapse.abwfl.com	Unknown	Asra.gr
 polkadot.builders	1.127.1	matrix.polkadot.builders	Unknown	Asra.gr
 matrix.szimnau.de	1.127.1	matrix.szimnau.de	Unknown	Asra.gr
 matrix.orxnet.org	1.127.1	matrix.orxnet.org	Unknown	Asra.gr
@@ -302,12 +304,12 @@ invisiblethingslab.com	1.127.1	m.itl.space	Unknown	Asra.gr
 matrix.tfcconnection.org	1.127.1	matrix.tfcconnection.org	Unknown	Asra.gr
 matrix.interhacker.space	1.127.1	matrix.interhacker.space	Unknown	Asra.gr
 digitale-gesellschaft.ch	1.127.1	synapse.matrix.digitale-gesellschaft.ch	Unknown	Asra.gr
+matrix.talos.mimir-tech.org	1.127.1	matrix.talos.mimir-tech.org	Unknown	Asra.gr
 matrix.infra.reflect-media.de	1.127.1	matrix.infra.reflect-media.de	Unknown	Asra.gr
 matrix.dtris.moe	1.127.0	matrix.dtris.moe	Unknown	Asra.gr
 matrix.friendattack.eu	1.127.0	matrix.friendattack.eu	Unknown	Asra.gr
 roota.cc	1.126.0	roota.cc	Unknown	Asra.gr
 rebru.ch	1.126.0	matrix.rebru.ch	Unknown	Asra.gr
-amami.cz	1.126.0	amami.cz	Unknown	Asra.gr
 the-b.org	1.126.0	matrix.the-b.org	Unknown	Asra.gr
 xnode.chat	1.126.0	xnode.chat	Unknown	Asra.gr
 codefor.nl	1.126.0	matrix.codefor.nl	Unknown	Asra.gr
