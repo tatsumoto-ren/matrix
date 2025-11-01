@@ -1,7 +1,9 @@
 name	version	url	country	source
 nope.chat	1.141.0	nope.chat	Germany	Join Matrix
 imagisphe.re	1.141.0	imagisphe.re	France	Join Matrix
+hot-chilli.im	1.141.0	hot-chilli.im	Germany	Join Matrix
 unredacted.org	1.141.0	matrix.unredacted.org	United States	Join Matrix
+gemeinsam.jetzt	1.141.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 lw4.de	1.140.0	lw4.de	Unknown	Asra.gr
 due.ren	1.140.0	matrix.due.ren	Unknown	Asra.gr
 urech.ca	1.140.0	matrix.urech.ca	Unknown	Asra.gr
@@ -57,7 +59,6 @@ web3.foundation	1.140.0	matrix.web3.foundation	Unknown	Asra.gr
 solidarmobil.de	1.140.0	matrix.solidarmobil.de	Unknown	Asra.gr
 matrix.wiuma.de	1.140.0	matrix.wiuma.de	Unknown	Asra.gr
 lekkerpraten.nl	1.140.0	synapse.lekkerpraten.nl	Unknown	Asra.gr
-gemeinsam.jetzt	1.140.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
 conversence.com	1.140.0	matrix.conversence.com	Unknown	Asra.gr
 chat.bartho.org	1.140.0	chat.bartho.org	Unknown	Asra.gr
 toucaenroller.fr	1.140.0	matrix.toucaenroller.fr	Unknown	Asra.gr
@@ -142,7 +143,6 @@ rankenste.in	1.139.2	matrix.rankenste.in	Unknown	Asra.gr
 chat.vvrn.it	1.139.2	chat.vvrn.it	Unknown	Asra.gr
 akkariin.moe	1.139.2	matrix.akkariin.moe	Unknown	Asra.gr
 musicjerm.com	1.139.2	matrix.musicjerm.com	Unknown	Asra.gr
-hot-chilli.im	1.139.2	hot-chilli.im	Germany	Join Matrix
 hillion.co.uk	1.139.2	matrix.hillion.co.uk	Unknown	Asra.gr
 partnertech.nz	1.139.2	matrix.partnertech.nz	Unknown	Asra.gr
 fossi-chat.org	1.139.2	matrix.fossi-chat.org	Unknown	Asra.gr
@@ -199,7 +199,6 @@ mint-system.ch	1.139.0	matrix.mint-system.com	Unknown	Asra.gr
 netauthority.org	1.139.0	matrix.netauthority.org	Unknown	Asra.gr
 matrix.intri.cat	1.139.0	matrix.intri.cat	Unknown	Asra.gr
 mtx.lowend.social	1.139.0	mtx.lowend.social	Unknown	Asra.gr
-matrix.nuka.works	1.139.0	matrix.nuka.works	Unknown	Asra.gr
 chart.textiles.ru	1.139.0	chart.textiles.ru	Unknown	Asra.gr
 matrix.tailsit.com	1.139.0	matrix.tailsit.com	Unknown	Asra.gr
 matrix.breubeer.de	1.139.0	matrix.breubeer.de	Unknown	Asra.gr
