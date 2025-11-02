@@ -1,5 +1,7 @@
 name	version	url	country	source
 nope.chat	1.141.0	nope.chat	Germany	Join Matrix
+imagisphe.re	1.141.0	imagisphe.re	France	Join Matrix
+bladerunn.in	1.141.0	bladerunn.in	Finland?	Join Matrix
 hot-chilli.im	1.141.0	hot-chilli.im	Germany	Join Matrix
 unredacted.org	1.141.0	matrix.unredacted.org	United States	Join Matrix
 gemeinsam.jetzt	1.141.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -16,7 +18,6 @@ nahida.im	1.140.0	matrix-server.nahida.im	Unknown	Asra.gr
 meszar.us	1.140.0	matrix.meszar.us	Unknown	Asra.gr
 ladiv.org	1.140.0	matrix.ladiv.org	Unknown	Asra.gr
 flc.world	1.140.0	flc.world	Unknown	Asra.gr
-bau-ha.us	1.140.0	bau-ha.us	Unknown	Asra.gr
 aipi.chat	1.140.0	aipi.chat	Unknown	Asra.gr
 saygex.xyz	1.140.0	matrix.saygex.xyz	Unknown	Asra.gr
 ly0316.com	1.140.0	ly0316.com	Unknown	Asra.gr
@@ -67,7 +68,6 @@ matrix.sysops.de	1.140.0	matrix.sysops.de	Unknown	Asra.gr
 matrix.ravc.tech	1.140.0	matrix.ravc.tech	Unknown	Asra.gr
 matrix.pk-web.de	1.140.0	matrix.pk-web.de	Unknown	Asra.gr
 matrix.omegav.no	1.140.0	matrix.omegav.no	Unknown	Asra.gr
-matrix.noncom.us	1.140.0	matrix.noncom.us	Unknown	Asra.gr
 matrix.mxhdr.net	1.140.0	matrix.mxhdr.net	Unknown	Asra.gr
 matrix.anonx.biz	1.140.0	matrix.anonx.biz	Unknown	Asra.gr
 matrix.abyle.org	1.140.0	matrix.abyle.org	Unknown	Asra.gr
@@ -149,7 +149,6 @@ demo.etke.host	1.139.2	matrix.demo.etke.host	Unknown	Asra.gr
 chat.thorko.de	1.139.2	chat.thorko.de	Unknown	Asra.gr
 matrix.wrede.ca	1.139.2	matrix.wrede.ca	Unknown	Asra.gr
 matrix.jones.dk	1.139.2	matrix.jones.dk	Unknown	Asra.gr
-matrix.totmin.ru	1.139.2	matrix.totmin.ru	Unknown	Asra.gr
 matrix.poweron.dk	1.139.2	matrix.poweron.dk	Unknown	Asra.gr
 matrix.lukeog.com	1.139.2	matrix.lukeog.com	Unknown	Asra.gr
 trinity.fhi.mpg.de	1.139.2	trinity.fhi.mpg.de	Unknown	Asra.gr
@@ -159,6 +158,7 @@ matrix.walrussi.com	1.139.2	matrix.walrussi.com	Unknown	Asra.gr
 matrix.snct-gmbh.de	1.139.2	matrix.snct-gmbh.de	Unknown	Asra.gr
 matrix.nightcity.lu	1.139.2	matrix.nightcity.lu	Unknown	Asra.gr
 matrix.beachcom.org	1.139.2	matrix.beachcom.org	Unknown	Asra.gr
+matrix.07170501.xyz	1.139.2	matrix.07170501.dynv6.net	Unknown	Asra.gr
 enter.ilonagabor.de	1.139.2	enter.ilonagabor.de	Unknown	Asra.gr
 matrix.persch-api.de	1.139.2	matrix.persch-api.de	Unknown	Asra.gr
 matrix.foleosoft.com	1.139.2	matrix.foleosoft.com	Unknown	Asra.gr
