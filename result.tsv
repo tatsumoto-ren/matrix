@@ -1,7 +1,6 @@
 name	version	url	country	source
 nope.chat	1.141.0	nope.chat	Germany	Join Matrix
 imagisphe.re	1.141.0	imagisphe.re	France	Join Matrix
-bladerunn.in	1.141.0	bladerunn.in	Finland?	Join Matrix
 hot-chilli.im	1.141.0	hot-chilli.im	Germany	Join Matrix
 unredacted.org	1.141.0	matrix.unredacted.org	United States	Join Matrix
 gemeinsam.jetzt	1.141.0	matrix.gemeinsam.jetzt	Austria	Join Matrix
@@ -11,7 +10,6 @@ urech.ca	1.140.0	matrix.urech.ca	Unknown	Asra.gr
 roota.cc	1.140.0	roota.cc	Unknown	Asra.gr
 otter.cx	1.140.0	matrix.otter.cx	Unknown	Asra.gr
 obco.pro	1.140.0	matrixchat.org	Unknown	Asra.gr
-grant.is	1.140.0	matrix.grant.is	Unknown	Asra.gr
 the-b.org	1.140.0	matrix.the-b.org	Unknown	Asra.gr
 rustch.at	1.140.0	rustch.at	Unknown	Asra.gr
 meszar.us	1.140.0	matrix.meszar.us	Unknown	Asra.gr
@@ -115,7 +113,6 @@ holonet.starwars.rocks	1.140.0	holonet.starwars.rocks	Unknown	Asra.gr
 matrix.terminallabs.com	1.140.0	matrix.terminallabs.com	Unknown	Asra.gr
 matrix.arya.dogcraft.de	1.140.0	matrix.arya.dogcraft.de	Unknown	Asra.gr
 chaostreff-osnabrueck.de	1.140.0	matrix.chaostreff-osnabrueck.de	Unknown	Asra.gr
-synapse.migou.synology.me	1.140.0	synapse.migou.synology.me	Unknown	Asra.gr
 matrix.wolfrevo.mywire.org	1.140.0	matrix.wolfrevo.mywire.org	Unknown	Asra.gr
 matrix.firehawk-systems.com	1.140.0	matrix.firehawk-systems.com	Unknown	Asra.gr
 mymatrix79.xavierscave.trade	1.140.0	mymatrix79.xavierscave.trade	Unknown	Asra.gr
@@ -170,11 +167,11 @@ matrix.baranovski.cloud	1.139.2	matrix.baranovski.cloud	Unknown	Asra.gr
 netz.darknight-coffee.eu	1.139.2	treff.darknight-coffee.org	Unknown	Asra.gr
 matrix.kevinronceray.com	1.139.2	matrix.kevinronceray.com	Unknown	Asra.gr
 pridelands-after-dark.com	1.139.2	pridelands-after-dark.com	Unknown	Asra.gr
-matrix.sebastianwieser.de	1.139.2	matrix.sebastianwieser.de	Unknown	Asra.gr
 matrix.jelliefrontier.net	1.139.2	matrix.jelliefrontier.net	Unknown	Asra.gr
 matrix.hopesmagicbag.pink	1.139.2	matrix.hopesmagicbag.pink	Unknown	Asra.gr
 cornspace.su	1.139.1	matrix.cornspace.su	Unknown	Asra.gr
 chat.beatty.family	1.139.1	chat.beatty.family	Unknown	Asra.gr
+matrix.small-net.net	1.139.1	matrix.small-net.net	Unknown	Asra.gr
 matrix.luisental.org	1.139.1	matrix.luisental.org	Unknown	Asra.gr
 matrix.haringstad.com	1.139.1	matrix.haringstad.com	Unknown	Asra.gr
 qoto.org	1.139.0	matrix.qoto.org	Unknown	Asra.gr
