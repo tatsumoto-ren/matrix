@@ -1,5 +1,6 @@
 name	version	url	country	source
 nope.chat	1.141.0	nope.chat	Germany	Join Matrix
+pcriot.org	1.141.0	pcriot.org	Germany	Join Matrix
 imagisphe.re	1.141.0	imagisphe.re	France	Join Matrix
 hot-chilli.im	1.141.0	hot-chilli.im	Germany	Join Matrix
 unredacted.org	1.141.0	matrix.unredacted.org	United States	Join Matrix
@@ -28,7 +29,6 @@ hribhrib.at	1.140.0	hribhrib.at	Unknown	Asra.gr
 grips-it.de	1.140.0	matrix.grips-edv.de	Unknown	Asra.gr
 cyconet.org	1.140.0	matrix.cyconet.org	Unknown	Asra.gr
 wachzwang.de	1.140.0	matrix.wachzwang.de	Unknown	Asra.gr
-swisstrix.ch	1.140.0	swisstrix.ch	Unknown	Asra.gr
 sim.rooty.fr	1.140.0	sim.rooty.fr	Unknown	Asra.gr
 radratten.de	1.140.0	matrix.radratten.de	Unknown	Asra.gr
 polymake.org	1.140.0	matrix.polymake.org	Unknown	Asra.gr
@@ -100,6 +100,7 @@ net.savva-balashov.me	1.140.0	net.savva-balashov.me	Unknown	Asra.gr
 matrix.webdevelop.pro	1.140.0	matrix.webdevelop.pro	Unknown	Asra.gr
 matrix.netzagentur.at	1.140.0	matrix.netzagentur.at	Unknown	Asra.gr
 matrix.groet-infra.nl	1.140.0	matrix.groet-infra.nl	Unknown	Asra.gr
+matrix.freec0ding.dev	1.140.0	matrix.freec0ding.dev	Unknown	Asra.gr
 matrix.barcross.co.uk	1.140.0	matrix.barcross.co.uk	Unknown	Asra.gr
 hq.sysadmin.directory	1.140.0	hq.sysadmin.directory	Unknown	Asra.gr
 matrix.ronin-legacy.fr	1.140.0	matrix-federation.ronin-legacy.fr	Unknown	Asra.gr
@@ -126,7 +127,6 @@ flying-snail-matrix.nsupdate.info	1.140.0	flying-snail-matrix.nsupdate.info	Unkn
 olaf.one	1.139.2	matrix.olaf.one	Unknown	Asra.gr
 halis.io	1.139.2	matrix.halis.io	Unknown	Asra.gr
 poweron.dk	1.139.2	matrix.poweron.dk	Unknown	Asra.gr
-pcriot.org	1.139.2	pcriot.org	Germany	Join Matrix
 blabla2.me	1.139.2	matrix.blabla2.me	Unknown	Asra.gr
 bitcar.tel	1.139.2	mtx.bitcar.tel	Unknown	Asra.gr
 distrust.co	1.139.2	matrix.distrust.co	Unknown	Asra.gr
@@ -154,7 +154,6 @@ matrix.weirdware.io	1.139.2	matrix.weirdware.io	Unknown	Asra.gr
 matrix.snct-gmbh.de	1.139.2	matrix.snct-gmbh.de	Unknown	Asra.gr
 matrix.nightcity.lu	1.139.2	matrix.nightcity.lu	Unknown	Asra.gr
 matrix.beachcom.org	1.139.2	matrix.beachcom.org	Unknown	Asra.gr
-matrix.07170501.xyz	1.139.2	matrix.07170501.dynv6.net	Unknown	Asra.gr
 enter.ilonagabor.de	1.139.2	enter.ilonagabor.de	Unknown	Asra.gr
 matrix.persch-api.de	1.139.2	matrix.persch-api.de	Unknown	Asra.gr
 matrix.foleosoft.com	1.139.2	matrix.foleosoft.com	Unknown	Asra.gr
