@@ -1,5 +1,4 @@
 name	version	url	country	source
-wah.moe	1.144.0	wah.moe	Unknown	Asra.gr
 due.ren	1.144.0	matrix.due.ren	Unknown	Asra.gr
 rebru.ch	1.144.0	matrix.rebru.ch	Unknown	Asra.gr
 grant.is	1.144.0	matrix.grant.is	Unknown	Asra.gr
@@ -120,7 +119,6 @@ matrix.linuxrocker.com	1.144.0	matrix.linuxrocker.com	Unknown	Asra.gr
 matrix.gemeinsam.jetzt	1.144.0	matrix.gemeinsam.jetzt	Unknown	Asra.gr
 matrix.friendattack.eu	1.144.0	matrix.friendattack.eu	Unknown	Asra.gr
 matrix.frahmlaender.de	1.144.0	matrix.frahmlaender.de	Unknown	Asra.gr
-matrix.clowdertech.com	1.144.0	matrix.clowdertech.com	Unknown	Asra.gr
 matrix.chartilacorp.ru	1.144.0	matrix.chartilacorp.ru	Unknown	Asra.gr
 holonet.starwars.rocks	1.144.0	holonet.starwars.rocks	Unknown	Asra.gr
 disnuts.ignorelist.com	1.144.0	disnuts.ignorelist.com	Unknown	Asra.gr
@@ -188,7 +186,7 @@ matrix.wolhuter.co.za	1.143.0	matrix.wolhuter.co.za	Unknown	Asra.gr
 matrix.apitwospace.ru	1.143.0	matrix.apitwospace.ru	Unknown	Asra.gr
 hq.sysadmin.directory	1.143.0	hq.sysadmin.directory	Unknown	Asra.gr
 studentenzimmer.online	1.143.0	mx.studentenzimmer.online	Unknown	Asra.gr
-matrix.madeindream.com	1.143.0	matrix.madeindream.com	Unknown	Asra.gr
+sergmatrix.duckdns.org	1.143.0	sergmatrix.duckdns.org	Unknown	Asra.gr
 matrix.home-net.com.ua	1.143.0	matrix.home-net.com.ua	Unknown	Asra.gr
 matrix.enragedkodo.com	1.143.0	matrix.enragedkodo.com	Unknown	Asra.gr
 matrix.baranovski.cloud	1.143.0	matrix.baranovski.cloud	Unknown	Asra.gr
@@ -201,6 +199,7 @@ libernode.libretechsystems.xyz	1.143.0	libernode.libretechsystems.xyz	Unknown	As
 pony.cx	1.142.1	pony.cx	Unknown	Asra.gr
 kan3.me	1.142.1	matrix.kan3.me	Unknown	Asra.gr
 m.edw.ai	1.142.1	m.edw.ai	Unknown	Asra.gr
+nahida.im	1.142.1	matrix-server.nahida.im	Unknown	Asra.gr
 hofmann.onl	1.142.1	matrix.hofmann.onl	Unknown	Asra.gr
 hecosida.de	1.142.1	matrix.hecosida.de	Unknown	Asra.gr
 boritsch.de	1.142.1	matrix.boritsch.de	Unknown	Asra.gr
@@ -220,7 +219,6 @@ chat.bartho.org	1.142.1	chat.bartho.org	Unknown	Asra.gr
 polkadot.builders	1.142.1	matrix.polkadot.builders	Unknown	Asra.gr
 matrix.cycasc.net	1.142.1	matrix.cycasc.net	Unknown	Asra.gr
 matrix.nightcity.lu	1.142.1	matrix.nightcity.lu	Unknown	Asra.gr
-matrix.jeffcake.com	1.142.1	matrix.jeffcake.com	Unknown	Asra.gr
 otterobservatory.com	1.142.1	matrix.otterobservatory.com	Unknown	Asra.gr
 matrix.persch-api.de	1.142.1	matrix.persch-api.de	Unknown	Asra.gr
 ryuu.eu	1.142.0	matrix.ryuu.eu	Unknown	Asra.gr
