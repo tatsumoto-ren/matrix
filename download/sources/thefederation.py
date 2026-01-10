@@ -22,6 +22,7 @@ def fix_format(nodes: list[dict]) -> list[dict]:
 
 async def download_thefederation(client: httpx.AsyncClient) -> list[ServerInfo]:
     data: httpx.Response = await client.get(thefederation_url())
+    data.raise_for_status()
     data: dict = data.json()
     nodes = fix_format(data['data']['nodes'])
     out = []
