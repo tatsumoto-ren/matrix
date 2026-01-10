@@ -9,6 +9,12 @@ cd -- "$dir" || exit 1
 
 mkdir -p temp
 
+if ! [[ -d .venv ]]; then
+	python -m venv .venv
+	source .venv/bin/activate
+	python -m pip install --upgrade -r requirements.txt
+fi
+
 if [[ $* == *debug ]]; then
 	true
 else
