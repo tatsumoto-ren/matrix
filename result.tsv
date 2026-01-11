@@ -1,9 +1,9 @@
 name	version	url	country	source
 rebru.ch	1.144.0	matrix.rebru.ch	Unknown	Asra.gr
-insa.lol	1.144.0	matrix.dera.page	Unknown	Asra.gr
 ebhi.org	1.144.0	matrix.ebhi.org	Unknown	Asra.gr
 nope.chat	1.144.0	nope.chat	Unknown	Asra.gr
 ladiv.org	1.144.0	matrix.ladiv.org	Unknown	Asra.gr
+im.xoo.sh	1.144.0	im.xoo.sh	Unknown	Asra.gr
 flc.world	1.144.0	flc.world	Unknown	Asra.gr
 f2a.space	1.144.0	matrix.f2a.space	Unknown	Asra.gr
 bytea.org	1.144.0	matrix.bytea.org	Unknown	Asra.gr
@@ -38,8 +38,10 @@ mistyttm.dev	1.144.0	mistyttm.dev	Unknown	Asra.gr
 mckinstry.ie	1.144.0	mckinstry.ie	Unknown	Asra.gr
 it-syndik.at	1.144.0	matrix.it-syndik.at	Unknown	Asra.gr
 imagisphe.re	1.144.0	imagisphe.re	Unknown	Asra.gr
+heyevan.chat	1.144.0	heyevan.chat	Unknown	Asra.gr
 hadan.social	1.144.0	matrix.hadan.social	Unknown	Asra.gr
 grayarea.org	1.144.0	matrix.grayarea.org	Unknown	Asra.gr
+cornspace.su	1.144.0	matrix.cornspace.su	Unknown	Asra.gr
 chat.vvrn.it	1.144.0	chat.vvrn.it	Unknown	Asra.gr
 chat.3033.at	1.144.0	chat.3033.at	Unknown	Asra.gr
 augsburg.one	1.144.0	augsburg.one	Unknown	Asra.gr
@@ -62,6 +64,7 @@ matrix.gork.fr	1.144.0	matrix.gork.fr	Unknown	Asra.gr
 matrix.bida.im	1.144.0	matrix.bida.im	Unknown	Asra.gr
 m.spacedump.se	1.144.0	m.spacedump.se	Unknown	Asra.gr
 fossi-chat.org	1.144.0	matrix.fossi-chat.org	Unknown	Asra.gr
+foobardevs.com	1.144.0	matrix.foobardevs.com	Unknown	Asra.gr
 discuss.online	1.144.0	element.discuss.online	Unknown	Asra.gr
 dimitrodam.com	1.144.0	matrix.dimitrodam.com	Unknown	Asra.gr
 demo.etke.host	1.144.0	matrix.demo.etke.host	Unknown	Asra.gr
@@ -90,6 +93,7 @@ chat.bumsn.jetzt	1.144.0	chat.bumsn.jetzt	Unknown	Asra.gr
 bitcointxoko.com	1.144.0	matrix.bitcointxoko.com	Unknown	Asra.gr
 astra-dev.online	1.144.0	matrix.astra-dev.online	Unknown	Asra.gr
 thundercleess.org	1.144.0	matrix.thundercleess.org	Unknown	Asra.gr
+polkadot.builders	1.144.0	matrix.polkadot.builders	Unknown	Asra.gr
 mtx.lowend.social	1.144.0	mtx.lowend.social	Unknown	Asra.gr
 meet.inboxsys.net	1.144.0	meet.inboxsys.net	Unknown	Asra.gr
 matrix.texo-it.de	1.144.0	matrix.texo-it.de	Unknown	Asra.gr
@@ -149,6 +153,7 @@ matrix.chartilacorp.ru	1.144.0	matrix.chartilacorp.ru	Unknown	Asra.gr
 holonet.starwars.rocks	1.144.0	holonet.starwars.rocks	Unknown	Asra.gr
 disnuts.ignorelist.com	1.144.0	disnuts.ignorelist.com	Unknown	Asra.gr
 arcanus.ungleich.cloud	1.144.0	arcanus.matrix.ungleich.cloud	Unknown	Asra.gr
+matrix.4development.com	1.144.0	matrix.4development.com	Unknown	Asra.gr
 chat.clinkard-clacey.com	1.144.0	chat.clinkard-clacey.com	Unknown	Asra.gr
 chaostreff-osnabrueck.de	1.144.0	matrix.chaostreff-osnabrueck.de	Unknown	Asra.gr
 worldethicaldataforum.org	1.144.0	matrix.worldethicaldataforum.org	Unknown	Asra.gr
@@ -167,6 +172,7 @@ matrix.mobile.care.dev.one4.cloud	1.144.0	matrix.mobile.care.dev.one4.cloud	Unkn
 flying-snail-matrix.nsupdate.info	1.144.0	flying-snail-matrix.nsupdate.info	Unknown	Asra.gr
 tok2.me	1.143.0	matrix.tok2.me	Unknown	Asra.gr
 grin.hu	1.143.0	matrix.grin.hu	Unknown	Asra.gr
+nnik.dev	1.143.0	nnik.dev	Unknown	Asra.gr
 heiss.be	1.143.0	matrix.heiss.be	Unknown	Asra.gr
 tejat.net	1.143.0	matrix.tejat.net	Unknown	Asra.gr
 qdice.wtf	1.143.0	qdice.wtf	Unknown	Asra.gr
@@ -180,6 +186,7 @@ gcboys.chat	1.143.0	synapse.gcboys.chat	Unknown	Asra.gr
 exarius.org	1.143.0	exarius.org	Unknown	Asra.gr
 wachzwang.de	1.143.0	matrix.wachzwang.de	Unknown	Asra.gr
 ham-yota.com	1.143.0	matrix.ham-yota.com	Unknown	Asra.gr
+akkariin.moe	1.143.0	matrix.akkariin.moe	Unknown	Asra.gr
 winrarfan.art	1.143.0	winrarfan.art	Unknown	Asra.gr
 searchhub.vip	1.143.0	app.searchhub.vip	Unknown	Asra.gr
 matrix.yee.to	1.143.0	matrix.yee.to	Unknown	Asra.gr
@@ -206,6 +213,7 @@ matrix.small-net.net	1.143.0	matrix.small-net.net	Unknown	Asra.gr
 matrix.dk-groups.com	1.143.0	matrix.dk-groups.com	Unknown	Asra.gr
 net.savva-balashov.me	1.143.0	net.savva-balashov.me	Unknown	Asra.gr
 matrix.wolhuter.co.za	1.143.0	matrix.wolhuter.co.za	Unknown	Asra.gr
+matrix.totorocodes.fr	1.143.0	matrix.totorocodes.fr	Unknown	Asra.gr
 hq.sysadmin.directory	1.143.0	hq.sysadmin.directory	Unknown	Asra.gr
 studentenzimmer.online	1.143.0	mx.studentenzimmer.online	Unknown	Asra.gr
 sergmatrix.duckdns.org	1.143.0	sergmatrix.duckdns.org	Unknown	Asra.gr
@@ -226,14 +234,13 @@ hecosida.de	1.142.1	matrix.hecosida.de	Unknown	Asra.gr
 boritsch.de	1.142.1	matrix.boritsch.de	Unknown	Asra.gr
 theflarf.com	1.142.1	theflarf.com	Unknown	Asra.gr
 luch-kino.ru	1.142.1	matrix.luch-kino.ru	Unknown	Asra.gr
-akkariin.moe	1.142.1	matrix.akkariin.moe	Unknown	Asra.gr
 serenityos.org	1.142.1	serenityos.matrix.nwex.de	Unknown	Asra.gr
 matrix.c3re.de	1.142.1	matrix.c3re.de	Unknown	Asra.gr
 matrix.0x09.de	1.142.1	matrix.0x09.de	Unknown	Asra.gr
 home.tadris.de	1.142.1	home.tadris.de	Unknown	Asra.gr
 chat.thorko.de	1.142.1	chat.thorko.de	Unknown	Asra.gr
 web3.foundation	1.142.1	matrix.web3.foundation	Unknown	Asra.gr
-polkadot.builders	1.142.1	matrix.polkadot.builders	Unknown	Asra.gr
+drinkmymilk.org	1.142.1	matrix.drinkmymilk.org	Unknown	Asra.gr
 matrix.nightcity.lu	1.142.1	matrix.nightcity.lu	Unknown	Asra.gr
 matrix.jeffcake.com	1.142.1	matrix.jeffcake.com	Unknown	Asra.gr
 otterobservatory.com	1.142.1	matrix.otterobservatory.com	Unknown	Asra.gr
@@ -243,10 +250,10 @@ secnd.me	1.142.0	matrix.secnd.me	Unknown	Asra.gr
 floyd.dk	1.142.0	matrix.floyd.dk	Unknown	Asra.gr
 jkuklok.net	1.142.0	matrix.jkuklok.net	Unknown	Asra.gr
 cydiralis.cc	1.142.0	matrix.cydiralis.cc	Unknown	Asra.gr
+ha-services.de	1.142.0	matrix-zx.ha-services.de	Unknown	Asra.gr
 matrix.zeckenbu.de	1.142.0	matrix.zeckenbu.de	Unknown	Asra.gr
 chat.beatty.family	1.142.0	chat.beatty.family	Unknown	Asra.gr
 pronostix.lu-cix.lu	1.142.0	pronostix.lu-cix.lu	Unknown	Asra.gr
-matrix.sandbox64.at	1.142.0	matrix.sandbox64.at	Unknown	Asra.gr
 matrix.cyber4edu.org	1.142.0	matrix.cyber4edu.org	Unknown	Asra.gr
 chat.ottoclothing.in	1.142.0	chat.ottoclothing.in	Unknown	Asra.gr
 naumimatrix.hopto.org	1.142.0	naumisynapse.hopto.org	Unknown	Asra.gr
