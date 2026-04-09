@@ -1,4 +1,5 @@
 name	version	url	country	source
+m.henary.de	1.151.0	m.henary.de	Unknown	Asra.gr
 nathanael.us	1.151.0	matrix.nathanael.us	Unknown	Asra.gr
 barotrauma.gsh-services.com	1.151.0	barotrauma.gsh-services.com	Unknown	Asra.gr
 r4.fo	1.150.0	matrix.r4.fo	Unknown	Asra.gr
@@ -25,7 +26,6 @@ gaube.chat	1.150.0	gaube.chat	Unknown	Asra.gr
 bruckbu.de	1.150.0	matrix.rot1.bruckbu.de	Unknown	Asra.gr
 robbinsa.me	1.150.0	matrix.robbinsa.me	Unknown	Asra.gr
 mukedues.de	1.150.0	matrix.mukedues.de	Unknown	Asra.gr
-m.henary.de	1.150.0	m.henary.de	Unknown	Asra.gr
 im.moec.top	1.150.0	matrix.moec.top	Unknown	Asra.gr
 grips-it.de	1.150.0	matrix.grips-edv.de	Unknown	Asra.gr
 fasoley.net	1.150.0	fasoley.net	Unknown	Asra.gr
@@ -103,8 +103,8 @@ allhandsactive.org	1.150.0	matrix.allhandsactive.org	Unknown	Asra.gr
 synapse.sa-chat.com	1.150.0	synapse.sa-chat.com	Unknown	Asra.gr
 matrix.snct-gmbh.de	1.150.0	matrix.snct-gmbh.de	Unknown	Asra.gr
 matrix.rural-it.org	1.150.0	matrix.rural-it.org	Unknown	Asra.gr
+matrix.meissners.me	1.150.0	matrix.meissners.me	Unknown	Asra.gr
 matrix.jeffcake.com	1.150.0	matrix.jeffcake.com	Unknown	Asra.gr
-matrix.delaylama.de	1.150.0	matrix.delaylama.de	Unknown	Asra.gr
 matrix.blackynet.de	1.150.0	matrix.blackynet.de	Unknown	Asra.gr
 matrix.beachcom.org	1.150.0	matrix.beachcom.org	Unknown	Asra.gr
 launching.anuke.org	1.150.0	launching.anuke.org	Unknown	Asra.gr
@@ -146,6 +146,7 @@ nixfox.ca	1.149.1	matrix.nixfox.ca	Unknown	Asra.gr
 ha5kfu.hu	1.149.1	matrix.ha5kfu.hu	Unknown	Asra.gr
 sekbaer.de	1.149.1	matrix.sekbaer.de	Unknown	Asra.gr
 pcriot.org	1.149.1	pcriot.org	Unknown	Asra.gr
+matsch.xyz	1.149.1	matsch.xyz	Unknown	Asra.gr
 gamecom.ch	1.149.1	gamecom.ch	Unknown	Asra.gr
 ddhn324.ca	1.149.1	matrix.ddhn324.ca	Unknown	Asra.gr
 bitcar.tel	1.149.1	mtx.bitcar.tel	Unknown	Asra.gr
@@ -174,7 +175,6 @@ secure-channel.net	1.149.1	matrix.secure-channel.net	Unknown	Asra.gr
 matrix.floranga.ru	1.149.1	matrix.floranga.ru	Unknown	Asra.gr
 chat.beatty.family	1.149.1	chat.beatty.family	Unknown	Asra.gr
 matrix.weirdware.io	1.149.1	matrix.weirdware.io	Unknown	Asra.gr
-matrix.meissners.me	1.149.1	matrix.meissners.me	Unknown	Asra.gr
 chat.twistedxyz.org	1.149.1	chat.twistedxyz.org	Unknown	Asra.gr
 synapse.jing8956.com	1.149.1	synapse.jing8956.com	Unknown	Asra.gr
 server.matrix4ulm.de	1.149.1	server.matrix4ulm.de	Unknown	Asra.gr
