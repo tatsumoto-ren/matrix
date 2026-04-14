@@ -5,6 +5,7 @@ obco.pro	1.151.0	matrixchat.org	Unknown	Asra.gr
 bwinf.de	1.151.0	synapse.bwinf.de	Unknown	Asra.gr
 nope.chat	1.151.0	nope.chat	Unknown	Asra.gr
 kotous.cz	1.151.0rc1	ssl.kotous.cz	Unknown	Asra.gr
+f2a.space	1.151.0	matrix.f2a.space	Unknown	Asra.gr
 bytea.org	1.151.0	matrix.bytea.org	Unknown	Asra.gr
 aipi.chat	1.151.0	aipi.chat	Unknown	Asra.gr
 pramari.de	1.151.0	matrix.pramari.de	Unknown	Asra.gr
@@ -23,6 +24,7 @@ newtrisko.de	1.151.0	matrix.newtrisko.de	Unknown	Asra.gr
 nathanael.us	1.151.0	matrix.nathanael.us	Unknown	Asra.gr
 imagisphe.re	1.151.0	imagisphe.re	Unknown	Asra.gr
 halogen.city	1.151.0	matrix.dewrito.net	Unknown	Asra.gr
+boldocky.com	1.151.0	matrix.boldocky.com	Unknown	Asra.gr
 augsburg.one	1.151.0	augsburg.one	Unknown	Asra.gr
 sutcliffe.xyz	1.151.0	matrix.sutcliffe.xyz	Unknown	Asra.gr
 im.vrpnet.org	1.151.0	im.vrpnet.org	Unknown	Asra.gr
@@ -48,6 +50,8 @@ defencegeeks.net	1.151.0	defencegeeks.net	Unknown	Asra.gr
 thundercleess.org	1.151.0	matrix.thundercleess.org	Unknown	Asra.gr
 synapse.sytes.net	1.151.0	synapse.sytes.net	Unknown	Asra.gr
 polkadot.builders	1.151.0	matrix.polkadot.builders	Unknown	Asra.gr
+meet.inboxsys.net	1.151.0	meet.inboxsys.net	Unknown	Asra.gr
+genericgaming.com	1.151.0	matrix.genericgaming.com	Unknown	Asra.gr
 secure-channel.net	1.151.0	matrix.secure-channel.net	Unknown	Asra.gr
 matrix.musicsrv.de	1.151.0	matrix.musicsrv.de	Unknown	Asra.gr
 allhandsactive.org	1.151.0rc1	matrix.allhandsactive.org	Unknown	Asra.gr
@@ -80,7 +84,6 @@ nzcow.com	1.150.0	matrix.nzcow.com	Unknown	Asra.gr
 ladiv.org	1.150.0	matrix.ladiv.org	Unknown	Asra.gr
 im.xoo.sh	1.150.0	im.xoo.sh	Unknown	Asra.gr
 flc.world	1.150.0	flc.world	Unknown	Asra.gr
-f2a.space	1.150.0	matrix.f2a.space	Unknown	Asra.gr
 wombats.me	1.150.0	matrix.wombats.me	Unknown	Asra.gr
 stdint.com	1.150.0	matrix.stdint.com	Unknown	Asra.gr
 poweron.dk	1.150.0	matrix.poweron.dk	Unknown	Asra.gr
@@ -89,6 +92,7 @@ dewrito.net	1.150.0	matrix.dewrito.net	Unknown	Asra.gr
 agora.fl.cr	1.150.0	agora.fl.cr	Unknown	Asra.gr
 4a2s.stream	1.150.0	4a2s.stream	Unknown	Asra.gr
 wachzwang.de	1.150.0	matrix.wachzwang.de	Unknown	Asra.gr
+swisstrix.ch	1.150.0	swisstrix.ch	Unknown	Asra.gr
 pockets.buzz	1.150.0	matrix.pockets.buzz	Unknown	Asra.gr
 nebendahl.eu	1.150.0	nebendahl.eu	Unknown	Asra.gr
 mckinstry.ie	1.150.0	mckinstry.ie	Unknown	Asra.gr
@@ -133,7 +137,6 @@ matrix.szimnau.de	1.150.0	matrix.szimnau.de	Unknown	Asra.gr
 matrix.pupper.dev	1.150.0rc1	matrix.pupper.dev	Unknown	Asra.gr
 matrix.poweron.dk	1.150.0	matrix.poweron.dk	Unknown	Asra.gr
 kabelkollektiv.de	1.150.0	matrix.kabelkollektiv.de	Unknown	Asra.gr
-genericgaming.com	1.150.0	matrix.genericgaming.com	Unknown	Asra.gr
 2gather.community	1.150.0	matrix.2gather.community	Unknown	Asra.gr
 matrix.vincze.work	1.150.0	matrix.vincze.work	Unknown	Asra.gr
 matrix.override.nl	1.150.0	matrix.override.nl	Unknown	Asra.gr
@@ -163,8 +166,9 @@ matrix.shirasagi.space	1.150.0	matrix.shirasagi.space	Unknown	Asra.gr
 matrix.joyboycloud.xyz	1.150.0	matrix.joyboycloud.xyz	Unknown	Asra.gr
 matrix.home-net.com.ua	1.150.0	matrix.home-net.com.ua	Unknown	Asra.gr
 matrix.gemeinsam.jetzt	1.150.0	matrix.gemeinsam.jetzt	Unknown	Asra.gr
-matrix.asl.rnmalich.de	1.150.0	matrix.asl.rnmalich.de	Unknown	Asra.gr
 matrix.bastion-local.ru	1.150.0	matrix.bastion-local.ru	Unknown	Asra.gr
+chat.minerva-archive.org	1.150.0	chat.minerva-archive.org	Unknown	Asra.gr
+chaostreff-osnabrueck.de	1.150.0	matrix.chaostreff-osnabrueck.de	Unknown	Asra.gr
 matrix.theroaringlion.net	1.150.0	matrix.theroaringlion.net	Unknown	Asra.gr
 server.digitalesozialearbeit.de	1.150.0	server.digitalesozialearbeit.de	Unknown	Asra.gr
 matrix.strongtownssteinbach.org	1.150.0	matrix.strongtownssteinbach.org	Unknown	Asra.gr
@@ -179,8 +183,8 @@ nixfox.ca	1.149.1	matrix.nixfox.ca	Unknown	Asra.gr
 ha5kfu.hu	1.149.1	matrix.ha5kfu.hu	Unknown	Asra.gr
 sekbaer.de	1.149.1	matrix.sekbaer.de	Unknown	Asra.gr
 pcriot.org	1.149.1	pcriot.org	Unknown	Asra.gr
+matsch.xyz	1.149.1	matsch.xyz	Unknown	Asra.gr
 gamecom.ch	1.149.1	gamecom.ch	Unknown	Asra.gr
-ddhn324.ca	1.149.1	matrix.ddhn324.ca	Unknown	Asra.gr
 bitcar.tel	1.149.1	mtx.bitcar.tel	Unknown	Asra.gr
 exarius.org	1.149.1	exarius.org	Unknown	Asra.gr
 schnatter.eu	1.149.1	matrix.schnatter.eu	Unknown	Asra.gr
@@ -194,7 +198,6 @@ no.dustinthe.net	1.149.1	no.dustinthe.net	Unknown	Asra.gr
 netauthority.org	1.149.1	matrix.netauthority.org	Unknown	Asra.gr
 matrix.newan.net	1.149.1	matrix.newan.net	Unknown	Asra.gr
 x3f200c.hopto.org	1.149.1	x3f200c.hopto.org	Unknown	Asra.gr
-meet.inboxsys.net	1.149.1	meet.inboxsys.net	Unknown	Asra.gr
 matrix.wolters.io	1.149.1	matrix.wolters.io	Unknown	Asra.gr
 matrix.redmaus.io	1.149.1	matrix.redmaus.io	Unknown	Asra.gr
 chat.beatty.family	1.149.1	chat.beatty.family	Unknown	Asra.gr
@@ -204,7 +207,6 @@ synapse.jing8956.com	1.149.1	synapse.jing8956.com	Unknown	Asra.gr
 matrix.tzm.community	1.149.1	matrix.tzm.community	Unknown	Asra.gr
 matrix.small-net.net	1.149.1	matrix.small-net.net	Unknown	Asra.gr
 homeserver.augmy.org	1.149.1	homeserver.augmy.org	Unknown	Asra.gr
-matrix.wolhuter.co.za	1.149.1	matrix.wolhuter.co.za	Unknown	Asra.gr
 matrix.freedomlab.nyc	1.149.1	matrix.freedomlab.nyc	Unknown	Asra.gr
 foundryenterprises.cc	1.149.1	matrix.foundryenterprises.cc	Unknown	Asra.gr
 sergmatrix.duckdns.org	1.149.1	sergmatrix.duckdns.org	Unknown	Asra.gr
@@ -218,6 +220,7 @@ matrix.cansat.duckdns.org	1.149.1	matrix.cansat.duckdns.org	Unknown	Asra.gr
 matrix.philipsworkshop.dev	1.149.1	matrix.philipsworkshop.dev	Unknown	Asra.gr
 matrix.lia-host0.ifw-dresden.de	1.149.1	matrix.lia-host0.ifw-dresden.de	Unknown	Asra.gr
 matrix.c3re.de	1.149.0	matrix.c3re.de	Unknown	Asra.gr
+dimitrodam.com	1.149.0	matrix.dimitrodam.com	Unknown	Asra.gr
 web3.foundation	1.149.0	matrix.web3.foundation	Unknown	Asra.gr
 matrix.ecsena.com	1.149.0	matrix.ecsena.com	Unknown	Asra.gr
 matrix.tailsit.com	1.149.0	matrix.tailsit.com	Unknown	Asra.gr
@@ -233,7 +236,6 @@ rudoblack.de	1.148.0	matrix.rudoblack.de	Unknown	Asra.gr
 mistyttm.dev	1.148.0	mistyttm.dev	Unknown	Asra.gr
 marstrix.org	1.148.0	matrix.marstrix.org	Unknown	Asra.gr
 ezisland.org	1.148.0	matrix.ezisland.org	Unknown	Asra.gr
-cornspace.su	1.148.0	matrix.cornspace.su	Unknown	Asra.gr
 alhena.space	1.148.0	alhena.space	Unknown	Asra.gr
 geeksrus.chat	1.148.0	geeksrus.chat	Unknown	Asra.gr
 chat.281019.xyz	1.148.0	chat.281019.xyz	Unknown	Asra.gr
@@ -260,5 +262,4 @@ matrix.persch-api.de	1.148.0	matrix.persch-api.de	Unknown	Asra.gr
 matrix.anchorman.one	1.148.0	matrix.anchorman.one	Unknown	Asra.gr
 disnuts.ignorelist.com	1.148.0	disnuts.ignorelist.com	Unknown	Asra.gr
 lanzengrube.myfritz.link	1.148.0	lanzengrube.myfritz.link	Unknown	Asra.gr
-chat.minerva-archive.org	1.148.0	chat.minerva-archive.org	Unknown	Asra.gr
 matrix.csn.tu-chemnitz.de	1.148.0	matrix.csn.tu-chemnitz.de	Unknown	Asra.gr
