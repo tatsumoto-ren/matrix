@@ -1,5 +1,4 @@
 name	version	url	country	source
-r4.fo	1.151.0	matrix.r4.fo	Unknown	Asra.gr
 iuc.de	1.151.0	iuc.de	Unknown	Asra.gr
 idc.md	1.151.0	matrix.idc.md	Unknown	Asra.gr
 qoto.org	1.151.0	matrix.qoto.org	Unknown	Asra.gr
@@ -35,6 +34,7 @@ jkuklok.net	1.151.0	matrix.jkuklok.net	Unknown	Asra.gr
 im.moec.top	1.151.0	matrix.moec.top	Unknown	Asra.gr
 grips-it.de	1.151.0	matrix.grips-edv.de	Unknown	Asra.gr
 exarius.org	1.151.0	exarius.org	Unknown	Asra.gr
+dewrito.net	1.151.0	matrix.dewrito.net	Unknown	Asra.gr
 cyconet.org	1.151.0	matrix.cyconet.org	Unknown	Asra.gr
 4a2s.stream	1.151.0	4a2s.stream	Unknown	Asra.gr
 swisstrix.ch	1.151.0	swisstrix.ch	Unknown	Asra.gr
@@ -47,6 +47,7 @@ mckinstry.ie	1.151.0	mckinstry.ie	Unknown	Asra.gr
 matrixbox.de	1.151.0	matrix.matrixbox.de	Unknown	Asra.gr
 it-syndik.at	1.151.0	matrix.it-syndik.at	Unknown	Asra.gr
 imagisphe.re	1.151.0	imagisphe.re	Unknown	Asra.gr
+halogen.city	1.151.0	matrix.dewrito.net	Unknown	Asra.gr
 grayarea.org	1.151.0	matrix.grayarea.org	Unknown	Asra.gr
 boldocky.com	1.151.0	matrix.boldocky.com	Unknown	Asra.gr
 augsburg.one	1.151.0	augsburg.one	Unknown	Asra.gr
@@ -71,6 +72,7 @@ matrix.bida.im	1.151.0	matrix.bida.im	Unknown	Asra.gr
 m.spacedump.se	1.151.0	m.spacedump.se	Unknown	Asra.gr
 kompektiva.org	1.151.0	m.kompektiva.org	Unknown	Asra.gr
 jeanrichou.ovh	1.151.0	matrix.jeanrichou.ovh	Unknown	Asra.gr
+home.tadris.de	1.151.0	home.tadris.de	Unknown	Asra.gr
 fossi-chat.org	1.151.0	matrix.fossi-chat.org	Unknown	Asra.gr
 eishausener.de	1.151.0	matrix.eishausener.de	Unknown	Asra.gr
 demo.etke.host	1.151.0	matrix.demo.etke.host	Unknown	Asra.gr
@@ -162,7 +164,6 @@ pridelands-after-dark.com	1.151.0	pridelands-after-dark.com	Unknown	Asra.gr
 matrix.theroaringlion.net	1.151.0	matrix.theroaringlion.net	Unknown	Asra.gr
 matrix.paranoiasystem.com	1.151.0	matrix.paranoiasystem.com	Unknown	Asra.gr
 matrix.cansat.duckdns.org	1.151.0	matrix.cansat.duckdns.org	Unknown	Asra.gr
-matrix.wolfrevo.mywire.org	1.151.0	matrix.wolfrevo.mywire.org	Unknown	Asra.gr
 barotrauma.gsh-services.com	1.151.0	barotrauma.gsh-services.com	Unknown	Asra.gr
 mymatrix79.xavierscave.trade	1.151.0	mymatrix79.xavierscave.trade	Unknown	Asra.gr
 matrix.castle-homeserver.org	1.151.0	matrix.castle-homeserver.org	Unknown	Asra.gr
@@ -231,6 +232,7 @@ cepterhost.de	1.149.1	matrix.cepterhost.de	Unknown	Asra.gr
 mint-system.ch	1.149.1	matrix.mint-system.com	Unknown	Asra.gr
 chat.thorko.de	1.149.1	chat.thorko.de	Unknown	Asra.gr
 bringdaruck.us	1.149.1	matrix.bringdaruck.us	Unknown	Asra.gr
+rc.acidc0re.info	1.149.1	rc.acidc0re.info	Unknown	Asra.gr
 netauthority.org	1.149.1	matrix.netauthority.org	Unknown	Asra.gr
 matrix.redmaus.io	1.149.1	matrix.redmaus.io	Unknown	Asra.gr
 matrix.cycasc.net	1.149.1	matrix.cycasc.net	Unknown	Asra.gr
