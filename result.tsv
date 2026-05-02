@@ -2,6 +2,7 @@ name	version	url	country	source
 nebendahl.eu	1.152.0	nebendahl.eu	Unknown	Asra.gr
 io.proxion.de	1.152.0	io.proxion.de	Unknown	Asra.gr
 matrixchat.dev	1.152.0	matrixchat.dev	Unknown	Asra.gr
+matrix.braun.is	1.152.0	matrix.braun.is	Unknown	Asra.gr
 matrix.poweron.dk	1.152.0	matrix.poweron.dk	Unknown	Asra.gr
 matrix.totorocodes.fr	1.152.0	matrix.totorocodes.fr	Unknown	Asra.gr
 foundryenterprises.cc	1.152.0	matrix.foundryenterprises.cc	Unknown	Asra.gr
@@ -49,7 +50,6 @@ swisstrix.ch	1.151.0	swisstrix.ch	Unknown	Asra.gr
 sim.rooty.fr	1.151.0	sim.rooty.fr	Unknown	Asra.gr
 pockets.buzz	1.151.0	matrix.pockets.buzz	Unknown	Asra.gr
 newtrisko.de	1.151.0	matrix.newtrisko.de	Unknown	Asra.gr
-nathanael.us	1.151.0	matrix.nathanael.us	Unknown	Asra.gr
 mckinstry.ie	1.151.0	mckinstry.ie	Unknown	Asra.gr
 matrixbox.de	1.151.0	matrix.matrixbox.de	Unknown	Asra.gr
 it-syndik.at	1.151.0	matrix.it-syndik.at	Unknown	Asra.gr
@@ -86,7 +86,7 @@ bringdaruck.us	1.151.0	matrix.bringdaruck.us	Unknown	Asra.gr
 wilywidgets.com	1.151.0	wilywidgets.com	Unknown	Asra.gr
 matrix.wiuma.de	1.151.0	matrix.wiuma.de	Unknown	Asra.gr
 matrix.myifn.de	1.151.0	matrix.myifn.de	Unknown	Asra.gr
-matrix.braun.is	1.151.0	matrix.braun.is	Unknown	Asra.gr
+matrix.espar.eu	1.151.0	matrix.espar.eu	Unknown	Asra.gr
 lekkerpraten.nl	1.151.0	synapse.lekkerpraten.nl	Unknown	Asra.gr
 gemeinsam.jetzt	1.151.0	matrix.gemeinsam.jetzt	Unknown	Asra.gr
 conversence.com	1.151.0	matrix.conversence.com	Unknown	Asra.gr
@@ -153,7 +153,6 @@ matrix.johandroid.com	1.151.0	matrix.johandroid.com	Unknown	Asra.gr
 matrix.gruppeheat.net	1.151.0	matrix.gruppeheat.net	Unknown	Asra.gr
 matrix.groet-infra.nl	1.151.0	matrix.groet-infra.nl	Unknown	Asra.gr
 matrix.freedomlab.nyc	1.151.0	matrix.freedomlab.nyc	Unknown	Asra.gr
-sergmatrix.duckdns.org	1.151.0	sergmatrix.duckdns.org	Unknown	Asra.gr
 matrix.ronin-legacy.fr	1.151.0	matrix-federation.ronin-legacy.fr	Unknown	Asra.gr
 matrix.muensterhack.de	1.151.0	matrix.muensterhack.de	Unknown	Asra.gr
 matrix.linuxrocker.com	1.151.0	matrix.linuxrocker.com	Unknown	Asra.gr
@@ -202,7 +201,6 @@ mex-1.pmobi.tech	1.150.0	mex-1.pmobi.tech	Unknown	Asra.gr
 matrix.nzcow.com	1.150.0	matrix.nzcow.com	Unknown	Asra.gr
 matrix.intri.cat	1.150.0	matrix.intri.cat	Unknown	Asra.gr
 matrix.3mdeb.com	1.150.0	matrix.3mdeb.com	Unknown	Asra.gr
-luisguerrero.net	1.150.0	matrix.luisguerrero.net	Unknown	Asra.gr
 app.oxygen.co.tz	1.150.0	app.kakakuona.tz	Unknown	Asra.gr
 synapse.xytes.net	1.150.0	synapse.xytes.net	Unknown	Asra.gr
 matrix.pupper.dev	1.150.0rc1	matrix.pupper.dev	Unknown	Asra.gr
