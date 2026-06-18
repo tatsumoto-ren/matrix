@@ -1,5 +1,4 @@
 name	version	url	country	source
-tok2.me	1.154.0	matrix.tok2.me	Unknown	Asra.gr
 ebhi.org	1.154.0	matrix.ebhi.org	Unknown	Asra.gr
 3x19.com	1.154.0	3x19.com	Unknown	Asra.gr
 privex.io	1.154.0	matrix.privex.io	Unknown	Asra.gr
@@ -49,7 +48,6 @@ emmaus.systems	1.154.0	matrix.emmaus.systems	Unknown	Asra.gr
 eishausener.de	1.154.0	matrix.eishausener.de	Unknown	Asra.gr
 demo.etke.host	1.154.0	matrix.demo.etke.host	Unknown	Asra.gr
 chat.nomeer.ru	1.154.0	chat.nomeer.ru	Unknown	Asra.gr
-wilywidgets.com	1.154.0	wilywidgets.com	Unknown	Asra.gr
 matrix.wrede.ca	1.154.0	matrix.wrede.ca	Unknown	Asra.gr
 matrix.wiuma.de	1.154.0	matrix.wiuma.de	Unknown	Asra.gr
 matrix.minz.moe	1.154.0	matrix.minz.moe	Unknown	Asra.gr
@@ -63,7 +61,6 @@ matrix.sysops.de	1.154.0	matrix.sysops.de	Unknown	Asra.gr
 matrix.ravc.tech	1.154.0	matrix.ravc.tech	Unknown	Asra.gr
 matrix.pk-web.de	1.154.0	matrix.pk-web.de	Unknown	Asra.gr
 matrix.ndlug.org	1.154.0	matrix.ndlug.org	Unknown	Asra.gr
-matrix.mxhdr.net	1.154.0	matrix.mxhdr.net	Unknown	Asra.gr
 matrix.abyle.org	1.154.0	matrix.abyle.org	Unknown	Asra.gr
 defencegeeks.net	1.154.0	defencegeeks.net	Unknown	Asra.gr
 com.infocilla.fr	1.154.0	com.infocilla.fr	Unknown	Asra.gr
@@ -143,6 +140,7 @@ marstrix.org	1.153.0	matrix.marstrix.org	Unknown	Asra.gr
 it-syndik.at	1.153.0	matrix.it-syndik.at	Unknown	Asra.gr
 tycomster.com	1.153.0	tycomster.com	Unknown	Asra.gr
 hillion.co.uk	1.153.0	matrix.hillion.co.uk	Unknown	Asra.gr
+science.social	1.153.0	matrix.science.social	Unknown	Asra.gr
 matrixchat.org	1.153.0	matrixchat.org	Unknown	Asra.gr
 mat.dobiko.net	1.153.0	mat.dobiko.net	Unknown	Asra.gr
 home.tadris.de	1.153.0	home.tadris.de	Unknown	Asra.gr
@@ -249,6 +247,7 @@ morrq.com	1.151.0	matrix.morrq.com	Unknown	Asra.gr
 zimage.com	1.151.0	matrix.zimage.com	Unknown	Asra.gr
 pine.party	1.151.0	synapse.pine.party	Unknown	Asra.gr
 bitcar.tel	1.151.0	mtx.bitcar.tel	Unknown	Asra.gr
+wivodaim.ch	1.151.0	matrix.wivodaim.ch	Unknown	Asra.gr
 myserver.cz	1.151.0	matrix.myserver.cz	Unknown	Asra.gr
 immercord.de	1.151.0	immercord.de	Unknown	Asra.gr
 grayarea.org	1.151.0	matrix.grayarea.org	Unknown	Asra.gr
@@ -284,6 +283,7 @@ chatserver.junyu33.me	1.151.0	chatserver.junyu33.me	Unknown	Asra.gr
 matrix.paranoiasystem.com	1.151.0	matrix.paranoiasystem.com	Unknown	Asra.gr
 chil.at	1.150.0	matrix.chil.at	Unknown	Asra.gr
 rebru.ch	1.150.0	matrix.rebru.ch	Unknown	Asra.gr
+nnik.dev	1.150.0	nnik.dev	Unknown	Asra.gr
 nzcow.com	1.150.0	matrix.nzcow.com	Unknown	Asra.gr
 im.xoo.sh	1.150.0	im.xoo.sh	Unknown	Asra.gr
 kobert.dev	1.150.0	kobert.dev	Unknown	Asra.gr
