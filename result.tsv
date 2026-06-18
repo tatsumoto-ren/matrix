@@ -1,4 +1,5 @@
 name	version	url	country	source
+tok2.me	1.154.0	matrix.tok2.me	Unknown	Asra.gr
 ebhi.org	1.154.0	matrix.ebhi.org	Unknown	Asra.gr
 3x19.com	1.154.0	3x19.com	Unknown	Asra.gr
 privex.io	1.154.0	matrix.privex.io	Unknown	Asra.gr
@@ -48,6 +49,7 @@ emmaus.systems	1.154.0	matrix.emmaus.systems	Unknown	Asra.gr
 eishausener.de	1.154.0	matrix.eishausener.de	Unknown	Asra.gr
 demo.etke.host	1.154.0	matrix.demo.etke.host	Unknown	Asra.gr
 chat.nomeer.ru	1.154.0	chat.nomeer.ru	Unknown	Asra.gr
+wilywidgets.com	1.154.0	wilywidgets.com	Unknown	Asra.gr
 matrix.wrede.ca	1.154.0	matrix.wrede.ca	Unknown	Asra.gr
 matrix.wiuma.de	1.154.0	matrix.wiuma.de	Unknown	Asra.gr
 matrix.minz.moe	1.154.0	matrix.minz.moe	Unknown	Asra.gr
@@ -61,6 +63,8 @@ matrix.sysops.de	1.154.0	matrix.sysops.de	Unknown	Asra.gr
 matrix.ravc.tech	1.154.0	matrix.ravc.tech	Unknown	Asra.gr
 matrix.pk-web.de	1.154.0	matrix.pk-web.de	Unknown	Asra.gr
 matrix.ndlug.org	1.154.0	matrix.ndlug.org	Unknown	Asra.gr
+matrix.mxhdr.net	1.154.0	matrix.mxhdr.net	Unknown	Asra.gr
+matrix.cho.rocks	1.154.0	matrix.cho.rocks	Unknown	Asra.gr
 matrix.abyle.org	1.154.0	matrix.abyle.org	Unknown	Asra.gr
 defencegeeks.net	1.154.0	defencegeeks.net	Unknown	Asra.gr
 com.infocilla.fr	1.154.0	com.infocilla.fr	Unknown	Asra.gr
@@ -122,7 +126,6 @@ rhscz.eu	1.153.0	rhscz.eu	Unknown	Asra.gr
 qoto.org	1.153.0	matrix.qoto.org	Unknown	Asra.gr
 obco.pro	1.153.0	matrixchat.org	Unknown	Asra.gr
 nynex.de	1.153.0	synapse.nynex.de	Unknown	Asra.gr
-halis.io	1.153.0	matrix.halis.io	Unknown	Asra.gr
 floyd.dk	1.153.0	matrix.floyd.dk	Unknown	Asra.gr
 bwinf.de	1.153.0	synapse.bwinf.de	Unknown	Asra.gr
 lovesa.lt	1.153.0	lovesa.lt	Unknown	Asra.gr
@@ -258,7 +261,6 @@ cyrilsebek.cz	1.151.0	cyrilsebek.cz	Unknown	Asra.gr
 cepterhost.de	1.151.0	matrix.cepterhost.de	Unknown	Asra.gr
 axessible.dev	1.151.0	axessible.dev	Unknown	Asra.gr
 anomalous.dev	1.151.0	matrix.anomalous.dev	Unknown	Asra.gr
-amauryjoly.fr	1.151.0	matrix.amauryjoly.fr	Unknown	Asra.gr
 m.spacedump.se	1.151.0	m.spacedump.se	Unknown	Asra.gr
 cloud.cyph.lol	1.151.0	cloud.cyph.lol	Unknown	Asra.gr
 2xnf.nohost.me	1.151.0	synapse.2xnf.nohost.me	Unknown	Asra.gr
