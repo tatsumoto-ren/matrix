@@ -9,6 +9,7 @@ import traceback
 
 import httpx
 
+from .exceptions import DownloadSourceError
 from .server_info import ServerInfo
 from .sources.asra import download_asra
 from .sources.joinmatrix import download_joinmatrix
@@ -34,7 +35,7 @@ async def main() -> None:
         for fut in asyncio.as_completed(tasks):
             try:
                 result: list[ServerInfo] = await fut
-            except httpx.HTTPStatusError as ex:
+            except DownloadSourceError:
                 traceback.print_exc(file=sys.stdout)
                 continue
             servers |= {server.name: dataclasses.asdict(server) for server in result}

@@ -1,5 +1,8 @@
+import json
+
 import httpx
 
+from ..exceptions import DownloadSourceError
 from ..server_info import ServerInfo, rm_port, version_trim
 
 
@@ -21,10 +24,14 @@ def fix_format(nodes: list[dict]) -> list[dict]:
 
 
 async def download_thefederation(client: httpx.AsyncClient) -> list[ServerInfo]:
-    data: httpx.Response = await client.get(thefederation_url())
-    data.raise_for_status()
-    data: dict = data.json()
-    nodes = fix_format(data['data']['nodes'])
+    try:
+        response: httpx.Response = await client.get(thefederation_url())
+        response.raise_for_status()
+        data: dict = response.json()
+        nodes = fix_format(data['data']['nodes'])
+    except (httpx.HTTPError, json.JSONDecodeError, KeyError, TypeError) as ex:
+        raise DownloadSourceError("The Federation server list is unavailable.") from ex
+
     out = []
 
     for server in nodes:
