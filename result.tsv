@@ -10,7 +10,6 @@ f2a.space	1.158.0	matrix.f2a.space	Unknown	Asra.gr
 bytea.org	1.158.0	matrix.bytea.org	Unknown	Asra.gr
 aipi.chat	1.158.0	aipi.chat	Unknown	Asra.gr
 wentao.org	1.158.0	m.wentao.org	Unknown	Asra.gr
-rayneau.fr	1.158.0	rayneau.fr	Unknown	Asra.gr
 pramari.de	1.158.0	matrix.pramari.de	Unknown	Asra.gr
 matsch.xyz	1.158.0	matsch.xyz	Unknown	Asra.gr
 layova.dev	1.158.0	matrix.layova.dev	Unknown	Asra.gr
@@ -61,6 +60,7 @@ lekkerpraten.nl	1.158.0	synapse.lekkerpraten.nl	Unknown	Asra.gr
 gemeinsam.jetzt	1.158.0	matrix.gemeinsam.jetzt	Unknown	Asra.gr
 conversence.com	1.158.0	matrix.conversence.com	Unknown	Asra.gr
 comeinclasse.it	1.158.0	matrix.comeinclasse.it	Unknown	Asra.gr
+matrix.wateir.fr	1.158.0	matrix.wateir.fr	Unknown	Asra.gr
 matrix.ravc.tech	1.158.0	matrix.ravc.tech	Unknown	Asra.gr
 matrix.mxhdr.net	1.158.0	matrix.mxhdr.net	Unknown	Asra.gr
 matrix.matmoa.eu	1.158.0	matrix.matmoa.eu	Unknown	Asra.gr
@@ -70,6 +70,7 @@ henger.ddnss.org	1.158.0	matrix.henger.ddnss.org	Unknown	Asra.gr
 defencegeeks.net	1.158.0	defencegeeks.net	Unknown	Asra.gr
 crafti-servi.com	1.158.0	matrix.crafti-servi.com	Unknown	Asra.gr
 thundercleess.org	1.158.0	matrix.thundercleess.org	Unknown	Asra.gr
+silence.pudmed.ir	1.158.0	silence.pudmed.ir	Unknown	Asra.gr
 meet.inboxsys.net	1.158.0	meet.inboxsys.net	Unknown	Asra.gr
 matrix.pupper.dev	1.158.0rc1	matrix.pupper.dev	Unknown	Asra.gr
 matrix.potatom.ru	1.158.0	matrix.potatom.ru	Unknown	Asra.gr
@@ -139,7 +140,6 @@ glasgow.social	1.157.2	glasgow.social	Unknown	Asra.gr
 chat.gazeley.me	1.157.2	chat.gazeley.me	Unknown	Asra.gr
 toucaenroller.fr	1.157.2	matrix.toucaenroller.fr	Unknown	Asra.gr
 netauthority.org	1.157.2	matrix.netauthority.org	Unknown	Asra.gr
-matrix.wateir.fr	1.157.2	matrix.wateir.fr	Unknown	Asra.gr
 matrix.sysops.de	1.157.2	matrix.sysops.de	Unknown	Asra.gr
 matrix.pk-web.de	1.157.2	matrix.pk-web.de	Unknown	Asra.gr
 matrix.nzcow.com	1.157.2	matrix.nzcow.com	Unknown	Asra.gr
@@ -182,7 +182,6 @@ matrix.cyber4edu.org	1.157.0	matrix.cyber4edu.org	Unknown	Asra.gr
 matrix.briannelson.dev	1.157.0	matrix.briannelson.dev	Unknown	Asra.gr
 matrix.kaindlnetwork.de	1.157.0	matrix.kaindlnetwork.de	Unknown	Asra.gr
 kryp.de	1.156.0	matrix.kryp.de	Unknown	Asra.gr
-rebru.ch	1.156.0	matrix.rebru.ch	Unknown	Asra.gr
 nnik.dev	1.156.0	nnik.dev	Unknown	Asra.gr
 m.edw.ai	1.156.0	m.edw.ai	Unknown	Asra.gr
 heiss.be	1.156.0	matrix.heiss.be	Unknown	Asra.gr
@@ -210,6 +209,7 @@ matrix.sigmatech.de	1.156.0	matrix.sigmatech.de	Unknown	Asra.gr
 matrix.sandbox64.at	1.156.0	matrix.sandbox64.at	Unknown	Asra.gr
 matrix.ahmedmedia.uk	1.156.0	matrix.ahmedmedia.uk	Unknown	Asra.gr
 matrix.wolhuter.co.za	1.156.0	matrix.wolhuter.co.za	Unknown	Asra.gr
+foundryenterprises.cc	1.156.0	matrix.foundryenterprises.cc	Unknown	Asra.gr
 matrix.crowconclave.dev	1.156.0	matrix.crowconclave.dev	Unknown	Asra.gr
 chat.minerva-archive.org	1.156.0	chat.minerva-archive.org	Unknown	Asra.gr
 worldethicaldataforum.org	1.156.0	matrix.worldethicaldataforum.org	Unknown	Asra.gr
