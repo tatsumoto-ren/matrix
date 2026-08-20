@@ -1,11 +1,11 @@
 name	version	url	country	source
+savemy.name	1.159.0	matrix.savemy.name	Unknown	Asra.gr
 tok2.me	1.158.0	matrix.tok2.me	Unknown	Asra.gr
 rhscz.eu	1.158.0	rhscz.eu	Unknown	Asra.gr
 frens.io	1.158.0	matrix.frens.io	Unknown	Asra.gr
 3x19.com	1.158.0	3x19.com	Unknown	Asra.gr
 rpgsn.net	1.158.0	rpgsn.net	Unknown	Asra.gr
 ouppy.gay	1.158.0	matrix.ouppy.gay	Unknown	Asra.gr
-kotous.cz	1.158.0rc1	ssl.kotous.cz	Unknown	Asra.gr
 flc.world	1.158.0	flc.world	Unknown	Asra.gr
 f2a.space	1.158.0	matrix.f2a.space	Unknown	Asra.gr
 bytea.org	1.158.0	matrix.bytea.org	Unknown	Asra.gr
@@ -18,8 +18,6 @@ holedo.com	1.158.0	matrix.holedo.com	Unknown	Asra.gr
 gaube.chat	1.158.0	gaube.chat	Unknown	Asra.gr
 drgnz.club	1.158.0	drgnz.club	Unknown	Asra.gr
 bruckbu.de	1.158.0	matrix.rot1.bruckbu.de	Unknown	Asra.gr
-savemy.name	1.158.0	matrix.savemy.name	Unknown	Asra.gr
-kohding.net	1.158.0	mtx.kohding.net	Unknown	Asra.gr
 jkuklok.net	1.158.0	matrix.jkuklok.net	Unknown	Asra.gr
 im.moec.top	1.158.0	matrix.moec.top	Unknown	Asra.gr
 hribhrib.at	1.158.0	hribhrib.at	Unknown	Asra.gr
@@ -40,7 +38,6 @@ thedreamer.nl	1.158.0	synapse.thedreamer.nl	Unknown	Asra.gr
 sutcliffe.xyz	1.158.0	matrix.sutcliffe.xyz	Unknown	Asra.gr
 matrix.l4f.cc	1.158.0	matrix.l4f.cc	Unknown	Asra.gr
 matrix.5ma.eu	1.158.0	matrix.5ma.eu	Unknown	Asra.gr
-io.proxion.de	1.158.0	io.proxion.de	Unknown	Asra.gr
 im.vrpnet.org	1.158.0	im.vrpnet.org	Unknown	Asra.gr
 hot-chilli.im	1.158.0	hot-chilli.im	Unknown	Asra.gr
 gnulinux.club	1.158.0	matrix.gnulinux.club	Unknown	Asra.gr
@@ -48,7 +45,6 @@ bendini20.net	1.158.0	matrix.bendini20.net	Unknown	Asra.gr
 unredacted.org	1.158.0	matrix.unredacted.org	Unknown	Asra.gr
 serenityos.org	1.158.0	serenityos.matrix.nwex.de	Unknown	Asra.gr
 netzkraefte.de	1.158.0	matrix.netzkraefte.de	Unknown	Asra.gr
-matrixchat.org	1.158.0	matrixchat.org	Unknown	Asra.gr
 matrixchat.dev	1.158.0	matrixchat.dev	Unknown	Asra.gr
 home.tadris.de	1.158.0	home.tadris.de	Unknown	Asra.gr
 fossi-chat.org	1.158.0	matrix.fossi-chat.org	Unknown	Asra.gr
@@ -77,7 +73,6 @@ matrix.mpq.mpg.de	1.158.0	matrix.mpq.mpg.de	Unknown	Asra.gr
 matrix.ecsena.com	1.158.0	matrix.ecsena.com	Unknown	Asra.gr
 secure-channel.net	1.158.0	matrix.secure-channel.net	Unknown	Asra.gr
 matrix.override.nl	1.158.0	matrix.override.nl	Unknown	Asra.gr
-matrix.musicsrv.de	1.158.0	matrix.musicsrv.de	Unknown	Asra.gr
 matrix.leturcq.bzh	1.158.0	matrix.leturcq.bzh	Unknown	Asra.gr
 matrix.breubeer.de	1.158.0	matrix.breubeer.de	Unknown	Asra.gr
 chat.facb69.com.br	1.158.0	chat.facb69.com.br	Unknown	Asra.gr
@@ -208,7 +203,6 @@ matrix.sigmatech.de	1.156.0	matrix.sigmatech.de	Unknown	Asra.gr
 matrix.sandbox64.at	1.156.0	matrix.sandbox64.at	Unknown	Asra.gr
 matrix.ahmedmedia.uk	1.156.0	matrix.ahmedmedia.uk	Unknown	Asra.gr
 matrix.wolhuter.co.za	1.156.0	matrix.wolhuter.co.za	Unknown	Asra.gr
-foundryenterprises.cc	1.156.0	matrix.foundryenterprises.cc	Unknown	Asra.gr
 matrix.crowconclave.dev	1.156.0	matrix.crowconclave.dev	Unknown	Asra.gr
 chat.minerva-archive.org	1.156.0	chat.minerva-archive.org	Unknown	Asra.gr
 worldethicaldataforum.org	1.156.0	matrix.worldethicaldataforum.org	Unknown	Asra.gr
