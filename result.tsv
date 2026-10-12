@@ -1,5 +1,6 @@
 name	version	url	country	source
 yaf.ai	1.162.0	matrix.yaf.ai	Unknown	Asra.gr
+tok2.me	1.162.0	matrix.tok2.me	Unknown	Asra.gr
 noyb.io	1.162.0	noyb.io	Unknown	Asra.gr
 secnd.me	1.162.0	matrix.secnd.me	Unknown	Asra.gr
 rhscz.eu	1.162.0	rhscz.eu	Unknown	Asra.gr
@@ -84,6 +85,7 @@ secure-channel.net	1.162.0	matrix.secure-channel.net	Unknown	Asra.gr
 matrix.musicsrv.de	1.162.0	matrix.musicsrv.de	Unknown	Asra.gr
 matrix.floranga.ru	1.162.0	matrix.floranga.ru	Unknown	Asra.gr
 synapse.sa-chat.com	1.162.0	synapse.sa-chat.com	Unknown	Asra.gr
+matrix.snct-gmbh.de	1.162.0	matrix.snct-gmbh.de	Unknown	Asra.gr
 matrix.sandbox64.at	1.162.0	matrix.sandbox64.at	Unknown	Asra.gr
 matrix.meissners.me	1.162.0	matrix.meissners.me	Unknown	Asra.gr
 matrix.kultwiki.net	1.162.0	matrix.kultwiki.net	Unknown	Asra.gr
@@ -123,7 +125,6 @@ matrix.strongtownssteinbach.org	1.162.0	matrix.strongtownssteinbach.org	Unknown	
 matrix.lightmajenta.duckdns.org	1.162.0	matrix.lightmajenta.duckdns.org	Unknown	Asra.gr
 flying-snail-matrix.nsupdate.info	1.162.0	flying-snail-matrix.nsupdate.info	Unknown	Asra.gr
 iuc.de	1.161.0	iuc.de	Unknown	Asra.gr
-tok2.me	1.161.0	matrix.tok2.me	Unknown	Asra.gr
 plus.ec	1.161.0	plus.ec	Unknown	Asra.gr
 42.chat	1.161.0	matrix.42.chat	Unknown	Asra.gr
 sroom.de	1.161.0	matrix.sroom.de	Unknown	Asra.gr
@@ -162,7 +163,6 @@ matrix.kevbone.com	1.161.0	matrix.kevbone.com	Unknown	Asra.gr
 matrix.fregram.com	1.161.0	matrix.fregram.com	Unknown	Asra.gr
 chat.facb69.com.br	1.161.0	chat.facb69.com.br	Unknown	Asra.gr
 administrieren.net	1.161.0	matrix.administrieren.net	Unknown	Asra.gr
-matrix.snct-gmbh.de	1.161.0	matrix.snct-gmbh.de	Unknown	Asra.gr
 matrix.frstgear.app	1.161.0	matrix.frstgear.app	Unknown	Asra.gr
 enter.ilonagabor.de	1.161.0	enter.ilonagabor.de	Unknown	Asra.gr
 chat.gottagofast.fr	1.161.0	chat.gottagofast.fr	Unknown	Asra.gr
@@ -197,7 +197,6 @@ wolke7.freeit247.eu	1.160.0	matrix.wolke7.freeit247.eu	Unknown	Asra.gr
 matrix.blackynet.de	1.160.0	matrix.blackynet.de	Unknown	Asra.gr
 matrix.beachcom.org	1.160.0	matrix.beachcom.org	Unknown	Asra.gr
 confessional.social	1.160.0	matrix.confessional.social	Unknown	Asra.gr
-naumimatrix.hopto.org	1.160.0	naumisynapse.hopto.org	Unknown	Asra.gr
 matrix.mjehosting.com	1.160.0	matrix.mjehosting.com	Unknown	Asra.gr
 matrix.maechler.cloud	1.160.0	matrix.maechler.cloud	Unknown	Asra.gr
 sergmatrix.duckdns.org	1.160.0	sergmatrix.duckdns.org	Unknown	Asra.gr
