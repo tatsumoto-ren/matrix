@@ -1,6 +1,7 @@
 name	version	url	country	source
 rebru.ch	1.163.0	matrix.rebru.ch	Unknown	Asra.gr
 3x19.com	1.163.0	3x19.com	Unknown	Asra.gr
+flc.world	1.163.0	flc.world	Unknown	Asra.gr
 f2a.space	1.163.0	matrix.f2a.space	Unknown	Asra.gr
 gaube.chat	1.163.0	gaube.chat	Unknown	Asra.gr
 cyconet.org	1.163.0	matrix.cyconet.org	Unknown	Asra.gr
@@ -21,7 +22,9 @@ matrix.delaylama.de	1.163.0	matrix.delaylama.de	Unknown	Asra.gr
 launching.anuke.org	1.163.0	launching.anuke.org	Unknown	Asra.gr
 riot.firechicken.net	1.163.0	riot.firechicken.net	Unknown	Asra.gr
 matrix.tjaardflix.de	1.163.0	matrix.tjaardflix.de	Unknown	Asra.gr
+matrix.johandroid.com	1.163.0	matrix.johandroid.com	Unknown	Asra.gr
 matrix.joyboycloud.xyz	1.163.0	matrix.joyboycloud.xyz	Unknown	Asra.gr
+matrix.shredderfood.com	1.163.0	matrix.shredderfood.com	Unknown	Asra.gr
 matrix.theroaringlion.net	1.163.0	matrix.theroaringlion.net	Unknown	Asra.gr
 matrix.strongtownssteinbach.org	1.163.0	matrix.strongtownssteinbach.org	Unknown	Asra.gr
 yaf.ai	1.162.0	matrix.yaf.ai	Unknown	Asra.gr
@@ -76,8 +79,8 @@ im.vrpnet.org	1.162.0	im.vrpnet.org	Unknown	Asra.gr
 hot-chilli.im	1.162.0	hot-chilli.im	Unknown	Asra.gr
 hillion.co.uk	1.162.0	matrix.hillion.co.uk	Unknown	Asra.gr
 gnulinux.club	1.162.0	matrix.gnulinux.club	Unknown	Asra.gr
+serenityos.org	1.162.0	serenityos.matrix.nwex.de	Unknown	Asra.gr
 matrixchat.org	1.162.0	matrixchat.org	Unknown	Asra.gr
-matrixchat.dev	1.162.0	matrixchat.dev	Unknown	Asra.gr
 matrix.c3re.de	1.162.0	matrix.c3re.de	Unknown	Asra.gr
 matrix.bida.im	1.162.0	matrix.bida.im	Unknown	Asra.gr
 kompektiva.org	1.162.0	matrix.kompektiva.org	Unknown	Asra.gr
@@ -168,6 +171,7 @@ morrq.com	1.161.0	matrix.morrq.com	Unknown	Asra.gr
 gamecom.ch	1.161.0	gamecom.ch	Unknown	Asra.gr
 wivodaim.ch	1.161.0	synapse.wivodaim.ch	Unknown	Asra.gr
 valsania.it	1.161.0	synapse.valsania.it	Unknown	Asra.gr
+pravdik.dev	1.161.0	matrix.pravdik.dev	Unknown	Asra.gr
 masenok.net	1.161.0	masenok.net	Unknown	Asra.gr
 libreti.net	1.161.0	matrix.libreti.net	Unknown	Asra.gr
 im.moec.top	1.161.0	matrix.moec.top	Unknown	Asra.gr
